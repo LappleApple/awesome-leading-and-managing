@@ -14,6 +14,11 @@ Joe and others (including you?) will keep curating it as I read/learn more. Enjo
 
 ## Table Of Contents
 - [FAQ](#faq)
+ - [Who is this for?](#who-is-this-for)
+ - [Why should you read this or trust the authors for advice?](#why-should-you-read-this-or-trust-the-authors-for-advice)
+ - [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
+ - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
+ - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
 - Leadership Philosophies and Styles
 - Transitioning to Management (and managing managers)
 - 1-on-1s
@@ -40,7 +45,7 @@ Joe and others (including you?) will keep curating it as I read/learn more. Enjo
 You shouldn’t. Much of this is self-contradictory. Some seemed like good advice at the time. Little of it is original, even less is written by me. Don’t read this cover-to-cover. Scan the Table of Contents and pick a topic you’d like to learn more about. Joe has highlighted the absolutely most essential content (a few dozen articles, six books, and a handful of videos, checklists, and slide decks).
 
 ### How can I submit a link or ask a question?
-First off, we'd love that! For submissions, follow our contributing guidelines. For questions, go ahead and post an issue in our Issues Tracker. 
+First off, we'd love that! For submissions, follow our [contributing guidelines](CONTRIBUTING.md). For questions, go ahead and post an issue in our Issues Tracker. 
 
 ### How can I get more info on [missing topic]?
 Please let us know via the Issues Tracker if there’s a topic you'd like this list to include.
