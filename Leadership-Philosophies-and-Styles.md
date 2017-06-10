@@ -1,5 +1,6 @@
 ## Leadership Philosophies and Styles
 
+### Leadership Philosophies
 This topic comes first, because the following articles offer great frameworks/definitions for leadership.
 
 - [A Model for Leadership](http://randsinrepose.com/archives/leadership-comes-from-everywhere/): A political article, but it provides one the most complete leadership frameworks we’ve seen. Values are the linchpin in the model, but important things precede and flow from values:
@@ -24,3 +25,8 @@ This topic comes first, because the following articles offer great frameworks/de
   
 - [Why You Must Lead differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=): *Forbes* article by George Bradt.
 - [High-Performing Teams Need Flexible Leaders](https://medium.com/@srikardoddi/high-performing-teams-need-flexible-leaders-9243e7ec6e95): Offers insights into how to change your style based on the needs of the team. Takeaways: Always be explicit with how you expect each individual in the team to behave and the results you'd like them to achieve, and hold everyone accountable. That starts with you, and the example you set to everyone else. Having a well-articulated vision and expectation will enable flexibility of style and methods to reach a highly performant execution. See also, "[Why the rise of Amazon means the end of Walmart](https://www.forbes.com/sites/georgebradt/2015/07/08/why-the-rise-of-amazon-means-the-end-of-wal-mart/#1d4811962167).")
+
+### Leadership Styles
+*Folks categorize leaders into N different types, or the job into M different activities.*
+
+- [The Three Types of Leaders The World Needs Most: Artistic, Scientific and Interpersonal]: *Forbes* article by George Bradt. Takeaway: *artistic* leaders inspire by influencing feelings and perceptions; *scientific leaders* influence and inspire knowledge with their thinking and ideas; and *interpersonal* leaders "can be found ruling, guiding and inspiring at the head of their interpersonal cohort whether it’s a team, organization, or political entity." They're not mutually exclusive.
