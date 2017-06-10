@@ -19,7 +19,7 @@ Joe and others (including you?) will keep curating it as I read/learn more. Enjo
   - [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
   - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
   - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
-- Leadership Philosophies and Styles
+- [Leadership Philosophies and Styles](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md) (in progress of uploading)
 - Transitioning to Management (and managing managers)
 - 1-on-1s
 - Influence, Delegation, and Decision-Making
