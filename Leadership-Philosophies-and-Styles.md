@@ -20,7 +20,7 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [Leadership FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.e0uby6of3): Essay by Henry Ward that offers a concise list of essential questions with clear, thought-provoking answers. For example: "How do I give negative feedback? *By being curious.*."
 
-- [Simon Sinek: Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (video): Go here for a detailed summary by Joe Goldberg.
+- [Simon Sinek: Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (video): For a detailed summary by Joe Goldberg, [go here](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Simon%20Sinek:%20Leaders%20Eat%20Last%20Summary.md).
   
 - [Why You Must Lead differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=): *Forbes* article by George Bradt.
 - [High-Performing Teams Need Flexible Leaders](https://medium.com/@srikardoddi/high-performing-teams-need-flexible-leaders-9243e7ec6e95): Offers insights into how to change your style based on the needs of the team. Takeaways: Always be explicit with how you expect each individual in the team to behave and the results you'd like them to achieve, and hold everyone accountable. That starts with you, and the example you set to everyone else. Having a well-articulated vision and expectation will enable flexibility of style and methods to reach a highly performant execution. See also, "[Why the rise of Amazon means the end of Walmart](https://www.forbes.com/sites/georgebradt/2015/07/08/why-the-rise-of-amazon-means-the-end-of-wal-mart/#1d4811962167).")
