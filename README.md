@@ -19,7 +19,7 @@ Joe and others (including you?) will keep curating it as I read/learn more. Enjo
   - [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
   - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
   - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
-- [Leadership Philosophies and Styles](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md) (in progress of uploading)
+- [Leadership Philosophies and Styles](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md) **(uploading in progress)**
 - Transitioning to Management (and managing managers)
 - [1-on-1s](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/One-on-Ones.md)
 - Influence, Delegation, and Decision-Making **(in progress)**
@@ -30,7 +30,7 @@ Joe and others (including you?) will keep curating it as I read/learn more. Enjo
 - Diversity and Gender **(in progress)**
 - Time Management and Meetings
 - Hiring and Firing
-- Motivation and “Retention” (I hate that word)
+- Motivation and “Retention” (we hate that word)
 - Postmortems, Retrospectives, and Conflict Resolution
 
 ## FAQ
