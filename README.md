@@ -25,7 +25,7 @@ Joe and others (including you?) will keep curating it as I read/learn more. Enjo
 - Influence, Delegation, and Decision-Making **(in progress)**
 - Performance Reviews and Goal-setting **(in progress)**
 - Giving Feedback, Praise, and Advice **(in progress)**
-- Onboarding
+- Onboarding **(in progress)**
 - Culture **(in progress)**
 - Diversity and Gender **(in progress)**
 - Time Management and Meetings
