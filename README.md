@@ -21,7 +21,7 @@ Joe and others (including you?) will keep curating it as I read/learn more. Enjo
   - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
 - [Leadership Philosophies and Styles](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md) (in progress of uploading)
 - Transitioning to Management (and managing managers)
-- 1-on-1s
+- [1-on-1s](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/One-on-Ones.md)
 - Influence, Delegation, and Decision-Making
 - Performance Reviews and Goal-setting
 - Giving Feedback, Praise, and Advice
