@@ -26,8 +26,8 @@ Joe and others (including you?) will keep curating it as I read/learn more. Enjo
 - Performance Reviews and Goal-setting **(in progress)**
 - Giving Feedback, Praise, and Advice **(in progress)**
 - [Onboarding](Onboarding.md)
-- Culture **(in progress)**
-- Diversity and Gender **(in progress)**
+- Culture **(in progress; links available, takeaways in progress)**
+- Diversity and Gender **(links available, takeaways in progress)**
 - Time Management and Meetings
 - Hiring and Firing
 - Motivation and “Retention” (we hate that word)
