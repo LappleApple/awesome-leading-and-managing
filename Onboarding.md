@@ -10,6 +10,7 @@ Onboarding is taking someone from outside the team and making them a...
 - *independent (autonomous)* - company/process knowledge
   * "_reliable independence_" = fully onboarded
 - *confident (believe they are valuable)* - personal development
+
 ...member of the team, in the most efficient way possible.
 
 #### Why onboard?
