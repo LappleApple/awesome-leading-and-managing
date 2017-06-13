@@ -11,23 +11,29 @@ This topic comes first, because the following articles offer great frameworks/de
   - Strategy: ability to explain the steps necessary to achieve that vision.
   - Tactics: decompose a strategy into a series of logical actions that will achieve each step
 
-- [Average Manager vs. Great Manager, explained 10 sketches](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d): by Julie Zhuo (VP Product Design, Facebook). Go look at these, they’re humorous and poignant. It’ll only take a minute.
+- [Average Manager vs. Great Manager, Explained in 10 Sketches](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d): by Julie Zhuo (VP Product Design, Facebook). Go look at these, they’re humorous and poignant. It’ll only take a minute.
 
 - [Failure as a Service](https://medium.com/servant-leadership/failure-as-a-service-937473b0c9b8): What it means to be a leader, by Rich Armstrong. Takeaways: 
   - Servant-leaders shouldn’t make decisions that should be made by the folks closest to the problem), unless they can’t be answered with readily-available or easily-collected data, and there’s no consensus on the solution.
   - "When the people you manage bring you a tough call, and you choose right, they get the credit. When you choose wrong, you get the blame. And it’s OK, pookie. That’s what you’re here for."
 
-- [Lazy Leadership: thinking of your org as a machine](https://medium.com/flow/lazy-leadership-8ba19e34f959#.mixfpu15t): by Andrew Wilkinson. Takeaway: "It’s about spending time on what matters and what you’re good at, then leaving everything else to your team. Giving up on the idea that you have to drive yourself into the ground in order to run a successful company, and thinking about your business as a machine that you design and optimize, instead of becoming a worn out cog within."
+- [Lazy Leadership: Thinking of Your Org as a Machine](https://medium.com/flow/lazy-leadership-8ba19e34f959#.mixfpu15t): by Andrew Wilkinson. Takeaway: "It’s about spending time on what matters and what you’re good at, then leaving everything else to your team. Giving up on the idea that you have to drive yourself into the ground in order to run a successful company, and thinking about your business as a machine that you design and optimize, instead of becoming a worn out cog within."
 
 - [Leadership FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.e0uby6of3): Essay by Henry Ward that offers a concise list of essential questions with clear, thought-provoking answers. For example: "How do I give negative feedback? *By being curious.*."
 
 - [Simon Sinek: Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (video): For a detailed summary by Joe Goldberg, [go here](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Simon%20Sinek:%20Leaders%20Eat%20Last%20Summary.md).
   
-- [Why You Must Lead differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=): *Forbes* article by George Bradt.
+- [Why You Must Lead Differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=): *Forbes* article by George Bradt.
 
 - [High-Performing Teams Need Flexible Leaders](https://medium.com/@srikardoddi/high-performing-teams-need-flexible-leaders-9243e7ec6e95): Offers insights into how to change your style based on the needs of the team. Takeaways: Always be explicit with how you expect each individual in the team to behave and the results you'd like them to achieve, and hold everyone accountable. That starts with you, and the example you set to everyone else. Having a well-articulated vision and expectation will enable flexibility of style and methods to reach a highly performant execution. See also, "[Why the rise of Amazon means the end of Walmart](https://www.forbes.com/sites/georgebradt/2015/07/08/why-the-rise-of-amazon-means-the-end-of-wal-mart/#1d4811962167).")
 
 ### Famous Leaders
+
+- [How Charles Schwab Got His Workers To Produce More Steel](http://www.businessinsider.com/how-charles-schwab-got-his-workers-to-produce-more-steel-2013-7?IR=T): by Vivian Giang for Business Insider. Takeaway: chalk a number six on the floor and see what your employees/team members do.
+
+- [How I Failed](https://www.oreilly.com/ideas/how-i-failed): by Tim O'Reilly. The founder of O'Reilly writes "a candid post about some of the things that kept me, my employees, and our company from achieving our full potential."
+
+- [To Be a Great Leader, Rethink Your Default Behaviors](https://medium.com/ideo-stories/to-be-a-great-leader-rethink-your-default-behaviors-c762ffd59450): by Deirdre Cerminaro. Takeaway: Working with IDEO’s CEO Tim Brown reiterated the values to "act with humility," not pride; "trust the intuition of others," don’t be a skeptic; "encourage half-baked ideas," don’t require them to be polished; "inspire, don’t instruct"; and "model behaviors, don’t dictate them."
 
 - [What it's Really Like Working with Steve Jobs](http://inventor-labs.com/blog/2011/10/12/what-its-really-like-working-with-steve-jobs.html)" by Glenn Reid. Takeaway: Reid describes designing products with Jobs as a type of "cauldron"-like investigation in which ideas formed around an iteration and who thought up the idea didn't matter. The process put more focus on the ideas and less on Jobs, specific others in the room, or ego. 
 
@@ -47,3 +53,17 @@ This topic comes first, because the following articles offer great frameworks/de
 - [Team and Strategy](http://avc.com/2016/09/team-and-strategy/): by venture capitalist Fred Wilson. Takeaway: Leaders should do only three (or six?) things. They are: Recruit/retain; build/evolve long-term strategy; ensure there's money; maintain balance between departments; create a commitments system; talk to clients to keep market insight fresh.
 
 - [The Three Types of Leaders The World Needs Most: Artistic, Scientific and Interpersonal](https://www.forbes.com/sites/georgebradt/2014/01/29/the-three-types-of-leaders-the-world-needs-most-artistic-scientific-and-interpersonal/): *Forbes* article by George Bradt. Takeaway: *artistic* leaders inspire by influencing feelings and perceptions; *scientific leaders* influence and inspire knowledge with their thinking and ideas; and *interpersonal* leaders "can be found ruling, guiding and inspiring at the head of their interpersonal cohort whether it’s a team, organization, or political entity." They're not mutually exclusive.
+
+### Research on Leadership
+
+- [Facebook’s HR Chief Conducted a Company-Wide Study to Find Its Best Managers — and 7 Behaviors Stood Out](http://www.businessinsider.de/facebook-best-managers-exhibit-these-7-behaviors-2016-1?r=US&IR=T): by Richard Feloni for *Business Insider*. Takeaway: Care about your team members; hold their team accountable for success; set clear expectations and goals, and four more.
+
+- [How Google Sold Its Engineers on Management](https://hbr.org/2013/12/how-google-sold-its-engineers-on-management): by David A. Garvin for *Harvard Business Review*. Takeaway: Google found eight common traits in their most successful managers, including coaching and communicating. They can all be summed up in one mantra: “Love your soldiers.”
+
+#### Themes Common to Both Google and Facebook
+* Based on articles/findings in previous section.*
+
+- Coach/care: Help with career development, provide opportunities for growth
+- Empower the team: hold team accountable for success, recognize outstanding work, has key skills to advise team w/o micromanaging, and provides resources to team
+- Two-way communicate: listen and share, provide frequent actionable feedback
+- Have vision: has vision/strategy for team, be results-oriented, help team prioritize work
