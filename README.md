@@ -27,7 +27,7 @@ Please share/promote your favorite managing and leading resources/go-to's by add
 - Performance Reviews and Goal-setting **(in progress)**
 - Giving Feedback, Praise, and Advice **(in progress)**
 - [Onboarding](Onboarding.md)
-- [Culture](Culture.md) **(in progress; links available, takeaways in progress)**
+- [Culture](Culture.md) **(links available, takeaways in progress)**
 - [Diversity and Gender](Diversity-and-Gender.md) **(links available, takeaways in progress)**
 - Time Management and Meetings **(in progress)**
 - Hiring and Firing
