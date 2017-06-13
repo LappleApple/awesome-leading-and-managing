@@ -32,7 +32,7 @@ Joe and others (including you?) will keep curating it as I read/learn more. Enjo
 - Hiring and Firing
 - Motivation and “Retention” (we hate that word)
 - Postmortems, Retrospectives, and Conflict Resolution
-- When you're not a "manager": leadership for developers
+- When You're Not a "Manager": Leadership for Developers **(in progress)**
 
 ## FAQ
 ### Who is this for?
