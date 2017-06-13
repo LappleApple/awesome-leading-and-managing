@@ -21,7 +21,6 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [How to Lead a Team](https://drt.fm/simon-sinek) (podcast): by Simon Sinek. Fun trivia: Joe Goldberg, the originator of this Awesome list, realized through this podcast that "You can’t manage people, you can only lead them. You can only manage processes."
 
-
 - [Lazy Leadership: Thinking of Your Org as a Machine](https://medium.com/flow/lazy-leadership-8ba19e34f959#.mixfpu15t): by Andrew Wilkinson. Takeaway: "It’s about spending time on what matters and what you’re good at, then leaving everything else to your team. Giving up on the idea that you have to drive yourself into the ground in order to run a successful company, and thinking about your business as a machine that you design and optimize, instead of becoming a worn out cog within."
 
 - [Leadership FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.e0uby6of3): Essay by Henry Ward that offers a concise list of essential questions with clear, thought-provoking answers. For example: "How do I give negative feedback? *By being curious.*."
@@ -58,6 +57,8 @@ This topic comes first, because the following articles offer great frameworks/de
 - [Team and Strategy](http://avc.com/2016/09/team-and-strategy/): by venture capitalist Fred Wilson. Takeaway: Leaders should do only three (or six?) things. They are: Recruit/retain; build/evolve long-term strategy; ensure there's money; maintain balance between departments; create a commitments system; talk to clients to keep market insight fresh.
 
 - [The Three Types of Leaders The World Needs Most: Artistic, Scientific and Interpersonal](https://www.forbes.com/sites/georgebradt/2014/01/29/the-three-types-of-leaders-the-world-needs-most-artistic-scientific-and-interpersonal/): *Forbes* article by George Bradt. Takeaway: *artistic* leaders inspire by influencing feelings and perceptions; *scientific leaders* influence and inspire knowledge with their thinking and ideas; and *interpersonal* leaders "can be found ruling, guiding and inspiring at the head of their interpersonal cohort whether it’s a team, organization, or political entity." They're not mutually exclusive.
+
+- [Why Supercell’s Founder Wants to Be the World’s Least Powerful CEO](https://www.linkedin.com/pulse/why-supercells-founder-wants-worlds-least-powerful-ceo-de-rycker): by Sonali De Rycker. Takeaway from CEO Ilkka Paananen: "My goal is to be the world’s least powerful CEO. What I mean by this is that the fewer decisions I make, the more the teams are making."
 
 ### Quotes on Leadership
 
