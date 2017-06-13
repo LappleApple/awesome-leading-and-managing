@@ -26,7 +26,22 @@ This topic comes first, because the following articles offer great frameworks/de
 - [Why You Must Lead differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=): *Forbes* article by George Bradt.
 - [High-Performing Teams Need Flexible Leaders](https://medium.com/@srikardoddi/high-performing-teams-need-flexible-leaders-9243e7ec6e95): Offers insights into how to change your style based on the needs of the team. Takeaways: Always be explicit with how you expect each individual in the team to behave and the results you'd like them to achieve, and hold everyone accountable. That starts with you, and the example you set to everyone else. Having a well-articulated vision and expectation will enable flexibility of style and methods to reach a highly performant execution. See also, "[Why the rise of Amazon means the end of Walmart](https://www.forbes.com/sites/georgebradt/2015/07/08/why-the-rise-of-amazon-means-the-end-of-wal-mart/#1d4811962167).")
 
+### Famous Leaders
+
+- [What it's Really Like Working with Steve Jobs](http://inventor-labs.com/blog/2011/10/12/what-its-really-like-working-with-steve-jobs.html)" by Glenn Reid. Takeaway: Reid describes designing products with Jobs as a type of "cauldron"-like investigation in which ideas formed around an iteration and who thought up the idea didn't matter. The process put more focus on the ideas and less on Jobs, specific others in the room, or ego. 
+
 ### Leadership Styles
 *Folks categorize leaders into N different types, or the job into M different activities.*
 
-- [The Three Types of Leaders The World Needs Most: Artistic, Scientific and Interpersonal]: *Forbes* article by George Bradt. Takeaway: *artistic* leaders inspire by influencing feelings and perceptions; *scientific leaders* influence and inspire knowledge with their thinking and ideas; and *interpersonal* leaders "can be found ruling, guiding and inspiring at the head of their interpersonal cohort whether it’s a team, organization, or political entity." They're not mutually exclusive.
+- [An Inside Look at a Flat Organization That Serves Millions](http://firstround.com/review/An-Inside-Look-at-a-Flat-Organization-That-Serves-Millions/): by First Round Capital. Takeaway: When you boil it down, management is really about two things—trust and clarity. "Keeping a company flat is all about finding creative ways to achieve trust and clarity without the bureaucracy."
+
+- [The First 90 Days: Critical Success Strategies for New Leaders at All Levels](https://www.amazon.com/First-90-Days-Critical-Strategies/dp/1591391105) (book): by Michael Watkins. Covers the essentials of transitioning into a leadership role, from making allies to avoiding common mistakes. 
+
+- [The New Leader's 100-Day Action Plan: How to Take Charge, Build Your Team, and Get Immediate Results](https://www.amazon.com/New-Leaders-100-Day-Action-Plan/dp/1118097548) (book): by George Bradt. This book provides an onboarding plan for new managers and executives to adjust to their new roles. Chapters cover internal politics/understanding them; motivating teams using the BRAVE (Behaviors, Relationships, Attitudes, Values, and Environment) approach; handling crises, and more.
+
+- [The New Technology Leader’s Plan](http://katemats.com/leadership/new-technology-leaders-plan/): by Kate Matsudaira. A series of posts covering these topics: Understanding the Strategy; Conversations with the Team; Understand and Assess Technical Risks (Technical Risk Assessment); Focus on Early Wins.
+
+- [Rockefeller Habits](
+- [Team and Strategy](http://avc.com/2016/09/team-and-strategy/): by venture capitalist Fred Wilson. Takeaway: Leaders should do only three (or six?) things. They are: Recruit/retain; build/evolve long-term strategy; ensure there's money; maintain balance between departments; create a commitments system; talk to clients to keep market insight fresh.
+
+- [The Three Types of Leaders The World Needs Most: Artistic, Scientific and Interpersonal](https://www.forbes.com/sites/georgebradt/2014/01/29/the-three-types-of-leaders-the-world-needs-most-artistic-scientific-and-interpersonal/): *Forbes* article by George Bradt. Takeaway: *artistic* leaders inspire by influencing feelings and perceptions; *scientific leaders* influence and inspire knowledge with their thinking and ideas; and *interpersonal* leaders "can be found ruling, guiding and inspiring at the head of their interpersonal cohort whether it’s a team, organization, or political entity." They're not mutually exclusive.
