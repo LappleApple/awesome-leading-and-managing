@@ -32,7 +32,8 @@ Joe and others (including you?) will keep curating it as I read/learn more. Enjo
 - Hiring and Firing
 - Motivation and “Retention” (we hate that word)
 - Postmortems, Retrospectives, and Conflict Resolution
-
+- When you're not a "manager": leadership for developers
+
 ## FAQ
 ### Who is this for?
 - Individual contributors (ICs) looking to move into a management role but not sure if it’s right for them
