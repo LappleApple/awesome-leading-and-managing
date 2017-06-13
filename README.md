@@ -28,7 +28,7 @@ Joe and others (including you?) will keep curating it as I read/learn more. Enjo
 - [Onboarding](Onboarding.md)
 - [Culture](Culture.md) **(in progress; links available, takeaways in progress)**
 - [Diversity and Gender](Diversity-and-Gender.md) **(links available, takeaways in progress)**
-- Time Management and Meetings
+- Time Management and Meetings **(in progress)**
 - Hiring and Firing
 - Motivation and “Retention” (we hate that word)
 - Postmortems, Retrospectives, and Conflict Resolution
