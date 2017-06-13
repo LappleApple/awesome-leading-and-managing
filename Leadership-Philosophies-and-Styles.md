@@ -17,15 +17,20 @@ This topic comes first, because the following articles offer great frameworks/de
   - Servant-leaders shouldn’t make decisions that should be made by the folks closest to the problem), unless they can’t be answered with readily-available or easily-collected data, and there’s no consensus on the solution.
   - "When the people you manage bring you a tough call, and you choose right, they get the credit. When you choose wrong, you get the blame. And it’s OK, pookie. That’s what you’re here for."
 
+- [High-Performing Teams Need Flexible Leaders](https://medium.com/@srikardoddi/high-performing-teams-need-flexible-leaders-9243e7ec6e95): Offers insights into how to change your style based on the needs of the team. Takeaways: Always be explicit with how you expect each individual in the team to behave and the results you'd like them to achieve, and hold everyone accountable. That starts with you, and the example you set to everyone else. Having a well-articulated vision and expectation will enable flexibility of style and methods to reach a highly performant execution. See also, "[Why the rise of Amazon means the end of Walmart](https://www.forbes.com/sites/georgebradt/2015/07/08/why-the-rise-of-amazon-means-the-end-of-wal-mart/#1d4811962167).")
+
+- [How to Lead a Team](https://drt.fm/simon-sinek) (podcast): by Simon Sinek. Fun trivia: Joe Goldberg, the originator of this Awesome list, realized through this podcast that "You can’t manage people, you can only lead them. You can only manage processes."
+
+
 - [Lazy Leadership: Thinking of Your Org as a Machine](https://medium.com/flow/lazy-leadership-8ba19e34f959#.mixfpu15t): by Andrew Wilkinson. Takeaway: "It’s about spending time on what matters and what you’re good at, then leaving everything else to your team. Giving up on the idea that you have to drive yourself into the ground in order to run a successful company, and thinking about your business as a machine that you design and optimize, instead of becoming a worn out cog within."
 
 - [Leadership FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.e0uby6of3): Essay by Henry Ward that offers a concise list of essential questions with clear, thought-provoking answers. For example: "How do I give negative feedback? *By being curious.*."
 
 - [Simon Sinek: Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (video): For a detailed summary by Joe Goldberg, [go here](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Simon%20Sinek:%20Leaders%20Eat%20Last%20Summary.md).
   
-- [Why You Must Lead Differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=): *Forbes* article by George Bradt.
+- [This Is The Number One Thing That Holds Most People Back From Success](http://www.bakadesuyo.com/2013/09/bad-attitude/): by Seth Godin. Takeaway: It’s your attitude.
 
-- [High-Performing Teams Need Flexible Leaders](https://medium.com/@srikardoddi/high-performing-teams-need-flexible-leaders-9243e7ec6e95): Offers insights into how to change your style based on the needs of the team. Takeaways: Always be explicit with how you expect each individual in the team to behave and the results you'd like them to achieve, and hold everyone accountable. That starts with you, and the example you set to everyone else. Having a well-articulated vision and expectation will enable flexibility of style and methods to reach a highly performant execution. See also, "[Why the rise of Amazon means the end of Walmart](https://www.forbes.com/sites/georgebradt/2015/07/08/why-the-rise-of-amazon-means-the-end-of-wal-mart/#1d4811962167).")
+- [Why You Must Lead Differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=): *Forbes* article by George Bradt.
 
 ### Famous Leaders
 
@@ -54,14 +59,30 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [The Three Types of Leaders The World Needs Most: Artistic, Scientific and Interpersonal](https://www.forbes.com/sites/georgebradt/2014/01/29/the-three-types-of-leaders-the-world-needs-most-artistic-scientific-and-interpersonal/): *Forbes* article by George Bradt. Takeaway: *artistic* leaders inspire by influencing feelings and perceptions; *scientific leaders* influence and inspire knowledge with their thinking and ideas; and *interpersonal* leaders "can be found ruling, guiding and inspiring at the head of their interpersonal cohort whether it’s a team, organization, or political entity." They're not mutually exclusive.
 
+### Quotes on Leadership
+
+- “Decisions in 10 minutes or less, or the next one is free.” — Included [in this Microsoft article](https://news.microsoft.com/2000/02/16/the-motivator-behind-the-windows-2000-development-team/)
+
+- "If you want to build a ship, don't drum up the men to gather wood, divide the work and give orders. Instead, teach them to yearn for the vast and endless sea." — Antoine de Saint-Exupery
+ 
+- "If your actions inspire others to dream more, learn more, do more and become more, you are a leader." — John Quincy Adams
+ 
+- "Mistakes are expected, respected, inspected, and corrected." — unknown
+
+- "No one is going to follow you anywhere, anytime until you have earned the right to lead." — [George Bradt](https://www.forbes.com/sites/georgebradt/2017/02/08/how-to-get-others-to-follow-when-you-lead-by-example/#34ffeffc145a) 
+
+- "What actually separates winners from losers isn't talent, it's attitude." — Seth Godin
+
 ### Research on Leadership
 
 - [Facebook’s HR Chief Conducted a Company-Wide Study to Find Its Best Managers — and 7 Behaviors Stood Out](http://www.businessinsider.de/facebook-best-managers-exhibit-these-7-behaviors-2016-1?r=US&IR=T): by Richard Feloni for *Business Insider*. Takeaway: Care about your team members; hold their team accountable for success; set clear expectations and goals, and four more.
 
+- [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/): by Ali Rowghani. Takeaway: three traits of effective leaders, including "Clarity of Thought and Communication"; "Clarity of Thought and Communication," and "Personal Integrity and Commitment."
+
 - [How Google Sold Its Engineers on Management](https://hbr.org/2013/12/how-google-sold-its-engineers-on-management): by David A. Garvin for *Harvard Business Review*. Takeaway: Google found eight common traits in their most successful managers, including coaching and communicating. They can all be summed up in one mantra: “Love your soldiers.”
 
 #### Themes Common to Both Google and Facebook
-* Based on articles/findings in previous section.*
+Based on articles/findings in previous section.
 
 - Coach/care: Help with career development, provide opportunities for growth
 - Empower the team: hold team accountable for success, recognize outstanding work, has key skills to advise team w/o micromanaging, and provides resources to team
