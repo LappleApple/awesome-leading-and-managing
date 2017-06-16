@@ -8,6 +8,8 @@
 
 - [Lessons on giving and receiving feedback](https://open.buffer.com/feedback): by Leo Widrich
 
+- [Giving Feedback to high-performers](https://hbr.org): by HBR
+
 - [Performance Management](http://uniquelyhr.com): a training course by Gary Ford from [Uniquely HR](http://uniquelyhr.com)
 
 - [How to give a compliment](http://randsinrepose.com/archives/rainbows-and-unicorns): by Michael Lopp
