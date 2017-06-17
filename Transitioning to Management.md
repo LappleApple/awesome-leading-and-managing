@@ -10,8 +10,12 @@
 
 - [How to Make the Leap from Engineer to Manager](http://blog.newrelic.com/2014/07/23/measuring-manager-success/): by Kirby Frugia at New Relic. Takeaway: "The key to making processes work is to make incremental changes, measure them, and then improve them." Also, managerial success and developer success differ in that the former is often achieved through others, more about strategic impact, and happen less frequently.
 
+- [The Leadership Paradox: Why Managers Must Be Consistently Inconsistent](https://getlighthouse.com/blog/leadership-paradox-consistently-inconsistent): by Lighthouse. Takeaway: "Balancing when to be rigid and when to be flexible is one of the hardest things to learn as a manager." Provides guidance on how to manage this.
+
 - [The Missing Piece of a Manager’s Responsibilities](https://medium.com/@uicynthia/the-missing-piece-of-a-managers-responsibilities-bc64fa2678a1): by Cynthia Maxwell. Takeaway: "[it's] 'digging deep': owning your successes and knowing that you can overcome whatever challenges come your way."
 
+ - [The Most Important, Yet Overlooked Management Skill](https://getlighthouse.com/blog/management-skill): by Lighthouse. Takeaway: Curiosity is the most important trait of a leader. Ask questions.
+ 
 - [The New Manager Death Spiral](https://medium.com/@rands/the-new-manager-death-spiral-51a806b252dd#.3678kokzb): by Michael Lopp. Takeaway: management isn't a promotion. Thinking, "I can do it all. I’m The Boss," will lead you to take on too much responsibility and set yourself up for failure. Avoid this outcome by delegating, hiring a diverse team, and listening.
 
 - [Popforms New Manager Guide](https://gallery.mailchimp.com/44b412d7516b3a88b8be5c8c9/files/new_manager_guide_popforms.pdf): by the Popforms team. A four-step how-to for new managers to own their new role. Long but actionable.
