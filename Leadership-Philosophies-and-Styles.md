@@ -28,6 +28,8 @@ This topic comes first, because the following articles offer great frameworks/de
 - [The Most Important Metric You'll Ever Need](https://barryoreilly.com/2016/08/29/the-most-important-metric-youll-ever-need/): by Barry O'Reilly. Takeaway: "ask your team what their rate of learning is"—this, as Software Lead Weekly's Oren Ellenbogen notes, "is actually a great question to ask on your 1:1s and company surveys."
 
 - [Simon Sinek: Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (video): For a detailed summary by Joe Goldberg, [go here](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Simon%20Sinek:%20Leaders%20Eat%20Last%20Summary.md).
+
+- [Ten Senior Leadership Lessons I Wish I Learned Sooner](https://twitter.com/i/moments/874780733146939392?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Ftwitter.com%2Fi%2Fmoments%2F874780733146939392): by Julia Grace. Takeaway: "observations growing from a junior manager to a senior manager running a whole organization ... For example: providing less guidance is often better. The more prescriptive you are, the less you allow people below you to grow."
   
 - [This Is The Number One Thing That Holds Most People Back From Success](http://www.bakadesuyo.com/2013/09/bad-attitude/): by Seth Godin. Takeaway: It’s your attitude.
 
