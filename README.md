@@ -21,7 +21,7 @@ Please share/promote your favorite managing and leading resources/go-to's by add
   - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
   - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
-- [Transitioning to Management (and managing managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
+- [Transitioning to Management (and managing managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md) **(in progress)**
 - [1-on-1s](One-on-Ones.md)
 - Influence, Delegation, and Decision-Making **(in progress)**
 - Performance Reviews and Goal-setting **(in progress)**
