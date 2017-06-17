@@ -25,6 +25,8 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [Leadership FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.e0uby6of3): Essay by Henry Ward that offers a concise list of essential questions with clear, thought-provoking answers. For example: "How do I give negative feedback? *By being curious.*."
 
+- [The Most Important Metric You'll Ever Need](https://barryoreilly.com/2016/08/29/the-most-important-metric-youll-ever-need/): by Barry O'Reilly. Takeaway: "ask your team what their rate of learning is"—this, as Software Lead Weekly's Oren Ellenbogen notes, "is actually a great question to ask on your 1:1s and company surveys."
+
 - [Simon Sinek: Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (video): For a detailed summary by Joe Goldberg, [go here](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Simon%20Sinek:%20Leaders%20Eat%20Last%20Summary.md).
   
 - [This Is The Number One Thing That Holds Most People Back From Success](http://www.bakadesuyo.com/2013/09/bad-attitude/): by Seth Godin. Takeaway: It’s your attitude.
