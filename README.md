@@ -21,7 +21,7 @@ Please share/promote your favorite managing and leading resources/go-to's by add
   - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
   - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
-- Transitioning to Management (and managing managers)
+- [Transitioning to Management (and managing managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md) **(in progress)**
 - [1-on-1s](One-on-Ones.md)
 - Influence, Delegation, and Decision-Making **(in progress)**
 - Performance Reviews and Goal-setting **(in progress)**
@@ -29,7 +29,7 @@ Please share/promote your favorite managing and leading resources/go-to's by add
 - [Onboarding](Onboarding.md)
 - [Culture](Culture.md) **(links available, takeaways in progress)**
 - [Diversity and Gender](Diversity-and-Gender.md) **(links available, takeaways in progress)**
-- Time Management and Meetings **(in progress)**
+- [Time Management and Meetings](Time-Management-and-Meetings.md)
 - Hiring and Firing
 - Motivation and “Retention” (we hate that word)
 - Postmortems, Retrospectives, and Conflict Resolution
