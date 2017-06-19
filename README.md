@@ -29,7 +29,7 @@ Please share/promote your favorite managing and leading resources/go-to's by add
 - [Onboarding](Onboarding.md)
 - [Culture](Culture.md) **(links available, takeaways in progress)**
 - [Diversity and Gender](Diversity-and-Gender.md) **(links available, takeaways in progress)**
-- Time Management and Meetings **(in progress)**
+- [Time Management and Meetings](Time-Management-and-Meetings.md)
 - Hiring and Firing
 - Motivation and “Retention” (we hate that word)
 - Postmortems, Retrospectives, and Conflict Resolution
