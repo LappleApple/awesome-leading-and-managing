@@ -10,7 +10,8 @@ Transitioning to leadership from software development provides the opportunity t
  
 Since 2013-ish, Joe has been keeping a collection of links and notes on the broad topics of “leadership” and “management." He shared it with friends who were transitioning to management roles but kept it private to the world at-large. Then he decided to open-source it. And here we are. 
 
-Joe and others (including you?) will keep curating it as I read/learn more. Enjoy!
+## Call to Action: Please Contribute Your Favorite Articles, Books, Videos, Etc.
+Please share/promote your favorite managing and leading resources/go-to's by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
 
 ## Table Of Contents
 - [FAQ](#faq)
@@ -19,20 +20,21 @@ Joe and others (including you?) will keep curating it as I read/learn more. Enjo
   - [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
   - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
   - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
-- [Leadership Philosophies and Styles](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md) (in progress of uploading)
-- Transitioning to Management (and managing managers)
-- [1-on-1s](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/One-on-Ones.md)
-- Influence, Delegation, and Decision-Making
-- Performance Reviews and Goal-setting
-- Giving Feedback, Praise, and Advice
-- Onboarding
-- Culture
-- Diversity and Gender
-- Time Management and Meetings
+- [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
+- [Transitioning to Management (and managing managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md) **(in progress)**
+- [1-on-1s](One-on-Ones.md)
+- Influence, Delegation, and Decision-Making **(in progress)**
+- Performance Reviews and Goal-setting **(in progress)**
+- Giving Feedback, Praise, and Advice **(in progress)**
+- [Onboarding](Onboarding.md)
+- [Culture](Culture.md) **(links available, takeaways in progress)**
+- [Diversity and Gender](Diversity-and-Gender.md) **(links available, takeaways in progress)**
+- [Time Management and Meetings](Time-Management-and-Meetings.md)
 - Hiring and Firing
-- Motivation and “Retention” (I hate that word)
+- Motivation and “Retention” (we hate that word)
 - Postmortems, Retrospectives, and Conflict Resolution
-
+- [When You're Not a "Manager": Leadership for Developers](Leadership-for-Developers.md)
+
 ## FAQ
 ### Who is this for?
 - Individual contributors (ICs) looking to move into a management role but not sure if it’s right for them
