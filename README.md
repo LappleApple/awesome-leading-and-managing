@@ -23,7 +23,7 @@ Please share/promote your favorite managing and leading resources/go-to's by add
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
 - [Transitioning to Management (and managing managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md) **(in progress)**
 - [1-on-1s](One-on-Ones.md)
-- Influence, Delegation, and Decision-Making **(in progress)**
+- [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
 - Performance Reviews and Goal-setting **(in progress)**
 - Giving Feedback, Praise, and Advice **(in progress)**
 - [Onboarding](Onboarding.md)
