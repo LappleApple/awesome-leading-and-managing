@@ -1,7 +1,10 @@
 ## Influence, Delegation, and Decision-Making
 
-### Influence Others
-- [Uniquely HR](https://www.google.com/url?q=http://uniquelyhr.com/management-development-training/&sa=D&ust=1497272863257000&usg=AFQjCNFCpE9ZQyRzTMoqItlEdU2neBygnw): by Gary Ford. Takeaway: Influence is the power to affect someone/something without directly forcing them. It’s about establishing credibility, finding common ground, and connecting emotionally. A systemic approach to influencing.
+### Avoiding Micro- and Undermanagement
+
+Micromanagement leads to mistrust, lack of autonomy, demotivation.
+Undermanagement leads to isolation, bewilderment, cluelessness.
+Just-right management (“Goldilocks”) leads to increase in engagement.
 
 ### Delegation
 
@@ -18,7 +21,7 @@ a) Do I understand the complete context, b) am I the right person to handle it, 
 
 - [“Screaming Monkey” analogy](https://hbr.org/1999/11/management-time-whos-got-the-monkey): by William Oncken, Jr. and Donald L. Wass. Takeaway: Think of each work item as a screaming monkey, and ask these questions to identify the important ones: Should we even fed the monkey?; Who should feed the monkey?
 
--[Situational Leadership Theory](https://en.wikipedia.org/wiki/Situational_leadership_theory): Wikipedia entry. Takeaways: Proficiency depends on knowledge, ability, and aptitude; commitment describes motivation, interest, enthusiasm, and confidence; different levels of proficiency/commitment need different amounts of direction/support.
+- [Situational Leadership Theory](https://en.wikipedia.org/wiki/Situational_leadership_theory): Wikipedia entry. Takeaways: Proficiency depends on knowledge, ability, and aptitude; commitment describes motivation, interest, enthusiasm, and confidence; different levels of proficiency/commitment need different amounts of direction/support.
 
 - [Turn the Ship Around! How to Create Leadership at Every Level](https://tubarksblog.com/2012/12/18/book-review-turn-the-ship-around-how-to-create-leadership-at-every-level/): by Stan Skrabut. Review of David Marquet's book, which is divided into four sections: Starting Over, Control, Competence, and Clarity. More [notes by Joe Goldberg here](https://docs.google.com/document/d/1BVrpO9qV7HnuFCc42wUTIbTRFCBN25mn3pKtimD2QXw/edit?ts=5776d339).
 
@@ -30,8 +33,5 @@ a) Do I understand the complete context, b) am I the right person to handle it, 
 
 - [How to Put the Right Amount of Pressure on Your Team](https://hbr.org/2016/07/how-to-put-the-right-amount-of-pressure-on-your-team): by Liane Davey. Takeaway: There’s an ideal level of stress; be mindful of it and modulate.
 
-### Avoiding Micro- and Undermanagement
-
-Micromanagement leads to mistrust, lack of autonomy, demotivation.
-Undermanagement leads to isolation, bewilderment, cluelessness.
-Just-right management (“Goldilocks”) leads to increase in engagement.
+### Influence Others
+- [Uniquely HR](https://www.google.com/url?q=http://uniquelyhr.com/management-development-training/&sa=D&ust=1497272863257000&usg=AFQjCNFCpE9ZQyRzTMoqItlEdU2neBygnw): by Gary Ford. Takeaway: Influence is the power to affect someone/something without directly forcing them. It’s about establishing credibility, finding common ground, and connecting emotionally. A systemic approach to influencing.
