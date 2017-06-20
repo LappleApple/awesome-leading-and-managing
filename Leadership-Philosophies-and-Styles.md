@@ -45,6 +45,8 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [What it's Really Like Working with Steve Jobs](http://inventor-labs.com/blog/2011/10/12/what-its-really-like-working-with-steve-jobs.html)" by Glenn Reid. Takeaway: Reid describes designing products with Jobs as a type of "cauldron"-like investigation in which ideas formed around an iteration and who thought up the idea didn't matter. The process put more focus on the ideas and less on Jobs, specific others in the room, or ego. 
 
+- [10 Senior Leadership Lessons I Wish I Learned Sooner](https://twitter.com/i/moments/874780733146939392) by Julie Grace. Takeaways: Grace observation when growing from a junior manager to senior to running a whole organization (Director of Infrastructure Eng at Slack). Here observations are less guidance is better, you have to feel comfortable with accountability, communication with peers, upper management and teams is key.
+
 ### Leadership Styles
 *Folks categorize leaders into N different types, or the job into M different activities.*
 
