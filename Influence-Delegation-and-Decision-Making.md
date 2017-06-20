@@ -16,11 +16,13 @@ a) Do I understand the complete context, b) am I the right person to handle it, 
 
 - [Managing for Progress and the Loss-Aversion Principle](http://tomtunguz.com/progress-principle): by Tom Tunguz. Takeaway: "The best managers craft roles and assign projects that position their teammates to see and feel the result of their work directly."
 
-- [Why Delegate?](https://medium.com/@mags/how-a-single-conversation-with-my-boss-changed-my-view-on-delegation-and-failure-ae5376451c8d#.xucavchj6): by Margaret Gould Stewart. Takeaway: “If there isn’t something going off the rails on your team, then I know you’re micro-managing them. You’re good at what you do, and if you stay in the weeds on everything, you’ll keep things going perfectly, for a while. But eventually two things will happen. One, you’ll burn out. And two, you’ll eventually start to seriously piss off your team. So I better see some things going sideways, on a fairly regular basis.”
+- [“Screaming Monkey” analogy](https://hbr.org/1999/11/management-time-whos-got-the-monkey): by William Oncken, Jr. and Donald L. Wass. Takeaway: Think of each work item as a screaming monkey, and ask these questions to identify the important ones: Should we even fed the monkey?; Who should feed the monkey?
 
-[“Screaming Monkey” analogy](https://hbr.org/1999/11/management-time-whos-got-the-monkey): by William Oncken, Jr. and Donald L. Wass. Takeaway: Think of each work item as a screaming monkey, and ask these questions to identify the important ones: Should we even fed the monkey?; Who should feed the monkey?
+-[Situational Leadership Theory](https://en.wikipedia.org/wiki/Situational_leadership_theory): Wikipedia entry. Takeaways: Proficiency depends on knowledge, ability, and aptitude; commitment describes motivation, interest, enthusiasm, and confidence; different levels of proficiency/commitment need different amounts of direction/support.
 
 - [Turn the Ship Around! How to Create Leadership at Every Level](https://tubarksblog.com/2012/12/18/book-review-turn-the-ship-around-how-to-create-leadership-at-every-level/): by Stan Skrabut. Review of David Marquet's book, which is divided into four sections: Starting Over, Control, Competence, and Clarity. More [notes by Joe Goldberg here](https://docs.google.com/document/d/1BVrpO9qV7HnuFCc42wUTIbTRFCBN25mn3pKtimD2QXw/edit?ts=5776d339).
+
+- [Why Delegate?](https://medium.com/@mags/how-a-single-conversation-with-my-boss-changed-my-view-on-delegation-and-failure-ae5376451c8d#.xucavchj6): by Margaret Gould Stewart. Takeaway: “If there isn’t something going off the rails on your team, then I know you’re micro-managing them. You’re good at what you do, and if you stay in the weeds on everything, you’ll keep things going perfectly, for a while. But eventually two things will happen. One, you’ll burn out. And two, you’ll eventually start to seriously piss off your team. So I better see some things going sideways, on a fairly regular basis.”
 
 ### Delegation as “Pressure”
 
@@ -33,7 +35,3 @@ a) Do I understand the complete context, b) am I the right person to handle it, 
 Micromanagement leads to mistrust, lack of autonomy, demotivation.
 Undermanagement leads to isolation, bewilderment, cluelessness.
 Just-right management (“Goldilocks”) leads to increase in engagement.
-
-#### Two Aspects of Performance: Proficiency and Commitment
-
--[Situational Leadership Theory](https://en.wikipedia.org/wiki/Situational_leadership_theory): Wikipedia entry. Takeaways: Proficiency depends on knowledge, ability, and aptitude; commitment describes motivation, interest, enthusiasm, and confidence; different levels of proficiency/commitment need different amounts of direction/support.
