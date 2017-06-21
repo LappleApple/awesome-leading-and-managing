@@ -31,7 +31,11 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [Ten Senior Leadership Lessons I Wish I Learned Sooner](https://twitter.com/i/moments/874780733146939392?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Ftwitter.com%2Fi%2Fmoments%2F874780733146939392): by Julia Grace. Takeaway: "observations growing from a junior manager to a senior manager running a whole organization ... For example: providing less guidance is often better. The more prescriptive you are, the less you allow people below you to grow."
   
+- [10 Things Great Bosses Do Every Day](https://www.linkedin.com/pulse/unique-things-great-bosses-do-every-day-dr-travis-bradberry): by Dr. Travis Bradberry. Takeaway: from "respects your time" to "looks for and celebrates wins," this list covers the bases.
+
 - [This Is The Number One Thing That Holds Most People Back From Success](http://www.bakadesuyo.com/2013/09/bad-attitude/): by Seth Godin. Takeaway: It’s your attitude.
+
+- [Why Tim Cook is Steve Ballmer and Why He Still Has His Job at Apple](https://www.linkedin.com/pulse/why-tim-cook-steve-ballmer-he-still-has-his-job-apple-steve-blank): by Steve Blank. Takeaway: "What happens to a company when a visionary CEO is gone? Most often innovation dies and the company coasts for years on momentum and its brand. Rarely does it regain its former glory." Uses Microsoft and Apple as examples.
 
 - [Why You Must Lead Differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=): *Forbes* article by George Bradt.
 
