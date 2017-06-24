@@ -6,9 +6,9 @@
 If I have not seen as far, it is because giants were standing on my shoulders — lots of people, including Leigh Caplan*
 
 ## Intro/Context
-Transitioning to leadership from software development provides the opportunity to learn a lot. The originator/primary author of this list, [Joe Goldberg](https://twitter.com/bostonsteamer), read a crap-ton of books and articles, and took notes along the way.
+Transitioning to leadership from software development provides the opportunity to learn a lot. [Joe Goldberg](https://twitter.com/bostonsteamer), who created the original document inspiring this list, read a crap-ton of books and articles, and took notes along the way.
  
-Since 2013-ish, Joe has been keeping a collection of links and notes on the broad topics of “leadership” and “management." He shared it with friends who were transitioning to management roles but kept it private to the world at-large. Then he decided to open-source it. And here we are. 
+Since 2013-ish, Joe has been keeping a collection of links and notes on the broad topics of “leadership” and “management." He shared it with friends who were transitioning to management roles but kept it private to the world at-large. Then he decided to open-source it. [Here you'll find Joe's document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
 
 ## Call to Action: Please Contribute Your Favorite Articles, Books, Videos, Etc.
 Please share/promote your favorite managing and leading resources/go-to's by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
