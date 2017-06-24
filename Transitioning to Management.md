@@ -28,6 +28,8 @@
 
 - [Popforms New Manager Guide](https://gallery.mailchimp.com/44b412d7516b3a88b8be5c8c9/files/new_manager_guide_popforms.pdf): by the Popforms team. A four-step how-to for new managers to own their new role. Long but actionable.
 
+- [The Secret Ingredient Behind a Successful Tech Lead](http://engineering.medallia.com/blog/the-secret-ingredient-behind-a-successful-tech-lead/): by Guido de Caso. Takeaway: One thing all great tech leads have is a great second-in-command engineer.
+
 - [Secure Early Wins in the First Three Months](http://katemats.com/secure-early-wins-tech-leader-series/): by kate{mats}. Takeaway: "In order to the set the right tone and get started on the best path, it is key to secure early wins." Includes helpful strategies.
 
 - [Speeding Up Your Engineering Org, Part I: Beyond the Cost Center Mentality](http://blog.hut8labs.com/speeding-up-your-eng-org-part-i.html): by Edmund Jorgensen. Takeaway: "[I]t isn’t actually a law of nature that engineering orgs have to slow down as they mature and grow. With active, contravening investment, it’s possible to maintain and even gain speed."
