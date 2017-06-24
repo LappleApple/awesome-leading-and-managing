@@ -1,6 +1,14 @@
 ## Transitioning to Management
 
+### Building Product
+
+As a leader of a product development team you might have a PM that you’re working with, but some of your role will involve deciding how/when product is built, who builds what, etc. So you’ll need to level up your product skills.
+
+- [The Scrum Product Owner Theses](https://age-of-product.com/scrum-product-owner-theses/): by Stefan Wolpers. Not necessarily tied to the Scrum agile framework, this list of 56 "theses" addresses the PO's role; examines product discovery and stakeholder management; roadmap planning, and more.
+
 ### Transitioning from Individual Contributor to Manager 
+
+- [The 'Aha' Behind Leading Aha Moments](https://www.forbes.com/sites/georgebradt/2014/10/15/the-aha-behind-leading-aha-moments/#513e93a94505): by George Bradt. Takeaway: Aha moments are pleasurable, because the experience makes us feel smarter. Making others feel smart, not making others see how smart you are, is the goal.
 
 - [Assessing Technical Risks for Startups](http://katemats.com/assessing-technical-risks-for-startups-new-tech-leader-series/): by kate{mats}. Takeaway: "As a new technology executive it is imperative that you take the time to understand the technology strategy and risk and communicate that to senior management." Comes with a great checklist for doing just that.
 
@@ -31,6 +39,8 @@
 - [The Secret Ingredient Behind a Successful Tech Lead](http://engineering.medallia.com/blog/the-secret-ingredient-behind-a-successful-tech-lead/): by Guido de Caso. Takeaway: One thing all great tech leads have is a great second-in-command engineer.
 
 - [Secure Early Wins in the First Three Months](http://katemats.com/secure-early-wins-tech-leader-series/): by kate{mats}. Takeaway: "In order to the set the right tone and get started on the best path, it is key to secure early wins." Includes helpful strategies.
+
+- [Speed Matters: Why Working Quickly Is More Important Than It Seems](http://jsomers.net/blog/speed-matters): by James Somers. Takeaway: "The obvious benefit to working quickly is that you’ll finish more stuff per unit time. But there’s more to it than that. If you work quickly, the cost of doing something new will seem lower in your mind. So you’ll be inclined to do more."
 
 - [Speeding Up Your Engineering Org, Part I: Beyond the Cost Center Mentality](http://blog.hut8labs.com/speeding-up-your-eng-org-part-i.html): by Edmund Jorgensen. Takeaway: "[I]t isn’t actually a law of nature that engineering orgs have to slow down as they mature and grow. With active, contravening investment, it’s possible to maintain and even gain speed."
 
