@@ -30,7 +30,7 @@ Please share/promote your favorite managing and leading resources/go-to's by add
 - [Culture](Culture.md) **(links available, takeaways in progress)**
 - [Diversity and Gender](Diversity-and-Gender.md) **(links available, takeaways in progress)**
 - [Time Management and Meetings](Time-Management-and-Meetings.md)
-- Hiring and Firing
+- [Hiring and Firing](Hiring-and-Firing.md) **(in progress)**
 - Motivation and “Retention” (we hate that word)
 - Postmortems, Retrospectives, and Conflict Resolution
 - [When You're Not a "Manager": Leadership for Developers](Leadership-for-Developers.md)
