@@ -14,28 +14,28 @@ Since 2013-ish, Joe has been keeping a collection of links and notes on the broa
 Please share/promote your favorite managing and leading resources/go-to's by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
 
 ## Table Of Contents
-- [FAQ](#faq)
-  - [Who is this for?](#who-is-this-for)
-  - [Why should you read this or trust the authors for advice?](#why-should-you-read-this-or-trust-the-authors-for-advice)
-  - [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
-  - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
-  - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
-- [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
-- [Transitioning to Management (and managing managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md) **(in progress)**
-- [1-on-1s](One-on-Ones.md)
-- [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
-- Performance Reviews and Goal-setting **(in progress)**
-- Giving Feedback, Praise, and Advice **(in progress)**
-- [Onboarding](Onboarding.md)
 - [Culture](Culture.md) **(links available, takeaways in progress)**
 - [Diversity and Gender](Diversity-and-Gender.md) **(links available, takeaways in progress)**
-- [Time Management and Meetings](Time-Management-and-Meetings.md)
+- Giving Feedback, Praise, and Advice **(in progress)**
 - [Hiring and Firing](Hiring-and-Firing.md) **(in progress)**
+- [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
+- [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
 - Motivation and “Retention” (we hate that word)
+- [Onboarding](Onboarding.md)
+- [One-on-Ones](One-on-Ones.md)
+- Performance Reviews and Goal-setting **(in progress)**
 - Postmortems, Retrospectives, and Conflict Resolution
+- [Time Management and Meetings](Time-Management-and-Meetings.md)
+- [Transitioning to Management (and managing managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md) **(in progress)**
 - [When You're Not a "Manager": Leadership for Developers](Leadership-for-Developers.md)
 
 ## FAQ
+- [Who is this for?](#who-is-this-for)
+- [Why should you read this or trust the authors for advice?](#why-should-you-read-this-or-trust-the-authors-for-advice)
+- [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
+- [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
+- [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
+
 ### Who is this for?
 - Individual contributors (ICs) looking to move into a management role but not sure if it’s right for them
 - ICs who want to stay ICs but want to have more influence in their orgs
