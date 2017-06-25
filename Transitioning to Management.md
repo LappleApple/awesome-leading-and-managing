@@ -6,6 +6,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Scrum Product Owner Theses](https://age-of-product.com/scrum-product-owner-theses/): by Stefan Wolpers. Not necessarily tied to the Scrum agile framework, this list of 56 "theses" addresses the PO's role; examines product discovery and stakeholder management; roadmap planning, and more.
 
+- [Why Software Sucks](http://scottberkun.com/essays/46-why-software-sucks/): by Scott Berkun. Good ways to think about why it happens and what you can do to make it happen less.
+
 ### Transitioning from Individual Contributor to Manager 
 
 - [The 'Aha' Behind Leading Aha Moments](https://www.forbes.com/sites/georgebradt/2014/10/15/the-aha-behind-leading-aha-moments/#513e93a94505): by George Bradt. Takeaway: Aha moments are pleasurable, because the experience makes us feel smarter. Making others feel smart, not making others see how smart you are, is the goal.
@@ -33,6 +35,8 @@ As a leader of a product development team you might have a PM that you’re work
  - [The Most Important, Yet Overlooked Management Skill](https://getlighthouse.com/blog/management-skill): by Lighthouse. Takeaway: Curiosity is the most important trait of a leader. Ask questions.
  
 - [The New Manager Death Spiral](https://medium.com/@rands/the-new-manager-death-spiral-51a806b252dd#.3678kokzb): by Michael Lopp. Takeaway: management isn't a promotion. Thinking, "I can do it all. I’m The Boss," will lead you to take on too much responsibility and set yourself up for failure. Avoid this outcome by delegating, hiring a diverse team, and listening.
+
+- [Only 10% of CEOs Have This Critical Skill](https://www.linkedin.com/pulse/only-10-ceos-have-critical-skill-ryan-holmes): by Ryan Holmes. Takeaway: Social media skills are increasingly worthwhile for leaders to develop, for reasons ranging from recruitment outreach to promoting products. 
 
 - [Popforms New Manager Guide](https://gallery.mailchimp.com/44b412d7516b3a88b8be5c8c9/files/new_manager_guide_popforms.pdf): by the Popforms team. A four-step how-to for new managers to own their new role. Long but actionable.
 
