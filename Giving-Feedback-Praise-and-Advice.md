@@ -2,11 +2,15 @@
 
 - [4 Steps to giving critical feedback](https://www.tombartel.de/blog/a-primer-on-giving-critical-feedback): by Tom Bartel. Takeaway: structure of a constructive feedback :
 1. Describe a event with facts
-2. Describe consequences of the displayed negative behaviour
+2. Describe consequences, while criticizing only the behavior
 3. Collect suggestions from the feedback receiver. By suggesting a solution themselves, they have an active part, and they are accountable.
 4. Make an agreement how to move on, follow-up
 
-- [Another 4-step process: OFNR](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns): by Charles-Axel Dein
+- [Another 4-step process: OFNR](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns): by Charles-Axel Dein. Negative feedback antipatterns :
+1. Observation of a fact. A fact is rarely controversial. Great way to start a conversation
+2. Feeling: express your feelings and your story. Clarify that it’s your story.
+3. Need: state what you value, or the kind of impact you’d like to see.
+4. Request: explain what concrete action the other person would need to take.
 
 - [Giving Feedback to high-performers](https://hbr.org): by HBR
 
