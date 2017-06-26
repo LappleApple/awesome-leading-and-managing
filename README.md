@@ -6,36 +6,36 @@
 If I have not seen as far, it is because giants were standing on my shoulders — lots of people, including Leigh Caplan*
 
 ## Intro/Context
-Transitioning to leadership from software development provides the opportunity to learn a lot. The originator/primary author of this list, [Joe Goldberg](https://twitter.com/bostonsteamer), read a crap-ton of books and articles, and took notes along the way.
+Transitioning to leadership from software development provides the opportunity to learn a lot. [Joe Goldberg](https://twitter.com/bostonsteamer), who created the original document inspiring this list, read a crap-ton of books and articles, and took notes along the way.
  
-Since 2013-ish, Joe has been keeping a collection of links and notes on the broad topics of “leadership” and “management." He shared it with friends who were transitioning to management roles but kept it private to the world at-large. Then he decided to open-source it. And here we are. 
+Since 2013-ish, Joe has been keeping a collection of links and notes on the broad topics of “leadership” and “management." He shared it with friends who were transitioning to management roles but kept it private to the world at-large. Then he decided to open-source it. [Here you'll find Joe's document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
 
 ## Call to Action: Please Contribute Your Favorite Articles, Books, Videos, Etc.
 Please share/promote your favorite managing and leading resources/go-to's by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
 
 ## Table Of Contents
-- [FAQ](#faq)
-  - [Who is this for?](#who-is-this-for)
-  - [Why should you read this or trust the authors for advice?](#why-should-you-read-this-or-trust-the-authors-for-advice)
-  - [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
-  - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
-  - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
-- [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
-- [Transitioning to Management (and managing managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md) **(in progress)**
-- [1-on-1s](One-on-Ones.md)
-- Influence, Delegation, and Decision-Making **(in progress)**
-- Performance Reviews and Goal-setting **(in progress)**
-- Giving Feedback, Praise, and Advice **(in progress)**
-- [Onboarding](Onboarding.md)
 - [Culture](Culture.md) **(links available, takeaways in progress)**
 - [Diversity and Gender](Diversity-and-Gender.md) **(links available, takeaways in progress)**
-- [Time Management and Meetings](Time-Management-and-Meetings.md)
-- Hiring and Firing
+- Giving Feedback, Praise, and Advice **(in progress)**
+- [Hiring and Firing](Hiring-and-Firing.md) **(in progress)**
+- [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
+- [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
 - Motivation and “Retention” (we hate that word)
+- [Onboarding](Onboarding.md)
+- [One-on-Ones](One-on-Ones.md)
+- Performance Reviews and Goal-setting **(in progress)**
 - Postmortems, Retrospectives, and Conflict Resolution
+- [Time Management and Meetings](Time-Management-and-Meetings.md)
+- [Transitioning to Management (and managing managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md) **(in progress)**
 - [When You're Not a "Manager": Leadership for Developers](Leadership-for-Developers.md)
 
 ## FAQ
+- [Who is this for?](#who-is-this-for)
+- [Why should you read this or trust the authors for advice?](#why-should-you-read-this-or-trust-the-authors-for-advice)
+- [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
+- [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
+- [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
+
 ### Who is this for?
 - Individual contributors (ICs) looking to move into a management role but not sure if it’s right for them
 - ICs who want to stay ICs but want to have more influence in their orgs

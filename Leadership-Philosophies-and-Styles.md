@@ -17,6 +17,8 @@ This topic comes first, because the following articles offer great frameworks/de
   - Servant-leaders shouldn’t make decisions that should be made by the folks closest to the problem), unless they can’t be answered with readily-available or easily-collected data, and there’s no consensus on the solution.
   - "When the people you manage bring you a tough call, and you choose right, they get the credit. When you choose wrong, you get the blame. And it’s OK, pookie. That’s what you’re here for."
 
+- [Google Employees Weighed in on What Makes a Highly Effective Manager. Technical Expertise Came in Dead Last](https://www-inc-com.cdn.ampproject.org/c/s/www.inc.com/amp/154561.html): by Michael Schneider. Takeaway: Tech expertise is worth little if a manager is not committed to communicating clearly/effectively, developing people and removing obstacles so they can get things done.
+
 - [High-Performing Teams Need Flexible Leaders](https://medium.com/@srikardoddi/high-performing-teams-need-flexible-leaders-9243e7ec6e95): Offers insights into how to change your style based on the needs of the team. Takeaways: Always be explicit with how you expect each individual in the team to behave and the results you'd like them to achieve, and hold everyone accountable. That starts with you, and the example you set to everyone else. Having a well-articulated vision and expectation will enable flexibility of style and methods to reach a highly performant execution. See also, "[Why the rise of Amazon means the end of Walmart](https://www.forbes.com/sites/georgebradt/2015/07/08/why-the-rise-of-amazon-means-the-end-of-wal-mart/#1d4811962167).")
 
 - [How to Lead a Team](https://drt.fm/simon-sinek) (podcast): by Simon Sinek. Fun trivia: Joe Goldberg, the originator of this Awesome list, realized through this podcast that "You can’t manage people, you can only lead them. You can only manage processes."
@@ -27,11 +29,17 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [The Most Important Metric You'll Ever Need](https://barryoreilly.com/2016/08/29/the-most-important-metric-youll-ever-need/): by Barry O'Reilly. Takeaway: "ask your team what their rate of learning is"—this, as Software Lead Weekly's Oren Ellenbogen notes, "is actually a great question to ask on your 1:1s and company surveys."
 
+- [The Principles of Quantum Team Management](http://firstround.com/review/the-principles-of-quantum-team-management/): by James Everingham. Takeaway: "Setting up your team the way you would set up a machine can give you a ton of leverage — as long as you realize how complicated and unpredictable the people in that machine can be."
+
 - [Simon Sinek: Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (video): For a detailed summary by Joe Goldberg, [go here](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Simon%20Sinek:%20Leaders%20Eat%20Last%20Summary.md).
 
 - [Ten Senior Leadership Lessons I Wish I Learned Sooner](https://twitter.com/i/moments/874780733146939392?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Ftwitter.com%2Fi%2Fmoments%2F874780733146939392): by Julia Grace. Takeaway: "observations growing from a junior manager to a senior manager running a whole organization ... For example: providing less guidance is often better. The more prescriptive you are, the less you allow people below you to grow."
   
+- [10 Things Great Bosses Do Every Day](https://www.linkedin.com/pulse/unique-things-great-bosses-do-every-day-dr-travis-bradberry): by Dr. Travis Bradberry. Takeaway: from "respects your time" to "looks for and celebrates wins," this list covers the bases.
+
 - [This Is The Number One Thing That Holds Most People Back From Success](http://www.bakadesuyo.com/2013/09/bad-attitude/): by Seth Godin. Takeaway: It’s your attitude.
+
+- [Why Tim Cook is Steve Ballmer and Why He Still Has His Job at Apple](https://www.linkedin.com/pulse/why-tim-cook-steve-ballmer-he-still-has-his-job-apple-steve-blank): by Steve Blank. Takeaway: "What happens to a company when a visionary CEO is gone? Most often innovation dies and the company coasts for years on momentum and its brand. Rarely does it regain its former glory." Uses Microsoft and Apple as examples.
 
 - [Why You Must Lead Differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=): *Forbes* article by George Bradt.
 
@@ -40,6 +48,8 @@ This topic comes first, because the following articles offer great frameworks/de
 - [How Charles Schwab Got His Workers To Produce More Steel](http://www.businessinsider.com/how-charles-schwab-got-his-workers-to-produce-more-steel-2013-7?IR=T): by Vivian Giang for Business Insider. Takeaway: chalk a number six on the floor and see what your employees/team members do.
 
 - [How I Failed](https://www.oreilly.com/ideas/how-i-failed): by Tim O'Reilly. The founder of O'Reilly writes "a candid post about some of the things that kept me, my employees, and our company from achieving our full potential."
+
+- [10 Senior Leadership Lessons I Wish I Learned Sooner](https://twitter.com/i/moments/874780733146939392): by Julie Grace. Takeaways: Grace's observations from growing from a junior manager to senior manager to running a whole organization (Director of Infrastructure Engineering at Slack). Less guidance is better, get comfortable with accountability, communication with peers/upper management/teams is key.
 
 - [To Be a Great Leader, Rethink Your Default Behaviors](https://medium.com/ideo-stories/to-be-a-great-leader-rethink-your-default-behaviors-c762ffd59450): by Deirdre Cerminaro. Takeaway: Working with IDEO’s CEO Tim Brown reiterated the values to "act with humility," not pride; "trust the intuition of others," don’t be a skeptic; "encourage half-baked ideas," don’t require them to be polished; "inspire, don’t instruct"; and "model behaviors, don’t dictate them."
 
