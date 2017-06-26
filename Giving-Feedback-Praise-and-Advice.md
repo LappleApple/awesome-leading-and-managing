@@ -1,10 +1,10 @@
 ## Giving Feedback, Praise and Advice
 
-- [4 Steps to giving critical feedback](https://www.tombartel.de/blog/a-primer-on-giving-critical-feedback): by Tom Bartel. Takeaway: structure of a feedback construction :
-1. Describe a concrete example situation
-2. Describe negative consequences of the displayed behaviour, and make sure they are understood
-3. Ask the feedback receiver for suggestions to improve or avoid the situation in the future
-4. Make an agreement how to move on
+- [4 Steps to giving critical feedback](https://www.tombartel.de/blog/a-primer-on-giving-critical-feedback): by Tom Bartel. Takeaway: structure of a constructive feedback :
+1. Describe a event with facts
+2. Describe consequences of the displayed negative behaviour
+3. Collect suggestions from the feedback receiver. By suggesting a solution themselves, they have an active part, and they are accountable.
+4. Make an agreement how to move on, follow-up
 
 - [Another 4-step process: OFNR](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns): by Charles-Axel Dein
 
