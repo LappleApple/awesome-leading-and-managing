@@ -26,7 +26,7 @@ Please share/promote your favorite managing and leading resources/go-to's by add
 - Performance Reviews and Goal-setting **(in progress)**
 - Postmortems, Retrospectives, and Conflict Resolution
 - [Time Management and Meetings](Time-Management-and-Meetings.md)
-- [Transitioning to Management (and managing managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
+- [Transitioning to Management (and Managing Managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 - [When You're Not a "Manager": Leadership for Developers](Leadership-for-Developers.md)
 
 ## FAQ
