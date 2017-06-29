@@ -16,7 +16,7 @@ Please share/promote your favorite managing and leading resources/go-to's by add
 ## Table Of Contents
 - [Culture](Culture.md) **(links available, takeaways in progress)**
 - [Diversity and Gender](Diversity-and-Gender.md) **(links available, takeaways in progress)**
-- Giving Feedback, Praise, and Advice **(in progress)**
+- Giving Feedback, Praise, and Advice
 - [Hiring and Firing](Hiring-and-Firing.md)
 - [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
 - [Leader List](Leader-List.md) **(in progress)**
