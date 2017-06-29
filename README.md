@@ -10,8 +10,8 @@ Transitioning to leadership from software development provides the opportunity t
  
 Since 2013-ish, Joe has been keeping a collection of links and notes on the broad topics of “leadership” and “management." He shared it with friends who were transitioning to management roles but kept it private to the world at-large. Then he decided to open-source it. [Here you'll find Joe's document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
 
-## Call to Action: Please Contribute Your Favorite Articles, Books, Videos, Etc.
-Please share/promote your favorite managing and leading resources/go-to's by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
+## Contribute Your Favorites
+Please share/promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
 
 ## Table Of Contents
 - [Culture](Culture.md) **(links available, takeaways in progress)**
