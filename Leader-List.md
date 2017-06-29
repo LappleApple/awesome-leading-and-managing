@@ -12,6 +12,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - Erica Joy
 - Francesc Campoy
 - Gregory Brown
+- Gregory Mazurek
 - Heather Fleming
 - Jason Fried
 - Jeff Gothelf
