@@ -49,9 +49,13 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [How I Failed](https://www.oreilly.com/ideas/how-i-failed): by Tim O'Reilly. The founder of O'Reilly writes "a candid post about some of the things that kept me, my employees, and our company from achieving our full potential."
 
+- [DevOps Days Keynote](https://www.youtube.com/watch?v=36S7N7OZSTI&t=45m30s&app=desktop): by Kelsey Hightower. Takeaway: a riveting, personal, and slide-free keynote in which Hightower underscores the importance of "giving a damn."
+
 - [10 Senior Leadership Lessons I Wish I Learned Sooner](https://twitter.com/i/moments/874780733146939392): by Julie Grace. Takeaways: Grace's observations from growing from a junior manager to senior manager to running a whole organization (Director of Infrastructure Engineering at Slack). Less guidance is better, get comfortable with accountability, communication with peers/upper management/teams is key.
 
 - [To Be a Great Leader, Rethink Your Default Behaviors](https://medium.com/ideo-stories/to-be-a-great-leader-rethink-your-default-behaviors-c762ffd59450): by Deirdre Cerminaro. Takeaway: Working with IDEO’s CEO Tim Brown reiterated the values to "act with humility," not pride; "trust the intuition of others," don’t be a skeptic; "encourage half-baked ideas," don’t require them to be polished; "inspire, don’t instruct"; and "model behaviors, don’t dictate them."
+
+- [Vulnerability and Leadership](https://www.youtube.com/watch?v=e8YtQDiiT1U) (video): by Brene Brown, researcher, author and storyteller. Takeaway: In this TED talk, Dr. Brown discusses connection/lack thereof, shame (the fear of disconnection and being unworthy of connection). Connection and being aware of its need results in more effective leadership because one can then reach/inspire/enliven people.
 
 - [What it's Really Like Working with Steve Jobs](http://inventor-labs.com/blog/2011/10/12/what-its-really-like-working-with-steve-jobs.html)" by Glenn Reid. Takeaway: Reid describes designing products with Jobs as a type of "cauldron"-like investigation in which ideas formed around an iteration and who thought up the idea didn't matter. The process put more focus on the ideas and less on Jobs, specific others in the room, or ego. 
 
