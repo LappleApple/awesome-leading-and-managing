@@ -16,6 +16,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Do The Simple Thing First: The Engineering Behind Instagram](https://www.fastcompany.com/3047642/do-the-simple-thing-first-the-engineering-behind-instagram): by Harry McCracken. Takeaway: Instagram founders made technical decisions using a principle which favored practicality over perfection. "If it solves a problem and gets us closer to launch, let’s do it."
 
+- [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/): by Charity Majors. Takeaway: "Fuck the whole idea that only managers get career progression. And fuckkkk the idea you have to choose a “lane” and grow old there.  I completely reject this kind of slotting."
+
 - [Growth Hacking Notebook](https://docs.google.com/document/d/1uN_kMZlwsdaliiUhIEei5PTnLphm0p6Eo57Xg6LnFHc/edit): notes by Joe Goldberg.
 
 - [Lean Startup](https://docs.google.com/document/d/1Xs9VBBhh68DVCywXN7TRtDcWQQLDJWcLCvUOxnzNHmw/edit): notes by Joe Goldberg about the book by Eric Ries.
