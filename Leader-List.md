@@ -14,6 +14,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - Gregory Brown
 - Heather Fleming
 - Jason Fried
+- Jeff Gothelf
 - Jerome Petazzoni
 - Jerry Colonna
 - Jez Humble
