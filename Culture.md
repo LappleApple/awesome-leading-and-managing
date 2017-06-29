@@ -3,9 +3,9 @@
 - [Creating the Dream Team: Transform Your Engineering Organization to Attract
   New
   Talent](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/):
-  By Andrew Hao. Takeaways: Start with evaluating your current culture,
+  By Andrew Hao. Takeaways: Start with evaluating your current culture, its
   strengths and weaknesses. Be in tune with your org. Make sure you demonstrate
-  you value employees, weather that is talking up their accomplishments,
+  you value employees—whether that is talking up their accomplishments,
   investing in training, or just being there to talk.
 
 - [Culture Is the Spec, Process Is the Code](https://medium.com/@richarmstrong/culture-is-the-spec-process-is-the-code-ccb0df70514f): by Rich Armstrong.
