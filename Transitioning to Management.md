@@ -4,6 +4,16 @@
 
 As a leader of a product development team you might have a PM that you’re working with, but some of your role will involve deciding how/when product is built, who builds what, etc. So you’ll need to level up your product skills.
 
+- [Aligning Projects with Business Goals](https://blog.dnsimple.com/2017/02/aligning-business-goals-with-projects/): by Anthony Eden. Provides a simple project management spreadsheet of six questions: 1) What is the problem we are trying to solve?; 2) What does success look like, and how does it fit in the big picture?; 3) What are the MUST DO and the MUST NOT DO items?; 4) What is the deadline?; 5) Who should I talk to for help and get feedback?; 6) Have we done this before? Something we already have to get started?
+
+- [Do The Simple Thing First: The Engineering Behind Instagram](https://www.fastcompany.com/3047642/do-the-simple-thing-first-the-engineering-behind-instagram): by Harry McCracken. Takeaway: Instagram founders made technical decisions using a principle which favored practicality over perfection. "If it solves a problem and gets us closer to launch, let’s do it."
+
+- [The MVP is dead. Long live the RAT.](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02): by Rik Higham. Takeaway: "There is a flaw at the heart of the term Minimum Viable Product: it’s not a product. It’s a way of testing whether you’ve found a problem worth solving. A way to reduce risk and quickly test your biggest assumption. Instead of building an MVP identify your Riskiest Assumption and Test it. Replacing your MVP with a RAT will save you a lot of pain."
+
+- [Reminder: Your “Product” Company is Just an Implementation Detail](https://medium.com/from-the-start/building-a-feature-697344aefda2): by Jeremy Baker. Takeaway: The progress our customer wants to make is the most important thing. We think about our features and what they can do, and present them that way. When we do this, we’re "forcing our customer to do the hard work. They have to map features to their process and figure out if it helps them make progress ... Instead, talk about the progress our customer wants to make, and build tools that enable that progress."
+
+- [Scaling Airbnb with Brian Chesky — Class 18 Notes of Stanford University’s CS183C](https://medium.com/cs183c-blitzscaling-class-collection/scaling-airbnb-with-brian-chesky-class-18-notes-of-stanford-university-s-cs183c-3fcf75778358): by Chris McCann. Takeaway: about Airbnb’s “10 star service” thought experiment, in which they transcended the usual five-star review by adding five more measurements for success.
+
 - [The Scrum Product Owner Theses](https://age-of-product.com/scrum-product-owner-theses/): by Stefan Wolpers. Not necessarily tied to the Scrum agile framework, this list of 56 "theses" addresses the PO's role; examines product discovery and stakeholder management; roadmap planning, and more.
 
 - [Why Software Sucks](http://scottberkun.com/essays/46-why-software-sucks/): by Scott Berkun. Good ways to think about why it happens and what you can do to make it happen less.
