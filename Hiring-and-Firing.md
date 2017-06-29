@@ -1,5 +1,6 @@
 ## Hiring and Firing
 
+### Hiring
 - [25 Tips for Diverse
   Hiring](https://modelviewculture.com/pieces/25-tips-for-diverse-hiring): by 
   Model View Culture. Takeaways: Externally, know what you want and be sure to
@@ -49,3 +50,14 @@
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): by Lauren Tan. Lists hundreds of companies that don’t use CS whiteboarding.
 
 - [Screen Engineers Better with a Debugging Roleplay](https://hackernoon.com/cut-to-the-chase-with-a-debugging-roleplay-d7d49f518157): by Pete Karl II. Takeaway: Using a text-based, role-playing debugging game on a phone screen, Localytics doubled their team size within six months.
+
+### Firing
+aka, “the hardest thing you’ll ever do as a manager.” First are some tips on salvaging an underperformer. Then some tips on how to fire.
+
+- [How Do You Fire an Employee That (sic) Just Isn't Good Enough?](https://www.quora.com/How-do-you-fire-an-employee-that-just-isnt-good-enough/answer/Michael-O-Church): by Michael O. Church. Takeaway: “The best employees are multipliers who make others more productive, and next are the adders (workhorses). Subtractors are the good-faith incompetents who cost more than they bring. Dividers are the worst kind of problem employee: They bring the whole team (or company) down.” Simplified as Multipliers/Adders/Subtractors/Dividers.
+
+- [How to Terminate an Employee without Breaking their Spirit](https://hiring.monster.com/hr/hr-best-practices/workforce-management/hr-management-skills/employee-termination-tips.aspx): by Dick Grote. Includes a checklist of questions the candidate will likely ask; come prepared with answers.
+
+- [Letting Someone Go With Dignity](https://boss.blogs.nytimes.com/2014/08/07/letting-someone-go-with-dignity/): by Rebekah Campbell. Takeaway: Let people save face, don't procrastinate, stick to any agreements, be clear about what happens next; announce it to the team together and let them say goodbye. Some good advice, though we're not sure you should go out for drinks with the person you just fired in every situation.
+
+[The Right Way to Fire Someone](https://hbr.org/2016/02/the-right-way-to-fire-someone): by Rebecca Knight. Takeaway: Don't drag your feet; make HR your ally; keep it short; stay in the room; show compassion; talk to your team; and focus on the future.
