@@ -17,7 +17,7 @@ Please share/promote your favorite managing and leading resources/go-to's by add
 - [Culture](Culture.md) **(links available, takeaways in progress)**
 - [Diversity and Gender](Diversity-and-Gender.md) **(links available, takeaways in progress)**
 - Giving Feedback, Praise, and Advice **(in progress)**
-- [Hiring and Firing](Hiring-and-Firing.md) **(in progress)**
+- [Hiring and Firing](Hiring-and-Firing.md)
 - [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
 - Motivation and “Retention” (we hate that word)
