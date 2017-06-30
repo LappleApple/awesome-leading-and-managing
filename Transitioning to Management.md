@@ -14,6 +14,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Bootstrapper’s Bible](https://docs.google.com/document/d/1atBNc_GFQ0jXkUiEEZ7sU7S0awlHN_nL-ukVVljOGP4/edit): Joe Goldberg's notes about the book by Seth Godin.
 
+- [Dealing with Team Rejection](https://informatiq.github.io/2017/06/25/Dealing-with-team-rejection.html): by Ramez Hanna. Takeaway: "Team needs to establish healthy relationships between its members based on trust and communications." Provides useful context points and insight for when you have to tell your report that they need to improve. include 
+
 - [Do The Simple Thing First: The Engineering Behind Instagram](https://www.fastcompany.com/3047642/do-the-simple-thing-first-the-engineering-behind-instagram): by Harry McCracken. Takeaway: Instagram founders made technical decisions using a principle which favored practicality over perfection. "If it solves a problem and gets us closer to launch, let’s do it."
 
 - [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/): by Charity Majors. Takeaway: "Fuck the whole idea that only managers get career progression. And fuckkkk the idea you have to choose a “lane” and grow old there.  I completely reject this kind of slotting."
