@@ -76,6 +76,8 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [The Three Types of Leaders The World Needs Most: Artistic, Scientific and Interpersonal](https://www.forbes.com/sites/georgebradt/2014/01/29/the-three-types-of-leaders-the-world-needs-most-artistic-scientific-and-interpersonal/): *Forbes* article by George Bradt. Takeaway: *artistic* leaders inspire by influencing feelings and perceptions; *scientific leaders* influence and inspire knowledge with their thinking and ideas; and *interpersonal* leaders "can be found ruling, guiding and inspiring at the head of their interpersonal cohort whether it’s a team, organization, or political entity." They're not mutually exclusive.
 
+- [Watch: Google's Research on Making Managers Awesome](https://rework.withgoogle.com/blog/watch-googles-research-on-awesome-managers/): by re:Work/Google. Takeway: includes video and insights gained through Project Oxygen, Google's research into management. Includes Google's eight manager behaviors: 1) is a good coach; 2) empowers the team and doesn't micromanage; 3) expresses interest/concern for team members' success and personal well-being; 4) is productive and results-oriented; 5) is a good communicator; 6) helps with career development; 7) has a clear vision/strategy for the team; and 8) has important technical skills that help him/her advise the team. 
+
 - [Why Supercell’s Founder Wants to Be the World’s Least Powerful CEO](https://www.linkedin.com/pulse/why-supercells-founder-wants-worlds-least-powerful-ceo-de-rycker): by Sonali De Rycker. Takeaway from CEO Ilkka Paananen: "My goal is to be the world’s least powerful CEO. What I mean by this is that the fewer decisions I make, the more the teams are making."
 
 ### Quotes on Leadership
