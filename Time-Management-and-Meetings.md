@@ -27,6 +27,8 @@
 
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html): by Y Combinator's Paul Graham. Takeaway: The manager's schedule is typically in one-hour blocks, while the maker's schedule requires longer stretches of uninterrupted time. "Each type of schedule works fine by itself. Problems arise when they meet. Since most powerful people operate on the manager's schedule, they're in a position to make everyone resonate at their frequency if they want to. But the smarter ones restrain themselves, if they know that some of the people working for them need long chunks of time to work in."
 
+- [Manage Your Day-to-Day](http://99u.com/book/manage-your-day-to-day-2): by Seth Godin, Dan Ariely, Gretchen Rubin, Erin Rooney Doland, and other contributors. The book shows you how to stop letting other people run your schedule; find the right recharge/productivity balance; optimize digital communications/social media use, and more.
+
 - [No "Yes." Either "HELL YEAH!" or "No"](https://sivers.org/hellyeah): By Derek
   Sivers. Takeaways: If you are overcommitted, recalibrate when you say yes.
   Saying "no" more gives you more time to say "HELL YEAH!" for things that are
