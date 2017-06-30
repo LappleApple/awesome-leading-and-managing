@@ -42,6 +42,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 ### Leading Leaders
 
+- [Dealing with Team Rejection](https://informatiq.github.io/2017/06/25/Dealing-with-team-rejection.html): by Ramez Hanna. Takeaway: "Team needs to establish healthy relationships between its members based on trust and communications." Provides useful context points and insight for when you have to tell your report that they need to improve.
+
 - [How to Ensure a New Manager Succeeds](https://getlighthouse.com/blog/new-manager-how-to-help-succeed): by Lighthouse. Takeaway: Provide more support through 1:1's; give them good fundamentals to start; make some failure okay.
 
 - [The Sad Truth About Developing Executives](https://a16z.com/2015/03/16/the-sad-truth-about-developing-executives-2/): by Ben Horowitz. Takeaway: Instead of developing executives (which you can’t, and they should already be at the top of their game), give them information, expectations, and context to do their jobs.
