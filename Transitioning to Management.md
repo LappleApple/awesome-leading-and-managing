@@ -36,6 +36,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Scrum Product Owner Theses](https://age-of-product.com/scrum-product-owner-theses/): by Stefan Wolpers. Not necessarily tied to the Scrum agile framework, this list of 56 "theses" addresses the PO's role; examines product discovery and stakeholder management; roadmap planning, and more.
 
+- [To Grow Faster, Hit Pause — and Ask These Questions from Stripe’s COO](http://firstround.com/review/to-grow-faster-hit-pause-and-ask-these-questions-from-stripes-coo/): by First Round. Takeaway: "There’s a list of questions companies should ask themselves as they head into rapid growth — ideally in that relatively brief moment right after clinching product-market fit." The post provides these questions, to help you become less reactive and more proactive in managing your growth.
+
 - [The Ultimate Question](https://docs.google.com/document/d/1nsmy2GqHL-9IjEc0Q88tsSYafHJQXtgK0P8pJWKOTAs/edit): notes by Joe Goldberg about the book by Fred Reichheld, which focuses on measurements like the net promoter score (NPS).
 
 - [Why Software Sucks](http://scottberkun.com/essays/46-why-software-sucks/): by Scott Berkun. Good ways to think about why it happens and what you can do to make it happen less.
