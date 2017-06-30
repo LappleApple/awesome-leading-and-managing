@@ -1,6 +1,6 @@
 ## Transitioning to Management
 
-### Building Products
+### Building Products and Startups
 
 As a leader of a product development team you might have a PM that you’re working with, but some of your role will involve deciding how/when product is built, who builds what, etc. So you’ll need to level up your product skills.
 
@@ -8,13 +8,11 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Art of Project Management](https://docs.google.com/document/d/1Cr2DRP06GcBNQoOc3K5huQ61Mk_yyX5ZFsS8IlF1M6Y/edit): notes by Joe Golberg about Scott Berkun's book.
 
-- [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything ](https://docs.google.com/document/d/1EC4eF-uVeD-Arwoxl5SUKSQNmLK1CRF775zpRqVP4q0/edit#heading=h.efeded667ce6): Joe Goldberg's notes about the book by Guy Kawasaki
+- [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything ](https://docs.google.com/document/d/1EC4eF-uVeD-Arwoxl5SUKSQNmLK1CRF775zpRqVP4q0/edit#heading=h.efeded667ce6): Joe Goldberg's notes about the book by Guy Kawasaki.
 
 - [Blue Ocean Strategy](https://docs.google.com/document/d/1eR2K1fLY-_XQUfpJbEkB6xzSatyhQauI3-213jDjTL4/edit): notes by Joe Goldberg about the book by W. Chan Kim and Renée Mauborgne.
 
 - [The Bootstrapper’s Bible](https://docs.google.com/document/d/1atBNc_GFQ0jXkUiEEZ7sU7S0awlHN_nL-ukVVljOGP4/edit): Joe Goldberg's notes about the book by Seth Godin.
-
-- [Dealing with Team Rejection](https://informatiq.github.io/2017/06/25/Dealing-with-team-rejection.html): by Ramez Hanna. Takeaway: "Team needs to establish healthy relationships between its members based on trust and communications." Provides useful context points and insight for when you have to tell your report that they need to improve. include 
 
 - [Do The Simple Thing First: The Engineering Behind Instagram](https://www.fastcompany.com/3047642/do-the-simple-thing-first-the-engineering-behind-instagram): by Harry McCracken. Takeaway: Instagram founders made technical decisions using a principle which favored practicality over perfection. "If it solves a problem and gets us closer to launch, let’s do it."
 
