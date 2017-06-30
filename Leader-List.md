@@ -36,7 +36,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - Rachel Davies
 - Randy Shoup
 - Raphael Crawford-Marks
-- [Ryan Burgess(https://twitter.com/burgessdryan): Software Engineering Manager at @Netflix. Lover of #JavaScript! The Canadian voice on the @FrontEndHH podcast.
+- [Ryan Burgess](https://twitter.com/burgessdryan): Software Engineering Manager at @Netflix. Lover of #JavaScript! The Canadian voice on the @FrontEndHH podcast.
 - Sandro Mancuso
 - [Sarah Mei](https://twitter.com/sarahmei): Software dev, founder of @railsbridge, Director of Ruby Central, Chief Consultant of @devmyndsoftware.
 - Steve Francia
