@@ -11,7 +11,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - Charity Majors
 - [Carol Willing](https://twitter.com/WillingCarol): Director, @ThePSF. @projectjupyter core dev. @calpoly research engineer. @fablabsd Geek in Res. @MITSloan @DukeU alum.
 - Dan North
-- [Erica Joy](https://twitter.com/EricaJoy): 
+- [Erica Joy Baker](https://twitter.com/EricaJoy): Senior Engineer at Slack Technologies and advocate for diversity and inclusion in tech, and expanding access to tech education.
 - Francesc Campoy
 - Gregory Brown
 - Gregory Mazurek
