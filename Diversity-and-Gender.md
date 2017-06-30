@@ -22,4 +22,4 @@
 
 - [There's No 'Silver Bullet' to Increasing Diversity, but Here's How We're Making Progress](https://magoosh.com/blog/silver-bullet-diversity-progress/): by Bhavin Parikh.
 
-- [Ways Men In Tech Are Unintentionally Sexist](https://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/): by Kat Hagan.
+- [Ways Men in Tech Are Unintentionally Sexist](https://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/): by Kat Hagan.
