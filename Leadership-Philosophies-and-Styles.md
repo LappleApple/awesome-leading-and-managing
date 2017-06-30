@@ -90,6 +90,8 @@ This topic comes first, because the following articles offer great frameworks/de
  
 - "Mistakes are expected, respected, inspected, and corrected." — unknown
 
+- "No (wo)man is really defeated unless (s)he is discouraged." — Bruce Lee
+
 - "No one is going to follow you anywhere, anytime until you have earned the right to lead." — [George Bradt](https://www.forbes.com/sites/georgebradt/2017/02/08/how-to-get-others-to-follow-when-you-lead-by-example/#34ffeffc145a) 
 
 - "What actually separates winners from losers isn't talent, it's attitude." — Seth Godin
