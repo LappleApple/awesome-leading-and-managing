@@ -2,39 +2,45 @@
 
 Leaders and thinkers who frequently write/speak/tweet about tech leadership and work culture from a humble, progressive, well-rounded point of view. Names link to Twitter feeds.
 
-- Angie Jones
+- [Angie Jones](https://twitter.com/techgirl1908): Automation Engineer @twitter, international speaker, certified Java programmer, master inventor, advocate of women and minorities in tech.
 - Anil Dash
-- Anjuan Simmons
+- [Anjuan Simmons](https://twitter.com/anjuan): Technical Program Manager, speaker, writer, storyteller.
+- [April Wensel](https://twitter.com/aprilwensel): Founder of Compassionate Coding (@compassioncode), software developer, speaker, writer.
 - Brene Brown
 - Bridget Kromhout
 - Charity Majors
+- [Carol Willing](https://twitter.com/WillingCarol): Director, @ThePSF. @projectjupyter core dev. @calpoly research engineer. @fablabsd Geek in Res. @MITSloan @DukeU alum.
 - Dan North
-- Erica Joy
+- [Erica Joy](https://twitter.com/EricaJoy): 
 - Francesc Campoy
 - Gregory Brown
 - Gregory Mazurek
 - Heather Fleming
-- Jason Fried
+- [Jason Fried](https://twitter.com/jasonfried): Founder & CEO at http://basecamp.com. Co-author of Getting Real, Remote, and NYT Bestseller REWORK.
 - Jeff Gothelf
 - Jerome Petazzoni
-- Jerry Colonna
+- [Jerry Colonna](https://twitter.com/jerrycolonna): Coach and CEO @RebootHQ.
 - Jez Humble
 - [Joe Goldberg](https://twitter.com/bostonsteamer): Founding Father of this List.
 - John Allspaw
+- [Juliet Funt](https://twitter.com/whitespaceatwrk): CEO WhiteSpace at Work.
 - Kelsey Hightower
 - Lara Hogan
-- Linda Rising
+- [Linda Rising](https://twitter.com/RisingLinda): Agile 75-year-old world traveler, interested in patterns and change and retrospectives and how the brain works/
 - Mathias Meyer
 - Michael Bryzek
 - Nithya Ruff
+- [Olaf Lewitz](https://twitter.com/OlafLewitz): The Trust Artist. CEC & @trusttemenos host.
 - Oren Ellenbogen
-- Philip Guo
+- [Philip Guo](https://twitter.com/pgbovine): Assistant Professor of Cognitive Science - UC San Diego - human-computer interaction, online learning, computing education 
 - Rachel Davies
 - Randy Shoup
 - Raphael Crawford-Marks
+- [Ryan Burgess(https://twitter.com/burgessdryan): Software Engineering Manager at @Netflix. Lover of #JavaScript! The Canadian voice on the @FrontEndHH podcast.
 - Sandro Mancuso
-- Sarah Mei
+- [Sarah Mei](https://twitter.com/sarahmei): Software dev, founder of @railsbridge, Director of Ruby Central, Chief Consultant of @devmyndsoftware.
 - Steve Francia
-- Theo Schlossnagle
+- [Steven Sinofsky](https://twitter.com/stevesi): Board Partner @a16z, adviser @BoxHQ.
+- [Theo Schlossnagle](https://twitter.com/postwait): Founder and CEO at Circonus. Founder of SparkPost and OmniTI.
 - Thomas Lockney
-- VM (Vicky) Brasseur
+- [VM (Vicky) Brasseur](https://twitter.com/vmbrasseur): Author, speaker, and consultant for open source, technology, community, business, and the intersections between them.
