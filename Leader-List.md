@@ -2,6 +2,7 @@
 
 Leaders and thinkers who frequently write/speak/tweet about tech leadership and work culture from a humble, progressive, well-rounded point of view. Names link to Twitter feeds.
 
+- [Andrea Goulet](https://twitter.com/andreagoulet): CEO @corgibytes. Founder http://LegacyCode.Rocks. Coder, communicator, mama.
 - [Angie Jones](https://twitter.com/techgirl1908): Automation Engineer @twitter, international speaker, certified Java programmer, master inventor, advocate of women and minorities in tech.
 - Anil Dash
 - [Anjuan Simmons](https://twitter.com/anjuan): Technical Program Manager, speaker, writer, storyteller.
@@ -13,7 +14,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - Dan North
 - [Erica Joy Baker](https://twitter.com/EricaJoy): Senior Engineer at Slack Technologies and advocate for diversity and inclusion in tech, and expanding access to tech education.
 - Francesc Campoy
-- Gregory Brown
+- [Gregory Brown](https://twitter.com/practicingdev): Author of the O'Reilly book "Programming Beyond Practices."
 - Gregory Mazurek
 - Heather Fleming
 - [Jason Fried](https://twitter.com/jasonfried): Founder & CEO at http://basecamp.com. Co-author of Getting Real, Remote, and NYT Bestseller REWORK.
@@ -22,10 +23,12 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Jerry Colonna](https://twitter.com/jerrycolonna): Coach and CEO @RebootHQ.
 - Jez Humble
 - [Joe Goldberg](https://twitter.com/bostonsteamer): Founding Father of this List.
+- [Joel Spolsky](https://twitter.com/spolsky): CEO of Stack Overflow, co-founder of Fog Creek Software (Glitch, FogBugz), and creator of Trello. NYC gay techie.
 - John Allspaw
 - [Juliet Funt](https://twitter.com/whitespaceatwrk): CEO WhiteSpace at Work.
+- [Kellan Eliot-McCrea](https://twitter.com/kellan): Fixing healthcare @ Blink Health. Previously CTO at Etsy, Flickr Architect. Technical solutions for social problems.
 - Kelsey Hightower
-- Lara Hogan
+- [Lara Hogan](https://twitter.com/lara_hogan): Author of Demystifying Public Speaking, and Designing for Performance.
 - [Linda Rising](https://twitter.com/RisingLinda): Agile 75-year-old world traveler, interested in patterns and change and retrospectives and how the brain works/
 - Mathias Meyer
 - Michael Bryzek
@@ -37,10 +40,11 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - Randy Shoup
 - Raphael Crawford-Marks
 - [Ryan Burgess](https://twitter.com/burgessdryan): Software Engineering Manager at @Netflix. Lover of #JavaScript! The Canadian voice on the @FrontEndHH podcast.
-- Sandro Mancuso
+- [Sandro Mancuso](https://twitter.com/sandromancuso): Software craftsman @codurance, author of [The Software Craftsman](http://goo.gl/b9EymU), speaker, founder of the London Software Craftsmanship Community.
 - [Sarah Mei](https://twitter.com/sarahmei): Software dev, founder of @railsbridge, Director of Ruby Central, Chief Consultant of @devmyndsoftware.
-- Steve Francia
+- [Steve Francia](https://twitter.com/spf13): Golang team at Google, Drupal Board Member, author, speaker, developer, creator of @gohugoio, Cobra and spf13-vim, formerly of Docker and MongoDB.
 - [Steven Sinofsky](https://twitter.com/stevesi): Board Partner @a16z, adviser @BoxHQ.
+- [Susan J. Fowler](https://twitter.com/susanthesquark): Editor in Chief of @IncrementMag. Founder of @susansbookclub. The woman who started Uber's internal cultural reformation through her immense courage. 
 - [Theo Schlossnagle](https://twitter.com/postwait): Founder and CEO at Circonus. Founder of SparkPost and OmniTI.
 - Thomas Lockney
 - [VM (Vicky) Brasseur](https://twitter.com/vmbrasseur): Author, speaker, and consultant for open source, technology, community, business, and the intersections between them.
