@@ -57,6 +57,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Martin Fowler](https://twitter.com/martinfowler): Programmer, Loud Mouth, ThoughtWorker.
 - [Mary Poppendieck](https://twitter.com/mpoppendieck): Author of Lean Software Development, Implementing Lean Software Development, Leading Lean Software Development, and The Lean Mindset.
 - [Mathias Meyer](https://twitter.com/roidrage): CEO of Travis CI, frequent speaker and writer.
+- [Meri Williams](https://twitter.com/Geek_Manager): CTO @MOO, Speaker, Author. Co-curator & host @TheLeadDev. Advisor @wearethekindred.
 - [Michael Bryzek](https://twitter.com/mbryzek): Cofounder and CTO Flow.io. Co-founder and ex-CTO Gilt Groupe. Masters in CS from MIT.
 - [Michael Feathers](https://twitter.com/mfeathers): Director, R7K Research & Conveyance, author, speaker.
 - [Mikio Braun](https://twitter.com/mikiobraun): Delivery Lead at Zalando, helping search teams to become more autonomous and ownership-driven. Data scientist, frequent conference speaker. 
