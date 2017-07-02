@@ -30,6 +30,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Paul Graham’s Startup Advice for the Lazy](https://medium.com/swlh/graham-for-the-lazy-51a170dacc86): by Stelios Constantinides. All of Paul Graham’s startup advice summarized in one article.
 
+[The Product Dartboard](http://blog.carbonfive.com/2015/07/29/the-product-dartboard/): by Janet Brunckhorst at Carbon Five. Takeaway: offers a deep dive/description of a tool that assesses a team or individual against attributes associated with project success.
+
 - [Reminder: Your “Product” Company is Just an Implementation Detail](https://medium.com/from-the-start/building-a-feature-697344aefda2): by Jeremy Baker. Takeaway: The progress our customer wants to make is the most important thing. We think about our features and what they can do, and present them that way. When we do this, we’re "forcing our customer to do the hard work. They have to map features to their process and figure out if it helps them make progress ... Instead, talk about the progress our customer wants to make, and build tools that enable that progress."
 
 - [Scaling Airbnb with Brian Chesky — Class 18 Notes of Stanford University’s CS183C](https://medium.com/cs183c-blitzscaling-class-collection/scaling-airbnb-with-brian-chesky-class-18-notes-of-stanford-university-s-cs183c-3fcf75778358): by Chris McCann. Takeaway: about Airbnb’s “10 star service” thought experiment, in which they transcended the usual five-star review by adding five more measurements for success.
