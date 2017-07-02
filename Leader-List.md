@@ -3,38 +3,46 @@
 Leaders and thinkers who frequently write/speak/tweet about tech leadership and work culture from a humble, progressive, well-rounded point of view. Names link to Twitter feeds.
 
 - [Andrea Goulet](https://twitter.com/andreagoulet): CEO @corgibytes. Founder http://LegacyCode.Rocks. Coder, communicator, mama.
+- [Andrea Tomasini](https://twitter.com/tumma72): Enterprise Agile Coach (CEC) and Trainer (CST), a linchpin, an opinion maker, a follower, a leader.
 - [Angie Jones](https://twitter.com/techgirl1908): Automation Engineer @twitter, international speaker, certified Java programmer, master inventor, advocate of women and minorities in tech.
 - Anil Dash
 - [Anjuan Simmons](https://twitter.com/anjuan): Technical Program Manager, speaker, writer, storyteller.
 - [April Wensel](https://twitter.com/aprilwensel): Founder of Compassionate Coding (@compassioncode), software developer, speaker, writer.
+- [Boaz Sender](https://twitter.com/BoazSender): Director of Research at @Bocoup, with JS Foundation. Curating at @galleryopen, @mobiusartists board.
 - Brene Brown
 - Bridget Kromhout
 - Charity Majors
 - [Carol Willing](https://twitter.com/WillingCarol): Director, @ThePSF. @projectjupyter core dev. @calpoly research engineer. @fablabsd Geek in Res. @MITSloan @DukeU alum.
+- [Chris Aniszczyk](https://twitter.com/cra): Building @CloudNativeFdn @OCI_ORG / Open Source Pragmatist.
 - Dan North
+ - [Elisabeth Hendrickson](https://twitter.com/testobsessed): VP R&D, Data at @pivotal. Into radical collaboration and fast feedback.
 - [Erica Joy Baker](https://twitter.com/EricaJoy): Senior Engineer at Slack Technologies and advocate for diversity and inclusion in tech, and expanding access to tech education.
 - Francesc Campoy
 - [Gregory Brown](https://twitter.com/practicingdev): Author of the O'Reilly book "Programming Beyond Practices."
 - Gregory Mazurek
 - Heather Fleming
+- [Henrik Kniberg](https://twitter.com/henrikkniberg): agile coach, led lots of Spotify's efforts and documented them for the world to learn from, author.
+- [Jan Lehnardt](https://twitter.com/janl): Makes @couchdb @hoodiehq @jsconfeu @greenkeeperio & #offlinefirst Dissatisfied with the status-quo.
 - [Jason Fried](https://twitter.com/jasonfried): Founder & CEO at http://basecamp.com. Co-author of Getting Real, Remote, and NYT Bestseller REWORK.
 - Jeff Gothelf
 - Jerome Petazzoni
 - [Jerry Colonna](https://twitter.com/jerrycolonna): Coach and CEO @RebootHQ.
+- [Jessica McKellar](https://twitter.com/jessicamckellar): Startup founder, engineering director at Dropbox, Python Software Foundation.
 - Jez Humble
 - [Joe Goldberg](https://twitter.com/bostonsteamer): Founding Father of this List.
 - [Joel Spolsky](https://twitter.com/spolsky): CEO of Stack Overflow, co-founder of Fog Creek Software (Glitch, FogBugz), and creator of Trello. NYC gay techie.
 - John Allspaw
 - [Juliet Funt](https://twitter.com/whitespaceatwrk): CEO WhiteSpace at Work.
+- [Karen Sandler](https://twitter.com/o0karen0o): executive director of the Software Freedom Conservancy, speaker.
 - [Kellan Eliot-McCrea](https://twitter.com/kellan): Fixing healthcare @ Blink Health. Previously CTO at Etsy, Flickr Architect. Technical solutions for social problems.
 - Kelsey Hightower
 - [Lara Hogan](https://twitter.com/lara_hogan): Author of Demystifying Public Speaking, and Designing for Performance.
 - [Linda Rising](https://twitter.com/RisingLinda): Agile 75-year-old world traveler, interested in patterns and change and retrospectives and how the brain works/
 - Mathias Meyer
 - Michael Bryzek
-- Nithya Ruff
+- [Nithya Ruff](https://twitter.com/nithyaruff): Open source at Comcast; @linuxfoundation & @codechix BOD.
 - [Olaf Lewitz](https://twitter.com/OlafLewitz): The Trust Artist. CEC & @trusttemenos host.
-- Oren Ellenbogen
+- [Oren Ellenbogen](https://twitter.com/orenellenbogen): VP Engineering at Forter, curator of awesomeness at http://softwareleadweekly.com, author of http://leadingsnowflakes.com.
 - [Philip Guo](https://twitter.com/pgbovine): Assistant Professor of Cognitive Science - UC San Diego - human-computer interaction, online learning, computing education 
 - Rachel Davies
 - Randy Shoup
@@ -42,6 +50,8 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Ryan Burgess](https://twitter.com/burgessdryan): Software Engineering Manager at @Netflix. Lover of #JavaScript! The Canadian voice on the @FrontEndHH podcast.
 - [Sandro Mancuso](https://twitter.com/sandromancuso): Software craftsman @codurance, author of [The Software Craftsman](http://goo.gl/b9EymU), speaker, founder of the London Software Craftsmanship Community.
 - [Sarah Mei](https://twitter.com/sarahmei): Software dev, founder of @railsbridge, Director of Ruby Central, Chief Consultant of @devmyndsoftware.
+- [Sarah Sharp](https://twitter.com/sarahsharp): @ottertechllc founder. Diversity & inclusion consultant. Community metrics data miner. @outreachy admin.
+- [Simon Wardley](https://twitter.com/swardley): Corporate cartographer, chaotic evil, destroyer of undeserved value.
 - [Steve Francia](https://twitter.com/spf13): Golang team at Google, Drupal Board Member, author, speaker, developer, creator of @gohugoio, Cobra and spf13-vim, formerly of Docker and MongoDB.
 - [Steven Sinofsky](https://twitter.com/stevesi): Board Partner @a16z, adviser @BoxHQ.
 - [Susan J. Fowler](https://twitter.com/susanthesquark): Editor in Chief of @IncrementMag. Founder of @susansbookclub. The woman who started Uber's internal cultural reformation through her immense courage. 
