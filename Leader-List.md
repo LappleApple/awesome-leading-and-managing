@@ -46,7 +46,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Kelsey Hightower](https://twitter.com/kelseyhightower): Open Source advocate at Google, frequent speaker, minimalist.
 - [Lara Hogan](https://twitter.com/lara_hogan): Author of Demystifying Public Speaking, and Designing for Performance.
 - [Linda Rising](https://twitter.com/RisingLinda): Agile 75-year-old world traveler, interested in patterns and change and retrospectives and how the brain works.
-- [Mackenzie Kosut](https://twitter.com/mkosut: Global Startup Evangelist for @AWSCloud. Formerly helped build @betterment, @oscarhealth, @tumblr, @mtv, and more.
+- [Mackenzie Kosut](https://twitter.com/mkosut): Global Startup Evangelist for @AWSCloud. Formerly helped build @betterment, @oscarhealth, @tumblr, @mtv, and more.
 - [Mathias Meyer](https://twitter.com/roidrage): CEO of Travis CI, frequent speaker and writer.
 - Michael Bryzek
 - [Michael Feathers](https://twitter.com/mfeathers): Director, R7K Research & Conveyance, author, speaker.
