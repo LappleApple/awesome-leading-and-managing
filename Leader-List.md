@@ -45,6 +45,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [John Allspaw](https://twitter.com/allspaw): Former CTO, Etsy. Dad. Author. Guitarist. Student of sociotechnical systems, human factors, and cognitive systems engineering.
 - [John Arundel](https://twitter.com/bitfield): Helps with devops, Puppet, Docker, etc. Ally. Author, The Puppet Beginner's Guide: http://amzn.to/2sJYLvc.
 - [Josh Simmons](https://twitter.com/joshsimmons): Google open source, @opensourceorg director/CFO, @librariesio and @utos advisor.
+- [Julie Zhuo](https://twitter.com/joulee): Product design VP @ Facebook.
 - [Juliet Funt](https://twitter.com/whitespaceatwrk): CEO WhiteSpace at Work.
 - [Kate Heddleston](https://twitter.com/heddle317): Engineer, leader, frequent speaker on onboarding, people management, and how to build web applications.
 - [Karen Sandler](https://twitter.com/o0karen0o): executive director of the Software Freedom Conservancy, speaker.
