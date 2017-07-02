@@ -3,7 +3,7 @@
 Leaders and thinkers who frequently write/speak/tweet about tech leadership and work culture from a humble, progressive, well-rounded point of view. Names link to Twitter feeds.
 
 - [Adam Tornhill](https://twitter.com/AdamTornhill): Programmer, psychologist, Lisp hacker, author and speaker. Founder of Empear and https://codescene.io/.
-- [Adrian Cockcroft](): VP of Cloud Architecture at AWS, formerly Battery Park Ventures and Sun, frequent speaker, microservices thought leader.
+- [Adrian Cockcroft](https://twitter.com/adrianco): VP of Cloud Architecture at AWS, formerly Battery Ventures, Netflix, eBay, and Sun, frequent speaker, microservices thought leader.
 - [Adrian Trenaman](): 
 - [Andrea Goulet](https://twitter.com/andreagoulet): CEO @corgibytes. Founder http://LegacyCode.Rocks. Coder, communicator, mama.
 - [Andrea Tomasini](https://twitter.com/tumma72): Enterprise Agile Coach (CEC) and Trainer (CST), a linchpin, an opinion maker, a follower, a leader.
@@ -11,33 +11,39 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - Anil Dash
 - [Anjuan Simmons](https://twitter.com/anjuan): Technical Program Manager, speaker, writer, storyteller.
 - [April Wensel](https://twitter.com/aprilwensel): Founder of Compassionate Coding (@compassioncode), software developer, speaker, writer.
+- [Aviran Mordo](https://twitter.com/aviranm): Developer, Tech junky, Continuous Delivery Expert, Advocate of Dev Centric Culture and Head of Engineering @ Wix.
 - [Boaz Sender](https://twitter.com/BoazSender): Director of Research at @Bocoup, with JS Foundation. Curating at @galleryopen, @mobiusartists board.
 - Brene Brown
-- Bridget Kromhout
+- [Bridget Kromhout](https://twitter.com/bridgetkromhout): Principal Technologist for @cloudfoundry at @pivotal. Podcasts @arresteddevops. Organizes @devopsdays. Was ops at @DramaFever.
 - [Charity Majors](https://twitter.com/mipsytipsy): Engineer/CEO at @honeycombio, formerly Parse/Facebook, frequent speaker.
 - [Carol Willing](https://twitter.com/WillingCarol): Director, @ThePSF. @projectjupyter core dev. @calpoly research engineer. @fablabsd Geek in Res. @MITSloan @DukeU alum.
 - [Chris Aniszczyk](https://twitter.com/cra): Building @CloudNativeFdn @OCI_ORG / Open Source Pragmatist.
-- Dan North
+- [Dan North](https://twitter.com/tastapod): Optimizer of organizations, teams and software, programmer, Agile coach, technologist, troublemaker. Christian, husband, occasional blogger.
+- [Danese Cooper](https://twitter.com/DivaDanese): Open Source and InnerSource at PayPal. Fequent speaker, writer.
+- [Daniel Bryant](https://twitter.com/danielbryantuk): biz/dev/qa/ops, teacher, student, traveller, runner, CTO @SpectoLabs, @InfoQ editor, @DevoxxUK, @oscon, @ContainerSched, @jaxlondon.
 - [Dave Lester](https://twitter.com/davelester): Open source at Apple. Interested in where tech and communities intersect.
 - [Duane O'Brien](https://twitter.com/DuaneOBrien): Open Source Programs Evangelist at PayPal, speaker, advocate of diversity/inclusion.
 - [Elisabeth Hendrickson](https://twitter.com/testobsessed): VP R&D, Data at @pivotal. Into radical collaboration and fast feedback.
 - [Erica Joy Baker](https://twitter.com/EricaJoy): Senior Engineer at Slack Technologies and advocate for diversity and inclusion in tech, and expanding access to tech education.
-- Francesc Campoy
+- [Francesc Campoy](https://twitter.com/francesc): Señor Developer Advocate for @GoogleCloud, Gopher, Catalan, Gaygler - perennial learner of things. One half of @GCPPodcast.
 - [Gregory Brown](https://twitter.com/practicingdev): Author of the O'Reilly book "Programming Beyond Practices."
 - Gregory Mazurek
 - Heather Fleming
+- [Helena Edelson](https://twitter.com/helenaedelson): Distributed Systems, Big Data & Infra Engineer @Apple. Speaker. FP, Scala, Intelligent self healing systems. Streaming. Cassandra MVP.
 - [Henrik Kniberg](https://twitter.com/henrikkniberg): agile coach, led lots of Spotify's efforts and documented them for the world to learn from, author.
 - [Isabel Drost-Fromm](https://twitter.com/MaineC): Open Source Strategist at Europace.de, Apache Software Foundation, Berlin Buzzwords founder, frequent speaker and creator of things.
+- [Jamie Allen](https://twitter.com/jamie_allen): Noted Lambda hater. Author of Effective Akka, contributor to Reactive Design Patterns. Engineering Head at Starbucks, formerly of Lightbend.
 - [Jan Lehnardt](https://twitter.com/janl): Makes @couchdb @hoodiehq @jsconfeu @greenkeeperio & #offlinefirst Dissatisfied with the status-quo.
 - [Jason Fried](https://twitter.com/jasonfried): Founder & CEO at http://basecamp.com. Co-author of Getting Real, Remote, and NYT Bestseller REWORK.
 - Jeff Gothelf
 - [Jerome Petazzoni](https://twitter.com/jpetazzo): Docker, containers, frequent speaker, better writer than he might realize, connector.
 - [Jerry Colonna](https://twitter.com/jerrycolonna): Coach and CEO @RebootHQ.
 - [Jessica McKellar](https://twitter.com/jessicamckellar): Startup founder, engineering director at Dropbox, Python Software Foundation.
-- Jez Humble
+- [Jez Humble](https://twitter.com/jezhumble): Co-author of Continuous Delivery, Lean Enterprise, DevOps Handbook. CTO @devops_research, lecturer @UCBerkeley, ex- @18F.
 - [Joe Goldberg](https://twitter.com/bostonsteamer): Founding Father of this List.
 - [Joel Spolsky](https://twitter.com/spolsky): CEO of Stack Overflow, co-founder of Fog Creek Software (Glitch, FogBugz), and creator of Trello. NYC gay techie.
-- John Allspaw
+- [John Allspaw](https://twitter.com/allspaw): Former CTO, Etsy. Dad. Author. Guitarist. Student of sociotechnical systems, human factors, and cognitive systems engineering.
+- [John Arundel](https://twitter.com/bitfield): Helps with devops, Puppet, Docker, etc. Ally. Author, The Puppet Beginner's Guide: http://amzn.to/2sJYLvc.
 - [Josh Simmons](https://twitter.com/joshsimmons): Google open source, @opensourceorg director/CFO, @librariesio and @utos advisor.
 - [Juliet Funt](https://twitter.com/whitespaceatwrk): CEO WhiteSpace at Work.
 - [Kate Heddleston](https://twitter.com/heddle317): Engineer, leader, frequent speaker on onboarding, people management, and how to build web applications.
@@ -47,6 +53,8 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Lara Hogan](https://twitter.com/lara_hogan): Author of Demystifying Public Speaking, and Designing for Performance.
 - [Linda Rising](https://twitter.com/RisingLinda): Agile 75-year-old world traveler, interested in patterns and change and retrospectives and how the brain works.
 - [Mackenzie Kosut](https://twitter.com/mkosut): Global Startup Evangelist for @AWSCloud. Formerly helped build @betterment, @oscarhealth, @tumblr, @mtv, and more.
+- [Martin Fowler](https://twitter.com/martinfowler): Programmer, Loud Mouth, ThoughtWorker.
+- [Mary Poppendieck](https://twitter.com/mpoppendieck): Author of Lean Software Development, Implementing Lean Software Development, Leading Lean Software Development, and The Lean Mindset.
 - [Mathias Meyer](https://twitter.com/roidrage): CEO of Travis CI, frequent speaker and writer.
 - Michael Bryzek
 - [Michael Feathers](https://twitter.com/mfeathers): Director, R7K Research & Conveyance, author, speaker.
@@ -58,7 +66,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Philip Guo](https://twitter.com/pgbovine): Assistant Professor of Cognitive Science - UC San Diego - human-computer interaction, online learning, computing education 
 - [Rachel Davies](https://twitter.com/rachelcdavies): Lead Engineer at Makers Academy. Past practitioner of eXtreme Programming (XP) at Unruly. Co-author of "Agile Coaching" book.
 - [Randy Shoup](https://twitter.com/randyshoup): VP Engineering at Stitch Fix (former eBay, Google).
-- Raphael Crawford-Marks
+- [Raphael Crawford-Marks](https://twitter.com/raphaelcm): CEO @Bonusly. Alumnus of @Looksharp, @SquareTrade, @PeaceCorps, @HampshireColg.
 - [Ryan Burgess](https://twitter.com/burgessdryan): Software Engineering Manager at @Netflix. Lover of #JavaScript! The Canadian voice on the @FrontEndHH podcast.
 - [Sandi Metz](https://twitter.com/sandimetz): Cyclist, Rubyist, reluctant author (http://poodr.com), obsessive programmer, recalcitrant blogger.
 - [Sandro Mancuso](https://twitter.com/sandromancuso): Software craftsman @codurance, author of [The Software Craftsman](http://goo.gl/b9EymU), speaker, founder of the London Software Craftsmanship Community.
@@ -69,5 +77,5 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Steven Sinofsky](https://twitter.com/stevesi): Board Partner @a16z, adviser @BoxHQ.
 - [Susan J. Fowler](https://twitter.com/susanthesquark): Editor in Chief of @IncrementMag. Founder of @susansbookclub. The woman who started Uber's internal cultural reformation through her immense courage. 
 - [Theo Schlossnagle](https://twitter.com/postwait): Founder and CEO at Circonus. Founder of SparkPost and OmniTI.
-- Thomas Lockney
+- [Thomas Lockney](https://twitter.com/tlockney): Engineering Manager @Nike. Host of the Nike Tech Talks. Ally.
 - [VM (Vicky) Brasseur](https://twitter.com/vmbrasseur): Author, speaker, and consultant for open source, technology, community, business, and the intersections between them.
