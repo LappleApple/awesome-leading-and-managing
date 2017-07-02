@@ -27,6 +27,8 @@
   randomly, with interviewers doing their own thing. And so different
   combinations give different results. Injecting some sense of consistency
   should lead to evening out your interviewing process.
+  
+ - [How to Interview at Amazon - Leadership](https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson): by David Anderson. Takeaway: Though framed according to the activity of interviewing at Amazon and the company's principles, this detailed and thought-provoking article also provides insights on ideas on growing a team/tech organization; building a culture of customer-focused leaders; and much more.
 
 - [Let’s Stop Calling Them ‘Soft
   Skills’](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.m0rq6bldu):
