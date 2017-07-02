@@ -24,6 +24,8 @@
 
 - [Netflix Onboarding/Welcome Deck](https://docs.google.com/presentation/d/1bXrsLL9wwtbudLjnoG3F6J-NBcTTQ6KnGpukrSDmjW4): by Roy Rapoport
  
+- [On Failure and Resilience](https://beero.ps/2017/06/17/on-failure-and-resilience/): by Katherine Daniels. Takeaway: "It can be a challenge if you’re starting with or coming from a “blame and train” or “blame and shame” culture to a “blameless” or “blame-aware” one, but the focus on desired outcome and how people can work together to help resolve a situation in the moment as well as make the systems involved better equipped to handle situations in the future, can do wonders for system and organizational resilience."
+
 - [Programming Is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/): by Allison Parrish.
 
 - [Reorgs Happen](http://whilefalse.blogspot.co.il/2015/12/reorgs-happen.html): by Camille Fournier.
