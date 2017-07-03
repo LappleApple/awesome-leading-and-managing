@@ -1,6 +1,6 @@
 ## Diversity and Gender
 
-- [Argument Cultures and Unregulated Aggression](https://www.kateheddleston.com/blog/argument-cultures-and-unregulated-aggression): by Kate Heddleston. Takeaway: Arguments as a tool for decision making is hurting creativity and diversity. Unregulated arguments create hostile work environments by promoting a win-at-all-costs attitude.
+- [Argument Cultures and Unregulated Aggression](https://www.kateheddleston.com/blog/argument-cultures-and-unregulated-aggression): by Kate Heddleston. Takeaway: Using arguments as a tool for decision-making hurts creativity and diversity. Unregulated arguments create hostile work environments by promoting a win-at-all-costs attitude.
 
 - [Beginning with Ourselves. Using Data Science to Improve Diversity at Airbnb](https://medium.com/airbnb-engineering/beginning-with-ourselves-48c5ed46a703): by Riley Newman and Elena Grewal.
 
