@@ -8,13 +8,13 @@
   you value employees—whether that is talking up their accomplishments,
   investing in training, or just being there to talk.
 
-- [Culture Is the Spec, Process Is the Code](https://medium.com/@richarmstrong/culture-is-the-spec-process-is-the-code-ccb0df70514f): by Rich Armstrong.
+- [Culture Is the Spec, Process Is the Code](https://medium.com/@richarmstrong/culture-is-the-spec-process-is-the-code-ccb0df70514f): by Rich Armstrong. Takeway: Every process should be created around your culture. Just like your devs need specs in order to know what code to write, your company needs processes in order to implement culture. 
 
-- [Engineering Culture at Airbnb](http://nerds.airbnb.com/engineering-culture-airbnb): by Mike Curtis.
+- [Engineering Culture at Airbnb](http://nerds.airbnb.com/engineering-culture-airbnb): by Mike Curtis. Takeaway: Create a culture about helping others and celebrating their successes.
 
-- [Five Years, Building a Culture, and Handing It Off](http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off): by Kellan Elliott-McCrea.
+- [Five Years, Building a Culture, and Handing It Off](http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off): by Kellan Elliott-McCrea. Takeaway: Build a culture of learning, generosity and values.
 
-- [How Netflix Reinvented HR](http://hbr.org/2014/01/how-netflix-reinvented-hr/ar/pr): by Patty McCord.
+- [How Netflix Reinvented HR](http://hbr.org/2014/01/how-netflix-reinvented-hr/ar/pr): by Patty McCord. Takeaway: Hire only people who are able to put your company’s interests first.
 
 - [How to Get Engineering Teams to Eat Their Vegetables](https://medium.com/@duretti/how-to-get-engineering-teams-to-eat-their-vegetables-83e0f83af71a): by Duretti Hirpa.
 
