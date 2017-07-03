@@ -19,7 +19,7 @@ Please share/promote your favorite managing and leading resources/go-to's (books
 - Giving Feedback, Praise, and Advice
 - [Hiring and Firing](Hiring-and-Firing.md)
 - [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
-- [Leader List](Leader-List.md) **(in progress)**
+- [Leader List](Leader-List.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
 - Motivation and “Retention” (we hate that word)
 - [Onboarding](Onboarding.md)
