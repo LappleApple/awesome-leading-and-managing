@@ -1,12 +1,19 @@
 ## Hiring and Firing
 
 ### Hiring
+
 - [25 Tips for Diverse
   Hiring](https://modelviewculture.com/pieces/25-tips-for-diverse-hiring): by 
   Model View Culture. Takeaways: Externally, know what you want and be sure to
   actively pursue it. Internally, keep in mind hiring bias and internal culture.
   Ensure that your internals are prepared, as growing diversity is ultimately
   more important than hiring.
+
+- [7 Practical Ways to Reduce Bias in Your Hiring
+  Process](https://hbr.org/2017/06/7-practical-ways-to-reduce-bias-in-your-hiring-process):
+  By Rebecca Knight. Takeaways: Identify and actively seek to reduce bias. If
+  you aren't talking about bias, you aren't changing anything. Standardizing
+  your interview process reduces ability for subtle biases to creep in.
 
 - [Creating the Dream Team: Transform Your Engineering Organization to Attract New Talent](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/): by Andrew Hao. Takeaway: Focus more on building culture than offering perks. Assess your culture, set the example, and coach.
 
@@ -62,4 +69,4 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 
 - [Letting Someone Go With Dignity](https://boss.blogs.nytimes.com/2014/08/07/letting-someone-go-with-dignity/): by Rebekah Campbell. Takeaway: Let people save face, don't procrastinate, stick to any agreements, be clear about what happens next; announce it to the team together and let them say goodbye. Some good advice, though we're not sure you should go out for drinks with the person you just fired in every situation.
 
-[The Right Way to Fire Someone](https://hbr.org/2016/02/the-right-way-to-fire-someone): by Rebecca Knight. Takeaway: Don't drag your feet; make HR your ally; keep it short; stay in the room; show compassion; talk to your team; and focus on the future.
+- [The Right Way to Fire Someone](https://hbr.org/2016/02/the-right-way-to-fire-someone): by Rebecca Knight. Takeaway: Don't drag your feet; make HR your ally; keep it short; stay in the room; show compassion; talk to your team; and focus on the future.
