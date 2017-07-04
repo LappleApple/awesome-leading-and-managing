@@ -2,18 +2,18 @@
 
 ### Hiring
 
+- [7 Practical Ways to Reduce Bias in Your Hiring
+  Process](https://hbr.org/2017/06/7-practical-ways-to-reduce-bias-in-your-hiring-process):
+  by Rebecca Knight. Takeaways: Identify and actively seek to reduce bias. If
+  you aren't talking about bias, you aren't changing anything. Standardizing
+  your interview process reduces ability for subtle biases to creep in.
+  
 - [25 Tips for Diverse
   Hiring](https://modelviewculture.com/pieces/25-tips-for-diverse-hiring): by 
   Model View Culture. Takeaways: Externally, know what you want and be sure to
   actively pursue it. Internally, keep in mind hiring bias and internal culture.
   Ensure that your internals are prepared, as growing diversity is ultimately
   more important than hiring.
-
-- [7 Practical Ways to Reduce Bias in Your Hiring
-  Process](https://hbr.org/2017/06/7-practical-ways-to-reduce-bias-in-your-hiring-process):
-  By Rebecca Knight. Takeaways: Identify and actively seek to reduce bias. If
-  you aren't talking about bias, you aren't changing anything. Standardizing
-  your interview process reduces ability for subtle biases to creep in.
 
 - [Creating the Dream Team: Transform Your Engineering Organization to Attract New Talent](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/): by Andrew Hao. Takeaway: Focus more on building culture than offering perks. Assess your culture, set the example, and coach.
 
