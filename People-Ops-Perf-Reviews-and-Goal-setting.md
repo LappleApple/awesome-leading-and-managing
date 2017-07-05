@@ -38,7 +38,7 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 ### Performance Reviews
 
-http://en.wikipedia.org/wiki/360-degree_feedback
+- [360-Degree Feedback](http://en.wikipedia.org/wiki/360-degree_feedback): Wikipedia entry on the process for collecting feedback from a person's reports, peers, supervisors and self.
 
 Performance Review Best-Practices
 From a training course by Gary Ford from Uniquely HR
@@ -46,34 +46,17 @@ From a training course by Gary Ford from Uniquely HR
 List of mental models and Cognitive Bias cheatsheet
 “We see things not as they are but as we are.” I put these here because giving reviews is a place where bias lurks. Understand these and you’ll at least acknowledge that we’re all biased.
 
-What to think about before giving perf reviews
-You can work anywhere you’d like, I acknowledge the fact that I’m not doing you any favors
-What are they exceptionally great at?
-Which areas do they need to improve to be more valuable to the team/company/market?
-If it wasn’t me, I know that you’d be working for a great leader
-What can I do to help them grow that they wouldn’t get somewhere else?
-Which books or blog posts are interesting for them (remember past talks over lunch)?
-If it wasn’t in this company, I know that you’d be part of something big and meaningful.
-What can the company give them to help them grow that they wouldn’t get somewhere else?
+-[Decisions: What Makes Someone Have “Impact” Anyway?](https://medium.com/@skamille/decisions-7eed2bae82b3): by Camille Fournier. Takeaway: Expect people to make impact within the scope of the level they are operating at, so talk about impact and scope almost interchangeably. No matter what level: Good decisions → Trust → More responsibility → Impact.
 
-What makes someone have “impact” anyway?
-I put this here since the word “impact” shows up in skill-ladders and reviews
-We expect people to make impact within the scope of the level they are operating at
-So we talk about impact and scope almost interchangeably
-No matter what level: Good decisions → Trust → More responsibility → Impact
+- [Employee Reviews – Tips to Use Them as Motivation](http://katemats.com/employee-reviews-tips-use-them-as-motivation/): by 
+kate{mats}. Takeaway: keep them more positive than negative; attach constructive suggestions to negative points; ensure feedback is accurate and continuous; set clear expectations and guidance on how to achieve different ratings; round up when in doubt, end positively.
 
-Scaling Culture with Feedback
-Ask specific questions to see if people are living out our values
-One framework for doing quarterly reviews
+- [How to Be a Better Manager by Remembering 5 Simple Phrases](https://getlighthouse.com/blog/how-to-be-a-better-manager/): by Lighthouse. Takeaway: They are, “...that sounds important to you, let me write that down” (helps you keep your promises, and is a signal that you value what they said); "...what can we each do by next time to make progress on this?”; “Yes and...”; "...tell me about the last time that happened"; "...together...”
 
-Review tips from KateMats
+- [Scaling Culture with Feedback](https://wistia.com/blog/scaling-culture-with-feedback): by Chris Savage. Takeway: Ask specific questions to see if people are living out your values.
 
-5 Phrases to use
-“…that sounds important to you, let me write that down.” helps you keep your promises, and is a signal that you value what they said.
-“…what can we each do by next time to make progress on this?”
-“Yes and…”
-“…tell me about the last time that happened.”
-“…together…”
+- [Three Axioms Engineering Managers should use for Meaningful Performance Reviews](https://medium.com/@orenellenbogen/three-axioms-engineering-managers-should-use-for-meaningful-performance-reviews-4f520db06028): by Oren Ellenbogen. Takeway:
+Before giving perf reviews think about how the employee can work anywhere, what they're great at, improvement areas, how to help them grow, books/blog posts to recommend, and what else the company can offer to help them grow. 
 
 ### How to Review Managers
-Running a manager feedback cycle
+- [Running a Manager Feedback Cycle](https://cate.blog/2017/03/23/running-a-manager-feedback-cycle/): by Cate Huston. Provides a structured, transparent process for getting feedback as a manager. "It’s hard to get feedback as a manager, the hope was that people would be more candid if they 1) submitted feedback anonymously 2) to someone else. Because we tend to amplify negative feedback, there was a benefit to having someone else go through it, find trends, and repackage it for the recipient."
