@@ -35,23 +35,21 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [A Note on Feedback](http://andrewspittle.com/2016/02/23/a-note-on-feedback/): by Andrew Spittle. Takeaway: How to use the 3-2-1-Oh performance feedback chat, "a mix of a team member writing a self-assessment and a team lead writing a review. The conversation centers around answers to these bullet points: What are 3 things you’ve done well? What are 2 areas or skills you’d like to develop? What’s one way your team lead or Automattic itself can support you? And, oh, can you write a sentence or two about how you see your career developing?"
 
-
 ### Performance Reviews
+“We see things not as they are but as we are.” Giving reviews is a place where bias lurks. Understand the cognitive bias cheatsheet and mental models list and you’ll at least acknowledge that we’re all biased.
 
 - [360-Degree Feedback](http://en.wikipedia.org/wiki/360-degree_feedback): Wikipedia entry on the process for collecting feedback from a person's reports, peers, supervisors and self.
 
-Performance Review Best-Practices
-From a training course by Gary Ford from Uniquely HR
+- [Cognitive Bias Cheat Sheet, Simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f): by Buster Benson. Takeaway: The four condundrums that lead to biases are too much information, not enough meaning, not enough time and resources, and not enough memory.
 
-List of mental models and Cognitive Bias cheatsheet
-“We see things not as they are but as we are.” I put these here because giving reviews is a place where bias lurks. Understand these and you’ll at least acknowledge that we’re all biased.
-
--[Decisions: What Makes Someone Have “Impact” Anyway?](https://medium.com/@skamille/decisions-7eed2bae82b3): by Camille Fournier. Takeaway: Expect people to make impact within the scope of the level they are operating at, so talk about impact and scope almost interchangeably. No matter what level: Good decisions → Trust → More responsibility → Impact.
+- [Decisions: What Makes Someone Have “Impact” Anyway?](https://medium.com/@skamille/decisions-7eed2bae82b3): by Camille Fournier. Takeaway: Expect people to make impact within the scope of the level they are operating at, so talk about impact and scope almost interchangeably. No matter what level: Good decisions → Trust → More responsibility → Impact.
 
 - [Employee Reviews – Tips to Use Them as Motivation](http://katemats.com/employee-reviews-tips-use-them-as-motivation/): by 
 kate{mats}. Takeaway: keep them more positive than negative; attach constructive suggestions to negative points; ensure feedback is accurate and continuous; set clear expectations and guidance on how to achieve different ratings; round up when in doubt, end positively.
 
 - [How to Be a Better Manager by Remembering 5 Simple Phrases](https://getlighthouse.com/blog/how-to-be-a-better-manager/): by Lighthouse. Takeaway: They are, “...that sounds important to you, let me write that down” (helps you keep your promises, and is a signal that you value what they said); "...what can we each do by next time to make progress on this?”; “Yes and...”; "...tell me about the last time that happened"; "...together...”
+
+- [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d): by Gabriel Weinberg. A comprehensive list of mental models to make you aware of biases and assumptions.
 
 - [Scaling Culture with Feedback](https://wistia.com/blog/scaling-culture-with-feedback): by Chris Savage. Takeway: Ask specific questions to see if people are living out your values.
 
