@@ -24,7 +24,7 @@ Please share/promote your favorite managing and leading resources/go-to's (books
 - Motivation and “Retention” (we hate that word)
 - [Onboarding](Onboarding.md)
 - [One-on-Ones](One-on-Ones.md)
-- [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md) **(in progress)**
+- [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md)
 - Postmortems, Retrospectives, and Conflict Resolution
 - [Time Management and Meetings](Time-Management-and-Meetings.md)
 - [Transitioning to Management (and Managing Managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
