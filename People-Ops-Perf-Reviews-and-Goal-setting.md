@@ -4,9 +4,6 @@
 
 - [From HR to People Ops: When and Why To Start a People Team](https://open.buffer.com/people-team/): by Courtney Seiter at Buffer. Covers when to start a People team, and what to consider: team size and/or growth rate, start before you need one, and your reasons. Four why's to start a team: to change the world, increase diversity, succeed, and allow your teammates to succeed.
 
-### Career Development Conversations
-TBD.
-
 ### Dev Leveling Guides—aka Engineering Ladders
 It’s hard to get these right. Just b/c they work for one org doesn’t mean they’ll work for yours.
 
@@ -33,8 +30,6 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Lightweight, Continuous Goal-Setting](https://docs.google.com/document/d/1XRfTZ_tmL-N-Mudu0uniIWmCOycUviXmefbSZ6ZDv1w/edit): notes by Joe Goldberg. Takeaway: Set, evaluate and adjust goals on a regular basis. This doc contains goal-setting objectives, steps, tips, and a quarterly email template.
 
-- [A Note on Feedback](http://andrewspittle.com/2016/02/23/a-note-on-feedback/): by Andrew Spittle. Takeaway: How to use the 3-2-1-Oh performance feedback chat, "a mix of a team member writing a self-assessment and a team lead writing a review. The conversation centers around answers to these bullet points: What are 3 things you’ve done well? What are 2 areas or skills you’d like to develop? What’s one way your team lead or Automattic itself can support you? And, oh, can you write a sentence or two about how you see your career developing?"
-
 ### Performance Reviews
 “We see things not as they are but as we are.” Giving reviews is a place where bias lurks. Understand the cognitive bias cheatsheet and mental models list and you’ll at least acknowledge that we’re all biased.
 
@@ -50,6 +45,8 @@ kate{mats}. Takeaway: keep them more positive than negative; attach constructive
 - [How to Be a Better Manager by Remembering 5 Simple Phrases](https://getlighthouse.com/blog/how-to-be-a-better-manager/): by Lighthouse. Takeaway: They are, “...that sounds important to you, let me write that down” (helps you keep your promises, and is a signal that you value what they said); "...what can we each do by next time to make progress on this?”; “Yes and...”; "...tell me about the last time that happened"; "...together...”
 
 - [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d): by Gabriel Weinberg. A comprehensive list of mental models to make you aware of biases and assumptions.
+
+- [A Note on Feedback](http://andrewspittle.com/2016/02/23/a-note-on-feedback/): by Andrew Spittle. Takeaway: How to use the 3-2-1-Oh performance feedback chat, "a mix of a team member writing a self-assessment and a team lead writing a review. The conversation centers around answers to these bullet points: What are 3 things you’ve done well? What are 2 areas or skills you’d like to develop? What’s one way your team lead or Automattic itself can support you? And, oh, can you write a sentence or two about how you see your career developing?"
 
 - [Scaling Culture with Feedback](https://wistia.com/blog/scaling-culture-with-feedback): by Chris Savage. Takeway: Ask specific questions to see if people are living out your values.
 
