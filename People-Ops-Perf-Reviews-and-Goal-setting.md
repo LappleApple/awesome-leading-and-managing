@@ -7,6 +7,14 @@
 ### Dev Leveling Guides—aka Engineering Ladders
 It’s hard to get these right. Just b/c they work for one org doesn’t mean they’ll work for yours.
 
+- [On Being A Senior
+  Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/):
+  by John Allspaw. Focusing on attributing "Senior" to "Mature". Covers aspects
+  of being social. Mature engineers are at least aware of their ego, able to
+  take into account the feelings and egos of their fellow engineers, and work 
+  through them all to achieve great things. This tends to make them engineers
+  that other engineers want to work with.
+
 - [Open Source Culture](http://whilefalse.blogspot.com/2015/10/open-source-culture.html): by Camille Fournier. A post on Rent the Runway's engineering ladder, by the company's now-former CTO.
 
 - [Programmer Competency Matrix](http://www.starling-software.com/employment/programmer-competency-matrix.html): by Starling Software. Great for tech skills, but would need substantial work to capture what it means to be a well-rounded dev ("client focus," "product ownership," etc). We like it for what it is ("technical only"). You'd need to add the other sections.
