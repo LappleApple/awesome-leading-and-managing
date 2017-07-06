@@ -23,6 +23,8 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [How to Lead a Team](https://drt.fm/simon-sinek) (podcast): by Simon Sinek. Fun trivia: Joe Goldberg, the originator of this Awesome list, realized through this podcast that "You can’t manage people, you can only lead them. You can only manage processes."
 
+- [The Key To Employee-Empowering Leadership](https://www.forbes.com/sites/forbescoachescouncil/2017/06/14/the-key-to-employee-empowering-leadership/#74f950561267): by Ed Krow, an HR consultant. Takeaway: Empower people, let go, learn to take calculated risks, create incentives/compensation.  
+
 - [Lazy Leadership: Thinking of Your Org as a Machine](https://medium.com/flow/lazy-leadership-8ba19e34f959#.mixfpu15t): by Andrew Wilkinson. Takeaway: "It’s about spending time on what matters and what you’re good at, then leaving everything else to your team. Giving up on the idea that you have to drive yourself into the ground in order to run a successful company, and thinking about your business as a machine that you design and optimize, instead of becoming a worn out cog within."
 
 - [Leadership FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.e0uby6of3): Essay by Henry Ward that offers a concise list of essential questions with clear, thought-provoking answers. For example: "How do I give negative feedback? *By being curious.*."
@@ -49,9 +51,13 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [How I Failed](https://www.oreilly.com/ideas/how-i-failed): by Tim O'Reilly. The founder of O'Reilly writes "a candid post about some of the things that kept me, my employees, and our company from achieving our full potential."
 
+- [DevOps Days Keynote](https://www.youtube.com/watch?v=36S7N7OZSTI&t=45m30s&app=desktop): by Kelsey Hightower. Takeaway: a riveting, personal, and slide-free keynote in which Hightower underscores the importance of "giving a damn."
+
 - [10 Senior Leadership Lessons I Wish I Learned Sooner](https://twitter.com/i/moments/874780733146939392): by Julie Grace. Takeaways: Grace's observations from growing from a junior manager to senior manager to running a whole organization (Director of Infrastructure Engineering at Slack). Less guidance is better, get comfortable with accountability, communication with peers/upper management/teams is key.
 
 - [To Be a Great Leader, Rethink Your Default Behaviors](https://medium.com/ideo-stories/to-be-a-great-leader-rethink-your-default-behaviors-c762ffd59450): by Deirdre Cerminaro. Takeaway: Working with IDEO’s CEO Tim Brown reiterated the values to "act with humility," not pride; "trust the intuition of others," don’t be a skeptic; "encourage half-baked ideas," don’t require them to be polished; "inspire, don’t instruct"; and "model behaviors, don’t dictate them."
+
+- [Vulnerability and Leadership](https://www.youtube.com/watch?v=e8YtQDiiT1U) (video): by Brene Brown, researcher, author and storyteller. Takeaway: In this TED talk, Dr. Brown discusses connection/lack thereof, shame (the fear of disconnection and being unworthy of connection). Connection and being aware of its need results in more effective leadership because one can then reach/inspire/enliven people.
 
 - [What it's Really Like Working with Steve Jobs](http://inventor-labs.com/blog/2011/10/12/what-its-really-like-working-with-steve-jobs.html)" by Glenn Reid. Takeaway: Reid describes designing products with Jobs as a type of "cauldron"-like investigation in which ideas formed around an iteration and who thought up the idea didn't matter. The process put more focus on the ideas and less on Jobs, specific others in the room, or ego. 
 
@@ -72,6 +78,8 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [The Three Types of Leaders The World Needs Most: Artistic, Scientific and Interpersonal](https://www.forbes.com/sites/georgebradt/2014/01/29/the-three-types-of-leaders-the-world-needs-most-artistic-scientific-and-interpersonal/): *Forbes* article by George Bradt. Takeaway: *artistic* leaders inspire by influencing feelings and perceptions; *scientific leaders* influence and inspire knowledge with their thinking and ideas; and *interpersonal* leaders "can be found ruling, guiding and inspiring at the head of their interpersonal cohort whether it’s a team, organization, or political entity." They're not mutually exclusive.
 
+- [Watch: Google's Research on Making Managers Awesome](https://rework.withgoogle.com/blog/watch-googles-research-on-awesome-managers/): by re:Work/Google. Takeway: includes video and insights gained through Project Oxygen, Google's research into management. Includes Google's eight manager behaviors: 1) is a good coach; 2) empowers the team and doesn't micromanage; 3) expresses interest/concern for team members' success and personal well-being; 4) is productive and results-oriented; 5) is a good communicator; 6) helps with career development; 7) has a clear vision/strategy for the team; and 8) has important technical skills that help him/her advise the team. 
+
 - [Why Supercell’s Founder Wants to Be the World’s Least Powerful CEO](https://www.linkedin.com/pulse/why-supercells-founder-wants-worlds-least-powerful-ceo-de-rycker): by Sonali De Rycker. Takeaway from CEO Ilkka Paananen: "My goal is to be the world’s least powerful CEO. What I mean by this is that the fewer decisions I make, the more the teams are making."
 
 ### Quotes on Leadership
@@ -83,6 +91,8 @@ This topic comes first, because the following articles offer great frameworks/de
 - "If your actions inspire others to dream more, learn more, do more and become more, you are a leader." — John Quincy Adams
  
 - "Mistakes are expected, respected, inspected, and corrected." — unknown
+
+- "No (wo)man is really defeated unless (s)he is discouraged." — Bruce Lee
 
 - "No one is going to follow you anywhere, anytime until you have earned the right to lead." — [George Bradt](https://www.forbes.com/sites/georgebradt/2017/02/08/how-to-get-others-to-follow-when-you-lead-by-example/#34ffeffc145a) 
 
