@@ -21,7 +21,7 @@ Please share/promote your favorite managing and leading resources/go-to's (books
 - [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
 - [Leader List](Leader-List.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
-- Motivation and “Retention” (we hate that word)
+- [Motivation and “Retention”](/Motivation-Retention.md) **in progress**
 - [Onboarding](Onboarding.md)
 - [One-on-Ones](One-on-Ones.md)
 - [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md)
