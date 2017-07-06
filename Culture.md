@@ -1,8 +1,8 @@
 ## Culture
 
-- [Creating the Dream Team: Transform Your Engineering Organization to Attract
-  New
-  Talent](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/): by Andrew Hao. Takeaway: Start with evaluating your current culture's strengths and weaknesses. Be in tune with your org. Make sure you demonstrate that you value employees—whether that is talking up their accomplishments, investing in training, or just being there to talk.
+- [Changing Company Culture Requires a Movement, Not a Mandate](https://hbr.org/2017/06/changing-company-culture-requires-a-movement-not-a-mandate): by Bryan WalkerSarah A. Soule. Takeaway: "[C]ulture change can’t be achieved through top-down mandate. It lives in the collective hearts and habits of people and their shared perception of “how things are done around here.” Someone with authority can demand compliance, but they can’t dictate optimism, trust, conviction, or creativity." To reiterate: This also applies to the best-intentioned culture changes, including agile transformations. You might have the best intentions in the world, but if your team doesn't see the value or direction of the change, don't expect them to adapt.
+
+- [Creating the Dream Team: Transform Your Engineering Organization to Attract New Talent](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/): by Andrew Hao. Takeaway: Start with evaluating your current culture's strengths and weaknesses. Be in tune with your org. Make sure you demonstrate that you value employees—whether that is talking up their accomplishments, investing in training, or just being there to talk.
 
 - [Culture Is the Spec, Process Is the Code](https://medium.com/@richarmstrong/culture-is-the-spec-process-is-the-code-ccb0df70514f): by Rich Armstrong. Takeway: Create every process around your culture. Just like your devs need specs in order to know what code to write, your company needs processes in order to implement culture. 
 
