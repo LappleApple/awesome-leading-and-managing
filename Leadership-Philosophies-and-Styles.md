@@ -23,6 +23,8 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [How to Lead a Team](https://drt.fm/simon-sinek) (podcast): by Simon Sinek. Fun trivia: Joe Goldberg, the originator of this Awesome list, realized through this podcast that "You can’t manage people, you can only lead them. You can only manage processes."
 
+- [The Key To Employee-Empowering Leadership](https://www.forbes.com/sites/forbescoachescouncil/2017/06/14/the-key-to-employee-empowering-leadership/#74f950561267): by Ed Krow, an HR consultant. Takeaway: Empower people, let go, learn to take calculated risks, create incentives/compensation.  
+
 - [Lazy Leadership: Thinking of Your Org as a Machine](https://medium.com/flow/lazy-leadership-8ba19e34f959#.mixfpu15t): by Andrew Wilkinson. Takeaway: "It’s about spending time on what matters and what you’re good at, then leaving everything else to your team. Giving up on the idea that you have to drive yourself into the ground in order to run a successful company, and thinking about your business as a machine that you design and optimize, instead of becoming a worn out cog within."
 
 - [Leadership FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.e0uby6of3): Essay by Henry Ward that offers a concise list of essential questions with clear, thought-provoking answers. For example: "How do I give negative feedback? *By being curious.*."
