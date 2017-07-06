@@ -18,6 +18,8 @@
 
 - [Managing Unconscious Bias](https://managingbias.fb.com/): by Facebook.
 
+- [On Being a Female Program Manager at Microsoft](https://medium.com/@lindydonna/on-being-a-female-program-manager-at-microsoft-9be6aa9243f4): by Donna Malayeri. Takeaway: The author describes how poor management can stall one's career. Chaos, lack of empathy, biased feedback ("you're too aggressive/pushy/complaining") are all factors the author faced. "...I can’t help feeling that a man would have been treated differently. Perhaps there was unconscious bias at play; perhaps I didn’t act the way women should, and this bothered people. Despite my asking for bigger opportunities, I saw project after project handed to my peers instead of me. Without opportunities to do important work, my career stalled."
+
 - [Onboarding and the Cost of Team Debt](https://kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt): by Kate Heddleston.
 
 - [The Null Process](https://kateheddleston.com/blog/the-null-process): by Kate Heddleston.
@@ -25,3 +27,5 @@
 - [There's No 'Silver Bullet' to Increasing Diversity, but Here's How We're Making Progress](https://magoosh.com/blog/silver-bullet-diversity-progress/): by Bhavin Parikh.
 
 - [Ways Men in Tech Are Unintentionally Sexist](https://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/): by Kat Hagan.
+
+- [Women in Tech: We Need You ](https://dev.to/binarycodess/women-in-tech-we-need-you): by Kristina. A request to women to speak publicly, mentor, and become a role model. "We need to hear your experiences, your lessons, your failures and your successes. We need to hear them because you can never be sure who you’ll influence and whose life you’ll change."
