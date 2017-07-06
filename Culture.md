@@ -32,6 +32,8 @@
 
 - [Up or Out: Solving the IT Turnover Crisis](http://thedailywtf.com/articles/Up-or-Out-Solving-the-IT-Turnover-Crisis): by Alex Papadimoulis.
 
+- [Values Exercises to Build Vision in Your Company](https://www.happymelly.com/values-exercises-to-build-vision/): by Happy Melly. Exercises to help your organization identify its values, and a downloadable list of 250 options. 
+
 - [What Does It Mean to Be a Learning Organization?](https://docs.google.com/document/d/15xrkf9fC2cf9g7joK9ZXA16_Qd77PzxjJRjH-RIJpeQ): by Joe Goldberg.
 
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html): by Charles Duhhig.
