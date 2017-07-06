@@ -4,6 +4,8 @@
 
 - [From HR to People Ops: When and Why To Start a People Team](https://open.buffer.com/people-team/): by Courtney Seiter at Buffer. Covers when to start a People team, and what to consider: team size and/or growth rate, start before you need one, and your reasons. Four why's to start a team: to change the world, increase diversity, succeed, and allow your teammates to succeed.
 
+- [How HR Can Become Agile (and Why It Needs To)](https://hbr.org/2017/06/how-hr-can-become-agile-and-why-it-needs-to): by Jeff Gothelf. Takeaway: "In an agile organization, HR needs to provide the same services it’s always provided — hiring, professional development, performance management — but in ways that are responsive to the ongoing changes in the culture and work style of the organization."
+
 ### Dev Leveling Guides—aka Engineering Ladders
 It’s hard to get these right. Just b/c they work for one org doesn’t mean they’ll work for yours.
 
