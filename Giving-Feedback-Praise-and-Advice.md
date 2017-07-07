@@ -14,7 +14,11 @@
 
 - [Giving Feedback to high-performers](https://hbr.org/product/giving-effective-feedback-hbr-20-minute-manager-series/13999E-KND-ENG): by HBR
 
-- [How to get more feedback from your team](https://getlighthouse.com/blog/get-more-feedback-team): by Lighthouse
+- [How to get more feedback from your team](https://getlighthouse.com/blog/get-more-feedback-team): by Lighthouse. Takeaway
+1. Ask for specific 
+2. Be grateful and accept feedback
+3. Take action
+4. Lead by example and reciprocate
 
 - [How to give a compliment](http://randsinrepose.com/archives/rainbows-and-unicorns): by Michael Lopp
 
