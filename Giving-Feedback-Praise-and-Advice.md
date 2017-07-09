@@ -24,7 +24,12 @@
 
 - [How to give Employees Performance Feedback](https://www.amazon.com/Employees-Performance-Feedback-Resolve-Resistance-ebook/dp/B00B7MWZIK/ref=sr_1_1?ie=UTF8&qid=1457551985&sr=8-1&keywords=ross+blake+feedback): by Ross Blake. Takeaway: Managers are good at pointing out need for course-correction but fail to describe an alternative.
 
-- [Lessons on giving and receiving feedback](https://open.buffer.com/feedback): by Leo Widrich
+- [Lessons on giving and receiving feedback](https://open.buffer.com/feedback): by Leo Widrich.
+1. Understand why humans fundamentally need feedback
+2. See feedback as a kindness
+3. Giving feedback is a skill to improve on
+4. Give feedback on culture and role
+5. Receiving feedback is also a skill to improve on
 
 - [Performance Management](http://uniquelyhr.com): a training course by Gary Ford from [Uniquely HR](http://uniquelyhr.com) . 3 types : Proactive, Reinforcing specific successful behavior, Reactive
 
