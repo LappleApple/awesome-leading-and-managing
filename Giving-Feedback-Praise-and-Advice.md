@@ -22,7 +22,7 @@
 
 - [How to give a compliment](http://randsinrepose.com/archives/rainbows-and-unicorns): by Michael Lopp
 
-- [How to give Employees Performance Feedback](https://www.amazon.com/Employees-Performance-Feedback-Resolve-Resistance-ebook/dp/B00B7MWZIK/ref=sr_1_1?ie=UTF8&qid=1457551985&sr=8-1&keywords=ross+blake+feedback): by Ross Blake
+- [How to give Employees Performance Feedback](https://www.amazon.com/Employees-Performance-Feedback-Resolve-Resistance-ebook/dp/B00B7MWZIK/ref=sr_1_1?ie=UTF8&qid=1457551985&sr=8-1&keywords=ross+blake+feedback): by Ross Blake. Takeaway: Managers are good at pointing out need for course-correction but fail to describe an alternative.
 
 - [Lessons on giving and receiving feedback](https://open.buffer.com/feedback): by Leo Widrich
 
