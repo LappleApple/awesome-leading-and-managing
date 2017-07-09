@@ -26,6 +26,6 @@
 
 - [Lessons on giving and receiving feedback](https://open.buffer.com/feedback): by Leo Widrich
 
-- [Performance Management](http://uniquelyhr.com): a training course by Gary Ford from [Uniquely HR](http://uniquelyhr.com)
+- [Performance Management](http://uniquelyhr.com): a training course by Gary Ford from [Uniquely HR](http://uniquelyhr.com) . 3 types : Proactive, Reinforcing specific successful behavior, Reactive
 
 - [Radical Candor: give a damn & be willing to piss people off](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss): by Kim Scott. Why you have to offer "Radical Candor" ( Real friends tell you the ugly truth ) and forget about political correctness ( not pretty lies )
