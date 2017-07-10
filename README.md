@@ -3,12 +3,6 @@
 *If I have seen further, it is by standing on the shoulders of giants — Sir Isaac Newton <br>
 If I have not seen as far, it is because giants were standing on my shoulders — lots of people, including Leigh Caplan*
 
-## Intro/Context
-Transitioning to leadership from software development provides the opportunity to learn a lot. Since 2013-ish, [Joe Goldberg](https://twitter.com/bostonsteamer), who created the original document inspiring this list, read a crap-ton of books and articles about "leadership" and "management" and took notes along the way. He shared it with friends who were transitioning to management roles but kept it private to the world at-large. Then he decided to open-source it. [Here you'll find Joe's document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
-
-## Contribute Your Favorites
-Please share/promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
-
 ## Contents
 - [Culture](Culture.md) **in progress**
 - [Diversity and Gender](Diversity-and-Gender.md) **in progress**
@@ -25,6 +19,12 @@ Please share/promote your favorite managing and leading resources/go-to's (books
 - [Time Management and Meetings](Time-Management-and-Meetings.md)
 - [Transitioning to Management (and Managing Managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 - [When You're Not a "Manager": Leadership for Developers](Leadership-for-Developers.md)
+
+## Intro/Context
+Transitioning to leadership from software development provides the opportunity to learn a lot. Since 2013-ish, [Joe Goldberg](https://twitter.com/bostonsteamer), who created the original document inspiring this list, read a crap-ton of books and articles about "leadership" and "management" and took notes along the way. He shared it with friends who were transitioning to management roles but kept it private to the world at-large. Then he decided to open-source it. [Here you'll find Joe's document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
+
+## Contribute Your Favorites
+Please share/promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
 
 ## FAQ
 - [Who is this for?](#who-is-this-for)
