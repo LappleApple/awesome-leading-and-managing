@@ -14,9 +14,9 @@ Since 2013-ish, Joe has been keeping a collection of links and notes on the broa
 Please share/promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
 
 ## Table Of Contents
-- [Culture](Culture.md) **(links available, takeaways in progress)**
-- [Diversity and Gender](Diversity-and-Gender.md) **(links available, takeaways in progress)**
-- Giving Feedback, Praise, and Advice
+- [Culture](Culture.md) **in progress**
+- [Diversity and Gender](Diversity-and-Gender.md) **in progress**
+- [Giving Feedback, Praise, and Advice](Giving-Feedback-Praise-and-Advice.md) **in progress**
 - [Hiring and Firing](Hiring-and-Firing.md)
 - [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
 - [Leader List](Leader-List.md)
