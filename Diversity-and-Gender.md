@@ -10,6 +10,8 @@
 
 - [For an Inclusive Culture, Try Working Less](https://hackernoon.com/for-inclusive-culture-maybe-less-is-more-87b663662cea): by Rich Armstrong. Takeaway: "When our office culture is focused on business rather than socializing, we reduce the number of ways in which we all have to be the same. When we do that, we allow diversity to flourish. If your culture expects people to work long hours or hang out off-hours, the strain on the people who are different, in whatever way, is increased, and your ability to retain a diverse work force is reduced."
 
+- [How Men & Women See the Workplace Differently](http://graphics.wsj.com/how-men-and-women-see-the-workplace-differently/): a *Wall Street Journal* article on a study conducted by LeanIn.org and MicKinsey. "Data show that men win more promotions, more challenging assignments and more access to top leaders than women do. Men are more likely than women to feel confident they are en route to an executive role, and feel more strongly that their employer rewards merit."
+
 - [How Our Engineering Environments Are Killing Diversity (and How We Can Fix It)](https://www.youtube.com/watch?v=kNke_4WOWAU) (video): by Kate Heddleston.
 
 - [How Our Engineering Environments Are Killing Diversity: Introduction](https://kateheddleston.com/blog/how-our-engineering-environments-are-killing-diversity-introduction): by Kate Heddleston.
