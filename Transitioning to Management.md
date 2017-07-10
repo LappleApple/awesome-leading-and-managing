@@ -62,6 +62,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 ### Transitioning from Individual Contributor to Manager 
 
+- [So You Think You Want to Manage?](https://medium.com/the-year-of-the-looking-glass/so-you-think-you-want-to-manage-1229723a4501): by Julie Zhuo. Takeaway: Make sure your transition to management is an intentional and well informed decision by answering a bunch of questions.
+
 - [The 'Aha' Behind Leading Aha Moments](https://www.forbes.com/sites/georgebradt/2014/10/15/the-aha-behind-leading-aha-moments/#513e93a94505): by George Bradt. Takeaway: Aha moments are pleasurable, because the experience makes us feel smarter. Making others feel smart, not making others see how smart you are, is the goal.
 
 - [Assessing Technical Risks for Startups](http://katemats.com/assessing-technical-risks-for-startups-new-tech-leader-series/): by kate{mats}. Takeaway: "As a new technology executive it is imperative that you take the time to understand the technology strategy and risk and communicate that to senior management." Comes with a great checklist for doing just that.
