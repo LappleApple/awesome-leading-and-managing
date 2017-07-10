@@ -82,3 +82,4 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Theo Schlossnagle](https://twitter.com/postwait): Founder and CEO at Circonus. Founder of SparkPost and OmniTI.
 - [Thomas Lockney](https://twitter.com/tlockney): Engineering Manager @Nike. Host of the Nike Tech Talks. Ally.
 - [VM (Vicky) Brasseur](https://twitter.com/vmbrasseur): Author, speaker, and consultant for open source, technology, community, business, and the intersections between them.
+- [Zach Holman](https://twitter.com/holman): Founder, @duringapp. Previously: @github, @gild. advising: @gitlab, @stackshareio, @dockbit.
