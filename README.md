@@ -1,18 +1,18 @@
 ## Awesome Leadership and Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Contents
-- [Culture](Culture.md) **in progress**
-- [Diversity and Gender](Diversity-and-Gender.md) **in progress**
-- [Giving Feedback, Praise, and Advice](Giving-Feedback-Praise-and-Advice.md) **in progress**
+- [Conflict Resolution, Postmortems and Retrospectives](Conflict-Resolution-Postmortems-Retrospectives.md)
+- [Culture](Culture.md)
+- [Diversity and Gender](Diversity-and-Gender.md)
+- [Giving Feedback, Praise, and Advice](Giving-Feedback-Praise-and-Advice.md)
 - [Hiring and Firing](Hiring-and-Firing.md)
 - [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
 - [Leader List](Leader-List.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
-- [Motivation and “Retention”](/Motivation-Retention.md) **in progress**
+- [Motivation and “Retention”](/Motivation-Retention.md)
 - [Onboarding](Onboarding.md)
 - [One-on-Ones](One-on-Ones.md)
 - [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md)
-- [Conflict Resolution, Postmortems and Retrospectives](Conflict-Resolution-Postmortems-Retrospectives.md) **in progress**
 - [Time Management and Meetings](Time-Management-and-Meetings.md)
 - [Transitioning to Management (and Managing Managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 - [When You're Not a "Manager": Leadership for Developers](Leadership-for-Developers.md)
