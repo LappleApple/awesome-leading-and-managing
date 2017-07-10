@@ -1,5 +1,7 @@
 ## Giving Feedback, Praise and Advice
 
+- [How and Why You Need to Recognize Your Executives](http://blog.bonus.ly/how-and-why-you-need-to-recognize-your-executives?utm_content=56841793&utm_medium=social&utm_source=twitter): by Jessica Collins. Takeaway: Leaders are people too, and giving them feedback keeps them in touch with the organization, and motivates them to continue doing the "right" things.
+
 - [How to Get More Feedback from Your Team](https://getlighthouse.com/blog/get-more-feedback-team): by Lighthouse.
 
 - [How to Give a Compliment](http://randsinrepose.com/archives/rainbows-and-unicorns): by Michael Lopp.
