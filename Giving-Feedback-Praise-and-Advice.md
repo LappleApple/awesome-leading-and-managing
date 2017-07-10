@@ -1,6 +1,6 @@
 ## Giving Feedback, Praise and Advice
 
-- [Can Your Employees Really Speak Freely?](https://hbr.org/2016/01/can-your-employees-really-speak-freely): by James R. DetertEthan R. Burris. Takeaway: Being open and receptive of feedback leads to higher retention and better performance. Anonymous feedback is counter-productive because it sends the message that one must remain anonymous in the environment; it does not necessarily lead to more authentic outcomes. And "the biggest reason for withholding ideas and concerns wasn’t fear but, rather, the belief that managers wouldn’t do anything about them anyway."
+- [Can Your Employees Really Speak Freely?](https://hbr.org/2016/01/can-your-employees-really-speak-freely): by James R. Detert and Ethan R. Burris. Takeaway: Being open and receptive of feedback leads to higher retention and better performance. Anonymous feedback is counter-productive because it sends the message that one must remain anonymous in the environment; it does not necessarily lead to more authentic outcomes. And "the biggest reason for withholding ideas and concerns wasn’t fear but, rather, the belief that managers wouldn’t do anything about them anyway."
 
 - [How and Why You Need to Recognize Your Executives](http://blog.bonus.ly/how-and-why-you-need-to-recognize-your-executives?utm_content=56841793&utm_medium=social&utm_source=twitter): by Jessica Collins. Takeaway: Leaders are people too, and giving them feedback keeps them in touch with the organization, and motivates them to continue doing the "right" things.
 
