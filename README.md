@@ -25,7 +25,7 @@ Please share/promote your favorite managing and leading resources/go-to's (books
 - [Onboarding](Onboarding.md)
 - [One-on-Ones](One-on-Ones.md)
 - [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md)
-- Postmortems, Retrospectives, and Conflict Resolution
+- [Conflict Resolution, Postmortems and Retrospectives](Conflict-Resolution-Postmortems-Retrospectives.md) **in progress**
 - [Time Management and Meetings](Time-Management-and-Meetings.md)
 - [Transitioning to Management (and Managing Managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 - [When You're Not a "Manager": Leadership for Developers](Leadership-for-Developers.md)
