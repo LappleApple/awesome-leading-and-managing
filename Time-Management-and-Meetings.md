@@ -6,6 +6,8 @@
   Noah Kagan at Sumo. Takeaway: Measure your time and then use that data to
   decide how you really want to be spending your time. This does not just mean
   office time!
+  
+- [Declutter Your Meetings and Create Minimum Viable Meetings](https://zenkara.wordpress.com/2015/09/21/declutter-your-meetings-and-create-minimum-viable-meetings/): by Zenkara. Takeaway: Run Minimum Viable Meetings, which include the absolute fewest participants with only critical topics for meeting objectives. "Schedule the fewest meetings possible and as early as possible; have the result and outcome that you are satisfied with."
 
 - [Focus – keynote at AgileByExample,
   Warsaw](http://blog.crisp.se/2016/10/20/henrikkniberg/focus-keynote): By
