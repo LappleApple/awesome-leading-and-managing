@@ -26,7 +26,7 @@
 
 - [Onboarding and the Cost of Team Debt](https://kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt): by Kate Heddleston. Takeaway: Lack of onboarding hurts mostly those who are different than the rest of the team. Onboarding can improve diversity as new hires will feel more integrated.
 
-- [The Null Process](https://kateheddleston.com/blog/the-null-process): by Kate Heddleston. Takeaway: The lacl of a clear promotion process creates an informal process for promotions which favours men.
+- [The Null Process](https://kateheddleston.com/blog/the-null-process): by Kate Heddleston. Takeaway: The lack of a clear promotion process creates an informal process for promotions which favours men.
 
 - [There's No 'Silver Bullet' to Increasing Diversity, but Here's How We're Making Progress](https://magoosh.com/blog/silver-bullet-diversity-progress/): by Bhavin Parikh.
 
