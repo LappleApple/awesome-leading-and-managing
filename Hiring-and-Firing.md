@@ -60,6 +60,13 @@
 
 - [Screen Engineers Better with a Debugging Roleplay](https://hackernoon.com/cut-to-the-chase-with-a-debugging-roleplay-d7d49f518157): by Pete Karl II. Takeaway: Using a text-based, role-playing debugging game on a phone screen, Localytics doubled their team size within six months.
 
+- [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers):
+  by Ammon Bartram (Triplebyte). Takeaways: Ask questions similar to real work.
+  Ask multipart questions. Avoid hard questions. Make decisions based on
+  max skill, not average/minimum skill.  Most programmers prefer interviews
+  to trials/take-homes, even though interviews aren't the best way to
+  evaluate people.
+
 ### Firing
 aka, “the hardest thing you’ll ever do as a manager.” First are some tips on salvaging an underperformer. Then some tips on how to fire.
 
