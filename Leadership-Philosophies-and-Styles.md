@@ -84,9 +84,9 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [Watch: Google's Research on Making Managers Awesome](https://rework.withgoogle.com/blog/watch-googles-research-on-awesome-managers/): by re:Work/Google. Takeway: includes video and insights gained through Project Oxygen, Google's research into management. Includes Google's eight manager behaviors: 1) is a good coach; 2) empowers the team and doesn't micromanage; 3) expresses interest/concern for team members' success and personal well-being; 4) is productive and results-oriented; 5) is a good communicator; 6) helps with career development; 7) has a clear vision/strategy for the team; and 8) has important technical skills that help him/her advise the team. 
 
-- [Why Supercell’s Founder Wants to Be the World’s Least Powerful CEO](https://www.linkedin.com/pulse/why-supercells-founder-wants-worlds-least-powerful-ceo-de-rycker): by Sonali De Rycker. Takeaway from CEO Ilkka Paananen: "My goal is to be the world’s least powerful CEO. What I mean by this is that the fewer decisions I make, the more the teams are making."
+- [What It Means to Be an Open Source Leader](https://opensource.com/open-organization/16/3/what-it-means-be-open-source-leader): by Jim Whitehurst. Takeaway: Red Hat's CEO describes how one might apply open source principles to leadership. "Being an open leader means creating the context others need to do their best work."
 
-- [What It Means to Be an Open Source Leader](https://opensource.com/open-organization/16/3/what-it-means-be-open-source-leader): by Jim Whitehurst. Takeaway: Red Hat CEO describes how one might apply open source principles to leadership. "Being an open leader means creating the context others need to do their best work."
+- [Why Supercell’s Founder Wants to Be the World’s Least Powerful CEO](https://www.linkedin.com/pulse/why-supercells-founder-wants-worlds-least-powerful-ceo-de-rycker): by Sonali De Rycker. Takeaway from CEO Ilkka Paananen: "My goal is to be the world’s least powerful CEO. What I mean by this is that the fewer decisions I make, the more the teams are making."
 
 ### Quotes on Leadership
 
