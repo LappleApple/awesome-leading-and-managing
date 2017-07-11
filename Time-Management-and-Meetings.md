@@ -1,5 +1,7 @@
 ## Time Management and Meetings
 
+- [6 Steps to Running the Perfect 30-Minute Meeting](https://opensource.com/open-organization/16/2/6-steps-running-perfect-30-minute-meeting): by Jimmy Sjölund. Takeaways: People tend to "default" to 60-minute meetings, but most meetings rarely require this much time. Sjölund offers six suggestions for trimming meetings to a more managemable and appropriate length while simulatenously making them more effective.
+
 - [Busy to Death](http://barryoreilly.com/2017/05/31/busy-to-death/): by Barry O'Reilly. Takeaway: "Over-optimizing for executing work is dangerous. Actually, it’s very dangerous indeed as it causes us to get stuck in plan-do-plan-do cycles. We compromise reflection, retrospection, and review of the outcomes of all the output we are creating. We stop building learning loops into our work to plan-do-check-act the results of all this effort. We don’t allow time to study, consider, or understand if the result of all this activity is actually aligned to what we are hoping to achieve. We are frankly too busy to."
 
 - [Data Driven Time Management](http://okdork.com/time-management-tips/): By
@@ -80,5 +82,3 @@
   TedXMidwest. Takeaways: Interruptions are toxic, and make workers have to
   restart. Work to reduce syncronous communication in order to free up employees
   to have more uninterrupted productive time.
-  
-  - [6 Steps to Running the Perfect 30-Minute Meeting](https://opensource.com/open-organization/16/2/6-steps-running-perfect-30-minute-meeting): by Jimmy Sjölund. Takeaways: People tend to "default" to 60-minute meetings, but most meetings rarely require this much time. Sjölund offers six suggestions for trimming meetings to a more managemable and appropriate length while simulatenously making them more effective.
