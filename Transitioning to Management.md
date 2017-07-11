@@ -6,6 +6,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Aligning Projects with Business Goals](https://blog.dnsimple.com/2017/02/aligning-business-goals-with-projects/): by Anthony Eden. Provides a simple project management spreadsheet of six questions: 1) What is the problem we are trying to solve?; 2) What does success look like, and how does it fit in the big picture?; 3) What are the MUST DO and the MUST NOT DO items?; 4) What is the deadline?; 5) Who should I talk to for help and get feedback?; 6) Have we done this before? Something we already have to get started?
 
+- [Applying OKRs](https://dannorth.net/2017/05/01/applying-okrs): by Dan North. Takeaway: Insights from Dan about working with companies applying Objectives and Key Results; do's and dont's. 
+
 - [The Art of Project Management](https://docs.google.com/document/d/1Cr2DRP06GcBNQoOc3K5huQ61Mk_yyX5ZFsS8IlF1M6Y/edit): notes by Joe Golberg about Scott Berkun's book.
 
 - [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything ](https://docs.google.com/document/d/1EC4eF-uVeD-Arwoxl5SUKSQNmLK1CRF775zpRqVP4q0/edit#heading=h.efeded667ce6): Joe Goldberg's notes about the book by Guy Kawasaki.
@@ -101,6 +103,8 @@ As a leader of a product development team you might have a PM that you’re work
 - [Secure Early Wins in the First Three Months](http://katemats.com/secure-early-wins-tech-leader-series/): by kate{mats}. Takeaway: "In order to the set the right tone and get started on the best path, it is key to secure early wins." Includes helpful strategies.
 
 - [The 7 Habits of Highly Effective People](https://docs.google.com/document/d/1q-GFqgr12iTTVO9w22dj1RTinvTATYL5WaabWeSyKf8/edit): notes by Joe Goldberg of the popular book by Steven Covey. The seven habits: Be proactive; begin with the end in mind; put first things first; think win/win; seek first to understand, then to be understood; cooperate creatively, and balance self-renewal
+
+- [So You Think You Want to Manage?](https://medium.com/the-year-of-the-looking-glass/so-you-think-you-want-to-manage-1229723a4501): by Julie Zhuo. Takeaway: Make sure your transition to management is an intentional and well informed decision by answering a bunch of questions.
 
 - [Speed Matters: Why Working Quickly Is More Important Than It Seems](http://jsomers.net/blog/speed-matters): by James Somers. Takeaway: "The obvious benefit to working quickly is that you’ll finish more stuff per unit time. But there’s more to it than that. If you work quickly, the cost of doing something new will seem lower in your mind. So you’ll be inclined to do more."
 

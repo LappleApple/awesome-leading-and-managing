@@ -1,9 +1,13 @@
 ## Time Management and Meetings
 
+- [Busy to Death](http://barryoreilly.com/2017/05/31/busy-to-death/): by Barry O'Reilly. Takeaway: "Over-optimizing for executing work is dangerous. Actually, it’s very dangerous indeed as it causes us to get stuck in plan-do-plan-do cycles. We compromise reflection, retrospection, and review of the outcomes of all the output we are creating. We stop building learning loops into our work to plan-do-check-act the results of all this effort. We don’t allow time to study, consider, or understand if the result of all this activity is actually aligned to what we are hoping to achieve. We are frankly too busy to."
+
 - [Data Driven Time Management](http://okdork.com/time-management-tips/): By
   Noah Kagan at Sumo. Takeaway: Measure your time and then use that data to
   decide how you really want to be spending your time. This does not just mean
   office time!
+  
+- [Declutter Your Meetings and Create Minimum Viable Meetings](https://zenkara.wordpress.com/2015/09/21/declutter-your-meetings-and-create-minimum-viable-meetings/): by Zenkara. Takeaway: Run Minimum Viable Meetings, which include the absolute fewest participants with only critical topics for meeting objectives. "Schedule the fewest meetings possible and as early as possible; have the result and outcome that you are satisfied with."
 
 - [Focus – keynote at AgileByExample,
   Warsaw](http://blog.crisp.se/2016/10/20/henrikkniberg/focus-keynote): By

@@ -13,13 +13,15 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [Average Manager vs. Great Manager, Explained in 10 Sketches](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d): by Julie Zhuo (VP Product Design, Facebook). Go look at these, they’re humorous and poignant. It’ll only take a minute.
 
+- [Be Yourself, but Carefully](https://enterprisersproject.com/resources/be-yourself-carefully?sc_cid=70160000000xYYJAA2): by Lisa Rosh and Lynn Offerman. Takeaway: "Sharing details about your life can be a valuable way to build relationships in the workplace. But self-disclosures can also lead to oversharing, which can do more harm than good in the office."
+
 - [Failure as a Service](https://medium.com/servant-leadership/failure-as-a-service-937473b0c9b8): What it means to be a leader, by Rich Armstrong. Takeaways: 
   - Servant-leaders shouldn’t make decisions that should be made by the folks closest to the problem), unless they can’t be answered with readily-available or easily-collected data, and there’s no consensus on the solution.
   - "When the people you manage bring you a tough call, and you choose right, they get the credit. When you choose wrong, you get the blame. And it’s OK, pookie. That’s what you’re here for."
 
 - [Google Employees Weighed in on What Makes a Highly Effective Manager. Technical Expertise Came in Dead Last](https://www-inc-com.cdn.ampproject.org/c/s/www.inc.com/amp/154561.html): by Michael Schneider. Takeaway: Tech expertise is worth little if a manager is not committed to communicating clearly/effectively, developing people and removing obstacles so they can get things done.
 
-- [High-Performing Teams Need Flexible Leaders](https://medium.com/@srikardoddi/high-performing-teams-need-flexible-leaders-9243e7ec6e95): Offers insights into how to change your style based on the needs of the team. Takeaways: Always be explicit with how you expect each individual in the team to behave and the results you'd like them to achieve, and hold everyone accountable. That starts with you, and the example you set to everyone else. Having a well-articulated vision and expectation will enable flexibility of style and methods to reach a highly performant execution. See also, "[Why the rise of Amazon means the end of Walmart](https://www.forbes.com/sites/georgebradt/2015/07/08/why-the-rise-of-amazon-means-the-end-of-wal-mart/#1d4811962167).")
+- [High-Performing Teams Need Flexible Leaders](https://medium.com/@srikardoddi/high-performing-teams-need-flexible-leaders-9243e7ec6e95): by Srikar Doddi. Takeaway: Offers insights into how to change your style based on the needs of the team. Takeaways: Always be explicit with how you expect each individual in the team to behave and the results you'd like them to achieve, and hold everyone accountable. That starts with you, and the example you set to everyone else. Having a well-articulated vision and expectation will enable flexibility of style and methods to reach a highly performant execution. See also, "[Why the rise of Amazon means the end of Walmart](https://www.forbes.com/sites/georgebradt/2015/07/08/why-the-rise-of-amazon-means-the-end-of-wal-mart/#1d4811962167).")
 
 - [How to Lead a Team](https://drt.fm/simon-sinek) (podcast): by Simon Sinek. Fun trivia: Joe Goldberg, the originator of this Awesome list, realized through this podcast that "You can’t manage people, you can only lead them. You can only manage processes."
 
@@ -40,6 +42,8 @@ This topic comes first, because the following articles offer great frameworks/de
 - [10 Things Great Bosses Do Every Day](https://www.linkedin.com/pulse/unique-things-great-bosses-do-every-day-dr-travis-bradberry): by Dr. Travis Bradberry. Takeaway: from "respects your time" to "looks for and celebrates wins," this list covers the bases.
 
 - [This Is The Number One Thing That Holds Most People Back From Success](http://www.bakadesuyo.com/2013/09/bad-attitude/): by Seth Godin. Takeaway: It’s your attitude.
+
+- [3 Harmful Ideas About Leadership (and Shifts You Can Make)](https://www.linkedin.com/pulse/3-harmful-ideas-leadership-shifts-you-can-make-karen-tay): by Karen Tay. Takeaway: "[G]ood leadership is less and less defined by subject-area expertise, and more and more defined by the ability to hire well and create the conditions for talented individuals to propel the business forward, such as trust and autonomy."
 
 - [Why Tim Cook is Steve Ballmer and Why He Still Has His Job at Apple](https://www.linkedin.com/pulse/why-tim-cook-steve-ballmer-he-still-has-his-job-apple-steve-blank): by Steve Blank. Takeaway: "What happens to a company when a visionary CEO is gone? Most often innovation dies and the company coasts for years on momentum and its brand. Rarely does it regain its former glory." Uses Microsoft and Apple as examples.
 

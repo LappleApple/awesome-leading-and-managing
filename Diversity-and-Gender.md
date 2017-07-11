@@ -8,7 +8,11 @@
 
 - [Criticism and Ineffective Feedback](https://www.kateheddleston.com/blog/criticism-and-ineffective-feedback): by Kate Heddleston.
 
+- [5 Strategies for Being an Ally to Women in Tech](https://austinstartups.com/5-strategies-for-being-an-ally-to-women-in-tech-d4b51e5e4fcf): by Joy Ebertz. Takeaway: 1) Look who does your "housework" tasks; 2) be mindful of the peer feedback you give; 3) help make sure people are credited with their ideas; 4) create space for others in meetings; 5) make sure team-building is inclusive.
+
 - [For an Inclusive Culture, Try Working Less](https://hackernoon.com/for-inclusive-culture-maybe-less-is-more-87b663662cea): by Rich Armstrong. Takeaway: "When our office culture is focused on business rather than socializing, we reduce the number of ways in which we all have to be the same. When we do that, we allow diversity to flourish. If your culture expects people to work long hours or hang out off-hours, the strain on the people who are different, in whatever way, is increased, and your ability to retain a diverse work force is reduced."
+
+- [How Men & Women See the Workplace Differently](http://graphics.wsj.com/how-men-and-women-see-the-workplace-differently/): by Nikki Waller. A *Wall Street Journal* article on a study conducted by LeanIn.org and MicKinsey. "Data show that men win more promotions, more challenging assignments and more access to top leaders than women do. Men are more likely than women to feel confident they are en route to an executive role, and feel more strongly that their employer rewards merit."
 
 - [How Our Engineering Environments Are Killing Diversity (and How We Can Fix It)](https://www.youtube.com/watch?v=kNke_4WOWAU) (video): by Kate Heddleston.
 
