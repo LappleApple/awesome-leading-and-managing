@@ -35,7 +35,9 @@
   combinations give different results. Injecting some sense of consistency
   should lead to evening out your interviewing process.
   
- - [How to Interview at Amazon - Leadership](https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson): by David Anderson. Takeaway: Though framed according to the activity of interviewing at Amazon and the company's principles, this detailed and thought-provoking article also provides insights on ideas on growing a team/tech organization; building a culture of customer-focused leaders; and much more.
+- [How to Interview at Amazon - Leadership](https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson): by David Anderson. Takeaway: Though framed according to the activity of interviewing at Amazon and the company's principles, this detailed and thought-provoking article also provides insights on ideas on growing a team/tech organization; building a culture of customer-focused leaders; and much more.
+
+- [How Slack Supports Junior Engineers](https://slack.engineering/how-slack-supports-junior-engineers-89f6dcfe74a1): by Carly, a Slack engineer. Takeaway: a detailed, in-depth, first-person account of getting hired at Slack as a junior engineer. An invigorating read that covers the author's interview process, hire, on-the-job Imposter Syndrome, mentorship experiences, and more. Offers good ideas for ramping up your own processes for hiring juniors/first-job engineers.
 
 - [Interviewing](https://www.xaprb.com/blog/interviewing/): by Baron Schwartz. Takeaway: Understand what you're hiring for, ask questions about past performance only, and gauge potential by "asking questions about what challenged them and how they responded to it."
 
