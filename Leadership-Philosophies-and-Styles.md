@@ -86,6 +86,8 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [Why Supercell’s Founder Wants to Be the World’s Least Powerful CEO](https://www.linkedin.com/pulse/why-supercells-founder-wants-worlds-least-powerful-ceo-de-rycker): by Sonali De Rycker. Takeaway from CEO Ilkka Paananen: "My goal is to be the world’s least powerful CEO. What I mean by this is that the fewer decisions I make, the more the teams are making."
 
+- [What It Means to Be an Open Source Leader](https://opensource.com/open-organization/16/3/what-it-means-be-open-source-leader): by Jim Whitehurst. Takeaway: Red Hat CEO describes how one might apply open source principles to leadership. "Being an open leader means creating the context others need to do their best work."
+
 ### Quotes on Leadership
 
 - “Decisions in 10 minutes or less, or the next one is free.” — Included [in this Microsoft article](https://news.microsoft.com/2000/02/16/the-motivator-behind-the-windows-2000-development-team/)
