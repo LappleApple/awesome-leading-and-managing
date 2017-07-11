@@ -32,4 +32,6 @@
 
 - [Ways Men in Tech Are Unintentionally Sexist](https://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/): by Kat Hagan. Takeaway: Little, unintentially malicious things people say reinforce stereotypes.
 
+- [What Does Sponsorship Look Like?](http://larahogan.me/blog/what-sponsorship-looks-like/): by Lara Hogan. Takeaway: The former Etsy leader and current Kickstarter lead talks about shifting focus from mentoring to sponsoring as a way to change the ratio. "When privileged people begin to see the systems of bias and privilege, their first instinct typically is to mentor those who haven’t benefited from the same privilege. ... What members of underrepresented groups in tech often need most is opportunity and visibility, not advice."
+
 - [Women in Tech: We Need You](https://dev.to/binarycodess/women-in-tech-we-need-you): by Kristina. A request to women to speak publicly, mentor, and become a role model. "We need to hear your experiences, your lessons, your failures and your successes. We need to hear them because you can never be sure who you’ll influence and whose life you’ll change."
