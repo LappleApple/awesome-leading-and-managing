@@ -2,7 +2,7 @@
 
 ### Blogs/Websites
 
-- [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts): a very long list of podcasts, including non-English ones.
+- [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts): a very long list of engineering-related podcasts in several languages.
 
 - [Practicing Developer](https://practicingdeveloper.com/): by Gregory Brown, author of O'Reilly's "Programming Beyond Practices."
 
