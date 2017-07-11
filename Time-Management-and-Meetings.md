@@ -80,3 +80,5 @@
   TedXMidwest. Takeaways: Interruptions are toxic, and make workers have to
   restart. Work to reduce syncronous communication in order to free up employees
   to have more uninterrupted productive time.
+  
+  - [6 Steps to Running the Perfect 30-Minute Meeting](https://opensource.com/open-organization/16/2/6-steps-running-perfect-30-minute-meeting): by Jimmy Sjölund. Takeaways: People tend to "default" to 60-minute meetings, but most meetings rarely require this much time. Sjölund offers six suggestions for trimming meetings to a more managemable and appropriate length while simulatenously making them more effective.
