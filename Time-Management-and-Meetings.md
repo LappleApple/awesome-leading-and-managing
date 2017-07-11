@@ -56,13 +56,17 @@
   By David Fallarme. Takeaways: Make decisions using data, keep meetings to the
   necessary size, and be prepared with questions and answers to ensure a meeting
   is productive.
+  
+ - [Seven Helpful Tips to Ruin a Meeting – What Not to Do to Run Effective Meetings](https://luis-goncalves.com/7-helpful-tips-to-ruin-a-meeting/?__s=zmnhwriwrwhonuvpmtq8): by Simon Cockayne. Takeaway: Avoid back-to-back scheduling; unclear purpose; lack of preparation; multitasking; personality-based judging of ideas; running over time; zero followup.
+
+- [Start Every Meeting with a Personal Check-in](https://blog.travis-ci.com/2016-06-09-start-meetings-with-personal-checkins): by Mathias Meyer. Takeaway: the Travis CI CEO talks about how meditation has enhanced his ability to be present, and how this carries into team meetings. "Before you walk into a meeting (virtually or into the meeting room), close your eyes, inhale three times, and walk in. I found that this can have a great impact on my presence and focus in meetings." The team starts meetings with the red/yellow/green scale and everyone states how they're feeling.
 
 - [The Management Technique Essential to Google’s
   Growth](http://blog.idonethis.com/management-technique/): By Blake Thorne.
   Takeaways: On the potential benefits of open office hours and how to make
   them work.
 
-- [3 P’s of
+- [Three P’s of
   Prioritizing](http://www.johnmaxwell.com/blog/priorities-prevent-your-leadership-from-crashing):
   By the John Maxwell Company. Takeaway: If you are feeling crunched for time,
   reevaluate your priorites. The three Ps are *P*rivate Time, *P*roduction
