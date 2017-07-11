@@ -37,6 +37,8 @@
   
  - [How to Interview at Amazon - Leadership](https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson): by David Anderson. Takeaway: Though framed according to the activity of interviewing at Amazon and the company's principles, this detailed and thought-provoking article also provides insights on ideas on growing a team/tech organization; building a culture of customer-focused leaders; and much more.
 
+- [Interviewing](https://www.xaprb.com/blog/interviewing/): by Baron Schwartz. Takeaway: Understand what you're hiring for, ask questions about past performance only, and gauge potential by "asking questions about what challenged them and how they responded to it."
+
 - [Let’s Stop Calling Them ‘Soft
   Skills’](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.m0rq6bldu):
   by Seth Godin. Takeaways: Don't overemphasize so-called "vocational" skills.
