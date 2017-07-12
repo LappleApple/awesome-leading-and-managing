@@ -2,6 +2,8 @@
 
 ### Conflict Prevention
 
+- [A Guide to Building Trust in Teams and Organizations](https://opensource.com/open-organization/16/10/building-organizational-trust): by Ron McFarland. McFarland's wide-ranging piece outlines various meanings of the term "trust," organizational factors that can influence it, and organizational dynamics that it, in turn, affects. The piece also includes descriptions of ways trust can operate at several interlocking "levels": personal, relational, organizational, and market.
+
 - [Want to Be a Great Leader? Assume Positive Intent](https://opensource.com/open-organization/17/2/assuming-positive-intent): by Jim Whitehurst. The Red Hat CEO explains a key lesson he's learned from watching open source commnities work together: Assume positive intent. In this article, he explains how that lesson impacts the way he views leadership and organizational culture.
 
 ### Conflict Resolution
