@@ -120,6 +120,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Top 10 Reasons Companies Fail at Promoting from Within](https://getlighthouse.com/blog/promoting-from-within-companies-fail/): by Lighthouse. Takeaway: "Done well, promoting from within rewards and retains your best people for the long term. It also helps strengthen your culture. However, if you don’t put the effort and attention into making those promoted successful, it can backfire massively. No one likes working for a leader that doesn’t know what they’re doing, and those failing in a new role will feel terrible."
 
+- [This 90 Day Plan Turns Engineers Into Remarkable Managers](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/): by David Loftesness. Takeaway: "A newly-minted technical leader typically has no idea how to manage people". This provides a time-bound plan with checkpoints for opting out & leveling up.
+
 - [Understanding Company Strategy: New Tech Leader Series](http://katemats.com/understanding-company-strategy-new-tech-leader-series/): by kate{mats}. Takeaway: "The very first thing you need to do in a leadership role is understand the goals of the company and the way your organization fits into that strategy." Provides the steps to make that happen.
 
  - [What Are Common Mistakes That New or Inexperienced Managers Make?](https://www.quora.com/Management/What-are-common-mistakes-that-new-or-inexperienced-managers-make/answer/Ian-McAllister): by Ian McAllister. Takeaway: Some of them include being slow to deal with performance issues, not investing in recruiting or team development, taking credit for others' work and blaming, and simply not leading.
