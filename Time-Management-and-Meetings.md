@@ -33,10 +33,17 @@
   Takeaways: Team meetings aren't the only way to spread information to the
   group.
 
+- [Listening Is the Job](http://boz.com/articles/listening-is-the-job.html): by Andrew Bosworth. Takeaway: Have a system for taking in/consuming information; maximize signal-to-noise ratio; give feedback; proactively identify gaps in your information flows; write notes to remember reactions you have through the day; tell your story; be clear about the information you seek; and listen.
+
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html): by Y Combinator's Paul Graham. Takeaway: The manager's schedule is typically in one-hour blocks, while the maker's schedule requires longer stretches of uninterrupted time. "Each type of schedule works fine by itself. Problems arise when they meet. Since most powerful people operate on the manager's schedule, they're in a position to make everyone resonate at their frequency if they want to. But the smarter ones restrain themselves, if they know that some of the people working for them need long chunks of time to work in."
 
 - [Manage Your Day-to-Day](http://99u.com/book/manage-your-day-to-day-2): by Seth Godin, Dan Ariely, Gretchen Rubin, Erin Rooney Doland, and other contributors. The book shows you how to stop letting other people run your schedule; find the right recharge/productivity balance; optimize digital communications/social media use, and more.
 
+- [The Management Technique Essential to Google’s
+  Growth](http://blog.idonethis.com/management-technique/): By Blake Thorne.
+  Takeaways: On the potential benefits of open office hours and how to make
+  them work.
+  
 - [No "Yes." Either "HELL YEAH!" or "No"](https://sivers.org/hellyeah): By Derek
   Sivers. Takeaways: If you are overcommitted, recalibrate when you say yes.
   Saying "no" more gives you more time to say "HELL YEAH!" for things that are
@@ -63,13 +70,7 @@
 
 - [Start Every Meeting with a Personal Check-in](https://blog.travis-ci.com/2016-06-09-start-meetings-with-personal-checkins): by Mathias Meyer. Takeaway: the Travis CI CEO talks about how meditation has enhanced his ability to be present, and how this carries into team meetings. "Before you walk into a meeting (virtually or into the meeting room), close your eyes, inhale three times, and walk in. I found that this can have a great impact on my presence and focus in meetings." The team starts meetings with the red/yellow/green scale and everyone states how they're feeling.
 
-- [The Management Technique Essential to Google’s
-  Growth](http://blog.idonethis.com/management-technique/): By Blake Thorne.
-  Takeaways: On the potential benefits of open office hours and how to make
-  them work.
-
-- [Three P’s of
-  Prioritizing](http://www.johnmaxwell.com/blog/priorities-prevent-your-leadership-from-crashing):
+- [Three P’s of Prioritizing](http://www.johnmaxwell.com/blog/priorities-prevent-your-leadership-from-crashing):
   By the John Maxwell Company. Takeaway: If you are feeling crunched for time,
   reevaluate your priorites. The three Ps are *P*rivate Time, *P*roduction
   Time, and *P*eople Time.
