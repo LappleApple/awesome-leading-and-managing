@@ -51,6 +51,8 @@
   reasons for making product decisions and ask whether they are actually good
   for the product.
 
+- [Reducing Hours by Focusing your Job](https://wildbit.com/blog/2017/06/05/reducing-hours-by-focusing-your-job): by Natalie Nagele. Takeaway: How to use a mindmap plus the 30-60-90 plan to clarify the focus of your role, plus what to prioritize. Can be a great exercise to do with your team.
+
 - [Run Your Meetings Like a
   Boss](http://99u.com/articles/25075/run-your-meeting-like-a-boss-lessons-from-mayer-musk-and-jobs):
   By David Fallarme. Takeaways: Make decisions using data, keep meetings to the
