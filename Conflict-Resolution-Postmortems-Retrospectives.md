@@ -6,6 +6,8 @@
 
 - [Want to Be a Great Leader? Assume Positive Intent](https://opensource.com/open-organization/17/2/assuming-positive-intent): by Jim Whitehurst. The Red Hat CEO explains a key lesson he's learned from watching open source commnities work together: Assume positive intent. In this article, he explains how that lesson impacts the way he views leadership and organizational culture.
 
+- [Why Is It So Hard to Listen](https://www.happymelly.com/power-of-listening/): by Happy Melly. Takeaway: "Not only is listening a key factor in being an effective communicator and a strong leader, it’s also one of the basic necessities when it comes to enhancing our emotional intelligence and living in the moment — which ultimately contributes to our overall happiness at work and in life." Includes listening challenges to help you improve.
+
 ### Conflict Resolution
 
 - [Power Up Your Team with Nonviolent Communication Principles](http://firstround.com/review/power-up-your-team-with-nonviolent-communication-principles/): by First Round. An enlightened interview with executive coaches Ann Mehl and Jerry Colonna, who teach major tech companies about nonviolent communication principles through emphasizing awareness, responsibility and empathy.
