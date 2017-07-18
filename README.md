@@ -17,8 +17,8 @@
 - [Transitioning to Management (and Managing Managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 - [When You're Not a "Manager": Leadership for Developers](Leadership-for-Developers.md)
 
-*If I have seen further, it is by standing on the shoulders of giants — Sir Isaac Newton <br>
-If I have not seen as far, it is because giants were standing on my shoulders — lots of people, including Leigh Caplan<br>
+*"If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
+"If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan<br>
 "A leader is best when people barely know he exists, when their work‘s done, her aim fulfilled, they will say: we did it ourselves." — Lao Tzu*
 
 ## What This Is, and Where It Comes From
