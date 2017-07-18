@@ -22,6 +22,8 @@
  
 - [On Failure and Resilience](https://beero.ps/2017/06/17/on-failure-and-resilience/): by Katherine Daniels. Takeaway: "It can be a challenge if you’re starting with or coming from a 'blame and train' or 'blame and shame' culture to a 'blameless' or 'blame-aware' one, but the focus on desired outcome and how people can work together to help resolve a situation in the moment, as well as make the systems involved better equipped to handle situations in the future, can do wonders for system and organizational resilience."
 
+- [The Power of an Agile Mindset](https://www.infoq.com/presentations/agile-mindset) (video): by Linda Rising. Takeaway: The agile mindset will enable you to see problems as failures as opportunities for learning.
+
 - [Programming Is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/): by Allison Parrish. Takeaway: "Every practice, whether technical or artistic, has a history and a culture, and you can’t understand the tools without understanding the culture and vice versa. Computer programming is no different."
 
 - [Reorgs Happen](http://whilefalse.blogspot.co.il/2015/12/reorgs-happen.html): by Camille Fournier. Takeaway: "Reorgs are unlikely to solve all of your problems overnight. They are not a magic bullet exercise that fixes cultural issues or a lack of business strategy. If you aren't careful, your reorg will feel like rearranging deck chairs on the Titanic, a pointless waste of time for everyone involved. So don't be afraid to do them as necessary, but be realistic. This is a major disruption that impacts everyone, don't just do it for fun."
