@@ -10,7 +10,7 @@
 
 ### Software Craftsmanship
 
-- [Habits vs Goals: a Look at the Benefits of a Systematic Approach to Life](https://www.farnamstreetblog.com/2017/06/habits-vs-goals/): by Farnham Street. Practical advice about focusing on forming habits—which promote continuous improvement—instead of achieving goals, which have an endpoint.
+- [Active Learner — How Developers Keep Learning](https://medium.com/dennis-nerush/active-learner-how-developers-keep-learning-1309b91f1ae6): by Dennis Nerush. Takeaway: "the kind of developers we want to hire and be part of our company and our teams ... are not expert beginners and they are not necessary real experts. But they are aware of what they know and most importantly, what they don’t know. They are on the path to someday become real experts. To go in this path they cannot rely only on what their job teaches them and 'out of the box' just working solutions—they must actively learn."
 
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0137081073&pd_rd_r=ZG5XBXBXACNY81TG4FXM&pd_rd_w=0mdSO&pd_rd_wg=so42p&psc=1&refRID=ZG5XBXBXACNY81TG4FXM): by “Uncle Bob" Martin. A practical guide for how to become a software craftsperson.
 
@@ -21,6 +21,8 @@
 - [Getting Feedback](http://daydreamsinruby.com/getting-feedback/): by Allison (Sheren) McMillan. Takeaway: Ask your teammates for feedback so you can continue growing and developing. Includes short lists of questions you can ask.
 
 - [Giving and Receiving Great Code Reviews](https://dev.to/samjarman/giving-and-receiving-great-code-reviews): by Sam Jarman. Takeaway: "[A]s a submitter, plan, tell the story, and use the review as a learning experience. As a reviewer, slow down, check carefully, automate as much as you can and take the opportunity to improve your team."
+
+- [Habits vs Goals: a Look at the Benefits of a Systematic Approach to Life](https://www.farnamstreetblog.com/2017/06/habits-vs-goals/): by Farnham Street. Practical advice about focusing on forming habits—which promote continuous improvement—instead of achieving goals, which have an endpoint.
 
 - [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.amazon.com/Programming-Beyond-Practices-More-Monkey/dp/1491943823/ref=sr_1_1?ie=UTF8&qid=1496801606&sr=8-1&keywords=programming+beyond+practices): by Gregory Brown. Covers all aspects of being a leader-developer besides writing code, from prototyping to improving processes.
 
