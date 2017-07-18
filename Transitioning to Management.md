@@ -22,6 +22,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Growth Hacking Notebook](https://docs.google.com/document/d/1uN_kMZlwsdaliiUhIEei5PTnLphm0p6Eo57Xg6LnFHc/edit): notes by Joe Goldberg.
 
+- [Key Learnings in My First Year as a PM at Amazon](https://www.linkedin.com/pulse/key-learnings-my-first-year-pm-amazon-venkatraman-prabhu): by Venkatraman Prabhu. Takeaway: Lessons learned after a year at the global retailer. Choose the right manager, always measure the product's impact, keep experimenting, have weekly 1:1's with key stakeholders, and get advice.
+
 - [Lean Startup](https://docs.google.com/document/d/1Xs9VBBhh68DVCywXN7TRtDcWQQLDJWcLCvUOxnzNHmw/edit): notes by Joe Goldberg about the book by Eric Ries.
 
 - [LeanStartup.com](http://theleanstartup.com/): based on the book. Offers an e-newsletter. 
