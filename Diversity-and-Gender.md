@@ -2,6 +2,8 @@
 
 - [Argument Cultures and Unregulated Aggression](https://www.kateheddleston.com/blog/argument-cultures-and-unregulated-aggression): by Kate Heddleston. Takeaway: Using arguments as a tool for decision-making hurts creativity and diversity. Unregulated arguments create hostile work environments by promoting a win-at-all-costs attitude.
 
+- [Atlassian Boosted Its Female Technical Hires By 80% — Here’s How](http://firstround.com/review/atlassian-boosted-its-female-technical-hires-by-80-percent-heres-how/): by First Round Review. Takeaway: Start on inclusion and diversity as early as possible. Get your management board to commit to inclusion and diversity. Evaluate what is causing exclusion and plan how to address the causes. Have clear guidelines for promotions and job roles.
+
 - [Beginning with Ourselves: Using Data Science to Improve Diversity at Airbnb](https://medium.com/airbnb-engineering/beginning-with-ourselves-48c5ed46a703): by Riley Newman and Elena Grewal. Takeaway: Airbnb managed to increase the number of women in the company from 15% to 30% by analyzing and improving their recruiting practices.
 
 - [Being an Effective Ally to Women and Non-Binary People](https://codeascraft.com/2016/10/19/being-an-effective-ally-to-women-and-non-binary-people/): by Toria Gibbs and Ian Malpass. Takeaway: "Relying on members of minority groups to shoulder the burden of diversity issues is just as flawed as expecting one person to do all the work to fix a broken deploy system. You can’t excel at your job when you spend half your time dealing with other stuff. We need ways of spreading the load. We need allies. And we hope that’s why you’re reading this now."
