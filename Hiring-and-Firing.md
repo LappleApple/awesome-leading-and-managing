@@ -25,8 +25,7 @@
   someone who can grow and contribute to your culture than someone who will fit
   in and have the same skillset as current hires.
 
-- [How to Hire the Best People You've Ever Worked
-  With](http://pmarchive.com/how_to_hire_the_best_people.html): by Marc
+- [How to Hire the Best People You've Ever Worked With](http://pmarchive.com/how_to_hire_the_best_people.html): by Marc
   Andreessen. Breaks down hiring into two categories: Criteria and
   Process. For criteria, keep in mind people who are interested in your
   problems, who are curious enough to find solutions, and who won't waste time on
@@ -56,13 +55,7 @@
 
 ### How to Interview Candidates
 
-- [A Recipe for an Interview](https://jocelyngoldfein.com/a-recipe-for-an-interview-e4af1211d590): by Jocelyn Goldfein. Takeaway: Offers a list of helpful questions for uncovering how candidates (product, engineering, etc.) handle situations related to their application of functional skills/competencies. 
-
-- [A better way to Interview Software Engineers](https://fulcrum.lever.co/a-better-way-to-interview-software-engineers-fa9b5d2b5316): by Zach Millman. Takeaway: "When you spend an hour asking how to improve some code, it shows that you really care about code quality and collaborative engineering."
-
-- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): by Lauren Tan. Lists hundreds of companies that don’t use CS whiteboarding.
-
-- [Screen Engineers Better with a Debugging Roleplay](https://hackernoon.com/cut-to-the-chase-with-a-debugging-roleplay-d7d49f518157): by Pete Karl II. Takeaway: Using a text-based, role-playing debugging game on a phone screen, Localytics doubled their team size within six months.
+- [A Better Way to Interview Software Engineers](https://fulcrum.lever.co/a-better-way-to-interview-software-engineers-fa9b5d2b5316): by Zach Millman. Takeaway: "When you spend an hour asking how to improve some code, it shows that you really care about code quality and collaborative engineering."
 
 - [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers):
   by Ammon Bartram (Triplebyte). Takeaways: Ask questions similar to real work.
@@ -70,6 +63,12 @@
   max skill, not average/minimum skill.  Most programmers prefer interviews
   to trials/take-homes, even though interviews aren't the best way to
   evaluate people.
+  
+- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): by Lauren Tan. Lists hundreds of companies that don’t use CS whiteboarding.
+
+- [A Recipe for an Interview](https://jocelyngoldfein.com/a-recipe-for-an-interview-e4af1211d590): by Jocelyn Goldfein. Takeaway: Offers a list of helpful questions for uncovering how candidates (product, engineering, etc.) handle situations related to their application of functional skills/competencies. 
+
+- [Screen Engineers Better with a Debugging Roleplay](https://hackernoon.com/cut-to-the-chase-with-a-debugging-roleplay-d7d49f518157): by Pete Karl II. Takeaway: Using a text-based, role-playing debugging game on a phone screen, Localytics doubled their team size within six months.
 
 ### Firing
 aka, “the hardest thing you’ll ever do as a manager.” First are some tips on salvaging an underperformer. Then some tips on how to fire.
