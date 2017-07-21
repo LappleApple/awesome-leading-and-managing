@@ -51,6 +51,8 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [Why You Must Lead Differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=): *Forbes* article by George Bradt.
 
+- [The Best Leaders Are Constant Learners](https://hbr.org/2015/10/the-best-leaders-are-constant-learners): HBR article by Kenneth Mikkelsen and Harold Jarche. Takeaway: "Leaders that stay on top of society’s changes do so by being receptive and able to learn." 
+
 ### Famous Leaders
 
 - [How Charles Schwab Got His Workers To Produce More Steel](http://www.businessinsider.com/how-charles-schwab-got-his-workers-to-produce-more-steel-2013-7?IR=T): by Vivian Giang for Business Insider. Takeaway: chalk a number six on the floor and see what your employees/team members do.
