@@ -43,4 +43,4 @@
 
 - [10 Surprising Employee Retention Statistics You Need to Know](http://blog.bonus.ly/10-surprising-employee-retention-statistics-you-need-to-know): by George Dickson, Bonusly. Takeaway: surprising stats and context about retention, from "35% of employees said they'd look for a new job if they do not receive a pay raise in the next year" to "93% of millennials say they left their employer the last time they changed roles."
 
-- [“Cost of Turnover” Calculator](https://docs.google.com/spreadsheets/d/1BikDho6Odqp7uD6_q3050-T5jayx3orSKPM1ZXwUySI/edit#gid=0) by ?. Takeaway: Plug in your company size and turnover rate, along with the costs of hiring and onboarding. The results may surprise you. And that says nothing of the emotional headache and cultural drain felt from losing great people.
+- [“Cost of Turnover” Calculator](https://docs.google.com/spreadsheets/d/1BikDho6Odqp7uD6_q3050-T5jayx3orSKPM1ZXwUySI/edit#gid=0) by Lattice HQ. Takeaway: Plug in your company size and turnover rate, along with the costs of hiring and onboarding. The results may surprise you. And that says nothing of the emotional headache and cultural drain felt from losing great people.
