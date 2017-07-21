@@ -15,6 +15,8 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [Be Yourself, but Carefully](https://enterprisersproject.com/resources/be-yourself-carefully?sc_cid=70160000000xYYJAA2): by Lisa Rosh and Lynn Offerman. Takeaway: "Sharing details about your life can be a valuable way to build relationships in the workplace. But self-disclosures can also lead to oversharing, which can do more harm than good in the office."
 
+- [The Best Leaders Are Constant Learners](https://hbr.org/2015/10/the-best-leaders-are-constant-learners): HBR article by Kenneth Mikkelsen and Harold Jarche. Takeaway: "Leaders that stay on top of society’s changes do so by being receptive and able to learn." 
+
 - [Failure as a Service](https://medium.com/servant-leadership/failure-as-a-service-937473b0c9b8): What it means to be a leader, by Rich Armstrong. Takeaways: 
   - Servant-leaders shouldn’t make decisions that should be made by the folks closest to the problem), unless they can’t be answered with readily-available or easily-collected data, and there’s no consensus on the solution.
   - "When the people you manage bring you a tough call, and you choose right, they get the credit. When you choose wrong, you get the blame. And it’s OK, pookie. That’s what you’re here for."
@@ -50,8 +52,6 @@ This topic comes first, because the following articles offer great frameworks/de
 - [Why Tim Cook is Steve Ballmer and Why He Still Has His Job at Apple](https://www.linkedin.com/pulse/why-tim-cook-steve-ballmer-he-still-has-his-job-apple-steve-blank): by Steve Blank. Takeaway: "What happens to a company when a visionary CEO is gone? Most often innovation dies and the company coasts for years on momentum and its brand. Rarely does it regain its former glory." Uses Microsoft and Apple as examples.
 
 - [Why You Must Lead Differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=): *Forbes* article by George Bradt.
-
-- [The Best Leaders Are Constant Learners](https://hbr.org/2015/10/the-best-leaders-are-constant-learners): HBR article by Kenneth Mikkelsen and Harold Jarche. Takeaway: "Leaders that stay on top of society’s changes do so by being receptive and able to learn." 
 
 ### Famous Leaders
 
