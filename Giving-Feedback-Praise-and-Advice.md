@@ -14,7 +14,7 @@
 
 - [How to Give Employees Performance Feedback & Resolve the Resistance You Know You're Going to Get](https://www.amazon.com/Employees-Performance-Feedback-Resolve-Resistance-ebook/dp/B00B7MWZIK/ref=sr_1_1?ie=UTF8&qid=1457551985&sr=8-1&keywords=ross+blake+feedback): by Ross Blake. Takeaway: Managers are good at pointing out the need for course-correction but often fail to describe alternatives.
 
-- [How to Give Negative Feedback Over Email](https://hbr.org/2016/10/how-to-give-negative-feedback-over-email): by Jocelyn K. Glei. Takeaway: When giving negative feedback in emails (for example, remotely), start with appreciation; provide specific, actionable direction; avoid using the imperative; emphasize progress; and use the word "yet."
+- [How to Give Negative Feedback Over Email](https://hbr.org/2016/10/how-to-give-negative-feedback-over-email): by Jocelyn K. Glei. Takeaway: When circumstances require you to give negative feedback via email, start with appreciation; provide specific, actionable direction; avoid using the imperative; emphasize progress; and use the word "yet."
 
 - [Negative Feedback Antipatterns](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns): by Charles-Axel Dein. Covers the OFNR (Observation, Feeling, Need, Request) method. *Observation* of a fact: A fact is rarely controversial, and a great way to start a conversation. *Feeling*: express your feelings and your story. Clarify that it’s your story. *Need*: state what you value, or the kind of impact you’d like to see. *Request*: explain what concrete action the other person would need to take.
 
