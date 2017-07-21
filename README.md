@@ -1,41 +1,39 @@
-## Awesome Leadership and Management
+## Awesome Leadership and Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-*If I have seen further, it is by standing on the shoulders of giants — Sir Isaac Newton <br>
-If I have not seen as far, it is because giants were standing on my shoulders — lots of people, including Leigh Caplan*
-
-## Intro/Context
-Transitioning to leadership from software development provides the opportunity to learn a lot. The originator/primary author of this list, [Joe Goldberg](https://twitter.com/bostonsteamer), read a crap-ton of books and articles, and took notes along the way.
- 
-Since 2013-ish, Joe has been keeping a collection of links and notes on the broad topics of “leadership” and “management." He shared it with friends who were transitioning to management roles but kept it private to the world at-large. Then he decided to open-source it. And here we are. 
-
-## Call to Action: Please Contribute Your Favorite Articles, Books, Videos, Etc.
-Please share/promote your favorite managing and leading resources/go-to's by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
-
-## Table Of Contents
-- [FAQ](#faq)
-  - [Who is this for?](#who-is-this-for)
-  - [Why should you read this or trust the authors for advice?](#why-should-you-read-this-or-trust-the-authors-for-advice)
-  - [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
-  - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
-  - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
+## Contents
+- [Conflict Resolution, Postmortems and Retrospectives](Conflict-Resolution-Postmortems-Retrospectives.md)
+- [Culture](Culture.md)
+- [Diversity and Gender](Diversity-and-Gender.md)
+- [Giving Feedback, Praise, and Advice](Giving-Feedback-Praise-and-Advice.md)
+- [Hiring and Firing](Hiring-and-Firing.md)
+- [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
+- [Leader List](Leader-List.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
-- [Transitioning to Management (and managing managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md) **(in progress)**
-- [1-on-1s](One-on-Ones.md)
-- Influence, Delegation, and Decision-Making **(in progress)**
-- Performance Reviews and Goal-setting **(in progress)**
-- Giving Feedback, Praise, and Advice **(in progress)**
+- [Motivation and “Retention”](/Motivation-Retention.md)
 - [Onboarding](Onboarding.md)
-- [Culture](Culture.md) **(links available, takeaways in progress)**
-- [Diversity and Gender](Diversity-and-Gender.md) **(links available, takeaways in progress)**
+- [One-on-Ones](One-on-Ones.md)
+- [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md)
 - [Time Management and Meetings](Time-Management-and-Meetings.md)
-- Hiring and Firing
-- Motivation and “Retention” (we hate that word)
-- Postmortems, Retrospectives, and Conflict Resolution
+- [Transitioning to Management (and Managing Managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 - [When You're Not a "Manager": Leadership for Developers](Leadership-for-Developers.md)
 
+*"If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
+"If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan<br>
+"A leader is best when people barely know he exists, when their work‘s done, her aim fulfilled, they will say: we did it ourselves." — Lao Tzu*
+
+## What This Is, and Where It Comes From
+Since 2013-ish, [Joe Goldberg](https://twitter.com/bostonsteamer), who created the original document inspiring this list, read a crap-ton of books and articles about "leadership" and "management" and took notes along the way. He shared it with friends who were transitioning to management roles and eventually decided to open-source it. [Here you'll find Joe's still-public document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
+
+## Contribute Your Favorites
+Please share/promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
+
 ## FAQ
+- [Who is this for?](#who-is-this-for)
+- [Why should you read this or trust the authors for advice?](#why-should-you-read-this-or-trust-the-authors-for-advice)
+- [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
+- [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
+- [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
+
 ### Who is this for?
 - Individual contributors (ICs) looking to move into a management role but not sure if it’s right for them
 - ICs who want to stay ICs but want to have more influence in their orgs
