@@ -48,6 +48,8 @@
   categories of qualities like Self-Control, Productivity, Wisdom, Perception,
   and Influence.
 
+- [Never, Ever Compromise: Hiring For Culture Fit](http://blog.eladgil.com/2012/04/never-ever-compromise-hiring-for.html): by Elad Gil. Takeaway: "Your company culture is the foundation on which everything you do rests.  Your culture acts as an unwritten set of rules that drives behavior and cohesion across the company. Cohesive, insular cultures are more resilient and can withstand shocks to it..."
+
 - [Recruiting Diverse Engineering Candidates: What Tech Companies Still Get Wrong](https://techbeacon.com/recruiting-diverse-engineering-candidates-what-tech-companies-still-get-wrong): by Angie Jones. Takeaway: The author describes her experiences interviewing with heavyweight tech companies like Amazon, Google, and Twitter, and reveals some of the disconcerting behaviors she witnessed during the process while praising the good. "All tech companies need to revisit their interviewing practices. Diversify the panel of people who will decide the candidate’s fate with the company; acknowledge that diverse candidates may be concerned with more than just the specifics of the job itself; and ensure that you allocate time for them to have their questions and concerns addressed. Finally, tailor the interview questions to the job for which the candidate is being considered, and steer clear of unjustified coding challenges that only serve to intimidate and stress candidates."
 
 - [What Managers Are Getting Wrong About the World’s Greatest Job
@@ -60,18 +62,23 @@
 
 - [A Better Way to Interview Software Engineers](https://fulcrum.lever.co/a-better-way-to-interview-software-engineers-fa9b5d2b5316): by Zach Millman. Takeaway: "When you spend an hour asking how to improve some code, it shows that you really care about code quality and collaborative engineering."
 
+- [The Guerrilla Guide to Interviewing (Version 3.0)](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/): by Joel Spolsky. Takeaway: "You should always try to have at least six people interview each candidate that gets hired, including at least five who would be peers of that candidate (that is, other programmers, not managers)...If even two of the six interviewers thinks that a person is not worth hiring, don’t hire them...The trick is telling the difference between the superstars and the maybes, because the secret is that you don’t want to hire any of the maybes. Ever." And more great wisdom from the founder of Fog Creek and StackOverflow.
+
+- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): by Lauren Tan. Lists hundreds of companies that don’t use CS whiteboarding.
+
 - [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers):
   by Ammon Bartram (Triplebyte). Takeaways: Ask questions similar to real work.
   Ask multipart questions. Avoid hard questions. Make decisions based on
   max skill, not average/minimum skill.  Most programmers prefer interviews
   to trials/take-homes, even though interviews aren't the best way to
   evaluate people.
-  
-- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): by Lauren Tan. Lists hundreds of companies that don’t use CS whiteboarding.
 
 - [A Recipe for an Interview](https://jocelyngoldfein.com/a-recipe-for-an-interview-e4af1211d590): by Jocelyn Goldfein. Takeaway: Offers a list of helpful questions for uncovering how candidates (product, engineering, etc.) handle situations related to their application of functional skills/competencies. 
 
 - [Screen Engineers Better with a Debugging Roleplay](https://hackernoon.com/cut-to-the-chase-with-a-debugging-roleplay-d7d49f518157): by Pete Karl II. Takeaway: Using a text-based, role-playing debugging game on a phone screen, Localytics doubled their team size within six months.
+
+- [You Suck at Technical Interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews): by Laurie Voss. Takeaways: don't hire for what candidates already know, or for what they can remember during the interview; don't hire based on elite degrees or past employers; and don't hire friends and family. Instead, interview in order to find out if the candidate can do the job, if they'll get even better at the job, if they're continuous learners who can talk intelligently about technology, and if they're aware of what they don't know. Have a conversation, not an interrogation, and ask if you actually want to work with the person.
+
 
 ### Firing
 aka, “the hardest thing you’ll ever do as a manager.” First are some tips on salvaging an underperformer. Then some tips on how to fire.
