@@ -86,7 +86,7 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Leadership Paradox: Why Managers Must Be Consistently Inconsistent](https://getlighthouse.com/blog/leadership-paradox-consistently-inconsistent): by Lighthouse. Takeaway: "Balancing when to be rigid and when to be flexible is one of the hardest things to learn as a manager." Provides guidance on how to manage this.
 
-- [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do): by Camille Fournier. A collection of advice for leaders at all levels of the career ladder. Valuable whether you are just starting out in management, a veteran, or just curious about common problems and challenges that managers face on a daily basis. 
+- [The Manager's Path [$]](http://shop.oreilly.com/product/0636920056843.do): by Camille Fournier. A collection of advice for leaders at all levels of the career ladder. Valuable whether you are just starting out in management, a veteran, or just curious about common problems and challenges that managers face on a daily basis. 
 
 - [The Missing Piece of a Manager’s Responsibilities](https://medium.com/@uicynthia/the-missing-piece-of-a-managers-responsibilities-bc64fa2678a1): by Cynthia Maxwell. Takeaway: "[it's] 'digging deep': owning your successes and knowing that you can overcome whatever challenges come your way."
 
