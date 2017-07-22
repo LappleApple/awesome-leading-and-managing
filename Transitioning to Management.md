@@ -86,11 +86,13 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Leadership Paradox: Why Managers Must Be Consistently Inconsistent](https://getlighthouse.com/blog/leadership-paradox-consistently-inconsistent): by Lighthouse. Takeaway: "Balancing when to be rigid and when to be flexible is one of the hardest things to learn as a manager." Provides guidance on how to manage this.
 
+- [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do): by Camille Fournier. A collection of advice for leaders at all levels of the career ladder. Valuable whether you are just starting out in management, a veteran, or just curious about common problems and challenges that managers face on a daily basis. 
+
 - [The Missing Piece of a Manager’s Responsibilities](https://medium.com/@uicynthia/the-missing-piece-of-a-managers-responsibilities-bc64fa2678a1): by Cynthia Maxwell. Takeaway: "[it's] 'digging deep': owning your successes and knowing that you can overcome whatever challenges come your way."
 
- - [The Most Important Management Concept You’re Missing](https://getlighthouse.com/blog/management-concept): by Lighthouse. The article advocates Task Relevant Maturity, described like so: “How often you monitor should not be based on what you believe your subordinate can do in general, but on [their] experience with a specific task and [their] prior performance with it – [their] task relevant maturity…as the subordinate’s work improves over time, you should respond with a corresponding reduction in the intensity of the monitoring.” 
+- [The Most Important Management Concept You’re Missing](https://getlighthouse.com/blog/management-concept): by Lighthouse. The article advocates Task Relevant Maturity, described like so: “How often you monitor should not be based on what you believe your subordinate can do in general, but on [their] experience with a specific task and [their] prior performance with it – [their] task relevant maturity…as the subordinate’s work improves over time, you should respond with a corresponding reduction in the intensity of the monitoring.” 
  
- - [The Most Important, Yet Overlooked Management Skill](https://getlighthouse.com/blog/management-skill): by Lighthouse. Takeaway: Curiosity is the most important trait of a leader. Ask questions.
+- [The Most Important, Yet Overlooked Management Skill](https://getlighthouse.com/blog/management-skill): by Lighthouse. Takeaway: Curiosity is the most important trait of a leader. Ask questions.
  
 - [New Leader's 100-Day Action Plan & First 90 Days](https://docs.google.com/document/d/1w0JPuwaJSmDbrpv9n4FSXmHXS6XuKM-lcvQ-mIKo89A/edit): by Joe Goldberg (summary). Highly detailed document with TOC. Covers topics ranging from due diligence (before you accept a job) to choosing the right approach for the culture and context.
 
@@ -129,8 +131,6 @@ As a leader of a product development team you might have a PM that you’re work
  - [What Are Common Mistakes That New or Inexperienced Managers Make?](https://www.quora.com/Management/What-are-common-mistakes-that-new-or-inexperienced-managers-make/answer/Ian-McAllister): by Ian McAllister. Takeaway: Some of them include being slow to deal with performance issues, not investing in recruiting or team development, taking credit for others' work and blaming, and simply not leading.
 
 - [What’s Your Learning Stack?](https://mystudentvoices.com/whats-your-learning-stack-55f8639c3d56): by Mattan Griffel and Álvaro Sanmartín. Takeaway: Analogous to a tech stack, a learning stack codifies how learning is done in an org.
-
-- [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do): by Camille Fournier. A collection of advices at all level of the career ladder, interesting if you are just starting your managing career, if your are well into it or if you just want to take a peek at problematics and advices of managers to better understand the challenges they face on a daily basis. 
 
 ### The VP of Engineering Role
 
