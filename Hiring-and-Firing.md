@@ -19,6 +19,8 @@
 
 - [Developer Survey Results](https://insights.stackoverflow.com/survey/2017): by StackOverflow. Annual survey. Takeaways: When assessing potential jobs, developers prioritize "opportunities for professional development" over any other factor by a large margin; the comp/benefits selected the most often relate to mental and physical health: vacation days, remote options, and health; 89% of devs at least "somewhat agreed" that diversity is important, up from 73% in 2016; developers generally supported "c-sat" and "being on time/budget" as the best ways to evaluate the performance of a fellow dev; there's a moderate correlation between remote work and job satisfaction.
 
+- [The Hidden Reason You Can’t Scale Your Engineering Team](https://home.opsolutely.com/the-hidden-reason-you-cant-scale-your-engineering-team/): by Jack Danger. Takeaway: Hiring only "senior engineers" is a recipe for failure. "When a team advertises that they only hire senior engineers, what they’re really saying is that their people and technology infrastructure can’t support hiring beginners – a strong indication of fragile tooling and a fragile team. If you’re at all interested in growth, this should serve as a huge red flag, because it is extraordinarily difficult to scale a fragile team."
+
 - [How to Hire](https://medium.com/eshares-blog/how-to-hire-34f4ded5f176): by
   Henry Ward, CEO at eShares. Takeaways: Hiring is largely due to lack of scaling
   as a business and needing outside resources. It is more important to hire
@@ -40,12 +42,13 @@
 
 - [Interviewing](https://www.xaprb.com/blog/interviewing/): by Baron Schwartz. Takeaway: Understand what you're hiring for, ask questions about past performance only, and gauge potential by "asking questions about what challenged them and how they responded to it."
 
-- [Let’s Stop Calling Them ‘Soft
-  Skills’](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.m0rq6bldu):
+- [Let’s Stop Calling Them "Soft Skills"](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.m0rq6bldu):
   by Seth Godin. Takeaways: Don't overemphasize so-called "vocational" skills.
   Real-world interpersonal skills are just as (if not more) important. Details
   categories of qualities like Self-Control, Productivity, Wisdom, Perception,
   and Influence.
+
+- [Recruiting Diverse Engineering Candidates: What Tech Companies Still Get Wrong](https://techbeacon.com/recruiting-diverse-engineering-candidates-what-tech-companies-still-get-wrong): by Angie Jones. Takeaway: The author describes her experiences interviewing with heavyweight tech companies like Amazon, Google, and Twitter, and reveals some of the disconcerting behaviors she witnessed during the process while praising the good. "All tech companies need to revisit their interviewing practices. Diversify the panel of people who will decide the candidate’s fate with the company; acknowledge that diverse candidates may be concerned with more than just the specifics of the job itself; and ensure that you allocate time for them to have their questions and concerns addressed. Finally, tailor the interview questions to the job for which the candidate is being considered, and steer clear of unjustified coding challenges that only serve to intimidate and stress candidates."
 
 - [What Managers Are Getting Wrong About the World’s Greatest Job
   Ad](http://blog.idonethis.com/greatest-job-ad/): by Blake Thorne at iDoneThis.
