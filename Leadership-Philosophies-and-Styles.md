@@ -92,6 +92,8 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [Why Supercell’s Founder Wants to Be the World’s Least Powerful CEO](https://www.linkedin.com/pulse/why-supercells-founder-wants-worlds-least-powerful-ceo-de-rycker): by Sonali De Rycker. Takeaway from CEO Ilkka Paananen: "My goal is to be the world’s least powerful CEO. What I mean by this is that the fewer decisions I make, the more the teams are making."
 
+- [Your Most Important Skill: Empathy](http://chadfowler.com/2014/01/19/empathy.html): by Chad Fowler. Takeaway: Includes a long-ish list of compelling reasons why empathy truly is your most important skill as a leader, and several suggestions on how to practice empathy: listen; watch and wonder; know your enemies, and choose the other side. "We all have friends and loved ones that complain to us about how they have been treated by other people. It’s human nature to complain and it’s the duty of a loved one to listen sympathetically. The assumption is that the listener is on the side of the complainer. A supportive friend or loved one almost always is, instinctually. Try practicing (internally) taking the opposing view point. Don’t go with your default reaction immediately. Start on the other side and work your way back."
+
 ### Quotes on Leadership
 
 - “Decisions in 10 minutes or less, or the next one is free.” — Included [in this Microsoft article](https://news.microsoft.com/2000/02/16/the-motivator-behind-the-windows-2000-development-team/)
