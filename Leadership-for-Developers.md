@@ -32,6 +32,8 @@
 
 - [Speed in Software Development](https://www.targetprocess.com/articles/speed-in-software-development/): by Michael Dubakov. Takeaway: "Software development pace / productivity / speed is a complex, interdependent and multifaceted concept. It has no easy solution. You can’t shout at people “work faster!” You can’t blindly cut corners and focus on value added activities only. The only solution is to think deeply about the company, development processes, people, tools, etc. Build a model and think."
 
+- [Start from Square Zero: Hidden Habits You Need for a Successful Career in Tech](https://medium.freecodecamp.org/start-from-square-zero-hidden-habits-you-need-for-a-successful-career-in-tech-3e4b86636d6): by Andrea Goulet. Takeaway: Stop calling yourself "non-technical," pick a guilt language instead of a shame language, get comfortable with discomfort, mind the confidence gap, and acknowledge your biases.
+
 - [What Can Developers Learn from Being on Call?](https://jvns.ca/blog/2017/06/18/operate-your-software/?imm_mid=0f4059&cmp=em-webops-na-na-newsltr_20170630): by Julia Evans. Takeaway: Based on a Twitter thread begun by Charity Majors, this post suggests that being on call helps you to learn what kinds of production problems are common and uncommon; understand what needs urgent attention; design reliable systems; build in monitoring and diagnostics early; understand the parts of the system that aren’t yours; gain confidence in your judgement; make minimum effective change; learn about distributed systems and consistency and race conditions, and become a better developer.
 
 ### Teamwork
@@ -41,6 +43,8 @@
 - [Makers and Menders: Putting the Right Developers on the Right Projects (deck)](https://www.slideshare.net/andrea_goulet/makers-and-menders-putting-the-right-developers-on-the-right-projects): by Andrea Goulet, CEO & Co-Founder of Corgibytes. Takeaway: Makers and menders each have valuable roles to play in development. Focusing too much on making leads to maintenance, "legacy code," and technical debt; mend as well to reduce your overhead.
 
 - [Re-structuring a Growing Team](https://writing.jeanhsu.com/re-structuring-a-growing-team-3ac30d93b637): by Jean Hsu. Takeaway: Identify why you're reorganizing, understand what it means, and execute. Includes a plan for conducting a team reorg so you can prepare for your own.
+
+- [What Determines How Collaborative You'll Be?](https://opensource.com/open-organization/17/7/collaboration-vs-competition-part-2?sc_cid=7016000000127L3AAI): by Ron McFarland. Takeaway: Four scenarios that illustrate the factors influencing your level of openness.
 
 ### Technical Debt/Managing It
 
