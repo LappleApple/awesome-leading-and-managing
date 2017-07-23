@@ -9,6 +9,8 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [The Best Leaders Are Constant Learners](https://hbr.org/2015/10/the-best-leaders-are-constant-learners) - HBR article by Kenneth Mikkelsen and Harold Jarche. Takeaway: "Leaders that stay on top of society’s changes do so by being receptive and able to learn." 
 
+- [Etsy Lessons](http://larahogan.me/blog/etsy-lessons/) - by Lara Hogan. Takeaway: a collection of wisdom Hogan (now at Kickstarter) collected over her years at Etsy, about topics ranging from rethinking diversity hiring to how to deal with feeling shaky as a leader.
+
 - [Failure as a Service](https://medium.com/servant-leadership/failure-as-a-service-937473b0c9b8) - by Rich Armstrong. What it means to be a leader. Takeaways: Servant-leaders shouldn’t make decisions that should be made by the folks closest to the problem), unless they can’t be answered with readily-available or easily-collected data, and there’s no consensus on the solution. "When the people you manage bring you a tough call, and you choose right, they get the credit. When you choose wrong, you get the blame. And it’s OK, pookie. That’s what you’re here for."
 
 - [Google Employees Weighed in on What Makes a Highly Effective Manager. Technical Expertise Came in Dead Last](https://www-inc-com.cdn.ampproject.org/c/s/www.inc.com/amp/154561.html) - by Michael Schneider. Takeaway: Tech expertise is worth little if a manager is not committed to communicating clearly/effectively, developing people and removing obstacles so they can get things done.
