@@ -1,7 +1,30 @@
 ## Time Management and Meetings
 
+### Meetings
 - [6 Steps to Running the Perfect 30-Minute Meeting](https://opensource.com/open-organization/16/2/6-steps-running-perfect-30-minute-meeting) - by Jimmy Sjölund. Takeaways: People tend to "default" to 60-minute meetings, but most meetings rarely require this much time. Sjölund offers six suggestions for trimming meetings to a more managemable and appropriate length while simulatenously making them more effective.
+  
+- [Declutter Your Meetings and Create Minimum Viable Meetings](https://zenkara.wordpress.com/2015/09/21/declutter-your-meetings-and-create-minimum-viable-meetings/) - by Zenkara. Takeaway: Run Minimum Viable Meetings, which include the absolute fewest participants with only critical topics for meeting objectives. "Schedule the fewest meetings possible and as early as possible; have the result and outcome that you are satisfied with."
 
+- [Gossip, Rumors, and
+  Lies](http://randsinrepose.com/archives/gossip-rumors-and-lies/) - by Michael
+  Lopp. Takeaways: What are the right reasons to have  meetings, how to provide
+  important structure, and the importance of settings an agenda. 
+
+- [How I Share Information with My
+  Team](http://www.mikemcgarr.com/blog/week-in-review.html) - by Mike McGarr.
+  Takeaways: Team meetings aren't the only way to spread information to the
+  group.
+  
+- [Run Your Meetings Like a
+  Boss](http://99u.com/articles/25075/run-your-meeting-like-a-boss-lessons-from-mayer-musk-and-jobs) - by David Fallarme. Takeaways: Make decisions using data, keep meetings to the
+  necessary size, and be prepared with questions and answers to ensure a meeting
+  is productive.
+  
+ - [Seven Helpful Tips to Ruin a Meeting – What Not to Do to Run Effective Meetings](https://luis-goncalves.com/7-helpful-tips-to-ruin-a-meeting/?__s=zmnhwriwrwhonuvpmtq8) - by Simon Cockayne. Takeaway: Avoid back-to-back scheduling; unclear purpose; lack of preparation; multitasking; personality-based judging of ideas; running over time; zero followup.
+
+- [Start Every Meeting with a Personal Check-in](https://blog.travis-ci.com/2016-06-09-start-meetings-with-personal-checkins) - by Mathias Meyer. Takeaway: the Travis CI CEO talks about how meditation has enhanced his ability to be present, and how this carries into team meetings. "Before you walk into a meeting (virtually or into the meeting room), close your eyes, inhale three times, and walk in. I found that this can have a great impact on my presence and focus in meetings." The team starts meetings with the red/yellow/green scale and everyone states how they're feeling.
+
+### Time Management
 - [Being Busy Is Now a Status Symbol — and That Needs to Stop](http://www.talenteconomy.io/2017/05/04/busy-now-status-symbol-needs-stop/) - by Frank Kalman. Takeaway: Mostly geared toward an American audience, the article questions the trend toward bragging about having no time and filling one's schedule—counterproductive given stress, health issues, burnout, and other negative side effects. "Yes, working hard is important. But at what point does it become unproductive to constantly seek to be the most productive?"
 
 - [Busy to Death](http://barryoreilly.com/2017/05/31/busy-to-death/) - by Barry O'Reilly. Takeaway: "Over-optimizing for executing work is dangerous. Actually, it’s very dangerous indeed as it causes us to get stuck in plan-do-plan-do cycles. We compromise reflection, retrospection, and review of the outcomes of all the output we are creating. We stop building learning loops into our work to plan-do-check-act the results of all this effort. We don’t allow time to study, consider, or understand if the result of all this activity is actually aligned to what we are hoping to achieve. We are frankly too busy to."
@@ -11,27 +34,15 @@
   decide how you really want to be spending your time. This does not just mean
   office time!
   
-- [Declutter Your Meetings and Create Minimum Viable Meetings](https://zenkara.wordpress.com/2015/09/21/declutter-your-meetings-and-create-minimum-viable-meetings/) - by Zenkara. Takeaway: Run Minimum Viable Meetings, which include the absolute fewest participants with only critical topics for meeting objectives. "Schedule the fewest meetings possible and as early as possible; have the result and outcome that you are satisfied with."
-
 - [Focus – keynote at AgileByExample,
   Warsaw](http://blog.crisp.se/2016/10/20/henrikkniberg/focus-keynote) - by
   Henrik Kniberg. Takeaway: Focus on extracting more value from your available
   time. “Busy-ness” is an artificial concept. Build in slack to your schedule to
   achive better focus.
 
-- [Gossip, Rumors, and
-  Lies](http://randsinrepose.com/archives/gossip-rumors-and-lies/) - by Michael
-  Lopp. Takeaways: What are the right reasons to have  meetings, how to provide
-  important structure, and the importance of settings an agenda. 
-
 - [The Habit of No](https://ethansaustin.com/2015/01/01/the-habit-of-no/) - by
   Ethan Austin. The habit of saying no is important for teamwork and keeping a
   startup focused on the common goal.
-  
-- [How I Share Information with My
-  Team](http://www.mikemcgarr.com/blog/week-in-review.html) - by Mike McGarr.
-  Takeaways: Team meetings aren't the only way to spread information to the
-  group.
 
 - [Listening Is the Job](http://boz.com/articles/listening-is-the-job.html) - by Andrew Bosworth. Takeaway: Have a system for taking in/consuming information; maximize signal-to-noise ratio; give feedback; proactively identify gaps in your information flows; write notes to remember reactions you have through the day; tell your story; be clear about the information you seek; and listen.
 
@@ -49,10 +60,6 @@
   Saying "no" more gives you more time to say "HELL YEAH!" for things that are
   really important to you.
 
-- [On Better Meetings](http://larahogan.me/blog/better-meetings/) - by Lara
-  Hogan. Takeaways: Productive meetings come from doing the right amount of work
-  before, during, and after a meeting.
-
 - [Product Strategy Means Saying
   No](http://www.productstrategymeanssayingno.com/) - by Intercom. Takeaways: Review common
   reasons for making product decisions and ask whether they are actually good
@@ -60,14 +67,9 @@
 
 - [Reducing Hours by Focusing your Job](https://wildbit.com/blog/2017/06/05/reducing-hours-by-focusing-your-job) - by Natalie Nagele. Takeaway: How to use a mindmap plus the 30-60-90 plan to clarify the focus of your role, plus what to prioritize. Can be a great exercise to do with your team.
 
-- [Run Your Meetings Like a
-  Boss](http://99u.com/articles/25075/run-your-meeting-like-a-boss-lessons-from-mayer-musk-and-jobs) - by David Fallarme. Takeaways: Make decisions using data, keep meetings to the
-  necessary size, and be prepared with questions and answers to ensure a meeting
-  is productive.
-  
- - [Seven Helpful Tips to Ruin a Meeting – What Not to Do to Run Effective Meetings](https://luis-goncalves.com/7-helpful-tips-to-ruin-a-meeting/?__s=zmnhwriwrwhonuvpmtq8) - by Simon Cockayne. Takeaway: Avoid back-to-back scheduling; unclear purpose; lack of preparation; multitasking; personality-based judging of ideas; running over time; zero followup.
-
-- [Start Every Meeting with a Personal Check-in](https://blog.travis-ci.com/2016-06-09-start-meetings-with-personal-checkins) - by Mathias Meyer. Takeaway: the Travis CI CEO talks about how meditation has enhanced his ability to be present, and how this carries into team meetings. "Before you walk into a meeting (virtually or into the meeting room), close your eyes, inhale three times, and walk in. I found that this can have a great impact on my presence and focus in meetings." The team starts meetings with the red/yellow/green scale and everyone states how they're feeling.
+- [On Better Meetings](http://larahogan.me/blog/better-meetings/) - by Lara
+  Hogan. Takeaways: Productive meetings come from doing the right amount of work
+  before, during, and after a meeting.
 
 - [Three P’s of Prioritizing](http://www.johnmaxwell.com/blog/priorities-prevent-your-leadership-from-crashing) - by the John Maxwell Company. Takeaway: If you are feeling crunched for time,
   reevaluate your priorites. The three Ps are *P*rivate Time, *P*roduction
