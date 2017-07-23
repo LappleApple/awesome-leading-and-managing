@@ -52,8 +52,6 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 
 - [How Slack Supports Junior Engineers](https://slack.engineering/how-slack-supports-junior-engineers-89f6dcfe74a1) - by Carly, a Slack engineer. Takeaway: a detailed, in-depth, first-person account of getting hired at Slack as a junior engineer. An invigorating read that covers the author's interview process, hire, on-the-job Imposter Syndrome, mentorship experiences, and more. Offers good ideas for ramping up your own processes for hiring juniors/first-job engineers.
 
-- [Interviewing](https://www.xaprb.com/blog/interviewing/) - by Baron Schwartz. Takeaway: Understand what you're hiring for, ask questions about past performance only, and gauge potential by "asking questions about what challenged them and how they responded to it."
-
 - [Let’s Stop Calling Them "Soft Skills"](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.m0rq6bldu) - by Seth Godin. Takeaways: Don't overemphasize so-called "vocational" skills.
   Real-world interpersonal skills are just as (if not more) important. Details
   categories of qualities like Self-Control, Productivity, Wisdom, Perception,
@@ -74,6 +72,8 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 - [The Guerrilla Guide to Interviewing (Version 3.0)](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - by Joel Spolsky. Takeaway: "You should always try to have at least six people interview each candidate that gets hired, including at least five who would be peers of that candidate (that is, other programmers, not managers)...If even two of the six interviewers thinks that a person is not worth hiring, don’t hire them...The trick is telling the difference between the superstars and the maybes, because the secret is that you don’t want to hire any of the maybes. Ever." And more great wisdom from the founder of Fog Creek and StackOverflow.
 
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - by Lauren Tan. Lists hundreds of companies that don’t use CS whiteboarding.
+
+- [Interviewing](https://www.xaprb.com/blog/interviewing/) - by Baron Schwartz. Takeaway: Understand what you're hiring for, ask questions about past performance only, and gauge potential by "asking questions about what challenged them and how they responded to it."
 
 - [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers) - by Ammon Bartram (Triplebyte). Takeaways: Ask questions similar to real work.
   Ask multipart questions. Avoid hard questions. Make decisions based on
