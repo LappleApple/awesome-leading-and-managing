@@ -3,14 +3,6 @@
 ### Leadership Philosophies
 This topic comes first, because the following articles offer great frameworks/definitions for leadership.
 
-- [A Model for Leadership](http://randsinrepose.com/archives/leadership-comes-from-everywhere/) - A political article, but it provides one the most complete leadership frameworks we’ve seen. Values are the linchpin in the model, but important things precede and flow from values:
-  - Experience: the total knowledge extracted from yr life i.e. understanding, wisdom, etc.
-  - Judgement: ability to make considered decisions or come to sensible conclusions.
-  - Values: your principles or standards of behavior. What you believe is important in life. 
-  - Vision: ability to articulate an ambitious and seemingly unattainable goal.
-  - Strategy: ability to explain the steps necessary to achieve that vision.
-  - Tactics: decompose a strategy into a series of logical actions that will achieve each step
-
 - [Average Manager vs. Great Manager, Explained in 10 Sketches](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d) - by Julie Zhuo (VP Product Design, Facebook). Go look at these, they’re humorous and poignant. It’ll only take a minute.
 
 - [Be Yourself, but Carefully](https://enterprisersproject.com/resources/be-yourself-carefully?sc_cid=70160000000xYYJAA2) - by Lisa Rosh and Lynn Offerman. Takeaway: "Sharing details about your life can be a valuable way to build relationships in the workplace. But self-disclosures can also lead to oversharing, which can do more harm than good in the office."
@@ -35,11 +27,21 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [Management Philosophy](https://3002.ca/posts/management-philosophy/) - by Gordon Radlein. Takeaway: A five-point philosophy: Trust above all else, feedback, give space to succeed or fail, find the right balance of process, and always have a vision.
 
+- [A Model for Leadership](http://randsinrepose.com/archives/leadership-comes-from-everywhere/) - A political article, but it provides one the most complete leadership frameworks we’ve seen. Values are the linchpin in the model, but important things precede and flow from values:
+  - Experience: the total knowledge extracted from yr life i.e. understanding, wisdom, etc.
+  - Judgement: ability to make considered decisions or come to sensible conclusions.
+  - Values: your principles or standards of behavior. What you believe is important in life. 
+  - Vision: ability to articulate an ambitious and seemingly unattainable goal.
+  - Strategy: ability to explain the steps necessary to achieve that vision.
+  - Tactics: decompose a strategy into a series of logical actions that will achieve each step
+
 - [The Most Important Metric You'll Ever Need](https://barryoreilly.com/2016/08/29/the-most-important-metric-youll-ever-need/) - by Barry O'Reilly. Takeaway: "ask your team what their rate of learning is"—this, as Software Lead Weekly's Oren Ellenbogen notes, "is actually a great question to ask on your 1:1s and company surveys."
 
 - [The Principles of Quantum Team Management](http://firstround.com/review/the-principles-of-quantum-team-management/) - by James Everingham. Takeaway: "Setting up your team the way you would set up a machine can give you a ton of leverage — as long as you realize how complicated and unpredictable the people in that machine can be."
 
 - [Simon Sinek: Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (video) - For a detailed summary by Joe Goldberg, [go here](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Simon%20Sinek:%20Leaders%20Eat%20Last%20Summary.md).
+
+- [Six Crucial Behaviors Of Collaborative Leaders](https://www.forbes.com/sites/carolkinseygoman/2017/07/11/six-crucial-behaviors-of-collaborative-leaders/#4050a9e38cbe) - by Carol Kinsey Goman. Takeaway: Silo-busting, building trust, aligning body language, promoting diversity, sharpening "soft" skills, and creating psychological safety are the six behaviors leaders need.
 
 - [A Tech Lead Manifesto](https://blog.magpiebrain.com/2006/09/12/a-tech-lead-manifesto/) - by Sam Newman. Takeaway: a very pithy summary of what a tech lead should and should not do. Newman believes tech leads should continue coding, but should not write all the "hard" code.
 
