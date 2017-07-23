@@ -17,7 +17,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure the entry is useful before submitting. That implies it has the author's name and a succinct description/"takeaway" after the link.
 - Make one individual pull request per each new entry/suggestion.
 - Use [title-casing](http://titlecapitalization.com) (AP style).
-- Use the following format: `[List Name](link)`.
+- Use the following format: `[Name of book/article/video/etc. you're adding](link)`.
 - Add link additions in alphabetical order.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
