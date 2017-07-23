@@ -78,7 +78,9 @@
 - [The Top 5 Productivity
   Mistakes](https://www.iwillteachyoutoberich.com/blog/top-5-productivity-mistakes/) - by Ramit Sethi. Takeaways: Talks about the psychology of being unproductive,
   and how changing the narrative can achive big breakthroughs.
-  
+
+- [“Vacations are for the Weak”](http://sethbannon.com/vacations-are-for-the-weak) - by Seth Bannon. Takeaway: "Preventing burnout is part of your job. Staying well rested is part of your job. Sleep and exercise help, but occasional extended breaks are essential too, and their benefits on creativity, productivity, and happiness are well documented."
+
 - [What You Don't Know About Management - How to Take Back Your
   Workday](https://drive.google.com/file/d/0B28qaK8Qf80eRThwOE1oLVRjWkx5TGJNWnBtcS1Nb1BQMTI0/view) - by Janet Choi and Walter Chen at iDoneThis. A longer read that starts with
   self-managing your own success and covers how to manage people more
