@@ -1,6 +1,10 @@
 ## Culture
 
+- [5 Questions That Reveal If a Company Has a Healthy Workplace Culture](http://www.cnbc.com/2017/07/12/5-questions-that-reveal-if-a-company-has-a-healthy-workplace-culture.html) - by Claire Lew. Takeaway: A healthy workplace offers uninterrupted time, heated debate, access to the top leadership, reasons to value and be proud of it, and a culture of selflessness.
+
 - [Changing Company Culture Requires a Movement, Not a Mandate](https://hbr.org/2017/06/changing-company-culture-requires-a-movement-not-a-mandate) - by Bryan Walker and Sarah A. Soule. Takeaway: "[C]ulture change can’t be achieved through top-down mandate. It lives in the collective hearts and habits of people and their shared perception of 'how things are done around here.' Someone with authority can demand compliance, but they can’t dictate optimism, trust, conviction, or creativity." This also applies to the best-intentioned culture changes, including agile transformations. You might have the best intentions in the world, but if your team doesn't see the value or direction of the change, don't expect them to adapt.
+
+- [The Company Isn’t a Family](https://m.signalvnoise.com/the-company-isnt-a-family-d24f26c3f3fe) - by David Heinemeier Hansson. Takeaway: "Whenever executives talk about how their company is really like a big ol’ family, beware. They’re usually not referring to how the company is going to protect you no matter what or love you unconditionally. You know, like healthy families would. The motive is rather more likely to be a unidirectional form of sacrifice: Yours."
 
 - [Creating the Dream Team: Transform Your Engineering Organization to Attract New Talent](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/) - by Andrew Hao. Takeaway: Start with evaluating your current culture's strengths and weaknesses. Be in tune with your org. Make sure you demonstrate that you value employees—whether that is talking up their accomplishments, investing in training, or just being there to talk.
 
