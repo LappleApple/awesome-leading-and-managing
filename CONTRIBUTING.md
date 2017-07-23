@@ -21,7 +21,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Add link additions in alphabetical order.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
-- The link and description should be separated by a -.
+- Use a - to separate the link and description.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title. For simplicity, we recommend using the title of the article/book/video/etc. you're adding.
 - The body of your commit message should contain a link to the repository.
