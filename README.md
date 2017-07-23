@@ -8,7 +8,7 @@ Since 2013-ish, [Joe Goldberg](https://twitter.com/bostonsteamer), who created t
 - [Culture](Culture.md)
 - [Diversity and Gender](Diversity-and-Gender.md)
 - [Giving Feedback, Praise, and Advice](Giving-Feedback-Praise-and-Advice.md)
-- [Hiring and Firing](Hiring-and-Firing.md)
+- [Firing, Hiring and Interviewing Candidates](Hiring-and-Firing.md)
 - [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
 - [Leader List](Leader-List.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
