@@ -1,11 +1,14 @@
-## Awesome Leadership and Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Leadership and Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+## What This Is, and Where It Comes From
+Since 2013-ish, [Joe Goldberg](https://twitter.com/bostonsteamer), who created the original document inspiring this list, read a crap-ton of books and articles about "leadership" and "management" and took notes along the way. He shared it with friends who were transitioning to management roles and eventually decided to open-source it. [Here you'll find Joe's still-public document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
 
 ## Contents
 - [Conflict Resolution, Postmortems and Retrospectives](Conflict-Resolution-Postmortems-Retrospectives.md)
 - [Culture](Culture.md)
 - [Diversity and Gender](Diversity-and-Gender.md)
 - [Giving Feedback, Praise, and Advice](Giving-Feedback-Praise-and-Advice.md)
-- [Hiring and Firing](Hiring-and-Firing.md)
+- [Firing, Hiring and Interviewing Candidates](Hiring-and-Firing.md)
 - [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
 - [Leader List](Leader-List.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
@@ -20,9 +23,6 @@
 *"If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
 "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan<br>
 "A leader is best when people barely know he exists, when their work‘s done, her aim fulfilled, they will say: we did it ourselves." — Lao Tzu*
-
-## What This Is, and Where It Comes From
-Since 2013-ish, [Joe Goldberg](https://twitter.com/bostonsteamer), who created the original document inspiring this list, read a crap-ton of books and articles about "leadership" and "management" and took notes along the way. He shared it with friends who were transitioning to management roles and eventually decided to open-source it. [Here you'll find Joe's still-public document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
 
 ## Contribute Your Favorites
 Please share/promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
