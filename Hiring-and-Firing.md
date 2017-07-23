@@ -1,4 +1,17 @@
-## Hiring and Firing
+## Firing, Hiring, and Interviewing Candidates
+
+### Firing
+aka, “the hardest thing you’ll ever do as a manager.” First are some tips on salvaging an underperformer. Then some tips on how to fire.
+
+- [How Do You Fire an Employee That (sic) Just Isn't Good Enough?](https://www.quora.com/How-do-you-fire-an-employee-that-just-isnt-good-enough/answer/Michael-O-Church) - by Michael O. Church. Takeaway: “The best employees are multipliers who make others more productive, and next are the adders (workhorses). Subtractors are the good-faith incompetents who cost more than they bring. Dividers are the worst kind of problem employee: They bring the whole team (or company) down.” Simplified as Multipliers/Adders/Subtractors/Dividers.
+
+- [How to Terminate an Employee without Breaking their Spirit](https://hiring.monster.com/hr/hr-best-practices/workforce-management/hr-management-skills/employee-termination-tips.aspx) - by Dick Grote. Includes a checklist of questions the candidate will likely ask; come prepared with answers.
+
+- [Letting Someone Go With Dignity](https://boss.blogs.nytimes.com/2014/08/07/letting-someone-go-with-dignity/) - by Rebekah Campbell. Takeaway: Let people save face, don't procrastinate, stick to any agreements, be clear about what happens next; announce it to the team together and let them say goodbye. Some good advice, though we're not sure you should go out for drinks with the person you just fired in every situation.
+
+- [The Right Way to Fire Someone](https://hbr.org/2016/02/the-right-way-to-fire-someone) - by Rebecca Knight. Takeaway: Don't drag your feet; make HR your ally; keep it short; stay in the room; show compassion; talk to your team; and focus on the future.
+
+- [Why Firing Brilliant Assholes Is Required to Build a Great Engineering Culture](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/) - by Joe Stump (transcript by First Round). Takeaway: "Do not send a recruiter to do an engineer's job. It’s the job of founders and CTOs to be personally involved in the recruiting of the first 30 to 40 team members. Once you identify a great engineer, send your very best engineering employee who's personable to go after the person (this could be you). Make sure this individual can speak the candidate’s language and pitch them on the things that actually matter." And cultivate culture through communication.
 
 ### Hiring
 
@@ -54,7 +67,7 @@
 
 - [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - by anonymous. Takeaway: Be careful with the "brilliant" word. Many brilliant people start a lot and are visionaries or charismatic, but don't finish what they started.
 
-### How to Interview Candidates
+### Interviewing Candidates
 
 - [A Better Way to Interview Software Engineers](https://fulcrum.lever.co/a-better-way-to-interview-software-engineers-fa9b5d2b5316) - by Zach Millman. Takeaway: "When you spend an hour asking how to improve some code, it shows that you really care about code quality and collaborative engineering."
 
@@ -73,15 +86,3 @@
 - [Screen Engineers Better with a Debugging Roleplay](https://hackernoon.com/cut-to-the-chase-with-a-debugging-roleplay-d7d49f518157) - by Pete Karl II. Takeaway: Using a text-based, role-playing debugging game on a phone screen, Localytics doubled their team size within six months.
 
 - [You Suck at Technical Interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews) - by Laurie Voss. Takeaways: don't hire for what candidates already know, or for what they can remember during the interview; don't hire based on elite degrees or past employers; and don't hire friends and family. Instead, interview in order to find out if the candidate can do the job, if they'll get even better at the job, if they're continuous learners who can talk intelligently about technology, and if they're aware of what they don't know. Have a conversation, not an interrogation, and ask if you actually want to work with the person.
-
-
-### Firing
-aka, “the hardest thing you’ll ever do as a manager.” First are some tips on salvaging an underperformer. Then some tips on how to fire.
-
-- [How Do You Fire an Employee That (sic) Just Isn't Good Enough?](https://www.quora.com/How-do-you-fire-an-employee-that-just-isnt-good-enough/answer/Michael-O-Church) - by Michael O. Church. Takeaway: “The best employees are multipliers who make others more productive, and next are the adders (workhorses). Subtractors are the good-faith incompetents who cost more than they bring. Dividers are the worst kind of problem employee: They bring the whole team (or company) down.” Simplified as Multipliers/Adders/Subtractors/Dividers.
-
-- [How to Terminate an Employee without Breaking their Spirit](https://hiring.monster.com/hr/hr-best-practices/workforce-management/hr-management-skills/employee-termination-tips.aspx) - by Dick Grote. Includes a checklist of questions the candidate will likely ask; come prepared with answers.
-
-- [Letting Someone Go With Dignity](https://boss.blogs.nytimes.com/2014/08/07/letting-someone-go-with-dignity/) - by Rebekah Campbell. Takeaway: Let people save face, don't procrastinate, stick to any agreements, be clear about what happens next; announce it to the team together and let them say goodbye. Some good advice, though we're not sure you should go out for drinks with the person you just fired in every situation.
-
-- [The Right Way to Fire Someone](https://hbr.org/2016/02/the-right-way-to-fire-someone) - by Rebecca Knight. Takeaway: Don't drag your feet; make HR your ally; keep it short; stay in the room; show compassion; talk to your team; and focus on the future.
