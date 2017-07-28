@@ -20,6 +20,8 @@
 
 - [Failure: Why It Happens & How to Benefit from It](https://archive.org/details/pdxdevops2017-failure) (video) - by VM (Vicky) Brasseur. Takeaway: The most common causes for failure; suggestions for how to avoid failing; and how to use failure to your advantage. "[E]mbracing failure can be one of the best things you do for your project. Failure is a vital part of evolution. By learning to love failure we learn how to take the next step forward. Ignoring or punishing failure leads to stagnation and wasted potential."
 
+- [Awesome Retrospectives](https://github.com/josephearl/awesome-retrospectives) - by Joseph Earl. A curated list of resources for facilitating and learning about retrospectives.
+
 ### Postmortems
 
 - [Etsy’s Guide to Postmortems](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) - by John Allspaw, Morgan Evans and Daniel Schauenberg. A lengthy document that provides a guide on the art of asking questions. [On Failure and Resilience](https://beero.ps/2017/06/17/on-failure-and-resilience/) provides a briefer summary, describing an Etsy incident and how the team managed it.
