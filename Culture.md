@@ -44,6 +44,8 @@
 
 - [Values Exercises to Build Vision in Your Company](https://www.happymelly.com/values-exercises-to-build-vision/) - by Happy Melly. Exercises to help your organization identify its values, and a downloadable list of 250 potential values to choose from. 
 
+- [What Company Culture IS and IS NOT](https://moz.com/rand/what-company-culture-is-and-is-not/) - by Rand. Takeaway: "Your company’s culture is three big things: Your values – those you state with words and those you exhibit through your actions[;] your mission & vision – the goal you’re driving toward and the force behind that goal[;] your hiring, firing, and promotion criteria – the reasons you bring people onto the team, the reasons you let them go, and the reasons you promote/reward them[.] If you’re trying to figure out what a company’s values really are, look at the decisions management makes when lots of money, risk, or loss of face for executives is at odds with the stated values."
+
 - [What Does It Mean to Be a Learning Organization?](https://docs.google.com/document/d/15xrkf9fC2cf9g7joK9ZXA16_Qd77PzxjJRjH-RIJpeQ) - by Joe Goldberg. Takeaway: "You're either building a learning organization or you'll be losing to someone who is."
 
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - by Charles Duhhig. Takeway: The best teams are supportive and team members are sensitive to each others' feelings and needs.
