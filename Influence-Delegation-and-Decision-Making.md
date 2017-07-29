@@ -14,6 +14,8 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
 
 - [The 48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197) - by Robert Greene and Joost Elffers. A history of power, condensed into 48 laws. [Book notes by Joe Goldberg here](https://docs.google.com/document/d/1N5ruzsUUOI698uYlPB5fkV2FNx73JYnxFLuM-sIsXMs/edit).
 
+- [How to Decide Which Tasks to Delegate](https://hbr.org/2017/07/how-to-decide-which-tasks-to-delegate) - by Jenny Blake. Takeaway: "Conduct an audit using the six T’s to determine what tasks make the most sense to offload"—tiny, tedious, time-consuming, teachable, terrible at, and time-sensitive. Includes a [delegation template](https://docs.google.com/spreadsheets/d/1spiyCEvdD4TMyoF12UPwvcZKlTYSCBnoMY1IBJ0idyM/edit#gid=2099757242) you can use as a model for offloading tasks.
+
 - [How to “Get out of the Way”](https://medium.com/garbage-collection/getting-out-of-the-way-cb15fa62407d#.yuuegs28h) - by Phil Sarin. Takeaways: Remove mechanisms of control: examples include estimation, meetings, sprints; increase focus (eliminate projects and reduce the number of priorities to 1-2); give authority to choose any approach that would lead to success. Need strong agreement on the goals of the project. If your managing principle is trust and not control, then people matter more than processes do.
 
 - [How to Handle “The Situation”](http://randsinrepose.com/archives/the-situation/) - by Michael Lopp. Takeaway:
