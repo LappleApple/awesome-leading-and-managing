@@ -16,20 +16,6 @@
 
 - [Power up Your Team with Nonviolent Communication Principles](http://firstround.com/review/power-up-your-team-with-nonviolent-communication-principles/) - by First Round. An enlightened interview with executive coaches Ann Mehl and Jerry Colonna, who teach major tech companies about nonviolent communication principles through emphasizing awareness, responsibility and empathy.
 
-### Retrospectives
-
-- [Awesome Retrospectives](https://github.com/josephearl/awesome-retrospectives) - by Joseph Earl. A super-helpful, curated list of resources for facilitating and learning about retrospectives.
-
-- [Energizing Retrospective – Energize Your Team Retrospective With This Easy Exercise](https://luis-goncalves.com/energize-your-team-retrospective/) - by Sam Laing. Suggests a combination of short positivity-generating and task-breakdown exercises to motivate teams to take action.
-
-- [Failure: Why It Happens & How to Benefit from It](https://archive.org/details/pdxdevops2017-failure) (video) - by VM (Vicky) Brasseur. Takeaway: The most common causes for failure; suggestions for how to avoid failing; and how to use failure to your advantage. "[E]mbracing failure can be one of the best things you do for your project. Failure is a vital part of evolution. By learning to love failure we learn how to take the next step forward. Ignoring or punishing failure leads to stagnation and wasted potential."
-
-- [Getting Value out of Agile Retrospectives](https://www.infoq.com/minibooks/agile-retrospectives-value#minibookDownload) - by Ben Linders and Luis Gonçalves. Takeaway: "[A] pocket book [that] contains many exercises that you can use to do retrospectives, supported with the “what” and “why” of retrospectives, the business value and benefits that they can bring you, and advice for introducing and improving retrospectives."
-
-- [Running Effective Retrospectives](http://werve.net/articles/running-effective-retrospectives/) - by Don Werve. Takeaway: "[R]etrospectives plus science equals an effective tool for killing bad process before it metastasizes into truly epic stupidity."
-
-- [Which Questions do you Ask in Retrospectives?](https://www.benlinders.com/2013/which-questions-do-you-ask-in-retrospectives/) - by Ben Linders. With four key retro questions: "What did we do well, that if we don’t discuss we might forget? What did we learn? What should we do differently next time? What still puzzles us?"
-
 ### Postmortems
 
 - [Don't Worry About Failure...Embrace It!](https://dev.to/jlhcoder/dont-worry-about-failureembrace-it) - by James Hood. Takeaway: "Treat each failed attempt as a learning experience. What went wrong that time? What can I do differently next time? Being kind to yourself and treating setbacks as learning opportunities is key to getting ... onto a path of positive personal growth."
@@ -43,7 +29,23 @@
     - Strengths-Threats. Use your strengths to minimize threats
     - Weaknesses-Opportunities. Improve weaknesses by taking advantage of opportunities
     - Weaknesses-Threats. Work to eliminate weaknesses to avoid threats
+    
+- [Root Cause Analysis: Practical Tools](https://www.benlinders.com/2011/root-cause-analysis-practical-tools/) - by Ben Linders. Tools for you to use to conduct your own root cause analysis, including a process, a checklist to help you get started and a report with an example.
 
 - [The Root Cause Fallacy](https://www.xaprb.com/blog/2014/07/21/root-cause-fallacy/) - by Baron Schwartz. Takeaway: Asking why repeatedly will always get you to the CEO, eventually; stop looking for a single root cause — instead, identify system of conditions/dysfunctions that jointly caused the problem; change the culture and own failures as opportunities.
 
 - [Why Airbnb Encourages Employees to Predict Its Own Downfall](http://www.inc.com/adam-vaccaro/airbnb-demise.html) - by Adam Vaccaro. Takeaway: Imagine the disruption that causes your company’s demise. Have pre-mortems: “Meet before a project and imagine they're a few months or a year in the future and that the project has failed.” Or the opposite: “the team imagines absolute success--and talks through the crucial hypothetical points in the process where the right decisions were made.”
+
+### Retrospectives
+
+- [Awesome Retrospectives](https://github.com/josephearl/awesome-retrospectives) - by Joseph Earl. A super-helpful, curated list of resources for facilitating and learning about retrospectives.
+
+- [Energizing Retrospective – Energize Your Team Retrospective With This Easy Exercise](https://luis-goncalves.com/energize-your-team-retrospective/) - by Sam Laing. Suggests a combination of short positivity-generating and task-breakdown exercises to motivate teams to take action.
+
+- [Failure: Why It Happens & How to Benefit from It](https://archive.org/details/pdxdevops2017-failure) (video) - by VM (Vicky) Brasseur. Takeaway: The most common causes for failure; suggestions for how to avoid failing; and how to use failure to your advantage. "[E]mbracing failure can be one of the best things you do for your project. Failure is a vital part of evolution. By learning to love failure we learn how to take the next step forward. Ignoring or punishing failure leads to stagnation and wasted potential."
+
+- [Getting Value out of Agile Retrospectives](https://www.infoq.com/minibooks/agile-retrospectives-value#minibookDownload) - by Ben Linders and Luis Gonçalves. Takeaway: "[A] pocket book [that] contains many exercises that you can use to do retrospectives, supported with the “what” and “why” of retrospectives, the business value and benefits that they can bring you, and advice for introducing and improving retrospectives."
+
+- [Running Effective Retrospectives](http://werve.net/articles/running-effective-retrospectives/) - by Don Werve. Takeaway: "[R]etrospectives plus science equals an effective tool for killing bad process before it metastasizes into truly epic stupidity."
+
+- [Which Questions do you Ask in Retrospectives?](https://www.benlinders.com/2013/which-questions-do-you-ask-in-retrospectives/) - by Ben Linders. With four key retro questions: "What did we do well, that if we don’t discuss we might forget? What did we learn? What should we do differently next time? What still puzzles us?"
