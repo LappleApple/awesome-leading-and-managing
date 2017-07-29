@@ -16,6 +16,8 @@
 
 - [How to Listen](https://hbr.org/2016/07/what-great-listeners-actually-do) - by Jack Zenger and Joseph Folkman. Takeaway: Balance between being silent and asking questions that promote discovery and insight. Build the speaker’s self-esteem, make them feel supported. Challenge assumptions and disagree—but try to help, not win an argument.Make suggestions, but don’t just jump in and try to solve everyone’s problems. Clear away distractions (phone/laptop), focus attention on the speaker, make eye contact.
   
+- [How to Tell the Truth](https://a16z.com/2017/07/27/how-to-tell-the-truth/) - by Ben Horowitz. Takeaway: Do not lie to your people when it comes to tell bad news, but attach meaning to it.  
+  
 - [Moving Motivators](https://management30.com/practice/moving-motivators/) - by Jurgen Appelo. A fun exercise you can use with your team to understand which values and aspirations motivate them—status, freedom, power, etc.
 
 - [The Neuroscience of Trust](https://hbr.org/2017/01/the-neuroscience-of-trust) - by Paul J. Zak. Takeaway: "[B]uilding a culture of trust is what makes a meaningful difference. Employees in high-trust organizations are more productive, have more energy at work, collaborate better with their colleagues, and stay with their employers longer than people working at low-trust companies. They also suffer less chronic stress and are happier with their lives, and these factors fuel stronger performance."
