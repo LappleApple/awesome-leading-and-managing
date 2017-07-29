@@ -12,6 +12,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Anjuan Simmons](https://twitter.com/anjuan) — Technical Program Manager, speaker, writer, storyteller.
 - [April Wensel](https://twitter.com/aprilwensel) — Founder of Compassionate Coding (@compassioncode), software developer, speaker, writer.
 - [Aviran Mordo](https://twitter.com/aviranm) — Developer, Tech junky, Continuous Delivery Expert, Advocate of Dev Centric Culture and Head of Engineering @ Wix.
+- [Ben Linders](https://twitter.com/BenLinders) - Agile Lean Quality & Continuous Improvement, editor @InfoQ.
 - [Boaz Sender](https://twitter.com/BoazSender) — Director of Research at @Bocoup, with JS Foundation. Curating at @galleryopen, @mobiusartists board.
 - [Brene Brown](https://twitter.com/BreneBrown) — Researcher. Storyteller.
 - [Bridget Kromhout](https://twitter.com/bridgetkromhout) — Principal Technologist for @cloudfoundry at @pivotal. Podcasts @arresteddevops. Organizes @devopsdays. Was ops at @DramaFever.
