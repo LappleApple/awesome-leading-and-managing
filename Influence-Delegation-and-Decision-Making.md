@@ -10,6 +10,8 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
 
 - [Why Humble People Make Better Decisions](https://journal.thriveglobal.com/why-humble-people-make-better-decisions-d18e6ad6180a#.hy27xhl36) - by Drake Baer. Takeaway: A Duke University research study shows that people with high "intellectual humility" are more open to the information coming their way, as a form of "information sensitivity." This means they end up making more informed decisions than those who need to be right and ignore evidence.
 
+- [3 Ways To Ease The Pain Of Slow And Frustrating Decision Making](http://corporate-rebels.com/rebellious-practices-distributed-authority/) - by the Corporate Rebels. Takeaway: Change your language to imply empowerment; distribute decision-making authority by practice, and push decision making authority down through proper training.
+
 ### Delegation
 
 - [The 48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197) - by Robert Greene and Joost Elffers. A history of power, condensed into 48 laws. [Book notes by Joe Goldberg here](https://docs.google.com/document/d/1N5ruzsUUOI698uYlPB5fkV2FNx73JYnxFLuM-sIsXMs/edit).
