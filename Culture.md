@@ -16,6 +16,8 @@
 
 - [Five Years, Building a Culture, and Handing It Off](http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off) - by Kellan Elliott-McCrea. Takeaway: Build a culture of learning, generosity and values.
 
+- [Hearts and Minds: Shaping Dev Culture Through Technical Training](https://medium.com/@karen_meep/hearts-and-minds-shaping-dev-culture-through-technical-training-3c9c6ed49ce6) - by Karen Cohen. Takeaway: "[W]e have to make sure we don’t lose our culture. Left unattended, it will turn into ‘null culture’. It’s what happens when no formal culture is put into place. It leaves people guessing what is socially acceptable and creates an impossible environment for those who guess wrong. It’s not the type of environment that makes employees want to stick around."
+
 - [How Netflix Reinvented HR](http://hbr.org/2014/01/how-netflix-reinvented-hr/ar/pr) - by Patty McCord. Takeaway: Hire only people who are able to put your company’s interests first.
 
 - [How to Get Engineering Teams to Eat Their Vegetables](https://medium.com/@duretti/how-to-get-engineering-teams-to-eat-their-vegetables-83e0f83af71a) - by Duretti Hirpa. Takeaway: Good teams are supportive, have a sense of togetherness and don't blame their team members for their mistakes but instead learn from them.
