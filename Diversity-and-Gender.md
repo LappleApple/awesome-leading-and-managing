@@ -18,7 +18,7 @@
 
 - [For an Inclusive Culture, Try Working Less](https://hackernoon.com/for-inclusive-culture-maybe-less-is-more-87b663662cea) - by Rich Armstrong. Takeaway: "When our office culture is focused on business rather than socializing, we reduce the number of ways in which we all have to be the same. When we do that, we allow diversity to flourish. If your culture expects people to work long hours or hang out off-hours, the strain on the people who are different, in whatever way, is increased, and your ability to retain a diverse work force is reduced."
 
-- [Hire More Women in Tech](https://www.hiremorewomenintech.com/) - by anonymous. A wealth of information and data about why companies should hire more tech women and why they don't. Includes lists of reading materials, women in tech groups, and other valuable information.
+- [Hire More Women in Tech](https://www.hiremorewomenintech.com/) - by Karen Schoellkopf. A wealth of information and data about why companies should hire more tech women and why they don't. Includes lists of reading materials, women in tech groups, and other valuable information.
 
 - [How Men and Women See the Workplace Differently](http://graphics.wsj.com/how-men-and-women-see-the-workplace-differently/) - by Nikki Waller. A *Wall Street Journal* article on a study conducted by LeanIn.org and MicKinsey. "Data show that men win more promotions, more challenging assignments and more access to top leaders than women do. Men are more likely than women to feel confident they are en route to an executive role, and feel more strongly that their employer rewards merit."
 
