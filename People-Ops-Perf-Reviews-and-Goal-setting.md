@@ -51,6 +51,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Employee Reviews – Tips to Use Them as Motivation](http://katemats.com/employee-reviews-tips-use-them-as-motivation/) - by kate{mats}. Takeaway: keep them more positive than negative; attach constructive suggestions to negative points; ensure feedback is accurate and continuous; set clear expectations and guidance on how to achieve different ratings; round up when in doubt, end positively.
 
+- [Five Ways to Receive Negative Feedback Well](https://m.signalvnoise.com/five-ways-to-receive-negative-feedback-well-f9edd3d27097#---0-273) - by Claire Lew. Takeaway: "How you receive feedback — especially negative feedback — sets the precedent for how welcome honest, forthcoming perspectives are in your company. Dismiss feedback on a whim or become overly defensive, and you’re not likely to hear critical feedback from that person again."
+
 - [How to Be a Better Manager by Remembering 5 Simple Phrases](https://getlighthouse.com/blog/how-to-be-a-better-manager/) - by Lighthouse. Takeaway: They are, “...that sounds important to you, let me write that down” (helps you keep your promises, and is a signal that you value what they said); "...what can we each do by next time to make progress on this?”; “Yes and...”; "...tell me about the last time that happened"; "...together...”
 
 - [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d) - by Gabriel Weinberg. A comprehensive list of mental models to make you aware of biases and assumptions.
