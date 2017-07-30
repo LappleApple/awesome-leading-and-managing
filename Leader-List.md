@@ -17,6 +17,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Brene Brown](https://twitter.com/BreneBrown) — Researcher. Storyteller.
 - [Bridget Kromhout](https://twitter.com/bridgetkromhout) — Principal Technologist for @cloudfoundry at @pivotal. Podcasts @arresteddevops. Organizes @devopsdays. Was ops at @DramaFever.
 - [Charity Majors](https://twitter.com/mipsytipsy) — Engineer/CEO at @honeycombio, formerly Parse/Facebook, frequent speaker.
+- [Camille Fournier](https://twitter.com/skamille) - Engineer, CTO, member of the Apache ZooKeeper community. Frequent speaker.
 - [Carol Willing](https://twitter.com/WillingCarol) — Director, @ThePSF. @projectjupyter core dev. @calpoly research engineer. @fablabsd Geek in Res. @MITSloan @DukeU alum.
 - [Chris Aniszczyk](https://twitter.com/cra) — Building @CloudNativeFdn @OCI_ORG / Open Source Pragmatist.
 - [Cindy Gallop[(https://twitter.com/cindygallop) — the Michael Bay of business.
