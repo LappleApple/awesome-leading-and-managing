@@ -27,7 +27,7 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
   Ensure that your internals are prepared, as growing diversity is ultimately
   more important than hiring.
 
-- [Applied humaning for technical interviews](https://www.youtube.com/watch?v=yeV62jgu1l0) - by Cate Huston. Takeaways: In a power based situation, the quality of the relationship is owned by the person with the power (the interviewer).  Don't give feedback on aspects you have no evidence for.  What does a good interview question look like? Should have multiple answers and tradeoffs.  For developers - how does the person handle the bits of the role that aren't coding.
+- [Applied Humaning for Technical Interviews](https://www.youtube.com/watch?v=yeV62jgu1l0) - by Cate Huston. Takeaways: In a power based situation, the quality of the relationship is owned by the person with the power (the interviewer).  Don't give feedback on aspects you have no evidence for.  What does a good interview question look like? Should have multiple answers and tradeoffs.  For developers - how does the person handle the bits of the role that aren't coding.
 
 - [Creating the Dream Team: Transform Your Engineering Organization to Attract New Talent](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/) - by Andrew Hao. Takeaway: Focus more on building culture than offering perks. Assess your culture, set the example, and coach.
 
