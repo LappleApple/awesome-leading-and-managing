@@ -38,13 +38,23 @@
 
 ### Retrospectives
 
+- [Agile Retrospectives: Making Good Teams Great [$]](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649) - by Esther Derby and Diana Larsen. This book offers a wealth of tools, tips and tricks to make your retros effective.
+
 - [Awesome Retrospectives](https://github.com/josephearl/awesome-retrospectives) - by Joseph Earl. A super-helpful, curated list of resources for facilitating and learning about retrospectives.
 
 - [Energizing Retrospective – Energize Your Team Retrospective With This Easy Exercise](https://luis-goncalves.com/energize-your-team-retrospective/) - by Sam Laing. Suggests a combination of short positivity-generating and task-breakdown exercises to motivate teams to take action.
 
 - [Failure: Why It Happens & How to Benefit from It](https://archive.org/details/pdxdevops2017-failure) (video) - by VM (Vicky) Brasseur. Takeaway: The most common causes for failure; suggestions for how to avoid failing; and how to use failure to your advantage. "[E]mbracing failure can be one of the best things you do for your project. Failure is a vital part of evolution. By learning to love failure we learn how to take the next step forward. Ignoring or punishing failure leads to stagnation and wasted potential."
 
+- [Fun Retrospectives](http://www.funretrospectives.com/) - by Paulo Caroli and Taina TC Caetano. Takeaway: A website with various exercises your team can play to extract value and fun from retros. Includes a link to download the related eBook, and another to their [free and open-source fun retros tool](https://funretro.github.io/distributed/).
+
 - [Getting Value out of Agile Retrospectives](https://www.infoq.com/minibooks/agile-retrospectives-value#minibookDownload) - by Ben Linders and Luis Gonçalves. Takeaway: "[A] pocket book [that] contains many exercises that you can use to do retrospectives, supported with the “what” and “why” of retrospectives, the business value and benefits that they can bring you, and advice for introducing and improving retrospectives."
+
+- [How Large Is YOUR Retrospective?](http://tech.gilt.com/agile/2017/07/27/large-scale-retro) - by Dana Pylayeva at Gilt/HBC Digital. Takeaway: Pylayeva describes how she and other facilitators organized a meaningful retrospective involving 60 people and five consulting companies. Lots of details, references to other resources and insights into what went well and what didn't.
+
+- [How We Do Large Scale Retrospectives](https://labs.spotify.com/2015/11/05/large-scale-retros/) - by Henrik Kniberg. Takeaway: How decentralized retrospectives with tiered granularity helped Spotify hold large and meaningful retros. Breaking down large groups into teams organized around themes is the "scaling trick" here.
+
+- [Retrospectives](http://www.retrospectives.com/) - by Norman L. Kerth. Takeaway: A website dedicated to retrospectives, "the practice of looking back to move forward." Includes the Retrospective Prime Directive: "Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand."
 
 - [Running Effective Retrospectives](http://werve.net/articles/running-effective-retrospectives/) - by Don Werve. Takeaway: "[R]etrospectives plus science equals an effective tool for killing bad process before it metastasizes into truly epic stupidity."
 
