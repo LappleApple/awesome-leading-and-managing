@@ -20,7 +20,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Charity Majors](https://twitter.com/mipsytipsy) — Engineer/CEO at @honeycombio, formerly Parse/Facebook, frequent speaker.
 - [Carol Willing](https://twitter.com/WillingCarol) — Director, @ThePSF. @projectjupyter core dev. @calpoly research engineer. @fablabsd Geek in Res. @MITSloan @DukeU alum.
 - [Chris Aniszczyk](https://twitter.com/cra) — Building @CloudNativeFdn @OCI_ORG / Open Source Pragmatist.
-- [Cindy Gallop[(https://twitter.com/cindygallop) — the Michael Bay of business.
+- [Cindy Gallop](https://twitter.com/cindygallop) — the Michael Bay of business.
 - [Dan North](https://twitter.com/tastapod) — Optimizer of organizations, teams and software, programmer, Agile coach, technologist, troublemaker.
 - [Danese Cooper](https://twitter.com/DivaDanese) — Open Source and InnerSource at PayPal. Fequent speaker, writer.
 - [Daniel Bryant](https://twitter.com/danielbryantuk) — biz/dev/qa/ops, teacher, student, traveller, runner, CTO @SpectoLabs, @InfoQ editor, @DevoxxUK, @oscon, @ContainerSched, @jaxlondon.
