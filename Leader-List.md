@@ -16,8 +16,8 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Boaz Sender](https://twitter.com/BoazSender) — Director of Research at @Bocoup, with JS Foundation. Curating at @galleryopen, @mobiusartists board.
 - [Brene Brown](https://twitter.com/BreneBrown) — Researcher. Storyteller.
 - [Bridget Kromhout](https://twitter.com/bridgetkromhout) — Principal Technologist for @cloudfoundry at @pivotal. Podcasts @arresteddevops. Organizes @devopsdays. Was ops at @DramaFever.
-- [Charity Majors](https://twitter.com/mipsytipsy) — Engineer/CEO at @honeycombio, formerly Parse/Facebook, frequent speaker.
 - [Camille Fournier](https://twitter.com/skamille) — Engineer, CTO, member of the Apache ZooKeeper community. Frequent speaker.
+- [Charity Majors](https://twitter.com/mipsytipsy) — Engineer/CEO at @honeycombio, formerly Parse/Facebook, frequent speaker.
 - [Carol Willing](https://twitter.com/WillingCarol) — Director, @ThePSF. @projectjupyter core dev. @calpoly research engineer. @fablabsd Geek in Res. @MITSloan @DukeU alum.
 - [Chris Aniszczyk](https://twitter.com/cra) — Building @CloudNativeFdn @OCI_ORG / Open Source Pragmatist.
 - [Cindy Gallop[(https://twitter.com/cindygallop) — the Michael Bay of business.
@@ -67,7 +67,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Nithya Ruff](https://twitter.com/nithyaruff) — Open source at Comcast; @linuxfoundation & @codechix BOD.
 - [Olaf Lewitz](https://twitter.com/OlafLewitz) — The Trust Artist. CEC & @trusttemenos host.
 - [Oren Ellenbogen](https://twitter.com/orenellenbogen) — VP Engineering at Forter, curator of awesomeness at http://softwareleadweekly.com, author of http://leadingsnowflakes.com.
-- [Patrick Kua](https://twitter.com/patkua) — Principal Technical Consultant at ThoughtWorks.  Author, Frequent Speaker and Tech-Lead.
+- [Patrick Kua](https://twitter.com/patkua) — Principal Technical Consultant at ThoughtWorks. Author, frequent speaker and tech lead.
 - [Phil Calçado](https://twitter.com/pcalcado) — Does things for @DigitalOcean. In the past, did things for @SoundCloud and @ThoughtWorks.
 - [Philip Guo](https://twitter.com/pgbovine) — Assistant Professor of Cognitive Science - UC San Diego - human-computer interaction, online learning, computing education 
 - [Rachel Davies](https://twitter.com/rachelcdavies) — Lead Engineer at Makers Academy. Past practitioner of eXtreme Programming (XP) at Unruly. Co-author of "Agile Coaching" book.
