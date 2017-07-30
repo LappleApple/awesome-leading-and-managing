@@ -27,6 +27,8 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
   Ensure that your internals are prepared, as growing diversity is ultimately
   more important than hiring.
 
+- [Applied Humaning for Technical Interviews](https://www.youtube.com/watch?v=yeV62jgu1l0) - by Cate Huston. Takeaways: In a power based situation, the quality of the relationship is owned by the person with the power (the interviewer).  Don't give feedback on aspects you have no evidence for.  What does a good interview question look like? Should have multiple answers and tradeoffs.  For developers - how does the person handle the bits of the role that aren't coding.
+
 - [Creating the Dream Team: Transform Your Engineering Organization to Attract New Talent](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/) - by Andrew Hao. Takeaway: Focus more on building culture than offering perks. Assess your culture, set the example, and coach.
 
 - [Developer Survey Results](https://insights.stackoverflow.com/survey/2017) - by StackOverflow. Annual survey. Takeaways: When assessing potential jobs, developers prioritize "opportunities for professional development" over any other factor by a large margin; the comp/benefits selected the most often relate to mental and physical health: vacation days, remote options, and health; 89% of devs at least "somewhat agreed" that diversity is important, up from 73% in 2016; developers generally supported "c-sat" and "being on time/budget" as the best ways to evaluate the performance of a fellow dev; there's a moderate correlation between remote work and job satisfaction.
