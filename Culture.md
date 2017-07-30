@@ -38,11 +38,13 @@
 
 - [Sorry, but Your Start-Up’s Team Isn’t Actually Any More Agile Than the Big Guys. Why You Really Still Can Win](https://www.saastr.com/sorry-but-your-start-ups-team-isnt-actually-any-more-agile-than-the-big-guys-why-you-really-still-can-win/) - by Jason Lemkin. Takeaway: "The BigCo problem is a combination of (x) impact/runway and (y) cross-functionality “unagility”.  Here’s where start-ups can execute so much better."
 
-- [The Wetware Crisis: the Dead Sea Effect](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/) - by Bruce F. Webster. Takeaway: Do reorgs only if really needed, as they impact everyone in the organization and are not magic bullets that can solve all your problems.
+- [Transforming from Projects to Products](https://www.infoq.com/articles/transform-projects-products) - by John Yorke. Takeaway: "Agile Transformation means thinking of Products rather than Projects. Agile is a Mindset not a set of rules to be followed. It requires a cultural change not a process change. Agile changes the way we measure project success and how we measure people's behaviour. Change is Hard. Project Management and People Management are those that need to change the most."
 
 - [Up or Out: Solving the IT Turnover Crisis](http://thedailywtf.com/articles/Up-or-Out-Solving-the-IT-Turnover-Crisis) - by Alex Papadimoulis. Takeaway: Hire lots of people, find them mentors, and give them a choice to either get lots of experience then find another job or work hard in order to get promoted. 
 
 - [Values Exercises to Build Vision in Your Company](https://www.happymelly.com/values-exercises-to-build-vision/) - by Happy Melly. Exercises to help your organization identify its values, and a downloadable list of 250 potential values to choose from. 
+
+- [The Wetware Crisis: the Dead Sea Effect](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/) - by Bruce F. Webster. Takeaway: Do reorgs only if really needed, as they impact everyone in the organization and are not magic bullets that can solve all your problems.
 
 - [What Company Culture IS and IS NOT](https://moz.com/rand/what-company-culture-is-and-is-not/) - by Rand. Takeaway: "Your company’s culture is three big things: Your values – those you state with words and those you exhibit through your actions[;] your mission & vision – the goal you’re driving toward and the force behind that goal[;] your hiring, firing, and promotion criteria – the reasons you bring people onto the team, the reasons you let them go, and the reasons you promote/reward them[.] If you’re trying to figure out what a company’s values really are, look at the decisions management makes when lots of money, risk, or loss of face for executives is at odds with the stated values."
 
