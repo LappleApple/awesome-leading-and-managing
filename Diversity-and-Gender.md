@@ -26,6 +26,8 @@
 
 - [How Our Engineering Environments Are Killing Diversity: Introduction](https://kateheddleston.com/blog/how-our-engineering-environments-are-killing-diversity-introduction) - by Kate Heddleston.
 
+- [If You Can Use a Fork, You’re “Technical”](https://medium.com/@Aprilw/if-you-can-use-a-fork-youre-technical-352e21d92c87) - by April Wensel. Takeaway: "'Technical' is not a useful adjective to describe human beings," because it's vague; it hides bias in hiring decisions; it blocks technical contributions from "non-technical" employees; and limits potential. "There’s no magic to coding or any other technical skills. People are not 'technical' or 'not technical.' We all have a variety of skills already and the potential to learn any others that we choose."
+
 - [Imposter Syndrome + Cognitive Behavioral Therapy Resources](https://nerdneha.tumblr.com/post/99575500980/imposter-syndrome-cognitive-behavioral-therapy) - by Neha. A good collection of resources on Imposter Syndrome and Cognitive Behavioral Therapy.
 
 - [Managing Unconscious Bias](https://managingbias.fb.com/) - by Facebook. A collection of videos to help people identify and manage their unconscious bias.
