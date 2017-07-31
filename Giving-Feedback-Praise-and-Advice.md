@@ -1,7 +1,5 @@
 ## Giving Feedback, Praise and Advice
 
-- [Perfection Game](https://www.benlinders.com/2014/getting-feedback-with-the-perfection-game/) - by Ben Linders. Takeaway: Can be used to get detailed feedback, discover strengths, and define effective improvement actions (e.g. in a retrospective). The perfection game gives power to the teams and helps them to self organize and become more agile.
-
 - [Can You “Fix” Colleagues Who Aren’t Self-Aware?](https://www.linkedin.com/pulse/can-you-fix-colleagues-who-arent-self-aware-daniel-goleman) - by Daniel Goleman, the author of *Thinking Fast and Slow*. Takeaway: "Working with someone who has low Emotional Self-Awareness isn’t just an annoyance for co-workers, it impacts everyone’s ability to perform well in their work. Research by Korn Ferry Hay Group and others show that a leader’s high Emotional Self-Awareness contributes to overall performance."
 
 - [Can Your Employees Really Speak Freely?](https://hbr.org/2016/01/can-your-employees-really-speak-freely) - by James R. Detert and Ethan R. Burris. Takeaway: Being open and receptive of feedback leads to higher retention and better performance. Anonymous feedback is counter-productive because it sends the message that one must remain anonymous in the environment; it does not necessarily lead to more authentic outcomes. And "the biggest reason for withholding ideas and concerns wasn’t fear but, rather, the belief that managers wouldn’t do anything about them anyway."
@@ -19,6 +17,8 @@
 - [How to Give Negative Feedback Over Email](https://hbr.org/2016/10/how-to-give-negative-feedback-over-email) - by Jocelyn K. Glei. Takeaway: When circumstances require you to give negative feedback via email, start with appreciation; provide specific, actionable direction; avoid using the imperative; emphasize progress; and use the word "yet."
 
 - [Negative Feedback Antipatterns](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns) - by Charles-Axel Dein. Covers the OFNR (Observation, Feeling, Need, Request) method. *Observation* of a fact: A fact is rarely controversial, and a great way to start a conversation. *Feeling*: express your feelings and your story. Clarify that it’s your story. *Need*: state what you value, or the kind of impact you’d like to see. *Request*: explain what concrete action the other person would need to take.
+
+- [Perfection Game](https://www.benlinders.com/2014/getting-feedback-with-the-perfection-game/) - by Ben Linders. Takeaway: use this game to generate detailed feedback, discover strengths, and define effective improvement actions (e.g. in a retrospective). It gives power to teams and helps them to self-organize and become more agile.
 
 - [A Primer on Giving Critical Feedback](https://www.tombartel.de/blog/a-primer-on-giving-critical-feedback) - by Tom Bartel. Provides a simple, four-step structure for giving feedback: 1) Describe a event (with facts) and the consequences, while criticizing only the behavior; 3) collect suggestions from the feedback receiver; by suggesting a solution themselves, they have an active part and become accountable; 4) make an agreement how to move on and follow up.
 
