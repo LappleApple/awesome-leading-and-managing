@@ -1,5 +1,7 @@
 ## Giving Feedback, Praise and Advice
 
+- [Perfection Game](https://www.benlinders.com/2014/getting-feedback-with-the-perfection-game/) - by Ben Linders. Takeaway: Can be used to get detailed feedback, discover strengths, and define effective improvement actions (e.g. in a retrospective). The perfection game gives power to the teams and helps them to self organize and become more agile.
+
 - [Can You “Fix” Colleagues Who Aren’t Self-Aware?](https://www.linkedin.com/pulse/can-you-fix-colleagues-who-arent-self-aware-daniel-goleman) - by Daniel Goleman, the author of *Thinking Fast and Slow*. Takeaway: "Working with someone who has low Emotional Self-Awareness isn’t just an annoyance for co-workers, it impacts everyone’s ability to perform well in their work. Research by Korn Ferry Hay Group and others show that a leader’s high Emotional Self-Awareness contributes to overall performance."
 
 - [Can Your Employees Really Speak Freely?](https://hbr.org/2016/01/can-your-employees-really-speak-freely) - by James R. Detert and Ethan R. Burris. Takeaway: Being open and receptive of feedback leads to higher retention and better performance. Anonymous feedback is counter-productive because it sends the message that one must remain anonymous in the environment; it does not necessarily lead to more authentic outcomes. And "the biggest reason for withholding ideas and concerns wasn’t fear but, rather, the belief that managers wouldn’t do anything about them anyway."
