@@ -44,6 +44,8 @@
 
 ### Teamwork
 
+- [Agile Self-assessment Game](https://www.benlinders.com/game/) - by Ben Linders. Playing the game enables teams to reflect on their own team interworking and agree upon the next steps for their agile journey. With this game they can discover how agile they are and what they can do to increase their agility to deliver more value to their customers and stakeholders.
+
 - [9 Attributes of Successful Development Teams](https://about.gitlab.com/2017/05/23/attributes-of-successful-development-teams/) - by Rebecca Dodd at GitLab. Takeaway: Great teams automate everything, are meticulous about documentation, use collaboration tools and integrated platforms, version control everything, make it easy for everyone to contribute, spend time on side projects, make code review collaborative, and are allowed to be creative.
 
 - [Makers and Menders: Putting the Right Developers on the Right Projects (deck)](https://www.slideshare.net/andrea_goulet/makers-and-menders-putting-the-right-developers-on-the-right-projects) - by Andrea Goulet, CEO & Co-Founder of Corgibytes. Takeaway: Makers and menders each have valuable roles to play in development. Focusing too much on making leads to maintenance, "legacy code," and technical debt; mend as well to reduce your overhead.
