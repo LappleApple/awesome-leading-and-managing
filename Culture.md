@@ -1,6 +1,6 @@
 ## Culture
 
-- [5 Questions That Reveal If a Company Has a Healthy Workplace Culture](http://www.cnbc.com/2017/07/12/5-questions-that-reveal-if-a-company-has-a-healthy-workplace-culture.html) - by Claire Lew. Takeaway: A healthy workplace offers uninterrupted time, heated debate, access to the top leadership, reasons to value and be proud of it, and a culture of selflessness.
+- [Assholes, Jerks and Dickheads Are People Too](https://www.linkedin.com/pulse/assholes-jerks-dickheads-people-too-neil-mcgregor) - by Neil McGregor. Takeaway: "There is worrying trend on LinkedIn and in the business media in general. The labelling of people into categories labelled Assholes, Jerks and Dickheads. I have to say this worries me for a number of reasons, not the least of which, is the fact that some pretty heavy hitters are using the terms and in turn influencing many others to think along similar narrow minded lines. No doubt many if not all of us have had the unfortunate opportunity to work with some difficult folk, but labelling and discarding them helps no-one."
 
 - [Building and Scaling a Distributed and Inclusive Team](https://www.youtube.com/watch?list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&v=XAU5q-biY28) (video) - by Matthias Meyer. The founder/CEO of Travis CI talks about how the company has been trying to create a multicultural distributed team, with lots of quotes from team members. Travis pushed for a remote culture to increase diversity.
 
@@ -13,6 +13,8 @@
 - [Culture Is the Spec, Process Is the Code](https://medium.com/@richarmstrong/culture-is-the-spec-process-is-the-code-ccb0df70514f) - by Rich Armstrong. Takeway: Create every process around your culture. Just like your devs need specs in order to know what code to write, your company needs processes in order to implement culture. 
 
 - [Engineering Culture at Airbnb](http://nerds.airbnb.com/engineering-culture-airbnb) - by Mike Curtis. Takeaway: Create a culture about helping others and celebrating their successes.
+
+- [5 Questions That Reveal If a Company Has a Healthy Workplace Culture](http://www.cnbc.com/2017/07/12/5-questions-that-reveal-if-a-company-has-a-healthy-workplace-culture.html) - by Claire Lew. Takeaway: A healthy workplace offers uninterrupted time, heated debate, access to the top leadership, reasons to value and be proud of it, and a culture of selflessness.
 
 - [Five Years, Building a Culture, and Handing It Off](http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off) - by Kellan Elliott-McCrea. Takeaway: Build a culture of learning, generosity and values.
 
@@ -51,6 +53,8 @@
 - [What Does It Mean to Be a Learning Organization?](https://docs.google.com/document/d/15xrkf9fC2cf9g7joK9ZXA16_Qd77PzxjJRjH-RIJpeQ) - by Joe Goldberg. Takeaway: "You're either building a learning organization or you'll be losing to someone who is."
 
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - by Charles Duhhig. Takeway: The best teams are supportive and team members are sensitive to each others' feelings and needs.
+
+- [Why Psychological Safety Matters and What to Do About It](https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/) - by Amy Edmondson and Jeff Polzer, Harvard Business School. Takeaway: "Even small acts that seem inconsequential at the time can pave the way for larger contributions that carry more weight. By creating a team climate that encourages people to embrace potentially risky contributions, the team will be rewarded with better decisions, motivated members, and improved performance."
 
 - [Working On The Right Thing](https://medium.com/redbubble/working-on-the-right-thing-faeb1af73cfe) - by Tom Sommer. A lot of happiness and productivity is thrown away because some of your employees are mismatched to the tasks they work on. By assessing our team on Ability, Affinity and Ambition we can do better.
 
