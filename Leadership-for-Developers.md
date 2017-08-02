@@ -32,6 +32,8 @@
 
 - [How Do You Know Your Code Is Bad?](https://dev.to/bob/how-do-you-know-your-code-is-bad) - by Dinesh Babu. Takeaway: "When you write code, ask yourselves these questions: Is this code too rigid? Is it possible to change the internals of this module in the future without touching the code in other modules and other layers? Is this code too fragile? Will it be hard to find all the places to refactor for any changes in the future? Should this feature be reusable? If so, does this code depends on any unwanted modules or frameworks that can be avoided?"
     
+- [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) - Olivier Lacan. An entire website dedicated to the art of the changelog, with an FAQ and an aim to produce a better changelog convention.  
+
 - [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.amazon.com/Programming-Beyond-Practices-More-Monkey/dp/1491943823/ref=sr_1_1?ie=UTF8&qid=1496801606&sr=8-1&keywords=programming+beyond+practices) - by Gregory Brown. Covers all aspects of being a leader-developer besides writing code, from prototyping to improving processes.
 
 - [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501) - by Sandro Mancuso. An honest, engaging book that covers all imaginable aspects of being a craftsman, from playing an active role in shaping customer value to avoiding technical debt. Part of the Uncle Bob series.
