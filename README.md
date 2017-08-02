@@ -14,11 +14,11 @@ Since 2013-ish, [Joe Goldberg](https://twitter.com/bostonsteamer), who created t
 - [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
 - [Leader List](Leader-List.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
+- [Meetings and Time Management](Meetings-and-Time-Management.md)
 - [Motivation and “Retention”](/Motivation-Retention.md)
 - [Onboarding](Onboarding.md)
 - [One-on-Ones](One-on-Ones.md)
 - [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md)
-- [Time Management and Meetings](Time-Management-and-Meetings.md)
 - [Transitioning to Management (and Managing Managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 - [When You're Not a "Manager": Leadership for Developers](Leadership-for-Developers.md)
 
