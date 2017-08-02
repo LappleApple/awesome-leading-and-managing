@@ -42,6 +42,8 @@
 
 - [Transforming from Projects to Products](https://www.infoq.com/articles/transform-projects-products) - by John Yorke. Takeaway: "Agile Transformation means thinking of Products rather than Projects. Agile is a Mindset not a set of rules to be followed. It requires a cultural change not a process change. Agile changes the way we measure project success and how we measure people's behaviour. Change is Hard. Project Management and People Management are those that need to change the most."
 
+- [Understanding the Limits of Hierarchies](https://opensource.com/open-organization/16/3/fastest-result-isnt-always-best-result?sc_cid=701600000011jJkAAI) - by Jim Whitehurst, CEO of RedHat. Takeaway: "Leading an open organization—where hierarchy cedes much of its control to dynamic, networked structures—feels much more like maintaining a perennial garden. It involves working more on conditions (turning soil, locating those spots in need of watering) than it does on dictating direction. It means creating the context for things (things you might not have considered or even imagined) to occur."
+
 - [Up or Out: Solving the IT Turnover Crisis](http://thedailywtf.com/articles/Up-or-Out-Solving-the-IT-Turnover-Crisis) - by Alex Papadimoulis. Takeaway: Hire lots of people, find them mentors, and give them a choice to either get lots of experience then find another job or work hard in order to get promoted. 
 
 - [Values Exercises to Build Vision in Your Company](https://www.happymelly.com/values-exercises-to-build-vision/) - by Happy Melly. Exercises to help your organization identify its values, and a downloadable list of 250 potential values to choose from. 
