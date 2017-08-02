@@ -1,4 +1,4 @@
-## Time Management and Meetings
+## Meetings and Time Management
 
 ### Meetings
 - [6 Steps to Running the Perfect 30-Minute Meeting](https://opensource.com/open-organization/16/2/6-steps-running-perfect-30-minute-meeting) - by Jimmy Sjölund. Takeaways: People tend to "default" to 60-minute meetings, but most meetings rarely require this much time. Sjölund offers six suggestions for trimming meetings to a more managemable and appropriate length while simulatenously making them more effective.
@@ -59,6 +59,8 @@
   Sivers. Takeaways: If you are overcommitted, recalibrate when you say yes.
   Saying "no" more gives you more time to say "HELL YEAH!" for things that are
   really important to you.
+
+- [On Becoming Me-Shaped Again](https://beero.ps/2017/07/17/on-becoming-me-shaped-again/) - by Katherine Daniels of Travis CI. Takeaway: "It’s unfortunate that it took me getting to the point where I nearly completely broke before I realized how burnt out and unbalanced I actually was. But it’s a good reminder to me to pay closer attention to how I’m spending my time and how I’m defining myself."
 
 - [Product Strategy Means Saying
   No](http://www.productstrategymeanssayingno.com/) - by Intercom. Takeaways: Review common
