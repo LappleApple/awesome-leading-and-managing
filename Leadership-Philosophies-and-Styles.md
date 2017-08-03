@@ -3,6 +3,8 @@
 ### Leadership Philosophies
 This topic comes first, because the following articles offer great frameworks/definitions for leadership.
 
+- [Effective Leadership Styles for Scrum Masters](https://www.benlinders.com/2016/leadership-styles-scrum-masters/) - by Ben Linders. Scrum masters have to know and be able to apply effective leadership styles to serve agile teams. Servant leadership alone is not enough, Scrum masters need to know a variety of leadership styles to support agile teams and help them to deliver value. This post provides an overview of many effective leadership styles that Scrum masters can use when working in agile teams.
+
 - [Average Manager vs. Great Manager, Explained in 10 Sketches](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d) - by Julie Zhuo (VP Product Design, Facebook). Go look at these, they’re humorous and poignant. It’ll only take a minute.
 
 - [Be Yourself, but Carefully](https://enterprisersproject.com/resources/be-yourself-carefully?sc_cid=70160000000xYYJAA2) - by Lisa Rosh and Lynn Offerman. Takeaway: "Sharing details about your life can be a valuable way to build relationships in the workplace. But self-disclosures can also lead to oversharing, which can do more harm than good in the office."
