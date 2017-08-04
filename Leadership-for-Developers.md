@@ -36,6 +36,8 @@
 
 - [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.amazon.com/Programming-Beyond-Practices-More-Monkey/dp/1491943823/ref=sr_1_1?ie=UTF8&qid=1496801606&sr=8-1&keywords=programming+beyond+practices) - by Gregory Brown. Covers all aspects of being a leader-developer besides writing code, from prototyping to improving processes.
 
+- [Satisficery Engineering](http://baggerspion.net/2017/08/satisficery-engineering/) - by Paul Adams. Looks at the topic of "Push". How do we know when to push a team and, in what direction? Sometimes asking a team to deliver more is appropriate but, likewise, it can be appropriate to give thema break. This article is about being mindful of these opportunities and their consequences.
+
 - [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501) - by Sandro Mancuso. An honest, engaging book that covers all imaginable aspects of being a craftsman, from playing an active role in shaping customer value to avoiding technical debt. Part of the Uncle Bob series.
 
 - [Speed in Software Development](https://www.targetprocess.com/articles/speed-in-software-development/) - by Michael Dubakov. Takeaway: "Software development pace / productivity / speed is a complex, interdependent and multifaceted concept. It has no easy solution. You can’t shout at people “work faster!” You can’t blindly cut corners and focus on value added activities only. The only solution is to think deeply about the company, development processes, people, tools, etc. Build a model and think."
