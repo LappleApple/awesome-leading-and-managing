@@ -29,6 +29,8 @@ a) Do I understand the complete context, b) am I the right person to handle it, 
 
 - [Identify Leaders By Giving People Assignments](http://www.feld.com/archives/2014/12/identify-leaders-giving-people-assignments.html) - by Brad Feld. Takeaway: categorize the responses in one of three ways: 50% vanish; 25% do the assignment; and 25% make shit happen well beyond what the assignment was—these are the leaders.
 
+- [Lazy Leadership](https://medium.com/flow/lazy-leadership-8ba19e34f959?__s=ns1epkqjs8qj1ggjuafv) - by MetaLab founder Andrew Wilkinson. Takeaway: "I now think of my companies as machines. I determine the result that I want, design a machine that will produce the result, then figure out what sort of people I need as part of it. If I’m part of the machine, I think about my strengths and weaknesses, and if necessary replace myself with someone better suited to the role."
+
 - [Managing for Progress and the Loss-Aversion Principle](http://tomtunguz.com/progress-principle) - by Tom Tunguz. Takeaway: "The best managers craft roles and assign projects that position their teammates to see and feel the result of their work directly."
 
 - [“Screaming Monkey” analogy](https://hbr.org/1999/11/management-time-whos-got-the-monkey) - by William Oncken, Jr. and Donald L. Wass. Takeaway: Think of each work item as a screaming monkey, and ask these questions to identify the important ones: Should we even fed the monkey?; Who should feed the monkey?
