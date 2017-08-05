@@ -82,7 +82,7 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [An Inside Look at a Flat Organization That Serves Millions](http://firstround.com/review/An-Inside-Look-at-a-Flat-Organization-That-Serves-Millions/) - by First Round Capital. Takeaway: When you boil it down, management is really about two things—trust and clarity. "Keeping a company flat is all about finding creative ways to achieve trust and clarity without the bureaucracy."
 
-- [The First 90 Days: Critical Success Strategies for New Leaders at All Levels](https://www.amazon.com/First-90-Days-Critical-Strategies/dp/1591391105) (book) - by Michael Watkins. Covers the essentials of transitioning into a leadership role, from making allies to avoiding common mistakes. 
+- [The First 90 Days: Critical Success Strategies for New Leaders at All Levels](https://www.amazon.com/First-90-Days-Critical-Strategies/dp/1591391105) (book) - by Michael Watkins. Covers the essentials of transitioning into a leadership role, from making allies to avoiding common mistakes.  
 
 - [Mastering the Rockefeller Habits: What You Must Do to Increase the Value of Your Growing Firm](https://www.amazon.com/Mastering-Rockefeller-Habits-Increase-Growing/dp/0978774957) (book) - by Verne Harnish. Takeaway: practical strategies for growing a business, including the importance of identifying the “x” factor—discovering, defining, and acting upon to create value.
 
@@ -97,6 +97,8 @@ This topic comes first, because the following articles offer great frameworks/de
 - [Watch: Google's Research on Making Managers Awesome](https://rework.withgoogle.com/blog/watch-googles-research-on-awesome-managers/) - by re:Work/Google. Takeway: includes video and insights gained through Project Oxygen, Google's research into management. Includes Google's eight manager behaviors: 1) is a good coach; 2) empowers the team and doesn't micromanage; 3) expresses interest/concern for team members' success and personal well-being; 4) is productive and results-oriented; 5) is a good communicator; 6) helps with career development; 7) has a clear vision/strategy for the team; and 8) has important technical skills that help him/her advise the team. 
 
 - [What It Means to Be an Open Source Leader](https://opensource.com/open-organization/16/3/what-it-means-be-open-source-leader) - by Jim Whitehurst. Takeaway: Red Hat's CEO describes how one might apply open source principles to leadership. "Being an open leader means creating the context others need to do their best work."
+
+- [Why Good Bosses Tune in to Their People](http://www.mckinsey.com/global-themes/leadership/why-good-bosses-tune-in-to-their-people?__s=ns1epkqjs8qj1ggjuafv) - by By Robert I. Sutton. Takeaway: Express confidence even if you don’t feel it, don't be indecisive, give credit to your people, and when something goes wrong in your domain accept blame and learn from it.
 
 - [Why Supercell’s Founder Wants to Be the World’s Least Powerful CEO](https://www.linkedin.com/pulse/why-supercells-founder-wants-worlds-least-powerful-ceo-de-rycker) - by Sonali De Rycker. Takeaway from CEO Ilkka Paananen: "My goal is to be the world’s least powerful CEO. What I mean by this is that the fewer decisions I make, the more the teams are making."
 
