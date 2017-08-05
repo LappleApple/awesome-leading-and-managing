@@ -56,6 +56,8 @@
 
 - [How We Do Large Scale Retrospectives](https://labs.spotify.com/2015/11/05/large-scale-retros/) - by Henrik Kniberg. Takeaway: How decentralized retrospectives with tiered granularity helped Spotify hold large and meaningful retros. Breaking down large groups into teams organized around themes is the "scaling trick" here.
 
+- [Retrospective Exercises](https://age-of-product.com/retrospective-exercises/) - by Stefan Wolpers. Takeaway: How to use Retromat, which aggregates lots of exercises for retrospectives, to change up your retros to keep them interesting and fresh.
+
 - [Retrospectives](http://www.retrospectives.com/) - by Norman L. Kerth. Takeaway: A website dedicated to retrospectives, "the practice of looking back to move forward." Includes the Retrospective Prime Directive: "Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand."
 
 - [Running Effective Retrospectives](http://werve.net/articles/running-effective-retrospectives/) - by Don Werve. Takeaway: "[R]etrospectives plus science equals an effective tool for killing bad process before it metastasizes into truly epic stupidity."
