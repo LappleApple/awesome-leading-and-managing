@@ -22,6 +22,8 @@
 
 - [A Primer on Giving Critical Feedback](https://www.tombartel.de/blog/a-primer-on-giving-critical-feedback) - by Tom Bartel. Provides a simple, four-step structure for giving feedback: 1) Describe a event (with facts) and the consequences, while criticizing only the behavior; 3) collect suggestions from the feedback receiver; by suggesting a solution themselves, they have an active part and become accountable; 4) make an agreement how to move on and follow up.
 
+- [The Problem with “Constructive Feedback”](https://www.radicalcandor.com/blog/the-problem-with-constructive-feedback/) - by Kim Scott. Takeaway: "It’s hard to sound or be humble when saying, 'I’ve got some constructive feedback for you.' This sounds like you’re saying that you know a truth that the other person doesn’t know, and you’re going to tell them this truth. It’s sort of like saying, 'You have a problem, I’m going to tell you what it is, and you’re going to fix it.'" Remember to offer praise and to remain humble.
+
 - [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss) - by Kim Scott. Takeaway: Why you have to offer "Radical Candor" (real friends tell you the ugly truth) and forget about being "nice."
 
 - [Rainbows and Unicorns](http://randsinrepose.com/archives/rainbows-and-unicorns) - by Michael Lopp. Takeaway: advice on giving a compliment—"a selfless, timely, and well-articulated recognition of achievement"—with a breakdown of how compliments work, interwoven with references to video games.
