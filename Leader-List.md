@@ -47,6 +47,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Joel Spolsky](https://twitter.com/spolsky) — CEO of Stack Overflow, co-founder of Fog Creek Software (Glitch, FogBugz), and creator of Trello. NYC gay techie.
 - [John Allspaw](https://twitter.com/allspaw) — Former CTO, Etsy. Dad. Author. Guitarist. Student of sociotechnical systems, human factors, and cognitive systems engineering.
 - [John Arundel](https://twitter.com/bitfield) — Helps with devops, Puppet, Docker, etc. Ally. Author, The Puppet Beginner's Guide: http://amzn.to/2sJYLvc.
+- [Johnathan Nightingale](https://twitter.com/johnath) - Tech, Leadership, Dad. Partner @rawsignalgroup, Board @creativecommons, Editor https://mfbt.ca. Former CPO @Hubba, Mr @Firefox.
 - [Josh Simmons](https://twitter.com/joshsimmons) — Google open source, @opensourceorg director/CFO, @librariesio and @utos advisor.
 - [Julie Zhuo](https://twitter.com/joulee) — Product design VP @ Facebook.
 - [Juliet Funt](https://twitter.com/whitespaceatwrk) — CEO WhiteSpace at Work.
