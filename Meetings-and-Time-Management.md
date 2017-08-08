@@ -24,6 +24,8 @@
 
 - [Start Every Meeting with a Personal Check-in](https://blog.travis-ci.com/2016-06-09-start-meetings-with-personal-checkins) - by Mathias Meyer. Takeaway: the Travis CI CEO talks about how meditation has enhanced his ability to be present, and how this carries into team meetings. "Before you walk into a meeting (virtually or into the meeting room), close your eyes, inhale three times, and walk in. I found that this can have a great impact on my presence and focus in meetings." The team starts meetings with the red/yellow/green scale and everyone states how they're feeling.
 
+- [What I Hear When You Tell Me Your Company Doesn’t Do Meetings](https://mfbt.ca/what-i-hear-when-you-tell-me-your-company-doesnt-do-meetings-dfbb57a038d6) - by Johnathan Nightingale. Takeaway: "When you tell me your company doesn’t do meetings, this is what I hear[:] You don’t understand the privilege of executive context ... you also undervalue narrative and alignment [and] ou don’t know how to run an effective meeting." Four questions to ask when planning a meeting: "Who is running this meeting?; What is the output of this meeting?; Who are the right people to produce that output?; How are we going to get to that output?"
+
 ### Time Management
 - [Being Busy Is Now a Status Symbol — and That Needs to Stop](http://www.talenteconomy.io/2017/05/04/busy-now-status-symbol-needs-stop/) - by Frank Kalman. Takeaway: Mostly geared toward an American audience, the article questions the trend toward bragging about having no time and filling one's schedule—counterproductive given stress, health issues, burnout, and other negative side effects. "Yes, working hard is important. But at what point does it become unproductive to constantly seek to be the most productive?"
 
