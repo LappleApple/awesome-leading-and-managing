@@ -52,6 +52,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Julie Zhuo](https://twitter.com/joulee) — Product design VP @ Facebook.
 - [Juliet Funt](https://twitter.com/whitespaceatwrk) — CEO WhiteSpace at Work.
 - [Kate Heddleston](https://twitter.com/heddle317) — Engineer, leader, frequent speaker on onboarding, people management, and how to build web applications.
+- [Kate Matsudaira](https://twitter.com/katemats) - entrepreneur, technologist, and creator of https://inkandvolt.com. Writes at katemats.com.
 - [Karen Sandler](https://twitter.com/o0karen0o) — executive director of the Software Freedom Conservancy, speaker.
 - [Kellan Elliott-McCrea](https://twitter.com/kellan) — Fixing healthcare @ Blink Health. Previously CTO at Etsy, Flickr Architect. Technical solutions for social problems.
 - [Kelsey Hightower](https://twitter.com/kelseyhightower) — Open Source advocate at Google, frequent speaker, minimalist.
