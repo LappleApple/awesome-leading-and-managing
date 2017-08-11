@@ -14,6 +14,8 @@
  
 - [Questions for Our First 1:1](http://larahogan.me/blog/first-one-on-one-questions/) — by Lara Hogan, Kickstarter. Takeaways: Ask reports what make them grumpy; how they like to get feedback and recognition; what their goals are, and more.
  
+ - [Specific Questions Yield Specific Answers](https://m.signalvnoise.com/specific-questions-yield-specific-answers-df790a63a90c) - by Claire Lew. Takeaway: "If you’ve ever caught yourself thinking to yourself, “My employees never tell me anything,” now you know that the solution might lie in questions you’re asking, themselves. And the remedy is simpler than you might’ve thought: Specific questions yield specific answers. General questions yield general answers."
+ 
 - [Three Powerful Conversations Managers Must Have to Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/) — by First Round Capital. Takeaway: get to know your employees by asking them about their life histories; articulate a clear vision for them by asking them about their dreams; and create a four-step career action plan.
  
 - [The Update, the Vent, and the Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) — by Rands. Like he has on many other leadership topics, Rands has written the seminal article on 1:1s. Takeaway: The employee’s answer isn’t the point—“it’s merely a delivery vehicle for the mood and the mood sets your agenda.” 1:1s are for strategy, not tactics.
