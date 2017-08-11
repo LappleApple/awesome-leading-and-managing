@@ -1,7 +1,5 @@
 ## Culture
 
-- [What Google Learned about Creating Effective Teams](https://www.infoq.com/presentations/google-effective-teams-2017) by Matt Sakaguchi - Talks about some of the practical research Google has done around building effective teams. He addresses not only the research, but the insights of a manager who worked with his own team and others, to instill the findings and principles in the real world, along with key insights from the Pilot program at Google.
-
 - [Assholes, Jerks and Dickheads Are People Too](https://www.linkedin.com/pulse/assholes-jerks-dickheads-people-too-neil-mcgregor) - by Neil McGregor. Takeaway: "There is worrying trend on LinkedIn and in the business media in general. The labelling of people into categories labelled Assholes, Jerks and Dickheads. I have to say this worries me for a number of reasons, not the least of which, is the fact that some pretty heavy hitters are using the terms and in turn influencing many others to think along similar narrow minded lines. No doubt many if not all of us have had the unfortunate opportunity to work with some difficult folk, but labelling and discarding them helps no-one." The article encourages empathy and staying focused on someone's humanity. 
 
 - [Building and Scaling a Distributed and Inclusive Team](https://www.youtube.com/watch?list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&v=XAU5q-biY28) (video) - by Matthias Meyer. The founder/CEO of Travis CI talks about how the company has been trying to create a multicultural distributed team, with lots of quotes from team members. Travis pushed for a remote culture to increase diversity.
@@ -65,6 +63,8 @@
 - [What Company Culture IS and IS NOT](https://moz.com/rand/what-company-culture-is-and-is-not/) - by Rand. Takeaway: "Your company’s culture is three big things: Your values – those you state with words and those you exhibit through your actions[;] your mission & vision – the goal you’re driving toward and the force behind that goal[;] your hiring, firing, and promotion criteria – the reasons you bring people onto the team, the reasons you let them go, and the reasons you promote/reward them[.] If you’re trying to figure out what a company’s values really are, look at the decisions management makes when lots of money, risk, or loss of face for executives is at odds with the stated values."
 
 - [What Does It Mean to Be a Learning Organization?](https://docs.google.com/document/d/15xrkf9fC2cf9g7joK9ZXA16_Qd77PzxjJRjH-RIJpeQ) - by Joe Goldberg. Takeaway: "You're either building a learning organization or you'll be losing to someone who is."
+
+- [What Google Learned About Creating Effective Teams](https://www.infoq.com/presentations/google-effective-teams-2017) - by Matt Sakaguchi. Takeaway: Sakaguchi talks about some of the practical research Google has done around building effective teams. He addresses not only the research, but the insights of a manager who worked with his own team and others, to instill the findings and principles in the real world, along with key insights from Google's pilot program.
 
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - by Charles Duhhig. Takeway: The best teams are supportive and team members are sensitive to each others' feelings and needs.
 
