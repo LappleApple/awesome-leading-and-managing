@@ -67,3 +67,5 @@
 - [A Seamless Way to Keep Track of Technical Debt in Your Source Code](http://philippe.bourgau.net/a-seamless-way-to-keep-track-of-technical-debt-in-your-source-code/) - by Philippe Bourgau. Takeaway: use TODO comments as a good starting point for tracking technical debt.
 
 - [The Incredible Shrinking Time to Legacy. On Time to Suck as a Metric for Dev and Ops](http://redmonk.com/jgovernor/2017/07/17/the-incredible-shrinking-time-to-legacy-on-time-to-suck-as-a-metric-for-dev-and-ops/) - by James Governor at RedMonk. Takeaway: "If we’re not running our own environments in house, operations disposability become increasingly realistic. Cattle not pets, for everything. But convenience and disposability always incur a cost."
+
+- [Technical Debt: Adding Math to the Metaphor](http://reinertsenassociates.com/technical-debt-adding-math-metaphor/) - by Donald Reinertsen. Explores differences between the usual financial debt metaphor for technical debt and what deferred work really means in product development. The main difference investigated is the (missing) certainty of how much principal you gain and how much interest you will pay back (if at all).
