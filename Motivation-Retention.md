@@ -14,6 +14,8 @@
 
 - [Habits vs Goals: A Look at the Benefits of a Systematic Approach to Life](https://www.farnamstreetblog.com/2017/06/habits-vs-goals/) - by Farnham Street. Takeaway: "Habits are processes operating in the background that power our lives. Good habits help us reach our goals. Bad ones hinder us. Either way, habits powerfully influence our automatic behavior."
   
+- [How to Foster Talent through a Growth Mindset and Grit](http://blog.bonus.ly/how-to-foster-talent-through-a-growth-mindset-and-grit) - by Jessica Collins. Takeaway: "[L]eaders can leverage growth mindset and grit to better develop talent and drive performance. This article outlines what it takes to build a culture of continuous improvement, among other evidence-based practices."
+
 - [How to Tell the Truth](https://a16z.com/2017/07/27/how-to-tell-the-truth/) - by Ben Horowitz. Takeaway: Do not lie to your people when it comes to telling bad news, but attach meaning to it.  
   
 - [Moving Motivators](https://management30.com/practice/moving-motivators/) - by Jurgen Appelo. A fun exercise you can use with your team to understand which values and aspirations motivate them—status, freedom, power, etc.
