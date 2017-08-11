@@ -30,10 +30,14 @@
 
 - [12 Ways Leaders Can Help Their Team Overcome Culture Issues](http://switchandshift.com/ways-leaders-overcome-culture-issues) - by Young Entrepreneur Council. Takeaway: Communicate directly and frequently; keep your team focused on strategic goals; set people free; let the team step away from work; openly address issues; reinforce your values; anchor the team to a bigger purpose; form a bubble/shield the team; appreciate people's work; listen; be a role model, and reformulate your values.
 
+- [Vacation Time Can Boost Employee Performance](https://www.employeebenefitadviser.com/news/vacation-time-can-boost-employee-performance) - by Amanda Eisenberg. Takeaway: Research shows that more vacation time off leads to better performance.
+
 - [Why Happiness at Work Is Good for the Bottom Line](http://www.managers.org.uk/insights/news/2017/july/why-happiness-at-work-is-good-for-the-bottom-line) - by Andy Cope. Takeaway: Being an inspiring and positive person can be learned. Very happy employees "are rare but when you find them you discover they are positive energisers who create and support the vitality of others. They have an uplifting and boosting effect that leaves others feeling lively and motivated."
 
 ### Retention
 - [“Cost of Turnover” Calculator](https://docs.google.com/spreadsheets/d/1BikDho6Odqp7uD6_q3050-T5jayx3orSKPM1ZXwUySI/edit#gid=0) - by Lattice HQ. Takeaway: Plug in your company size and turnover rate, along with the costs of hiring and onboarding. The results may surprise you. And that says nothing of the emotional headache and cultural drain felt from losing great people.
+
+- [8 Bad Mistakes That Make Good Employees Leave](http://www.huffingtonpost.com/entry/8-bad-mistakes-that-make-good-employees-leave_us_592f02e5e4b0d80e3a8a3288) - by Dr. Travis Bradberry. Takeaway: You'll lose your best employees by making lots of stupid rules, treating everyone equally (not to be confused to "fairly"), tolerating poor performance, not recognizing accomplishments, not caring about people, not showing the big picture, not helping people cultivate their passions, and not making things fun. 
 
 - [How We Pay People at Basecamp](https://m.signalvnoise.com/how-we-pay-people-at-basecamp-f1d04f4f194b) - by DHH. Takeaway: "There are no negotiated salaries or raises at Basecamp. Everyone in the same role at the same level is paid the same. Equal work, equal pay." Basecamp offers employees salaries in the top 5% of the market (Chicago) and meaningful benefits, and has instituted a new profit growth sharing scheme.
 
