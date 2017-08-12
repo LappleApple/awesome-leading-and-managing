@@ -1,5 +1,7 @@
 ## 1-on-1s
  
+- [1:1 Basics for the Introvert Engineering Manager](https://speakerdeck.com/orenellenbogen/1-1-basics-for-the-introvert-engineering-manager) (deck) - by Oren Ellenbogen, author of *Leading Snowflakes*. Takeaway: a detailed slidedeck with ideas on how to make 1:1's great, and why (to build trust and provide value as a manager).
+
 - [1:1 Meetings With Your Team](http://www.ryancarson.com/) — by Ryan Carson. Takeaway: Get to know more about your team members individually to establish trust and find out where their interests lie.
  
 - [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) — by Mark Rabkin at Facebook. Takeaway: If your 1:1 isn’t not a bit awkward, you’re not talking about the real stuff. Article includes helpful prompting questions.
