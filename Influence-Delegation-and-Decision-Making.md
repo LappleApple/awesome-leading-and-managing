@@ -51,3 +51,5 @@ a) Do I understand the complete context, b) am I the right person to handle it, 
 
 ### Influence Others
 - [Uniquely HR](https://www.google.com/url?q=http://uniquelyhr.com/management-development-training/&sa=D&ust=1497272863257000&usg=AFQjCNFCpE9ZQyRzTMoqItlEdU2neBygnw) - by Gary Ford. Takeaway: Influence is the power to affect someone/something without directly forcing them. It’s about establishing credibility, finding common ground, and connecting emotionally. A systemic approach to influencing.
+
+- [Use Coaching Techniques to Help People Make Their Own Decisions](https://vimeo.com/128634479) (video) - by Meredith Noble. Takeaway: A talk about how to use the GROW coaching technique "to structure conversations and help people make their own decisions; ask questions that encourage people to consider new approaches; embrace the coaching mindset, and and let go of the urge to play expert."
