@@ -30,6 +30,8 @@
     - Weaknesses-Opportunities. Improve weaknesses by taking advantage of opportunities
     - Weaknesses-Threats. Work to eliminate weaknesses to avoid threats
     
+- [Post-Mortem Templates](https://github.com/dastergon/postmortem-templates) - by Pavlos Ratis. A collection of postmortem templates from Google, Microsoft and others.
+
 - [Root Cause Analysis: Practical Tools](https://www.benlinders.com/2011/root-cause-analysis-practical-tools/) - by Ben Linders. Tools for you to use to conduct your own root cause analysis, including a process, a checklist to help you get started and a report with an example.
 
 - [The Root Cause Fallacy](https://www.xaprb.com/blog/2014/07/21/root-cause-fallacy/) - by Baron Schwartz. Takeaway: Asking why repeatedly will always get you to the CEO, eventually; stop looking for a single root cause — instead, identify system of conditions/dysfunctions that jointly caused the problem; change the culture and own failures as opportunities.
