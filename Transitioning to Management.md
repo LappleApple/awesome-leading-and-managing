@@ -82,6 +82,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The 4-Letter-Word That Makes My Blood Boil](https://medium.com/maker-to-manager/the-4-letter-word-word-that-makes-my-blood-boil-d4771df63a1) - by Marcus Blankenship. Takeaway: Avoid words like “just”, “simply”, and “trivial." They could lead you to overlook or forget how detail-oriented technical work can be.
 
+- [Google’s New Manager Training](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/) - by Google. Takeaway: Training materials that Google uses to help transition an individual contributor to a manager, including a manager facilitation training guide and exercises for students. 
+
 - [How to Make the Leap from Engineer to Manager](http://blog.newrelic.com/2014/07/23/measuring-manager-success/) - by Kirby Frugia at New Relic. Takeaway: "The key to making processes work is to make incremental changes, measure them, and then improve them." Also, managerial success and developer success differ in that the former is often achieved through others, more about strategic impact, and happen less frequently.
 
 - [How To Win Friends and Influence People](https://docs.google.com/document/d/1453UrSTkum5KrbX7SwwaUDVljP2uvDiHk6fIXNCxOCc/edit) - by Dale Carnegie; summary by Joe Goldberg. Notes on the legendary book, whose mention might make you wince but we suggest getting past that. :) 
@@ -133,8 +135,6 @@ As a leader of a product development team you might have a PM that you’re work
  - [What Are Common Mistakes That New or Inexperienced Managers Make?](https://www.quora.com/Management/What-are-common-mistakes-that-new-or-inexperienced-managers-make/answer/Ian-McAllister) - by Ian McAllister. Takeaway: Some of them include being slow to deal with performance issues, not investing in recruiting or team development, taking credit for others' work and blaming, and simply not leading.
 
 - [What’s Your Learning Stack?](https://mystudentvoices.com/whats-your-learning-stack-55f8639c3d56) - by Mattan Griffel and Álvaro Sanmartín. Takeaway: Analogous to a tech stack, a learning stack codifies how learning is done in an org.
-
-- [Google’s new manager training](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/) - by re:Work (https://rework.withgoogle.com/) : The training material Google uses to help transition an Individual contributor to a Manager. 
 
 ### The VP of Engineering Role
 
