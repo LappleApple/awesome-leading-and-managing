@@ -98,7 +98,7 @@ As a leader of a product development team you might have a PM that you’re work
  
 - [The Most Important, Yet Overlooked Management Skill](https://getlighthouse.com/blog/management-skill) - by Lighthouse. Takeaway: Curiosity is the most important trait of a leader. Ask questions.
 
-- [Manager Tools Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4) - by Manager Tools. Takeaway: Informative podcasts that focus on key opportunities that a Manager can leverage to step up their game. 
+- [Manager Tools Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4) - by Manager Tools. Takeaway: Informative podcasts that focus on key opportunities that a manager can leverage to step up their game. 
  
 - [New Leader's 100-Day Action Plan & First 90 Days](https://docs.google.com/document/d/1w0JPuwaJSmDbrpv9n4FSXmHXS6XuKM-lcvQ-mIKo89A/edit) - by Joe Goldberg (summary). Highly detailed document with TOC. Covers topics ranging from due diligence (before you accept a job) to choosing the right approach for the culture and context.
 
