@@ -73,6 +73,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Phil Calçado](https://twitter.com/pcalcado) — Does things for @DigitalOcean. In the past, did things for @SoundCloud and @ThoughtWorks.
 - [Philip Guo](https://twitter.com/pgbovine) — Assistant Professor of Cognitive Science - UC San Diego - human-computer interaction, online learning, computing education 
 - [Rachel Davies](https://twitter.com/rachelcdavies) — Lead Engineer at Makers Academy. Past practitioner of eXtreme Programming (XP) at Unruly. Co-author of "Agile Coaching" book.
+- [Rands](https://twitter.com/rands) - VP Engineering at Slack, creator of randsinrepose.com.
 - [Randy Shoup](https://twitter.com/randyshoup) — VP Engineering at Stitch Fix (former eBay, Google).
 - [Raphael Crawford-Marks](https://twitter.com/raphaelcm) — CEO @Bonusly. Alumnus of @Looksharp, @SquareTrade, @PeaceCorps, @HampshireColg.
 - [Ryan Burgess](https://twitter.com/burgessdryan) — Software Engineering Manager at @Netflix. Lover of #JavaScript! The Canadian voice on the @FrontEndHH podcast.
