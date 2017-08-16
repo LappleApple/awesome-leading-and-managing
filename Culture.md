@@ -72,6 +72,8 @@
 
 - [Working On The Right Thing](https://medium.com/redbubble/working-on-the-right-thing-faeb1af73cfe) - by Tom Sommer. A lot of happiness and productivity is thrown away because some of your employees are mismatched to the tasks they work on. By assessing our team on Ability, Affinity and Ambition we can do better.
 
+- [Creating Psychological Safety: Start With Trust](https://medium.com/@Alyss/creating-psychological-safety-part-1-ac9aa733fa9b) by Alyss Noland. Takeaway: Psychological safety is a combination of trust between coworkers and an environment where that trust can be acted upon. Start with building those bridges between peers, providing managerial support, and creating a strategic narrative that uplifts every team's accomplishments.
+
 ## Culture Codes
 
 - [500 Startups’ 5 Values](http://thenextweb.com/insider/2013/04/27/the-5-values-that-drive-500-startups/)
