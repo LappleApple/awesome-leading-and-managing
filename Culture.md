@@ -12,7 +12,9 @@
 
 - [Creating the Dream Team: Transform Your Engineering Organization to Attract New Talent](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/) - by Andrew Hao. Takeaway: Start with evaluating your current culture's strengths and weaknesses. Be in tune with your org. Make sure you demonstrate that you value employees—whether that is talking up their accomplishments, investing in training, or just being there to talk.
 
-- [Crush the Wall!…of your Departments to Build 100% Agile Company. This Is How We Did It] - by Tomas Laboutka. Takeaway: "Without full alignment and team empowerment, a company will not be able to make good decisions and execute quickly. Some studies point out that for every 1 hour of work done by product teams, 48 minutes is spent waiting for a decision to be made. That means in one 8-hour day, 3.5 hours is dedicated to waiting. This is crazy."
+- [Creating Psychological Safety: Start with Trust](https://medium.com/@Alyss/creating-psychological-safety-part-1-ac9aa733fa9b) by Alyss Noland. Takeaway: Psychological safety is a combination of trust between coworkers and an environment where that trust can be acted upon. Start with building those bridges between peers, providing managerial support, and creating a strategic narrative that uplifts every team's accomplishments.
+
+- [Crush the Wall!…of your Departments to Build 100% Agile Company. This Is How We Did It](https://www.linkedin.com/pulse/crush-wallof-your-departments-build-100-agile-company-tomas-laboutka) - by Tomas Laboutka. Takeaway: "Without full alignment and team empowerment, a company will not be able to make good decisions and execute quickly. Some studies point out that for every 1 hour of work done by product teams, 48 minutes is spent waiting for a decision to be made. That means in one 8-hour day, 3.5 hours is dedicated to waiting. This is crazy."
 
 - [Culture Is the Spec, Process Is the Code](https://medium.com/@richarmstrong/culture-is-the-spec-process-is-the-code-ccb0df70514f) - by Rich Armstrong. Takeway: Create every process around your culture. Just like your devs need specs in order to know what code to write, your company needs processes in order to implement culture. 
 
@@ -71,8 +73,6 @@
 - [Why Psychological Safety Matters and What to Do About It](https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/) - by Amy Edmondson and Jeff Polzer, Harvard Business School. Takeaway: "Even small acts that seem inconsequential at the time can pave the way for larger contributions that carry more weight. By creating a team climate that encourages people to embrace potentially risky contributions, the team will be rewarded with better decisions, motivated members, and improved performance."
 
 - [Working On The Right Thing](https://medium.com/redbubble/working-on-the-right-thing-faeb1af73cfe) - by Tom Sommer. A lot of happiness and productivity is thrown away because some of your employees are mismatched to the tasks they work on. By assessing our team on Ability, Affinity and Ambition we can do better.
-
-- [Creating Psychological Safety: Start With Trust](https://medium.com/@Alyss/creating-psychological-safety-part-1-ac9aa733fa9b) by Alyss Noland. Takeaway: Psychological safety is a combination of trust between coworkers and an environment where that trust can be acted upon. Start with building those bridges between peers, providing managerial support, and creating a strategic narrative that uplifts every team's accomplishments.
 
 ## Culture Codes
 
