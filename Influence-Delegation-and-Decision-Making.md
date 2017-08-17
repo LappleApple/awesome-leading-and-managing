@@ -50,6 +50,9 @@ a) Do I understand the complete context, b) am I the right person to handle it, 
 - [Management Is Not About Asking People to do Stuff](https://medium.learningbyshipping.com/management-is-not-about-asking-people-to-do-stuff-88f105c61838) - by Steven Sinofsky. Takeaway: "[M]anagers should not ask people on the team to do yucky work that the manager doesn’t want to do. Or said another way, if there’s something yucky to be done then managers should join in. That’s all well and good, but is also just basic civility I think."
 
 ### Influence Others
+
+- [11 Top Tips for a Successful Technical Presentation](https://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx) - by Scott Hanselman. Takeaway: detail-oriented tips ranging from font type/size to being mindful of your distracting personal habits.
+
 - [Uniquely HR](https://www.google.com/url?q=http://uniquelyhr.com/management-development-training/&sa=D&ust=1497272863257000&usg=AFQjCNFCpE9ZQyRzTMoqItlEdU2neBygnw) - by Gary Ford. Takeaway: Influence is the power to affect someone/something without directly forcing them. It’s about establishing credibility, finding common ground, and connecting emotionally. A systemic approach to influencing.
 
 - [Use Coaching Techniques to Help People Make Their Own Decisions](https://vimeo.com/128634479) (video) - by Meredith Noble. Takeaway: A talk about how to use the GROW coaching technique "to structure conversations and help people make their own decisions; ask questions that encourage people to consider new approaches; embrace the coaching mindset, and and let go of the urge to play expert."
