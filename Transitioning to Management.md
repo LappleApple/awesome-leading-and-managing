@@ -138,6 +138,10 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [What’s Your Learning Stack?](https://mystudentvoices.com/whats-your-learning-stack-55f8639c3d56) - by Mattan Griffel and Álvaro Sanmartín. Takeaway: Analogous to a tech stack, a learning stack codifies how learning is done in an org.
 
+### The CTO Role
+
+- [Chief Technology Officer Job Description: What Does a CTO Do?](https://buttercms.com/blog/chief-technology-officer-job-description-what-does-a-cto-do) - by Roger Jin. Takeaway: how to put the "chief" in CTO. "A great CTO should be ready to delegate, while also being comfortable enough to work on the frontline, coding alongside their fellow developers. Furthermore, they will be required to be even more flexible if they’re working in a startup."
+
 ### The VP of Engineering Role
 
 - [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/) - by Martin Casado. Takeaway: A VPE is responsible for product planning, building the engineering team and culture, ensuring execution, maintaining morale, delivering quality releases on time.
