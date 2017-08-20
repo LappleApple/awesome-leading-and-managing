@@ -87,3 +87,11 @@
 - [Spotify](https://docs.google.com/document/d/1rimiqq0hrJaEN_EBG0UyqivxsbvMA-6dlwZgCv5ndyU/edit#)
 - [Yammer](https://eng.yammer.com/#how-section)
 - More at [http://culturecodes.co](http://culturecodes.co)
+
+## Codes of Conduct
+
+- [O.school](https://docs.google.com/document/d/1vmTyjlG9tebNk9ONWcv5MUgoL6ROZgEyVjxtR4WrypE/)
+
+## Discrimination and Harassment
+
+- [Why Your Tiny Startup Needs a Code of Conduct & How to Write One](https://blog.techinclusion.co/why-your-tiny-startup-needs-a-code-of-conduct-how-to-write-one-d9f674363d5b) - by Andrea Barric. Takeway: In order to create a safe place to work companies should not delay writing their code of conduct.
