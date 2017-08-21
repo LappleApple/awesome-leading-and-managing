@@ -92,6 +92,8 @@
 
 - [O.school](https://docs.google.com/document/d/1vmTyjlG9tebNk9ONWcv5MUgoL6ROZgEyVjxtR4WrypE/)
 
+- [A Template for Investor/Founder Sexual Harassment Policy](https://techcrunch.com/2017/07/05/harassment-policy-template/) - by TechCrunch and contributors. Takeaway: a template that covers purpose and context for the policy, as well as the policy itself, forms of prohibited behavior, enforcement, and supplementary resources.
+
 ## Discrimination and Harassment
 
 - [Why Your Tiny Startup Needs a Code of Conduct & How to Write One](https://blog.techinclusion.co/why-your-tiny-startup-needs-a-code-of-conduct-how-to-write-one-d9f674363d5b) - by Andrea Barrica. Takeway: "What’s often ignored is that diversity is not only a pipeline or recruiting issue. It’s an issue of making the people who do make it through the pipeline want to stay at your company." Write a code of conduct no matter the size of your company, to create norms that ideally make your workplace safe.
