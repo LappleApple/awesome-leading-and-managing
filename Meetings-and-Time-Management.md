@@ -31,6 +31,8 @@
 
 - [Busy to Death](http://barryoreilly.com/2017/05/31/busy-to-death/) - by Barry O'Reilly. Takeaway: "Over-optimizing for executing work is dangerous. Actually, it’s very dangerous indeed as it causes us to get stuck in plan-do-plan-do cycles. We compromise reflection, retrospection, and review of the outcomes of all the output we are creating. We stop building learning loops into our work to plan-do-check-act the results of all this effort. We don’t allow time to study, consider, or understand if the result of all this activity is actually aligned to what we are hoping to achieve. We are frankly too busy to."
 
+- [Daily Planning — Get Ready for the Current Day](https://impactspheres.co/daily-planning-get-ready-for-the-current-day-91ffbd243c26) - by Jurgen Appelo. Takeaway: a five-part exercise to help you prioritize the day's work and break it down into achievable chunks.
+
 - [Data Driven Time Management](http://okdork.com/time-management-tips/) - By
   Noah Kagan at Sumo. Takeaway: Measure your time and then use that data to
   decide how you really want to be spending your time. This does not just mean
