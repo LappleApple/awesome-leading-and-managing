@@ -58,6 +58,8 @@
 
 - [Re-structuring a Growing Team](https://writing.jeanhsu.com/re-structuring-a-growing-team-3ac30d93b637) - by Jean Hsu. Takeaway: Identify why you're reorganizing, understand what it means, and execute. Includes a plan for conducting a team reorg so you can prepare for your own.
 
+- [Thinking of the Next Developer](https://dev.to/dnimmo/thinking-of-the-next-developer) - by David Nimmo. Takeaway: before moving on to the next coding problem, take the time to save hassle for the next person joining your team or working with your code.
+
 - [What Determines How Collaborative You'll Be?](https://opensource.com/open-organization/17/7/collaboration-vs-competition-part-2?sc_cid=7016000000127L3AAI) - by Ron McFarland. Takeaway: Four scenarios that illustrate the factors influencing your level of openness.
 
 ### Technical Debt/Managing It
