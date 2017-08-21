@@ -94,4 +94,4 @@
 
 ## Discrimination and Harassment
 
-- [Why Your Tiny Startup Needs a Code of Conduct & How to Write One](https://blog.techinclusion.co/why-your-tiny-startup-needs-a-code-of-conduct-how-to-write-one-d9f674363d5b) - by Andrea Barrica. Takeway: In order to create a safe place to work companies should not delay writing their code of conduct.
+- [Why Your Tiny Startup Needs a Code of Conduct & How to Write One](https://blog.techinclusion.co/why-your-tiny-startup-needs-a-code-of-conduct-how-to-write-one-d9f674363d5b) - by Andrea Barrica. Takeway: "What’s often ignored is that diversity is not only a pipeline or recruiting issue. It’s an issue of making the people who do make it through the pipeline want to stay at your company." Write a code of conduct no matter the size of your company, to create norms that ideally make your workplace safe.
