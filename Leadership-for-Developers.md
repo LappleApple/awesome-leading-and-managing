@@ -8,7 +8,7 @@
 
 - [The Ultimate List Of Developer Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/) - by John Sonmez. Includes the Changelog, the Simple Programmer Podcast, Developer on Fire, and dozens of other podcasts for software developers, organized into topics/sections.
 
-### Software Craftsmanship
+### Software Craftspersonship
 
 - [Active Learner — How Developers Keep Learning](https://medium.com/dennis-nerush/active-learner-how-developers-keep-learning-1309b91f1ae6) - by Dennis Nerush. Takeaway: "the kind of developers we want to hire and be part of our company and our teams ... are not expert beginners and they are not necessary real experts. But they are aware of what they know and most importantly, what they don’t know. They are on the path to someday become real experts. To go in this path they cannot rely only on what their job teaches them and 'out of the box' just working solutions—they must actively learn."
 
@@ -71,3 +71,5 @@
 - [The Incredible Shrinking Time to Legacy. On Time to Suck as a Metric for Dev and Ops](http://redmonk.com/jgovernor/2017/07/17/the-incredible-shrinking-time-to-legacy-on-time-to-suck-as-a-metric-for-dev-and-ops/) - by James Governor at RedMonk. Takeaway: "If we’re not running our own environments in house, operations disposability become increasingly realistic. Cattle not pets, for everything. But convenience and disposability always incur a cost."
 
 - [Technical Debt: Adding Math to the Metaphor](http://reinertsenassociates.com/technical-debt-adding-math-metaphor/) - by Donald Reinertsen. Takeaway: Explores differences between the usual financial debt metaphor for technical debt and what deferred work really means in product development. The main difference Reinertsen investigates involves the (missing) certainty of how much principal you gain and how much interest you will pay back (if at all).
+
+- [When Your Tech Debt Comes Due](https://www.linkedin.com/pulse/when-your-tech-debt-comes-due-kevin-scott) - by Kevin Scott. Takeaway: a compelling story about how LinkedIn rebuilt their architecture in two months, and involved their entire engineering team.
