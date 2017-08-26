@@ -9,6 +9,9 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [The Best Leaders Are Constant Learners](https://hbr.org/2015/10/the-best-leaders-are-constant-learners) - HBR article by Kenneth Mikkelsen and Harold Jarche. Takeaway: "Leaders that stay on top of society’s changes do so by being receptive and able to learn." 
 
+- [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals/) - by Farnam Street. Takeaway: a series of bullet points identifying the differences. Examples: "Amateurs give up at the first sign of trouble and assume they’re failures. Professionals see failure as part of the path to growth and mastery;
+Amateurs don’t have any idea what improves the odds of achieving good outcomes. Professionals do." 
+
 - [Effective Leadership Styles for Scrum Masters](https://www.benlinders.com/2016/leadership-styles-scrum-masters/) - by Ben Linders. Takeaway: This post provides an overview of many effective leadership styles that Scrum masters can learn from and apply when working in agile teams, so that their teams can deliver value. Servant leadership alone is not enough.
 
 - [Etsy Lessons](http://larahogan.me/blog/etsy-lessons/) - by Lara Hogan. Takeaway: a collection of wisdom Hogan (now at Kickstarter) collected over her years at Etsy, about topics ranging from rethinking diversity hiring to how to deal with feeling shaky as a leader.
