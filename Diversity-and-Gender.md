@@ -42,6 +42,8 @@
 
 - [Recommended Reading for Allies](https://codeascraft.com/2016/08/10/recommended-reading-for-allies/) - by Toria Gibbs and Ian Malpass. Takeaway: A list of helpful resources on feminism, privilege, allyship, research, and more.
 
+- [Right Here, Right Now: 27 Simple Actions to Support Women in Tech](https://shift.newco.co/amp/p/1672110989cd) - by Cassie Divine. Takeaway: Includes 27 things one can do to support women, from speaking out when something amiss occurs, to celebrating women colleagues.
+
 - [There's No 'Silver Bullet' to Increasing Diversity, But Here's How We're Making Progress](https://magoosh.com/blog/silver-bullet-diversity-progress/) - by Bhavin Parikh. An honest and personal account of how Magoosh is addressing the topic, and what they're doing to create a fair hiring/growth culture: providing guidance to candidates, creating a salary framework, stay interviews/check-ins, and more. Their efforts produced noticeable results.
 
 - [Ways Men in Tech Are Unintentionally Sexist](https://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/) - by Kat Hagan. Takeaway: Little, unintentially malicious things people say reinforce stereotypes.
