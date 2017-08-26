@@ -52,6 +52,8 @@
 
 - [How to Improve Team Closeness with Personal Maps](https://management30.com/practice/personal-maps/) - by Jürgen Appelo at M3.0. Takeaway: Personal maps and group exercises to develop them can enable members of teams to get to know each other as *humans* with interests and hobbies. The article points to tips and case stories for you to get ideas.
 
+- [Hyperproductive Development](http://blog.jessitron.com/2017/06/the-most-productive-circumstances-for.html) - by Jessica Kerr. Takeaway: "the most productive development happens when one person knows the system intimately because they wrote it; this is in conflict with growing a system beyond what one person maintains." The post offers suggestions for what teams can do.
+
 - [Makers and Menders: Putting the Right Developers on the Right Projects (deck)](https://www.slideshare.net/andrea_goulet/makers-and-menders-putting-the-right-developers-on-the-right-projects) - by Andrea Goulet, CEO & Co-Founder of Corgibytes. Takeaway: Makers and menders each have valuable roles to play in development. Focusing too much on making leads to maintenance, "legacy code," and technical debt; mend as well to reduce your overhead.
 
 - [9 Attributes of Successful Development Teams](https://about.gitlab.com/2017/05/23/attributes-of-successful-development-teams/) - by Rebecca Dodd at GitLab. Takeaway: Great teams automate everything, are meticulous about documentation, use collaboration tools and integrated platforms, version control everything, make it easy for everyone to contribute, spend time on side projects, make code review collaborative, and are allowed to be creative.
