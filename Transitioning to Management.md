@@ -34,6 +34,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The MVP is dead. Long live the RAT.](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02) - by Rik Higham. Takeaway: "There is a flaw at the heart of the term Minimum Viable Product: it’s not a product. It’s a way of testing whether you’ve found a problem worth solving. A way to reduce risk and quickly test your biggest assumption. Instead of building an MVP identify your Riskiest Assumption and Test it. Replacing your MVP with a RAT will save you a lot of pain."
 
+- [The Only Metric That Matters — Now With Fancy Slides!](https://news.greylock.com/the-only-metric-that-matters-now-with-fancy-slides-232474cf414c) - by Josh Elman at Greylock Partners. Takeaway: "[T]he only thing founders need to think about is: Are people using your product? Are they using it how you expect (i.e performing the core action)? And, are they performing the core action at the frequency you expect?"
+
 - [Paul Graham’s Startup Advice for the Lazy](https://medium.com/swlh/graham-for-the-lazy-51a170dacc86) - by Stelios Constantinides. All of Paul Graham’s startup advice summarized in one article.
 
 - [The Product Dartboard](http://blog.carbonfive.com/2015/07/29/the-product-dartboard/) - by Janet Brunckhorst at Carbon Five. Takeaway: offers a deep dive/description of a tool that assesses a team or individual against attributes associated with project success.
