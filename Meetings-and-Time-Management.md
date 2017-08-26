@@ -38,8 +38,7 @@
   decide how you really want to be spending your time. This does not just mean
   office time!
   
-- [Focus – keynote at AgileByExample,
-  Warsaw](http://blog.crisp.se/2016/10/20/henrikkniberg/focus-keynote) - by
+- [Focus – keynote at AgileByExample, Warsaw](http://blog.crisp.se/2016/10/20/henrikkniberg/focus-keynote) - by
   Henrik Kniberg. Takeaway: Focus on extracting more value from your available
   time. “Busy-ness” is an artificial concept. Build in slack to your schedule to
   achive better focus.
@@ -47,6 +46,8 @@
 - [The Habit of No](https://ethansaustin.com/2015/01/01/the-habit-of-no/) - by
   Ethan Austin. The habit of saying no is important for teamwork and keeping a
   startup focused on the common goal.
+
+- [Hyperproductive Development](http://blog.jessitron.com/2017/06/the-most-productive-circumstances-for.html) - by Jessica Kerr. Takeaway: "the most productive development happens when one person knows the system intimately because they wrote it; this is in conflict with growing a system beyond what one person maintains."
 
 - [Listening Is the Job](http://boz.com/articles/listening-is-the-job.html) - by Andrew Bosworth. Takeaway: Have a system for taking in/consuming information; maximize signal-to-noise ratio; give feedback; proactively identify gaps in your information flows; write notes to remember reactions you have through the day; tell your story; be clear about the information you seek; and listen.
 
