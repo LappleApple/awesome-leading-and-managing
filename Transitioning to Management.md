@@ -24,6 +24,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Key Learnings in My First Year as a PM at Amazon](https://www.linkedin.com/pulse/key-learnings-my-first-year-pm-amazon-venkatraman-prabhu) - by Venkatraman Prabhu. Takeaway: Lessons learned after a year at the global retailer. Choose the right manager, always measure the product's impact, keep experimenting, have weekly 1:1's with key stakeholders, and get advice.
 
+- [Lean-Agile Product Management](https://lapm.continuousdelivery.com/) - by Jez Humble. Takeaway: the course website from Humble's class at UC Berkeley, with syllabus and resources that cover the product lifecycle, team-building, and other key topics. Includes lots of links to talks/articles/etc. that you might also find linked to here.
+
 - [Lean Startup](https://docs.google.com/document/d/1Xs9VBBhh68DVCywXN7TRtDcWQQLDJWcLCvUOxnzNHmw/edit) - notes by Joe Goldberg about the book by Eric Ries.
 
 - [LeanStartup.com](http://theleanstartup.com/) - based on the book. Offers an e-newsletter. 
