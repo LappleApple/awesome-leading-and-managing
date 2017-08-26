@@ -47,8 +47,6 @@
   Ethan Austin. The habit of saying no is important for teamwork and keeping a
   startup focused on the common goal.
 
-- [Hyperproductive Development](http://blog.jessitron.com/2017/06/the-most-productive-circumstances-for.html) - by Jessica Kerr. Takeaway: "the most productive development happens when one person knows the system intimately because they wrote it; this is in conflict with growing a system beyond what one person maintains."
-
 - [Listening Is the Job](http://boz.com/articles/listening-is-the-job.html) - by Andrew Bosworth. Takeaway: Have a system for taking in/consuming information; maximize signal-to-noise ratio; give feedback; proactively identify gaps in your information flows; write notes to remember reactions you have through the day; tell your story; be clear about the information you seek; and listen.
 
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - by Y Combinator's Paul Graham. Takeaway: The manager's schedule is typically in one-hour blocks, while the maker's schedule requires longer stretches of uninterrupted time. "Each type of schedule works fine by itself. Problems arise when they meet. Since most powerful people operate on the manager's schedule, they're in a position to make everyone resonate at their frequency if they want to. But the smarter ones restrain themselves, if they know that some of the people working for them need long chunks of time to work in."
