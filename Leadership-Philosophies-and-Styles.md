@@ -76,6 +76,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [To Be a Great Leader, Rethink Your Default Behaviors](https://medium.com/ideo-stories/to-be-a-great-leader-rethink-your-default-behaviors-c762ffd59450) - by Deirdre Cerminaro. Takeaway: Working with IDEO’s CEO Tim Brown reiterated the values to "act with humility," not pride; "trust the intuition of others," don’t be a skeptic; "encourage half-baked ideas," don’t require them to be polished; "inspire, don’t instruct"; and "model behaviors, don’t dictate them."
 
+- [20 Years Ago, Steve Jobs Demonstrated the Perfect Way to Respond to an Insult](https://www.inc.com/justin-bariso/20-years-ago-steve-jobs-demonstrated-the-perfect-w.html) - by Justin Bariso. Takeaway: Includes video of the 1997 exchange between a man in the audience who insults Jobs, and the latter's calm and thoughtful response.
+
 - [Vulnerability and Leadership](https://www.youtube.com/watch?v=e8YtQDiiT1U) (video) - by Brene Brown, researcher, author and storyteller. Takeaway: In this TED talk, Dr. Brown discusses connection/lack thereof, shame (the fear of disconnection and being unworthy of connection). Connection and being aware of its need results in more effective leadership because one can then reach/inspire/enliven people.
 
 - [What It's Really Like Working with Steve Jobs](http://inventor-labs.com/blog/2011/10/12/what-its-really-like-working-with-steve-jobs.html)" - by Glenn Reid. Takeaway: Reid describes designing products with Jobs as a type of "cauldron"-like investigation in which ideas formed around an iteration and who thought up the idea didn't matter. The process put more focus on the ideas and less on Jobs, specific others in the room, or ego. 
