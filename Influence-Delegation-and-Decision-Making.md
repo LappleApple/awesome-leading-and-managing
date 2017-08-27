@@ -10,6 +10,8 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
 
 - [Why Humble People Make Better Decisions](https://journal.thriveglobal.com/why-humble-people-make-better-decisions-d18e6ad6180a#.hy27xhl36) - by Drake Baer. Takeaway: A Duke University research study shows that people with high "intellectual humility" are more open to the information coming their way, as a form of "information sensitivity." This means they end up making more informed decisions than those who need to be right and ignore evidence.
 
+- [The 90% Agreement Rule](https://hackernoon.com/the-90-agreement-rule-36757dcc8eaa) - by Lawrence Ripsher. Takeaway: Ripsher asserts that "we spend 90% of our time, talking about the 10% of things we disagree on." This takes up time and energy. Instead, "[c]reate clarity (and build on) wherever there is ‘about 90% agreement’ first— then come back around and address the disagreements after."
+
 - [3 Ways To Ease The Pain Of Slow And Frustrating Decision Making](http://corporate-rebels.com/rebellious-practices-distributed-authority/) - by the Corporate Rebels. Takeaway: Change your language to imply empowerment; distribute decision-making authority by practice, and push decision making authority down through proper training.
 
 ### Delegation
