@@ -46,3 +46,10 @@
 - [To Keep Employees Loyal, Try Asking What They Want](http://fortune.com/2011/01/27/to-keep-employees-loyal-try-asking-what-they-want/?__s=ns1epkqjs8qj1ggjuafv) - by Anne Fisher. Takeaway: When the article was published in 2011, Aflac CEO Dan Amos worked with a team that was 70% women. His company's approach to reducing turnover, he just asked employees what they wanted. It produced results.
 
 - [Turning Around Employee Turnover](http://www.gallup.com/businessjournal/106912/turning-around-your-turnover-problem.aspx?__s=ns1epkqjs8qj1ggjuafv) - by Jennifer Robison for Gallup. Takeaway: "According to Gallup's research, 9 of the 12 workplace elements consistently predict turnover across business units, regardless of an organization's size. These elements are: having clear expectations, having the materials and equipment to do the job right, having the opportunity to do what you do best every day, the belief that someone at work cares, the belief that someone encourages your development, a sense that your opinions count, the mission or purpose of the company making you feel that your job is important, a belief that your coworkers are committed to quality, and having opportunities to learn and grow at work. If these needs are met, as shown by higher scores on these employee engagement items, turnover is likely to be low."
+
+- [The 4 ‘perks’ good developers really want](https://venturebeat.com/2017/08/27/the-4-perks-good-developers-really-want/) - by Mike Melnicki
+
+  1. The best developers want to have an impact in all aspects of the company: product direction, marketing, human resources, design and even finance
+  2. Allow them to build a personal brand
+  3. Create opportunities for your developers to demonstrate creativity
+  4. Consider the unique needs of your team members and support them with flexibility
