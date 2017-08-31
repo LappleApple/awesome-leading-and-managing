@@ -90,3 +90,12 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 - [What Are Interviews For?](https://medium.com/tech-lead-talks/what-are-interviews-for-8130cef253a5) - by Brujo Benavides. Takeaways: The article asks whether we should use the interview process to detect cheaters, or to check how the candidate and the company fit together; and about the consequences of choosing one approach over the other.
 
 - [You Suck at Technical Interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews) - by Laurie Voss. Takeaways: don't hire for what candidates already know, or for what they can remember during the interview; don't hire based on elite degrees or past employers; and don't hire friends and family. Instead, interview in order to find out if the candidate can do the job, if they'll get even better at the job, if they're continuous learners who can talk intelligently about technology, and if they're aware of what they don't know. Have a conversation, not an interrogation, and ask if you actually want to work with the person. 
+
+- [How to Conduct a Good Programming Interview](http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html) - by Li Haoyi.
+Takeaways: Focus on your primary goals, usually they are:
+  * Will the candidate be able to write working code if they join the team?
+  * Can the candidate discuss code and problems with the people they'll be working with?
+  * Can the candidate reason about arbitrary problems and constraints?
+  * Is the candidate someone we would enjoy working with?
+
+From there Li elaborates a strategy to perform the interview, including preparation, running it and conclusions.
