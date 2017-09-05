@@ -75,14 +75,16 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - by Lauren Tan. Lists hundreds of companies that don’t use CS whiteboarding.
 
-- [Interviewing](https://www.xaprb.com/blog/interviewing/) - by Baron Schwartz. Takeaway: Understand what you're hiring for, ask questions about past performance only, and gauge potential by "asking questions about what challenged them and how they responded to it."
+- [How to Conduct a Good Programming Interview](http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html) - by Li Haoyi. Takeaway: Focus on your primary goals. Usually they are: 1) Will the candidate be able to write working code if they join the team? 2) Can the candidate discuss code and problems with the people they'll be working with? 3) Can the candidate reason about arbitrary problems and constraints? 4) Is the candidate someone we would enjoy working with? From there, Li elaborates a strategy to perform the interview, including preparation, running it and conclusions.
 
 - [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers) - by Ammon Bartram (Triplebyte). Takeaways: Ask questions similar to real work.
   Ask multipart questions. Avoid hard questions. Make decisions based on
   max skill, not average/minimum skill.  Most programmers prefer interviews
   to trials/take-homes, even though interviews aren't the best way to
   evaluate people.
-
+  
+- [Interviewing](https://www.xaprb.com/blog/interviewing/) - by Baron Schwartz. Takeaway: Understand what you're hiring for, ask questions about past performance only, and gauge potential by "asking questions about what challenged them and how they responded to it."
+ 
 - [A Recipe for an Interview](https://jocelyngoldfein.com/a-recipe-for-an-interview-e4af1211d590) - by Jocelyn Goldfein. Takeaway: Offers a list of helpful questions for uncovering how candidates (product, engineering, etc.) handle situations related to their application of functional skills/competencies. 
 
 - [Screen Engineers Better with a Debugging Roleplay](https://hackernoon.com/cut-to-the-chase-with-a-debugging-roleplay-d7d49f518157) - by Pete Karl II. Takeaway: Using a text-based, role-playing debugging game on a phone screen, Localytics doubled their team size within six months.
@@ -90,12 +92,3 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 - [What Are Interviews For?](https://medium.com/tech-lead-talks/what-are-interviews-for-8130cef253a5) - by Brujo Benavides. Takeaways: The article asks whether we should use the interview process to detect cheaters, or to check how the candidate and the company fit together; and about the consequences of choosing one approach over the other.
 
 - [You Suck at Technical Interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews) - by Laurie Voss. Takeaways: don't hire for what candidates already know, or for what they can remember during the interview; don't hire based on elite degrees or past employers; and don't hire friends and family. Instead, interview in order to find out if the candidate can do the job, if they'll get even better at the job, if they're continuous learners who can talk intelligently about technology, and if they're aware of what they don't know. Have a conversation, not an interrogation, and ask if you actually want to work with the person. 
-
-- [How to Conduct a Good Programming Interview](http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html) - by Li Haoyi.
-Takeaways: Focus on your primary goals, usually they are:
-  * Will the candidate be able to write working code if they join the team?
-  * Can the candidate discuss code and problems with the people they'll be working with?
-  * Can the candidate reason about arbitrary problems and constraints?
-  * Is the candidate someone we would enjoy working with?
-
-From there Li elaborates a strategy to perform the interview, including preparation, running it and conclusions.
