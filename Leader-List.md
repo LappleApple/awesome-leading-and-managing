@@ -43,7 +43,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Jerry Colonna](https://twitter.com/jerrycolonna) — Coach and CEO @RebootHQ.
 - [Jessica McKellar](https://twitter.com/jessicamckellar) — Startup founder, engineering director at Dropbox, Python Software Foundation.
 - [Jez Humble](https://twitter.com/jezhumble) — Co-author of Continuous Delivery, Lean Enterprise, DevOps Handbook. CTO @devops_research, lecturer @UCBerkeley, ex- @18F.
-- [Joe Goldberg](https://twitter.com/bostonsteamer) — Founding Father of this List.
+- [Joe Goldberg](https://twitter.com/tenaciousjoe) — Founding Father of this List.
 - [Joel Spolsky](https://twitter.com/spolsky) — CEO of Stack Overflow, co-founder of Fog Creek Software (Glitch, FogBugz), and creator of Trello. NYC gay techie.
 - [John Allspaw](https://twitter.com/allspaw) — Former CTO, Etsy. Dad. Author. Guitarist. Student of sociotechnical systems, human factors, and cognitive systems engineering.
 - [John Arundel](https://twitter.com/bitfield) — Helps with devops, Puppet, Docker, etc. Ally. Author, The Puppet Beginner's Guide: http://amzn.to/2sJYLvc.
