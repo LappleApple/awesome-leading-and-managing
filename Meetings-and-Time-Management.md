@@ -15,6 +15,8 @@
   Takeaways: Team meetings aren't the only way to spread information to the
   group.
   
+- [(https://medium.com/@JBunky/how-do-we-build-better-meetings-5b483d2066ec#.fp4nrqx2d) - by Jen Bunk. Takeaway: Includes the "4 A's of Awesome Meetings: announce the agenda, attack the agenda benevolently, allow agenda deviations mindfully, and assign next actions.
+
 - [Run Your Meetings Like a
   Boss](http://99u.com/articles/25075/run-your-meeting-like-a-boss-lessons-from-mayer-musk-and-jobs) - by David Fallarme. Takeaways: Make decisions using data, keep meetings to the
   necessary size, and be prepared with questions and answers to ensure a meeting
