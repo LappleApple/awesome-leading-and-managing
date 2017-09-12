@@ -34,4 +34,6 @@
 
 - [7 Tough Lessons I’ve Learned on Giving and Receiving Feedback at Our Startup](https://open.buffer.com/feedback) - by Leo Widrich. Takeaway: Understand why humans need feedback; see it as a kindness; consider giving it to be a skill; encourage employees to give it without permission; give role feedback; aim to grow from feedback. "Feedback is how we scale as a company; it’s how we make sure we keep helping each other."
 
+- [The 3 Types of Bullshit Feedback — and What to Do About Them](https://m.signalvnoise.com/the-3-types-of-bullshit-feedback-and-what-to-do-about-them-5de483530c3f) - by Claire Lew. Takeaway: three types of BS feedback include the kind that is true, "but the delivery is off"; untrue feedback, and "feedback is vague, unclear or supremely subjective."
+
 - [The Ultimate Case Against Using Shame as a Management Tactic](https://qz.com/1039957/the-ultimate-case-against-using-shame-as-a-management-tactic/) - by Lila MacLellan. Takeaway: an explanation of European "just culture," which involves treating errors with training and support instead of punishment for mistakes honestly admitted and made. This relates to psychological safety and giving employees the chance to learn from mistakes.
