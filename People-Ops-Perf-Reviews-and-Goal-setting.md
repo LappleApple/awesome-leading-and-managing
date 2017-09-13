@@ -47,6 +47,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Cognitive Bias Cheat Sheet, Simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f) - by Buster Benson. Takeaway: The four condundrums that lead to biases are too much information, not enough meaning, not enough time and resources, and not enough memory.
 
+- [The Dangers of Measuring Performance](https://medium.com/startup-patterns/the-dangers-of-measuring-performance-d21cd61426df) - by Sam McAfee. Takeaway: offers a useful summary of how we've evolved our common management practices from Taylorism to agile teamwork and collaboration. Measure performance by throughput; pair people/teams to focus on one deliverable at a time; and empower teams to improve processes themselves. 
+
 - [Decisions: What Makes Someone Have “Impact” Anyway?](https://medium.com/@skamille/decisions-7eed2bae82b3) - by Camille Fournier. Takeaway: Expect people to make impact within the scope of the level they are operating at, so talk about impact and scope almost interchangeably. No matter what level: Good decisions → Trust → More responsibility → Impact.
 
 - [Employee Reviews – Tips to Use Them as Motivation](http://katemats.com/employee-reviews-tips-use-them-as-motivation/) - by kate{mats}. Takeaway: keep them more positive than negative; attach constructive suggestions to negative points; ensure feedback is accurate and continuous; set clear expectations and guidance on how to achieve different ratings; round up when in doubt, end positively.
