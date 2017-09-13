@@ -55,6 +55,8 @@ a) Do I understand the complete context, b) am I the right person to handle it, 
 
 - [11 Top Tips for a Successful Technical Presentation](https://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx) - by Scott Hanselman. Takeaway: detail-oriented tips ranging from font type/size to being mindful of your distracting personal habits.
 
+- [Making Engineering Team Communication Clearer, Faster, Better](http://firstround.com/review/making-engineering-team-communication-clearer-faster-better/) - by First Round. Takeaway: Using a technical design review system with design documents can help teams communicate effectively and clearly. The article links to a [design doc template](https://docs.google.com/document/d/1uMHzRsEDZb_p9xfFGerCVhr-0mAi-d-OFY4jJi0dYk4/edit) by Google, and [a completed example](https://docs.google.com/document/d/1CMlG1v9AAln9SvI4Ysqo8NOd4L4ObDy3SY8pNh9iXhI/edit).
+
 - [Uniquely HR](https://www.google.com/url?q=http://uniquelyhr.com/management-development-training/&sa=D&ust=1497272863257000&usg=AFQjCNFCpE9ZQyRzTMoqItlEdU2neBygnw) - by Gary Ford. Takeaway: Influence is the power to affect someone/something without directly forcing them. It’s about establishing credibility, finding common ground, and connecting emotionally. A systemic approach to influencing.
 
 - [Use Coaching Techniques to Help People Make Their Own Decisions](https://vimeo.com/128634479) (video) - by Meredith Noble. Takeaway: A talk about how to use the GROW coaching technique "to structure conversations and help people make their own decisions; ask questions that encourage people to consider new approaches; embrace the coaching mindset, and and let go of the urge to play expert."
