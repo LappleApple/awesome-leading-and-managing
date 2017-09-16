@@ -14,6 +14,8 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
 
 - [3 Ways To Ease The Pain Of Slow And Frustrating Decision Making](http://corporate-rebels.com/rebellious-practices-distributed-authority/) - by the Corporate Rebels. Takeaway: Change your language to imply empowerment; distribute decision-making authority by practice, and push decision making authority down through proper training.
 
+- [Why Leaders Who Listen Achieve Breakthroughs](https://www.strategy-business.com/blog/Why-Leaders-Who-Listen-Achieve-Breakthroughs?__s=ns1epkqjs8qj1ggjuafv) - by Elizabeth Doty. Takeaway: Two-way conversations (as opposed to conversations in which the "sender" of a message focuses on their own half, instead of paying equal attention to the recipient's message and response) can make collaboration occur at a level that can be game-changing. Decisions become better and more reflective/inclusive of different perspectives and information sources. 
+
 ### Delegation
 
 - [The 48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197) - by Robert Greene and Joost Elffers. A history of power, condensed into 48 laws. [Book notes by Joe Goldberg here](https://docs.google.com/document/d/1N5ruzsUUOI698uYlPB5fkV2FNx73JYnxFLuM-sIsXMs/edit).
