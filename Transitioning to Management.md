@@ -22,6 +22,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Growth Hacking Notebook](https://docs.google.com/document/d/1uN_kMZlwsdaliiUhIEei5PTnLphm0p6Eo57Xg6LnFHc/edit) - notes by Joe Goldberg.
 
+- [How to Sell The Problem Before Selling The Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484) - by David Bailey. Takeaway: Tactical ways to express customer needs and "lead with the need."
+
 - [Key Learnings in My First Year as a PM at Amazon](https://www.linkedin.com/pulse/key-learnings-my-first-year-pm-amazon-venkatraman-prabhu) - by Venkatraman Prabhu. Takeaway: Lessons learned after a year at the global retailer. Choose the right manager, always measure the product's impact, keep experimenting, have weekly 1:1's with key stakeholders, and get advice.
 
 - [Lean-Agile Product Management](https://lapm.continuousdelivery.com/) - by Jez Humble. Takeaway: the course website from Humble's class at UC Berkeley, with syllabus and resources that cover the product lifecycle, team-building, and other key topics. Includes lots of links to talks/articles/etc. that you might also find linked to here.
