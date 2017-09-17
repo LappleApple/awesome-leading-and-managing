@@ -32,6 +32,8 @@
 
 - [Rainbows and Unicorns](http://randsinrepose.com/archives/rainbows-and-unicorns) - by Michael Lopp. Takeaway: advice on giving a compliment—"a selfless, timely, and well-articulated recognition of achievement"—with a breakdown of how compliments work, interwoven with references to video games.
 
+- [Reddit and Facebook Veteran on How to Troubleshoot Troublemakers](http://firstround.com/review/reddit-and-facebook-veteran-on-how-to-troubleshoot-troublemakers/) - by FirstRound. Takeaway: A chat with Bethanye McKinney Blount about how to grow from a troublemaker into a troublemaker-manager, and the four common types of troublemakers: the hermit, the nostalgia junkie, the trend chaser, and the smartest person in the room. See also Blount's [Troubleshooting Troubleshooters](https://www.youtube.com/watch?v=DGsWTeuf9bo) talk.
+
 - [7 Tough Lessons I’ve Learned on Giving and Receiving Feedback at Our Startup](https://open.buffer.com/feedback) - by Leo Widrich. Takeaway: Understand why humans need feedback; see it as a kindness; consider giving it to be a skill; encourage employees to give it without permission; give role feedback; aim to grow from feedback. "Feedback is how we scale as a company; it’s how we make sure we keep helping each other."
 
 - [The 3 Types of Bullshit Feedback — and What to Do About Them](https://m.signalvnoise.com/the-3-types-of-bullshit-feedback-and-what-to-do-about-them-5de483530c3f) - by Claire Lew. Takeaway: three types of BS feedback include the kind that is true, "but the delivery is off"; untrue feedback, and "feedback is vague, unclear or supremely subjective."
