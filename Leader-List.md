@@ -35,6 +35,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Helena Edelson](https://twitter.com/helenaedelson) — Distributed Systems, Big Data & Infra Engineer @Apple. Speaker. FP, Scala, Intelligent self healing systems. Streaming. Cassandra MVP.
 - [Henrik Kniberg](https://twitter.com/henrikkniberg) — agile coach, led lots of Spotify's efforts and documented them for the world to learn from, author.
 - [Isabel Drost-Fromm](https://twitter.com/MaineC) — Open Source Strategist at Europace.de, Apache Software Foundation, Berlin Buzzwords founder, frequent speaker and creator of things.
+- [James Turnbull](https://twitter.com/kartar) - CTO @EmpaticoOrg. Previously CTO @kickstarter, OG @docker/@puppetize. Likes tattoos & good food. The Terraform Book http://goo.gl/NnSJpe.
 - [Jamie Allen](https://twitter.com/jamie_allen) — Noted Lambda hater. Author of Effective Akka, contributor to Reactive Design Patterns. Engineering Head at Starbucks, formerly of Lightbend.
 - [Jan Lehnardt](https://twitter.com/janl) — Makes @couchdb @hoodiehq @jsconfeu @greenkeeperio & #offlinefirst Dissatisfied with the status-quo.
 - [Jason Fried](https://twitter.com/jasonfried) — Founder & CEO at http://basecamp.com. Co-author of Getting Real, Remote, and NYT Bestseller REWORK.
