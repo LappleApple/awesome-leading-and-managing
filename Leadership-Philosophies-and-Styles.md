@@ -99,6 +99,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [The New Technology Leader’s Plan](http://katemats.com/leadership/new-technology-leaders-plan/) - by Kate Matsudaira. A series of posts covering these topics: Understanding the Strategy; Conversations with the Team; Understand and Assess Technical Risks (Technical Risk Assessment); Focus on Early Wins.
 
+- [https://opensource.com/open-organization/17/8/what-open-leader-do](https://opensource.com/open-organization/17/8/what-open-leader-do) - by Sam Knuth. Takeaway: Open leaders focus on supporting people to become successful, set vision and context, and seeking feedback about how people feel about their work and environment as well as whether they feel connected to/understand its purpose.
+
 - [Team and Strategy](http://avc.com/2016/09/team-and-strategy/) - by venture capitalist Fred Wilson. Takeaway: Leaders should do only three (or six?) things. They are: Recruit/retain; build/evolve long-term strategy; ensure there's money; maintain balance between departments; create a commitments system; talk to clients to keep market insight fresh.
 
 - [The Three Types of Leaders The World Needs Most: Artistic, Scientific and Interpersonal](https://www.forbes.com/sites/georgebradt/2014/01/29/the-three-types-of-leaders-the-world-needs-most-artistic-scientific-and-interpersonal/) - *Forbes* article by George Bradt. Takeaway: *artistic* leaders inspire by influencing feelings and perceptions; *scientific leaders* influence and inspire knowledge with their thinking and ideas; and *interpersonal* leaders "can be found ruling, guiding and inspiring at the head of their interpersonal cohort whether it’s a team, organization, or political entity." They're not mutually exclusive.
