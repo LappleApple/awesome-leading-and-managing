@@ -36,6 +36,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [Leadership FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.e0uby6of3) - Essay by Henry Ward that offers a concise list of essential questions with clear, thought-provoking answers. For example: "How do I give negative feedback? *By being curious.*."
 
+- [Leadership Is a Quality That You Can Teach Yourself](https://qz.com/659038/leadership-is-a-quality-that-you-can-teach-yourself/?__s=ns1epkqjs8qj1ggjuafv) - by Christian Bonilla. Takeaway: "To be a successful leader, you have to learn to consider how your work affects others, and how to work with people to get things done. The higher up you go in any organization, the harder it is to get things done on your own. So invest in building relationships every step of the way, and you’ll have more people who want to see you succeed when your time comes."
+
 - [Management Philosophy](https://3002.ca/posts/management-philosophy/) - by Gordon Radlein. Takeaway: A five-point philosophy: Trust above all else, feedback, give space to succeed or fail, find the right balance of process, and always have a vision.
 
 - [A Model for Leadership](http://randsinrepose.com/archives/leadership-comes-from-everywhere/) - A political article, but it provides one the most complete leadership frameworks we’ve seen. Values are the linchpin in the model, but important things precede and flow from values:
