@@ -5,7 +5,8 @@ Since 2013-ish, [Joe Goldberg](https://twitter.com/bostonsteamer), who created t
 
 In summer 2017 [Lauri Apple](https://twitter.com/lauritaapplez) found out about Joe's docs via [Software Lead Weekly](http://softwareleadweekly.com/) and asked Joe about posting the contents to GitHub. He gave the greenlight. Lauri changed up the format (very brief blurbs), turned the doc into an [Awesome List](https://github.com/sindresorhus/awesome), and has continued adding new entries ever since. Helping out with the initial upload were a team of Lauri's colleagues at [Zalando](https://jobs.zalando.com/tech/). These days the list receives [contributions](CONTRIBUTING.md) from people around the world.
 
-"An awesome collection of resources!" —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178), Twitter
+- "An awesome collection of resources!" —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178), Twitter
+- "Thanks again for putting together this tremendous resource!"—[Dave Golden](https://twitter.com/xdg), MongoDB and contributor
 
 ## Contents
 - [Conflict Resolution, Postmortems and Retrospectives](Conflict-Resolution-Postmortems-Retrospectives.md)
