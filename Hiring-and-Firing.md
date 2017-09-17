@@ -67,6 +67,11 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 
 - [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - by anonymous. Takeaway: Be careful with the "brilliant" word. Many brilliant people start a lot and are visionaries or charismatic, but don't finish what they started.
 
+- [Who Y Combinator Companies Want](http://blog.triplebyte.com/who-y-combinator-companies-want) - by
+  Ammon Bartram.  Takeaways: Companies look for very different types of
+  programmers, requiring different types of interviews.  Consider nine
+  profiles and which ones your company actually wants.
+
 ### Interviewing Candidates
 
 - [A Better Way to Interview Software Engineers](https://fulcrum.lever.co/a-better-way-to-interview-software-engineers-fa9b5d2b5316) - by Zach Millman. Takeaway: "When you spend an hour asking how to improve some code, it shows that you really care about code quality and collaborative engineering."
@@ -92,3 +97,33 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 - [What Are Interviews For?](https://medium.com/tech-lead-talks/what-are-interviews-for-8130cef253a5) - by Brujo Benavides. Takeaways: The article asks whether we should use the interview process to detect cheaters, or to check how the candidate and the company fit together; and about the consequences of choosing one approach over the other.
 
 - [You Suck at Technical Interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews) - by Laurie Voss. Takeaways: don't hire for what candidates already know, or for what they can remember during the interview; don't hire based on elite degrees or past employers; and don't hire friends and family. Instead, interview in order to find out if the candidate can do the job, if they'll get even better at the job, if they're continuous learners who can talk intelligently about technology, and if they're aware of what they don't know. Have a conversation, not an interrogation, and ask if you actually want to work with the person. 
+
+- [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/) - by Thomas and Erin Ptacek. Takeaways: "Being good at navigating hiring processes requires a basket of skills that isn’t correlated with job performance".  Warm up candidates; use work samples and scripted interviews; standardize the process.
+
+- [A Technical Hiring Process](https://blog.urth.org/2017/07/14/a-technical-hiring-process/) - by Dave Rolsky.  Takeaways: define criteria upfront; ask for a cover letter to screen for attention to detail and communication skill; use non-trivial homework for screening; do joint interviewing; do pair programming on the homework code.
+
+- [The Asana Engineering Interview Guide](https://blog.asana.com/2016/03/asana-engineering-interview-guide/) - by Isaac Wolkerstorfer.  Takeaway: Level the playing field by providing a guide to the interview.
+
+- [You can’t fix diversity in tech without fixing the technical interview](http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/) - by Aline Lerner. Takeaway: "technical interviewing is a process whose results are nondeterministic and often arbitrary… [that] hit underrepresented groups the hardest".
+
+- [We built voice modulation to mask gender in technical interviews. Here’s what happened.](http://blog.interviewing.io/we-built-voice-modulation-to-mask-gender-in-technical-interviews-heres-what-happened/) - by Aline Lerner.  Takeaways: No effect from voice pitch; women stop practicing interviews more often than men after bad feedback.
+
+- [Moneyball Hiring: The Interview](https://moz.com/devblog/moneyball-hiring-the-interview/) - by Kelsey Foley. Takeaways: Look for a growth mindset and a diverse set of skills.  Use a collaborative mini-hackathon instead of interviews.
+
+- [Developer hiring and the market for lemons](https://danluu.com/hiring-lemons/) - by Dan Luu.  Takeaways: Companies are overly stringent, missing a lot of good people who aren't good at interviewing; see also [We only hire the best means we only hire the trendiest](https://danluu.com/programmer-moneyball/) by the same author.
+
+- [This is why you never end up hiring good developers](https://qz.com/258066/this-is-why-you-dont-hire-good-developers/) - by Laurie Voss.  Takeaways: "interview techniques test skills that are at best irrelevant to real working life"; hire for what people can grow into, not what they've already done or can show on a whiteboard.
+
+- [Refactoring the Mirrortocracy](http://carlos.bueno.org/2014/06/refactoring.html) - by Carlos Bueno.  Takeaways: Several good, tactical recommendations for interviewing at the end, such as "operate from a principle of hospitality", "study false negatives", and "enforce minimum standards of feedback".
+
+- [Thirteen thousand, four hundred, fifty-five minutes of talking to get one job](http://kolesky.com/datums/job-search/) - by Jeff Kolesky.  Takeaways: A first person view of what would have made for better interviewing, with recommendations like "use homework assignment", "simulate the real world", and "help candidates prepare for the interview".
+
+- [There’s no ‘silver bullet’ to increasing diversity, but here’s how we’re making progress](https://magoosh.com/blog/silver-bullet-diversity-progress/) - by Bhavin Parikh.  Takeaways: use blind questionnaire review and structured interviews with rubrics; guide applicates in writign a cover letter.
+
+- [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9) - by Jeff Jenkins and David Park.  Takeaways: overview of a three-hour take home they give and use for onsite code-review.
+
+- [The One Method I’ve Used to Eliminate Bad Tech Hires](https://mattermark.com/the-one-method-ive-used-to-eliminate-bad-tech-hires/): - by Amir Yasin.  Takeaways: Use a paid take-home assignment followed by in-person discussion of the work.
+
+- [Medium’s engineering interview process](https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4) - by Jamie Talbot.  Takeaways: An excellent breakdown on grading candidate responses & assessment criteria, available as Creative Commons documents.
+
+- [The Developer Hiring Process is Broken](https://builttoadapt.io/the-developer-hiring-process-is-broken-672bf273c183) - by Pivotal.  Takeaways: "We believe coding is a social activity"; use pair programming around general CS topics; select for "basic engineering competence and the ability to think quickly and interact with somebody they don’t know".
