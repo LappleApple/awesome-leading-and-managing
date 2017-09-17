@@ -14,17 +14,19 @@ The pull request should have a useful title. We are unlikely to accept pull requ
 Please ensure your pull request adheres to the following guidelines:
 
 - Look at previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure the entry is useful before submitting. That implies it has the author's name and a succinct description/"takeaway" after the link.
-- Make one individual pull request per each new entry/suggestion.
-- Use [title-casing](http://titlecapitalization.com) (AP style).
+- Make sure the entry is useful before submitting. That implies it has the author's name and a succinct description/"takeaway" after the link. 
+  - **The entry format** should follow this model: [title](link) - by author. Takeaway: ...
+  - Use a **-** to separate the link and description.
+- Takeaways should avoid sub-bullets and be complete sentences. 
+- Use **quotation marks** when you're quoting verbatim.
+- Make **one individual pull request per each new entry/suggestion**.
+- Use [title-casing](http://titlecapitalization.com) (AP style), regardless of the style used by the original article.
 - Use the following format: `[Name of book/article/video/etc. you're adding](link)`.
-- Add link additions in alphabetical order.
+- Add link additions in **alphabetical order**. 
+  - Disregard articles (the/an/a) coming at the beginning of titles and use the next word.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
-- Use a - to separate the link and description.
 - Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title. For simplicity, we recommend using the title of the article/book/video/etc. you're adding.
-- The body of your commit message should contain a link to the repository.
 
 Thank you for your suggestions!
 
