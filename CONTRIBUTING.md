@@ -21,9 +21,8 @@ Please ensure your pull request adheres to the following guidelines:
 - Use **quotation marks** when you're quoting verbatim.
 - Make **one individual pull request per each new entry/suggestion**.
 - Use [title-casing](http://titlecapitalization.com) (AP style), regardless of the style used by the original article.
-- Use the following format: `[Name of book/article/video/etc. you're adding](link)`.
 - Add link additions in **alphabetical order**. 
-  - Disregard articles (the/an/a) coming at the beginning of titles and use the next word.
+  - Disregard articles (**the/an/a**) coming at the beginning of titles and use the next word.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
