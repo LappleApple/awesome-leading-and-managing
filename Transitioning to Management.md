@@ -88,6 +88,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The 4-Letter-Word That Makes My Blood Boil](https://medium.com/maker-to-manager/the-4-letter-word-word-that-makes-my-blood-boil-d4771df63a1) - by Marcus Blankenship. Takeaway: Avoid words like “just”, “simply”, and “trivial." They could lead you to overlook or forget how detail-oriented technical work can be.
 
+- [From Coding To Management to Leadership](https://dev.to/lpasqualis/from-coding-to-management-to-leadership) - by Lorenzo Pasqualis. Takeaway: an examination of why developers are asked to manage, and why some developers go into management.
+
 - [Google’s New Manager Training](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/) - by Google. Takeaway: Training materials that Google uses to help transition an individual contributor to a manager, including a manager facilitation training guide and exercises for students. 
 
 - [How to Make the Leap from Engineer to Manager](http://blog.newrelic.com/2014/07/23/measuring-manager-success/) - by Kirby Frugia at New Relic. Takeaway: "The key to making processes work is to make incremental changes, measure them, and then improve them." Also, managerial success and developer success differ in that the former is often achieved through others, more about strategic impact, and happen less frequently.
