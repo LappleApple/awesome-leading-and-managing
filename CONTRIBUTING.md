@@ -15,7 +15,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Look at previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure the entry is useful before submitting. That implies it has the author's name and a succinct description/"takeaway" after the link. 
-  - **The entry format** should follow this model: [The Title of Your Article](link) - by author. Takeaway: ...
+  - **The entry format** should follow this model: `[The Title of Your Article](link) - by author. Takeaway: ...`
   - Use a **-** to separate the link and description.
 - Takeaways should avoid sub-bullets and be complete sentences. 
 - Use **quotation marks** when you're quoting verbatim.
