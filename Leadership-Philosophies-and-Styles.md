@@ -68,6 +68,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [3 Harmful Ideas About Leadership (and Shifts You Can Make)](https://www.linkedin.com/pulse/3-harmful-ideas-leadership-shifts-you-can-make-karen-tay) - by Karen Tay. Takeaway: "[G]ood leadership is less and less defined by subject-area expertise, and more and more defined by the ability to hire well and create the conditions for talented individuals to propel the business forward, such as trust and autonomy."
 
+- [What Mistakes in Your Experience Does Management Keep Making?](https://news.ycombinator.com/item?id=15033156) - by Hacker News commenters. A list/online discussion about the many ways that tech management goes awry.
+
 - [Why Tim Cook is Steve Ballmer and Why He Still Has His Job at Apple](https://www.linkedin.com/pulse/why-tim-cook-steve-ballmer-he-still-has-his-job-apple-steve-blank) - by Steve Blank. Takeaway: "What happens to a company when a visionary CEO is gone? Most often innovation dies and the company coasts for years on momentum and its brand. Rarely does it regain its former glory." Uses Microsoft and Apple as examples.
 
 - [Why You Must Lead Differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=) - *Forbes* article by George Bradt.
