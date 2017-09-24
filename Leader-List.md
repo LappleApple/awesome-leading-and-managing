@@ -40,6 +40,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Jan Lehnardt](https://twitter.com/janl) — Makes @couchdb @hoodiehq @jsconfeu @greenkeeperio & #offlinefirst Dissatisfied with the status-quo.
 - [Jason Fried](https://twitter.com/jasonfried) — Founder & CEO at http://basecamp.com. Co-author of Getting Real, Remote, and NYT Bestseller REWORK.
 - [Jeff Gothelf](https://twitter.com/jboogie) — Author: http://www.leanuxbook.com and http://senseandrespond.co. Digital transformation, product skills-building, org agility. NL: http://eepurl.com/cn14af.
+- [Jen Bunk](https://twitter.com/JBunky) - People Stack Architect, leadership coach, entrepreneur, iopsych PhD.
 - [Jerome Petazzoni](https://twitter.com/jpetazzo) — Docker, containers, frequent speaker, better writer than he might realize, connector.
 - [Jerry Colonna](https://twitter.com/jerrycolonna) — Coach and CEO @RebootHQ.
 - [Jessica McKellar](https://twitter.com/jessicamckellar) — Startup founder, engineering director at Dropbox, Python Software Foundation.
