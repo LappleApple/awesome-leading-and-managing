@@ -62,7 +62,7 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
   
 - [10 Things Great Bosses Do Every Day](https://www.linkedin.com/pulse/unique-things-great-bosses-do-every-day-dr-travis-bradberry) - by Dr. Travis Bradberry. Takeaway: from "respects your time" to "looks for and celebrates wins," this list covers the bases.
 
-- [This Is The Number One Thing That Holds Most People Back From Success](http://www.bakadesuyo.com/2013/09/bad-attitude/) - by Seth Godin. Takeaway: It’s your attitude.
+- [This Is the Number One Thing That Holds Most People Back from Success](http://www.bakadesuyo.com/2013/09/bad-attitude/) - by Seth Godin. Takeaway: It’s your attitude.
 
 - [3 Harmful Ideas About Leadership (and Shifts You Can Make)](https://www.linkedin.com/pulse/3-harmful-ideas-leadership-shifts-you-can-make-karen-tay) - by Karen Tay. Takeaway: "[G]ood leadership is less and less defined by subject-area expertise, and more and more defined by the ability to hire well and create the conditions for talented individuals to propel the business forward, such as trust and autonomy."
 
