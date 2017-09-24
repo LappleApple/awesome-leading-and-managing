@@ -52,8 +52,6 @@
 
 - [Agile Self-Assessment Game](https://www.benlinders.com/game/) - by Ben Linders. Takeaway: playing the game enables teams to reflect on how they work together, discover how agile they are, and agree upon next steps they can take to increase their agility to deliver more value to their customers and stakeholders.
 
-- [Beyond OKRs: The Formula for High Performing Teams](http://eleganthack.com/beyond-okrs-the-formula-for-high-performing-teams/) (video) - by Christina Wodtke. Takeaway: the creator of Radical Focus talks about different kinds of teams, team-building, experiential learning, and more.
-
 - [How to Improve Team Closeness with Personal Maps](https://management30.com/practice/personal-maps/) - by Jürgen Appelo at M3.0. Takeaway: Personal maps and group exercises to develop them can enable members of teams to get to know each other as *humans* with interests and hobbies. The article points to tips and case stories for you to get ideas.
 
 - [Hyperproductive Development](http://blog.jessitron.com/2017/06/the-most-productive-circumstances-for.html) - by Jessica Kerr. Takeaway: "the most productive development happens when one person knows the system intimately because they wrote it; this is in conflict with growing a system beyond what one person maintains." The post offers suggestions for what teams can do.
