@@ -9,6 +9,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauritaapplez) found out about 
 - "Thanks again for putting together this tremendous resource!"—[Dave Golden](https://twitter.com/xdg), MongoDB and contributor
 
 ## Contents
+- [Building Products and Startups](Building-Products-and-Startups.md)
 - [Conflict Resolution, Postmortems and Retrospectives](Conflict-Resolution-Postmortems-Retrospectives.md)
 - [Culture](Culture.md)
 - [Diversity and Gender](Diversity-and-Gender.md)
