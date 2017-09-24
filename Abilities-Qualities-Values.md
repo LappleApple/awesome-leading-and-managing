@@ -18,6 +18,8 @@
 
 - [Failure as a Service](https://medium.com/servant-leadership/failure-as-a-service-937473b0c9b8) - by Rich Armstrong. What it means to be a leader. Takeaways: Servant-leaders shouldn’t make decisions that should be made by the folks closest to the problem), unless they can’t be answered with readily-available or easily-collected data, and there’s no consensus on the solution. "When the people you manage bring you a tough call, and you choose right, they get the credit. When you choose wrong, you get the blame. And it’s OK, pookie. That’s what you’re here for."
 
+- [Feelings of Failure](http://blog.eladgil.com/2017/08/feelings-of-failure.html) - by Elad Gil. Takeaway: A post "meant to help with feelings of failure when things are actually going well (whether you as the CEO realize it or not)."
+
 ### Gratitude
 
 - [Gratitude as a Company Value](https://medium.com/make-better-software/gratitude-as-a-company-value-4bc9c8f0a4fc) - by Anil Dash. Takeaway: Dash's first few months as CEO at Fog Creek Software revealed that the company's tradition of expressing genuine thanks to employees/coworkers has engaged him and others on an emotional level, which leads to a better culture. |[W]e should regularly take the time to show our colleagues, peers and collaborators that we’re thankful for their work."
