@@ -1,8 +1,10 @@
 ## When You're Not a "Manager": Leadership for Developers
 
-### Blogs/Websites
+### Blogs, Websites, Misc. Resources
 
 - [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - a very long list of engineering-related podcasts in several languages.
+
+- [ConferenceList](https://conferencelist.io/) - by Cezar Floroiu. A list of conferences around the world. Get out there and make your voice heard.
 
 - [Practicing Developer](https://practicingdeveloper.com/) - by Gregory Brown, author of O'Reilly's "Programming Beyond Practices."
 
