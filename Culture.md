@@ -1,5 +1,7 @@
 ## Culture
 
+- [The Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-03) (slides) - a deck about Buffer's unique culture, which reinforces transparency, self-improvement and positivity, among other elements.
+
 - [Buffer Sees Clear Benefits to Transparent Employee Salary Policy](https://opensource.com/open-organization/16/3/social-startup-buffer-transparency-reigns?sc_cid=701600000011jJkAAI) - by Bryan Behrenshausen. Takeaway: "At social media startup Buffer, a single leadership decision eliminated salary negotiation for new employees, preempted gender-based salary discrimination, and prompted a flood of job applications. The decision? Make all employee salaries transparent."
 
 - [Building and Scaling a Distributed and Inclusive Team](https://www.youtube.com/watch?list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&v=XAU5q-biY28) (video) - by Matthias Meyer. The founder/CEO of Travis CI talks about how the company has been trying to create a multicultural distributed team, with lots of quotes from team members. Travis pushed for a remote culture to increase diversity.
@@ -86,6 +88,7 @@
 - [eShares 101](https://medium.com/@henrysward/eshares-101-e96d792bdc69#.poe2uvcg1)
 - [Genius.com](http://genius.com/Genius-the-genius-isms-annotated) ([see also](http://a16z.com/2014/11/28/a16z-podcast-guiding-startup-culture-the-genius-isms/))
 - [Gumroad Core Values](http://firstround.com/article/An-Inside-Look-at-a-Flat-Organization-That-Serves-Millions)
+- [HubSpot](http://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love)
 - [Medium’s Engineering Values](https://medium.com/medium-eng/engineering-values-7143c0db0bd6)
 - [Percolate](https://percolate.com/values)
 - [Quicken Loans](http://www.quickenloans.com/press-room/fast-facts/#isms)
