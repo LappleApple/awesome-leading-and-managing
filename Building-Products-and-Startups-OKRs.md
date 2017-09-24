@@ -53,3 +53,5 @@ As a leader of a product development team you might have a PM that you’re work
 ## OKRs
 
 - [Applying OKRs](https://dannorth.net/2017/05/01/applying-okrs) - by Dan North. Takeaway: Insights from Dan about working with companies applying Objectives and Key Results; do's and dont's. 
+
+- [Beyond OKRs: The Formula for High Performing Teams](http://eleganthack.com/beyond-okrs-the-formula-for-high-performing-teams/) (video) - by Christina Wodtke. Takeaway: the creator of Radical Focus talks about different kinds of teams, team-building, experiential learning, and more.
