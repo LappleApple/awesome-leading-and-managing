@@ -6,9 +6,13 @@
 
 - [Feedback Doesn’t Have to Be Scary](https://chrismurman.com/2017/02/28/feedback-doesnt-have-to-be-scary/) - by Chris Murman at ThoughtWorks. Takeaway: what you can do when you rely upon feedback and reviews from multiple people. Ask for feedback frequently and proactively, in small measures. "Giving your co-workers some specific questions or topics you want to discuss in advance focuses the conversation. It also steers the conversation away from personal feelings. The giver can focus on helping me."
 
+- [51 Things Your Employees Won't Tell You (Unless You Ask)](https://www.inc.com/john-brandon/51-things-your-employees-won-t-tell-you-unless-you-ask.html) - by John Brandon. Takeaway: A list of 51 reasons why your reports/employees aren't telling you what they really feel. At the top: "You don't listen."
+
 - [Giving Effective Feedback](https://hbr.org/product/giving-effective-feedback-hbr-20-minute-manager-series/13999E-KND-ENG) - by Harvard Business Review. Takeaway: "[T]he basics of delivering feedback that gets results, including: Choosing the right time to talk; Engaging in productive dialogue; Helping both star and struggling performers; Developing a plan for effective follow-up."
 
 - [How and Why You Need to Recognize Your Executives](http://blog.bonus.ly/how-and-why-you-need-to-recognize-your-executives?utm_content=56841793&utm_medium=social&utm_source=twitter) - by Jessica Collins. Takeaway: Leaders are people too, and giving them feedback keeps them in touch with the organization, and motivates them to continue doing the "right" things.
+
+- [How Do Individual Contributors Get Stuck?](https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516) - by Camille Fournier. Takeaway: When giving constructive feedback, pay attention to how ICs get stuck and address those habits—endless research, helping others instead of doing their own work, refactoring, and other ways. 
 
 - [How to Get More Feedback from Your Team](https://getlighthouse.com/blog/get-more-feedback-team) - by Lighthouse. Takeaway: gives five approaches for increasing feedback, including asking for it (many don't) and being grateful for the feedback you receive.
 
