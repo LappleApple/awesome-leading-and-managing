@@ -16,6 +16,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauritaapplez) found out about 
 - [Diversity and Gender](Diversity-and-Gender.md)
 - [Giving Feedback, Praise, and Advice](Giving-Feedback-Praise-and-Advice.md)
 - [Firing, Hiring and Interviewing Candidates](Hiring-and-Firing.md)
+- [For Developers: Software Craftspersonship, Teamwork, Technical Debt](For-Developers-Teamwork-TechDebt.md.md)
 - [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
 - [Leader List](Leader-List.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
@@ -25,7 +26,6 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauritaapplez) found out about 
 - [One-on-Ones](One-on-Ones.md)
 - [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md)
 - [Transitioning to Management (and Managing Managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
-- [When You're Not a "Manager": Leadership for Developers](Leadership-for-Developers.md)
 
 *"If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
 "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan<br>
