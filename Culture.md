@@ -32,6 +32,8 @@
 
 - [How Netflix Reinvented HR](http://hbr.org/2014/01/how-netflix-reinvented-hr/ar/pr) - by Patty McCord. Takeaway: Hire only people who are able to put your company’s interests first.
 
+- [How 10,000 People Helped Us Rediscover Our Purpose](https://opensource.com/open-organization/17/9/rediscovering-your-why) - by DeLisa Alexander. Takeaway: How Red Hat is working on "sustaining, evolving, and scaling the unique set of values and behaviors that differentiate its culture."
+
 - [How to Get Engineering Teams to Eat Their Vegetables](https://medium.com/@duretti/how-to-get-engineering-teams-to-eat-their-vegetables-83e0f83af71a) - by Duretti Hirpa. Takeaway: Good teams are supportive, have a sense of togetherness and don't blame their team members for their mistakes but instead learn from them.
 
 - [Innovation vs. Execution](http://svpg.com/innovation-vs-execution/) - by Marty Cagan. Takeaway: Not many companies are good at both innovation and execution. Assess your company in terms of both, and decide which one comes first.
@@ -60,7 +62,9 @@
 
 - [Up or Out: Solving the IT Turnover Crisis](http://thedailywtf.com/articles/Up-or-Out-Solving-the-IT-Turnover-Crisis) - by Alex Papadimoulis. Takeaway: Hire lots of people, find them mentors, and give them a choice to either get lots of experience then find another job or work hard in order to get promoted. 
 
-- [Values Exercises to Build Vision in Your Company](https://www.happymelly.com/values-exercises-to-build-vision/) - by Happy Melly. Exercises to help your organization identify its values, and a downloadable list of 250 potential values to choose from. 
+- [Values Exercises to Build Vision in Your Company](https://www.happymelly.com/values-exercises-to-build-vision/) - by Happy Melly. Exercises to help your organization identify its values, and a downloadable list of 250 potential values to choose from.
+
+- [Want an Open, Transparent Company Culture? Then Don't Make These 2 Common Excuses](https://www.inc.com/claire-lew/want-an-open-transparent-company-culture-then-dont-make-these-2-common-excuses.html) - by Claire Lew. Takeaway: "I don't want feedback to be a distraction" and  "I'm not ready to act on feedback" will not make your culture open or transparent.
 
 - [The Wetware Crisis: the Dead Sea Effect](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/) - by Bruce F. Webster. Takeaway: Do reorgs only if really needed, as they impact everyone in the organization and are not magic bullets that can solve all your problems.
 
