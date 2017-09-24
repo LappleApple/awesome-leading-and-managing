@@ -40,6 +40,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Lightweight, Continuous Goal-Setting](https://docs.google.com/document/d/1XRfTZ_tmL-N-Mudu0uniIWmCOycUviXmefbSZ6ZDv1w/edit) - notes by Joe Goldberg. Takeaway: Set, evaluate and adjust goals on a regular basis. This doc contains goal-setting objectives, steps, tips, and a quarterly email template.
 
+- [Uncovering the Secret Powers of MailChimp Employees Through Apprenticeships](https://blog.mailchimp.com/uncovering-the-secret-powers-of-mailchimp-employees-through-apprenticeships/) - by MailChimp. Takeaway: MailChimp created a 90-day apprenticeship program for employees to explore their interests and curiosity about other roles. The program has strengthened diversity efforts and also helped employees launch new careers. 
+
 ### Performance Reviews
 “We see things not as they are but as we are.” Giving reviews is a place where bias lurks. Understand the cognitive bias cheatsheet and mental models list and you’ll at least acknowledge that we’re all biased.
 
