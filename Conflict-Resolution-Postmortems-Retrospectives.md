@@ -18,8 +18,6 @@
 
 ### Postmortems
 
-- [Don't Worry About Failure...Embrace It!](https://dev.to/jlhcoder/dont-worry-about-failureembrace-it) - by James Hood. Takeaway: "Treat each failed attempt as a learning experience. What went wrong that time? What can I do differently next time? Being kind to yourself and treating setbacks as learning opportunities is key to getting ... onto a path of positive personal growth."
-
 - [Etsy’s Guide to Postmortems](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) - by John Allspaw, Morgan Evans and Daniel Schauenberg. A lengthy document that provides a guide on the art of asking questions. [On Failure and Resilience](https://beero.ps/2017/06/17/on-failure-and-resilience/) provides a briefer summary, describing an Etsy incident and how the team managed it.
  
 - [The Infinite Hows (or, the Dangers of The Five Whys)](https://www.kitchensoap.com/2014/11/14/the-infinite-hows-or-the-dangers-of-the-five-whys/) - by John Allspaw. Takeaway: A slight tweak to the “5 whys." Allspaw points out that “why” leads to blaming a person, while “how” leads to blaming the system.
