@@ -45,7 +45,7 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 ### Performance Reviews
 “We see things not as they are but as we are.” Giving reviews is a place where bias lurks. Understand the cognitive bias cheatsheet and mental models list and you’ll at least acknowledge that we’re all biased.
 
-- [360-Degree Feedback](http://en.wikipedia.org/wiki/360-degree_feedback) - Wikipedia entry on the process for collecting feedback from a person's reports, peers, supervisors and self.
+- [Assessing Employee Performance](https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a) from Eric Elliot. Takeaway: "If you’re not listening closely to the employee you’re evaluating, and interviewing their peers about how helpful and knowledgable that employee is… And if the sum of that feedback is anything less than your primary gauge of performance … You SUCK at judging employee performance."
 
 - [Cognitive Bias Cheat Sheet, Simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f) - by Buster Benson. Takeaway: The four condundrums that lead to biases are too much information, not enough meaning, not enough time and resources, and not enough memory.
 
@@ -66,6 +66,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 - [Scaling Culture with Feedback](https://wistia.com/blog/scaling-culture-with-feedback) - by Chris Savage. Takeway: Ask specific questions to see if people are living out your values.
 
 - [Three Axioms Engineering Managers should use for Meaningful Performance Reviews](https://medium.com/@orenellenbogen/three-axioms-engineering-managers-should-use-for-meaningful-performance-reviews-4f520db06028) - by Oren Ellenbogen. Takeway: Before giving perf reviews think about how the employee can work anywhere, what they're great at, improvement areas, how to help them grow, books/blog posts to recommend, and what else the company can offer to help them grow. 
+
+- [360-Degree Feedback](http://en.wikipedia.org/wiki/360-degree_feedback) - Wikipedia entry on the process for collecting feedback from a person's reports, peers, supervisors and self.
 
 ### How to Review Managers
 - [Running a Manager Feedback Cycle](https://cate.blog/2017/03/23/running-a-manager-feedback-cycle/) - by Cate Huston. Provides a structured, transparent process for getting feedback as a manager. "It’s hard to get feedback as a manager, the hope was that people would be more candid if they 1) submitted feedback anonymously 2) to someone else. Because we tend to amplify negative feedback, there was a benefit to having someone else go through it, find trends, and repackage it for the recipient."
