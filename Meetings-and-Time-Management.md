@@ -5,6 +5,8 @@
   
 - [Declutter Your Meetings and Create Minimum Viable Meetings](https://zenkara.wordpress.com/2015/09/21/declutter-your-meetings-and-create-minimum-viable-meetings/) - by Zenkara. Takeaway: Run Minimum Viable Meetings, which include the absolute fewest participants with only critical topics for meeting objectives. "Schedule the fewest meetings possible and as early as possible; have the result and outcome that you are satisfied with."
 
+- [A Field Guide to Dudes Who Ruin Meetings](https://medium.com/part-and-sum/a-field-guide-to-dudes-who-ruin-meetings-3877de28b661#.di6epdtpw) - by Jim Babb. Takeaway: tips on thow to deal with Cool Tool, Mister Details, Professor This-is-Bullshit and other meeting-ruiners.
+
 - [Gossip, Rumors, and
   Lies](http://randsinrepose.com/archives/gossip-rumors-and-lies/) - by Michael
   Lopp. Takeaways: What are the right reasons to have  meetings, how to provide
