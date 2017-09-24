@@ -28,6 +28,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [How to Lead a Team](https://drt.fm/simon-sinek) (podcast) - by Simon Sinek. Fun trivia: Joe Goldberg, the originator of this Awesome list, realized through this podcast that "You can’t manage people, you can only lead them. You can only manage processes."
 
+- [I’ve Interviewed Over 300 Entrepreneurs–Here’s Their Most Counterintuitive Advice](https://www.fastcompany.com/40457790/ive-interviewed-over-300-entrepreneurs-heres-their-most-counterintuitive-advice) - by Jenna Abdou. Takeaway: Specialize in more stuff than you think you have to; share what makes you tick, then have your team do the same; forget the competition, and let things happen instead of always making them happen.
+
 - [In Just 8 Words, Uber's New CEO Gave a Master Class in Leadership](https://www.inc.com/amp/180941.html) - by Jessica Stillman. Takeaway: Uber CEO Dara Khosrowshahi, who took over from Travis Kalanick, seems the reverse of his predecessor by expressing vulnerability. In his sign-off, he wrote to his team: "I have to tell you I am scared." Vulnerability is an underrated leadership skill.
 
 - [The Key To Employee-Empowering Leadership](https://www.forbes.com/sites/forbescoachescouncil/2017/06/14/the-key-to-employee-empowering-leadership/#74f950561267) - by Ed Krow, an HR consultant. Takeaway: Empower people, let go, learn to take calculated risks, create incentives/compensation.  
