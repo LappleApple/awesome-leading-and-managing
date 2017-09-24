@@ -14,7 +14,7 @@
  
 - [How to Have an Honest One-on-One with an Employee](https://m.signalvnoise.com/how-to-have-an-honest-one-on-one-with-an-employee-24bbddeb0f47) — by KnowYourCompany CEO Claire Lew. Takeaway: Make empathy your mission. Every 1:1 should have a single mission, “to understand how the other person is feeling.” Ask questions to uncover tension and energy.
  
-- [Managing Engineers: How to perfect the “Stay Interview”](https://medium.com/@bradvogel/how-to-perfect-the-stay-interview-8fa1ebbda907) — by Brad Vogel. Takeaway: includes six questions for asking current employees why they continue working for your company.
+- [Managing Engineers: How to Perfect the “Stay Interview”](https://medium.com/@bradvogel/how-to-perfect-the-stay-interview-8fa1ebbda907) — by Brad Vogel. Takeaway: includes six questions for asking current employees why they continue working for your company.
  
 - [Questions for Our First 1:1](http://larahogan.me/blog/first-one-on-one-questions/) — by Lara Hogan, Kickstarter. Takeaways: Ask reports what make them grumpy; how they like to get feedback and recognition; what their goals are, and more.
  
