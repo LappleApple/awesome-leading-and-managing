@@ -4,8 +4,6 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Aligning Projects with Business Goals](https://blog.dnsimple.com/2017/02/aligning-business-goals-with-projects/) - by Anthony Eden. Provides a simple project management spreadsheet of six questions: 1) What is the problem we are trying to solve?; 2) What does success look like, and how does it fit in the big picture?; 3) What are the MUST DO and the MUST NOT DO items?; 4) What is the deadline?; 5) Who should I talk to for help and get feedback?; 6) Have we done this before? Something we already have to get started?
 
-- [Applying OKRs](https://dannorth.net/2017/05/01/applying-okrs) - by Dan North. Takeaway: Insights from Dan about working with companies applying Objectives and Key Results; do's and dont's. 
-
 - [The Art of Project Management](https://docs.google.com/document/d/1Cr2DRP06GcBNQoOc3K5huQ61Mk_yyX5ZFsS8IlF1M6Y/edit) - notes by Joe Golberg about Scott Berkun's book.
 
 - [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything ](https://docs.google.com/document/d/1EC4eF-uVeD-Arwoxl5SUKSQNmLK1CRF775zpRqVP4q0/edit#heading=h.efeded667ce6) - by Joe Goldberg. Notes about the book by Guy Kawasaki.
@@ -52,3 +50,6 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Why Software Sucks](http://scottberkun.com/essays/46-why-software-sucks/) - by Scott Berkun. Good ways to think about why it happens and what you can do to make it happen less.
 
+## OKRs
+
+- [Applying OKRs](https://dannorth.net/2017/05/01/applying-okrs) - by Dan North. Takeaway: Insights from Dan about working with companies applying Objectives and Key Results; do's and dont's. 
