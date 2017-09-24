@@ -1,5 +1,5 @@
-## 1-on-1s
- 
+## 1-on-1s    
+
 - [1:1 Basics for the Introvert Engineering Manager](https://speakerdeck.com/orenellenbogen/1-1-basics-for-the-introvert-engineering-manager) (deck) - by Oren Ellenbogen, author of *Leading Snowflakes*. Takeaway: a detailed slidedeck with ideas on how to make 1:1's great, and why (to build trust and provide value as a manager).
 
 - [1:1 Meetings With Your Team](http://www.ryancarson.com/) — by Ryan Carson. Takeaway: Get to know more about your team members individually to establish trust and find out where their interests lie.
@@ -8,20 +8,34 @@
  
 - [Ask What, Why, and How to gain Purpose and Perspective](https://hackernoon.com/purpose-and-perspective-through-what-why-and-how-e158bf63e764) — by Brent Baisley. Takeaway: Three questions to help with alignment/purpose are: 1) What are you working on? (description of the work to be done); 2) Why are you working on it? (purpose behind the work); 3) How is it going to have an impact?
  
+- [Conducting Effective and Regular One-on-Ones](https://moz.com/blog/conducting-effective-and-regular-oneonones) - by Leah Candelaria-Tyler. Takeaway: "In conducting one-on-ones, the goal is to move beyond your role as a manager, and be an available ear for your teammate. In a room, with the door closed and pen in hand, you are all ears and eyes while sitting across from your teammate, ready to discuss and resolve performance concerns, and just generally talk about work. Not only are you setting goals in these meetings, you are also tracking their progress in achieving these goals; making you their biggest fan!"    
+
 - [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447) - by Douglas Stone, Bruce Patton and Sheila Heen. Takeaway: Learn how to convert a difficult conversation to a learning conversation, thereby having more effective, fruitful discussions.
  
 - [Having Bad One to One Meetings? Here’s How to Turn Them Around](https://getlighthouse.com/blog/one-to-one-meeting) — by Lighthouse. Takeaway: genuinely care about your reports, and aim to understand them. Let them talk 90% of the time, take notes, ask good questions, and talk about their career growth.
  
 - [How to Have an Honest One-on-One with an Employee](https://m.signalvnoise.com/how-to-have-an-honest-one-on-one-with-an-employee-24bbddeb0f47) — by KnowYourCompany CEO Claire Lew. Takeaway: Make empathy your mission. Every 1:1 should have a single mission, “to understand how the other person is feeling.” Ask questions to uncover tension and energy.
  
+- [How to Make Your One-on-Ones with Employees More Productive](https://hbr.org/2016/08/how-to-make-your-one-on-ones-with-employees-more-productive) - by Rebecca Knight. Takeaway: Block regular time in your schedules, prepare discussion points, be fully present, start positive, problem-solve, add questions about career plans and express gratitude.
+
 - [Managing Engineers: How to Perfect the “Stay Interview”](https://medium.com/@bradvogel/how-to-perfect-the-stay-interview-8fa1ebbda907) — by Brad Vogel. Takeaway: includes six questions for asking current employees why they continue working for your company.
  
-- [Questions for Our First 1:1](http://larahogan.me/blog/first-one-on-one-questions/) — by Lara Hogan, Kickstarter. Takeaways: Ask reports what make them grumpy; how they like to get feedback and recognition; what their goals are, and more.
- 
- - [Specific Questions Yield Specific Answers](https://m.signalvnoise.com/specific-questions-yield-specific-answers-df790a63a90c) - by Claire Lew. Takeaway: "If you’ve ever caught yourself thinking to yourself, “My employees never tell me anything,” now you know that the solution might lie in questions you’re asking, themselves. And the remedy is simpler than you might’ve thought: Specific questions yield specific answers. General questions yield general answers."
+- [Master the One-on-One Meeting](http://hbswk.hbs.edu/item/master-the-one-on-one-meeting) - by Julia B. Austin. Takeaway: tips on setting an agenda, creating expectations, handling remotes, and more.
+
+- [The 9 Questions That Uncover the Most Surprising Insights from Employees](https://m.signalvnoise.com/the-9-questions-that-uncover-the-most-surprising-insights-from-employees-b7bc0d20ede8) — by KnowYourCompany CEO Claire Lew. Takeaway: Based on data from 15,000 employees in 15+ countries, the top nine questions.
+
+- [One on One](http://www.bhorowitz.com/one_on_one) - by Ben Horowitz. Takeaway: "Perhaps the CEO’s most important operational responsibility is designing and implementing the communication architecture for her company. The architecture might include the organizational design, meetings, processes, email, yammer and even one-on-one meetings with managers and employees. Absent a well-designed communication architecture, information and ideas will stagnate and your company will degenerate into a bad place to work. While it is quite possible to design a great communication architecture without one-on-one meetings, in most cases one-on-ones provide an excellent mechanism for information and ideas to flow up the organization and should be part of your design."
+
+- [A 101 on 1:1s](https://labs.spotify.com/2015/12/16/a-101-on-11s/) - by Simon Nadav Cohen. Takeaway: To make 1:1's more fulfilling, create goals like "build trusting relationships between team leads and engineers," "[create] a safe place to discuss sensitive and private issues or provide personal feedback, and "discuss and work on career development plans 	So engineers can set goals for themselves and have a partner who helps them achieve these goals." Sticking to these goals will make the meetings more productive.
+
+- [Questions for Our First 1:1](http://larahogan.me/blog/first-one-on-one-questions/) — by Lara Hogan, Kickstarter. Takeaway: Ask reports what make them grumpy; how they like to get feedback and recognition; what their goals are, and more.
+
+- [7 Essential Tips for Effective 1 on 1 Meetings with Your Manager](https://getlighthouse.com/blog/effective-1-on-1-meetings) from Lighthouse. Takeaway: Don't cancel 1:1's but reschedule them; don't let managers cancel your 1:1's; avoid status updates but provide updates outside of the meeting; bring discussion items; make an agenda; talk about your career goals; encourage your manager to take notes and write things down; make items actionable; hint at steps for next time; ask your manager if you can help them.
+
+- [Specific Questions Yield Specific Answers](https://m.signalvnoise.com/specific-questions-yield-specific-answers-df790a63a90c) - by Claire Lew. Takeaway: "If you’ve ever caught yourself thinking to yourself, “My employees never tell me anything,” now you know that the solution might lie in questions you’re asking, themselves. And the remedy is simpler than you might’ve thought: Specific questions yield specific answers. General questions yield general answers."
  
 - [Three Powerful Conversations Managers Must Have to Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/) — by First Round Capital. Takeaway: get to know your employees by asking them about their life histories; articulate a clear vision for them by asking them about their dreams; and create a four-step career action plan.
  
 - [The Update, the Vent, and the Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) — by Rands. Like he has on many other leadership topics, Rands has written the seminal article on 1:1s. Takeaway: The employee’s answer isn’t the point—“it’s merely a delivery vehicle for the mood and the mood sets your agenda.” 1:1s are for strategy, not tactics.
- 
-- [The 9 Questions That Uncover the Most Surprising Insights from Employees](https://m.signalvnoise.com/the-9-questions-that-uncover-the-most-surprising-insights-from-employees-b7bc0d20ede8) — by KnowYourCompany CEO Claire Lew. Takeaway: Based on data from 15,000 employees in 15+ countries, the top nine questions.
+
+[Why 1-1 Meetings Are Crucial to Your Team’s Success](https://blog.asana.com/2015/05/workstyle-what-is-a-1-1/) - by Trish Tormey. Takeaway: "The 1-1 is the best way for managers and those who report to them to connect on pressing issues, develop a strong relationship, and ensure that employees feel like they’re working toward their goals – at work, and otherwise. Without a proper framework, agenda, and mindset, however, the 1-1 meeting can become just another meeting in your day."   
