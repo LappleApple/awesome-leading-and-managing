@@ -55,6 +55,8 @@ a) Do I understand the complete context, b) am I the right person to handle it, 
 
 ### Influence Others
 
+- [Building a Delivery Team](https://engineering.edx.org/building-a-delivery-team-8201d06f1021) - by Bill DeRusha. Takeaway: How to leverage communication and tools like team charters and retrospectives to form a new team effectively and guide it to deliver on time, even on a tight schedule.
+
 - [11 Top Tips for a Successful Technical Presentation](https://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx) - by Scott Hanselman. Takeaway: detail-oriented tips ranging from font type/size to being mindful of your distracting personal habits.
 
 - [42 Things Non-Front-Liners Misunderstand](https://hackernoon.com/40-things-non-front-liners-misunderstand-fcb2f55088f9) - by John Cutler. Takeaway: "It is unfair to expect people who haven’t worked on the front lines in software development to just get it. Just as, I’m guessing, it is hard for developers and UXers to grok sales and marketing, being a CEO, and working in HR. Assuming malice is a big mistake. We all want great outcomes for our respective businesses, but have a hard time bridging the divide."
