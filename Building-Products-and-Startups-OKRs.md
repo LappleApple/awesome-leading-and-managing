@@ -54,6 +54,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 ## OKRs
 
+- [All About OKRs: How To Set Them, Achieve Them, And Track Them In Trello](https://blog.trello.com/okrs-set-achieve-track-trello) - by Kevan Lee. Takeaway: A concise and clear description of what OKRs are and how to create them (i.e., for both productivity as well as agile/cultural reasons).
+
 - [Applying OKRs](https://dannorth.net/2017/05/01/applying-okrs) - by Dan North. Takeaway: Insights from Dan about working with companies applying Objectives and Key Results; do's and dont's. 
 
 - [Beyond OKRs: The Formula for High Performing Teams](http://eleganthack.com/beyond-okrs-the-formula-for-high-performing-teams/) (video) - by Christina Wodtke. Takeaway: the creator of Radical Focus talks about different kinds of teams, team-building, experiential learning, and more.
