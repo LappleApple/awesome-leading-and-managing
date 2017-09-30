@@ -96,6 +96,8 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 
 - [Interviewing](https://www.xaprb.com/blog/interviewing/) - by Baron Schwartz. Takeaway: Understand what you're hiring for, ask questions about past performance only, and gauge potential by "asking questions about what challenged them and how they responded to it."
  
+- [Interviewing Engineers at Sensu](https://blog.sensuapp.org/interviewing-engineers-at-sensu-e4fc35cd601f) - by Greg Poirier. Takeaway: A process that includes an architectural challenge and a coding challenge that can be done in pairs. Sensu grades candidates on a four-level mastery-centric scale. "If you’re not pairing with someone, we expect that you’re able to effectively transfer your expert knowledge of your solution to the rest of the team. So we expect a take-home assessment to be very well documented."
+
 - [Medium’s Engineering Interview Process](https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4) - by Jamie Talbot. Takeaway: An excellent breakdown on grading candidate responses and assessment criteria, available as Creative Commons documents.
  
 - [Moneyball Hiring: the Interview](https://moz.com/devblog/moneyball-hiring-the-interview/) - by Kelsey Foley. Takeaway: Look for a growth mindset and a diverse set of skills. Use a collaborative mini-hackathon instead of interviews.
