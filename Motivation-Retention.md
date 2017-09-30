@@ -49,6 +49,8 @@
 
 - [How We Pay People at Basecamp](https://m.signalvnoise.com/how-we-pay-people-at-basecamp-f1d04f4f194b) - by DHH. Takeaway: "There are no negotiated salaries or raises at Basecamp. Everyone in the same role at the same level is paid the same. Equal work, equal pay." Basecamp offers employees salaries in the top 5% of the market (Chicago) and meaningful benefits, and has instituted a new profit growth sharing scheme.
 
+- [Tech Leavers](http://www.kaporcenter.org/tech-leavers/) - by Kapor Center. Takeaway: A survey of 2,000 U.S. adults who left a job during the previous three years. "Workplace culture drives turnover, significantly affecting the retention of underrepresented groups, and costing the industry more than $16 billion each year."
+
 - [10 Surprising Employee Retention Statistics You Need to Know](http://blog.bonus.ly/10-surprising-employee-retention-statistics-you-need-to-know) - by George Dickson, Bonusly. Takeaway: surprising stats and context about retention, from "35% of employees said they'd look for a new job if they do not receive a pay raise in the next year" to "93% of millennials say they left their employer the last time they changed roles."
 
 - [To Keep Employees Loyal, Try Asking What They Want](http://fortune.com/2011/01/27/to-keep-employees-loyal-try-asking-what-they-want/?__s=ns1epkqjs8qj1ggjuafv) - by Anne Fisher. Takeaway: When the article was published in 2011, Aflac CEO Dan Amos worked with a team that was 70% women. His company's approach to reducing turnover, he just asked employees what they wanted. It produced results.
