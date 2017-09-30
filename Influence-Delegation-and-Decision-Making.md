@@ -37,6 +37,8 @@ a) Do I understand the complete context, b) am I the right person to handle it, 
 
 - [Managing for Progress and the Loss-Aversion Principle](http://tomtunguz.com/progress-principle) - by Tom Tunguz. Takeaway: "The best managers craft roles and assign projects that position their teammates to see and feel the result of their work directly."
 
+- [Renovating Teams](https://hackernoon.com/renovating-teams-3fd708cdac74) - by Ranganathan Balashanmugam. Takeaway: provides a framework for diagnosing and supporting dysfunctional teams through retrospectives, observation, and careful diagnosis.
+
 - [“Screaming Monkey” analogy](https://hbr.org/1999/11/management-time-whos-got-the-monkey) - by William Oncken, Jr. and Donald L. Wass. Takeaway: Think of each work item as a screaming monkey, and ask these questions to identify the important ones: Should we even fed the monkey?; Who should feed the monkey?
 
 - [Situational Leadership Theory](https://en.wikipedia.org/wiki/Situational_leadership_theory) - Wikipedia entry. Takeaways: Proficiency depends on knowledge, ability, and aptitude; commitment describes motivation, interest, enthusiasm, and confidence; different levels of proficiency/commitment need different amounts of direction/support.
