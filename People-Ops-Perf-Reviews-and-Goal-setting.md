@@ -42,6 +42,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Lightweight, Continuous Goal-Setting](https://docs.google.com/document/d/1XRfTZ_tmL-N-Mudu0uniIWmCOycUviXmefbSZ6ZDv1w/edit) - notes by Joe Goldberg. Takeaway: Set, evaluate and adjust goals on a regular basis. This doc contains goal-setting objectives, steps, tips, and a quarterly email template.
 
+- [Three Paths in the Tech Industry: Founder, Executive, or Employee](http://blog.ycombinator.com/three-paths-in-the-tech-industry-founder-executive-or-employee/) - by Michael Seibel. Takeaway: pros, cons, and strategies for pursuing all three paths.
+
 - [Uncovering the Secret Powers of MailChimp Employees Through Apprenticeships](https://blog.mailchimp.com/uncovering-the-secret-powers-of-mailchimp-employees-through-apprenticeships/) - by MailChimp. Takeaway: MailChimp created a 90-day apprenticeship program for employees to explore their interests and curiosity about other roles. The program has strengthened diversity efforts and also helped employees launch new careers. 
 
 ### Performance Reviews
