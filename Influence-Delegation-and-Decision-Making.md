@@ -8,7 +8,7 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
 
 ### Decision-Making
 
-[“Do We All Agree” Is a Terrible Question](https://medium.com/@hunterwalk/do-we-all-agree-is-a-terrible-question-14499769591b) - by Hunter Walk. Takeaway: We often confuse 'collaboration' with 'consensus.' The former is about engaging a group of people to work together and discuss ideas. It aims to make the whole greater than the sum of its parts. The best leaders are certainly collaborative."
+- [“Do We All Agree” Is a Terrible Question](https://medium.com/@hunterwalk/do-we-all-agree-is-a-terrible-question-14499769591b) - by Hunter Walk. Takeaway: We often confuse 'collaboration' with 'consensus.' The former is about engaging a group of people to work together and discuss ideas. It aims to make the whole greater than the sum of its parts. The best leaders are certainly collaborative."
 
 - [The 90% Agreement Rule](https://hackernoon.com/the-90-agreement-rule-36757dcc8eaa) - by Lawrence Ripsher. Takeaway: Ripsher asserts that "we spend 90% of our time, talking about the 10% of things we disagree on." This takes up time and energy. Instead, "[c]reate clarity (and build on) wherever there is ‘about 90% agreement’ first— then come back around and address the disagreements after."
 
@@ -64,6 +64,9 @@ a) Do I understand the complete context, b) am I the right person to handle it, 
 - [Communication Training Tomorrow! (no, not really)](https://medium.com/@JBunky/communication-training-tomorrow-no-not-really-8b216d8cb9a3) - by Jen Bunk. Takeaway: Commmunication trainings, and communication skills, aren't enough to fix cultural issues. You need to go deeper and explore where your systems are failing.
 
 - [11 Top Tips for a Successful Technical Presentation](https://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx) - by Scott Hanselman. Takeaway: detail-oriented tips ranging from font type/size to being mindful of your distracting personal habits.
+
+- [Etsy's Charter of Mindful Communication](http://larahogan.me/blog/charter-mindful-communication/) - by Lara Hogan and Etsy's Culture & Engagement team. Takeaway: When engaging with someone, keep it REAL—"Reflect on the dynamics in the room;
+Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [42 Things Non-Front-Liners Misunderstand](https://hackernoon.com/40-things-non-front-liners-misunderstand-fcb2f55088f9) - by John Cutler. Takeaway: "It is unfair to expect people who haven’t worked on the front lines in software development to just get it. Just as, I’m guessing, it is hard for developers and UXers to grok sales and marketing, being a CEO, and working in HR. Assuming malice is a big mistake. We all want great outcomes for our respective businesses, but have a hard time bridging the divide."
 
