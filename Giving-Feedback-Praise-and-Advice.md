@@ -8,6 +8,8 @@
 
 - [51 Things Your Employees Won't Tell You (Unless You Ask)](https://www.inc.com/john-brandon/51-things-your-employees-won-t-tell-you-unless-you-ask.html) - by John Brandon. Takeaway: A list of 51 reasons why your reports/employees aren't telling you what they really feel. At the top: "You don't listen."
 
+- [4 Tips for Leaders Helping Others Evolve Their Careers](https://opensource.com/open-organization/17/9/own-your-open-career) - by Takeaway: Set the context, invest in skill building, pull up a seat at the table (advocate for others) and open some doors.
+
 - [Giving Effective Feedback](https://hbr.org/product/giving-effective-feedback-hbr-20-minute-manager-series/13999E-KND-ENG) - by Harvard Business Review. Takeaway: "[T]he basics of delivering feedback that gets results, including: Choosing the right time to talk; Engaging in productive dialogue; Helping both star and struggling performers; Developing a plan for effective follow-up."
 
 - [How and Why You Need to Recognize Your Executives](http://blog.bonus.ly/how-and-why-you-need-to-recognize-your-executives?utm_content=56841793&utm_medium=social&utm_source=twitter) - by Jessica Collins. Takeaway: Leaders are people too, and giving them feedback keeps them in touch with the organization, and motivates them to continue doing the "right" things.
