@@ -99,7 +99,7 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [An Inside Look at a Flat Organization That Serves Millions](http://firstround.com/review/An-Inside-Look-at-a-Flat-Organization-That-Serves-Millions/) - by First Round Capital. Takeaway: When you boil it down, management is really about two things—trust and clarity. "Keeping a company flat is all about finding creative ways to achieve trust and clarity without the bureaucracy."
 
-- [Introverts Think They Won’t like Being Leaders but They Are Capable](https://theconversation.com/introverts-think-they-wont-like-being-leaders-but-they-are-capable-84371) - by Peter O'Connor and Andrew Spark. Takeaway: Introverted characteristics are prevalent in servant leaders. The challenge is to help introverts to be more confident about their leadership potential.
+- [Introverts Think They Won’t Like Being Leaders but They Are Capable](https://theconversation.com/introverts-think-they-wont-like-being-leaders-but-they-are-capable-84371) - by Peter O'Connor and Andrew Spark. Takeaway: Introverted characteristics are prevalent in servant leaders. The challenge is to help introverts to be more confident about their leadership potential.
 
 - [The First 90 Days: Critical Success Strategies for New Leaders at All Levels](https://www.amazon.com/First-90-Days-Critical-Strategies/dp/1591391105) (book) - by Michael Watkins. Covers the essentials of transitioning into a leadership role, from making allies to avoiding common mistakes.  
 
