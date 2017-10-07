@@ -26,6 +26,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Daniel Bryant](https://twitter.com/danielbryantuk) — biz/dev/qa/ops, teacher, student, traveller, runner, CTO @SpectoLabs, @InfoQ editor, @DevoxxUK, @oscon, @ContainerSched, @jaxlondon.
 - [Dave Lester](https://twitter.com/davelester) — Open source at Apple. Interested in where tech and communities intersect.
 - [Duane O'Brien](https://twitter.com/DuaneOBrien) — Open Source Programs Evangelist at PayPal, speaker, advocate of diversity/inclusion.
+- [Edmond Lau](https://twitter.com/edmondlau) - Engineer & leadership coach. Early engineer @Quip, @Quora, @Ooyala & also ex-@Google. Author of The Effective Engineer: https://www.effectiveengineer.com/book.
 - [Elisabeth Hendrickson](https://twitter.com/testobsessed) — VP R&D, Data at @pivotal. Into radical collaboration and fast feedback.
 - [Erica Joy Baker](https://twitter.com/EricaJoy) — Senior Engineer at Slack Technologies and advocate for diversity and inclusion in tech, and expanding access to tech education.
 - [Francesc Campoy](https://twitter.com/francesc) — Señor Developer Advocate for @GoogleCloud, Gopher, Catalan, Gaygler - perennial learner of things. One half of @GCPPodcast.
