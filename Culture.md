@@ -38,6 +38,8 @@
 
 - [How 10,000 People Helped Us Rediscover Our Purpose](https://opensource.com/open-organization/17/9/rediscovering-your-why) - by DeLisa Alexander. Takeaway: How Red Hat is working on "sustaining, evolving, and scaling the unique set of values and behaviors that differentiate its culture."
 
+- [How to Build an Engineering Culture that Focuses on Impact]() - by Edmond Lau. Takeaway: Shape your culture through conversations and stories, and motivate with autonomy, mastery, and purpose.
+
 - [How to Get Engineering Teams to Eat Their Vegetables](https://medium.com/@duretti/how-to-get-engineering-teams-to-eat-their-vegetables-83e0f83af71a) - by Duretti Hirpa. Takeaway: Good teams are supportive, have a sense of togetherness and don't blame their team members for their mistakes but instead learn from them.
 
 - [Innovation vs. Execution](http://svpg.com/innovation-vs-execution/) - by Marty Cagan. Takeaway: Not many companies are good at both innovation and execution. Assess your company in terms of both, and decide which one comes first.
