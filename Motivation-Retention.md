@@ -45,6 +45,8 @@
 
 - [8 Key Tactics for Developing Employees](https://www.forbes.com/sites/steveolenski/2015/07/20/8-key-tactics-for-developing-employees/#5214a25f6373) - by Steve Olenski. Takeaway: to motivate and retain your team, create individual development plans, provide performance metrics, provide opportunities outside of a job function, give constructive feedback, remove barriers, link to a professional network, outlay resources, and set the example.
 
+- [4 Core Steps towards Decreasing Employee Turnover](https://www.trysapling.com/resources/4-steps-towards-decreasing-employee-turnover/) - by Sapling. Correct what’s not right; foster a culture of open communication; develop your employees, and recognize and reward effort and success.
+
 - [The 4 ‘Perks’ Good Developers Really Want](https://venturebeat.com/2017/08/27/the-4-perks-good-developers-really-want/) - by Mike Melnicki. Takeaway: The best developers "want to have an impact in all aspects of the company: product direction, marketing, human resources, design and even finance." The other three: Allow your devs to build a personal brand; create opportunities for them to demonstrate creativity; and consider the unique needs of your team members, and support them with flexibility.
 
 - [How We Pay People at Basecamp](https://m.signalvnoise.com/how-we-pay-people-at-basecamp-f1d04f4f194b) - by DHH. Takeaway: "There are no negotiated salaries or raises at Basecamp. Everyone in the same role at the same level is paid the same. Equal work, equal pay." Basecamp offers employees salaries in the top 5% of the market (Chicago) and meaningful benefits, and has instituted a new profit growth sharing scheme.
