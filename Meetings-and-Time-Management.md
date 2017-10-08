@@ -46,8 +46,8 @@
 
 - [Focus – keynote at AgileByExample, Warsaw](https://www.youtube.com/watch?v=n7wH2XdOWpM) and [summary](http://blog.crisp.se/2016/10/20/henrikkniberg/focus-keynote) - by
   Henrik Kniberg. Takeaway: Focus on extracting more value from your available
-  time. “Busy-ness” is an artificial concept. Build in slack to your schedule to
-  achive better focus.
+  time. “Busy-ness” is an artificial concept. Build slack into your schedule to
+  achieve better focus.
 
 - [The Habit of No](https://ethansaustin.com/2015/01/01/the-habit-of-no/) - by
   Ethan Austin. The habit of saying no is important for teamwork and keeping a
