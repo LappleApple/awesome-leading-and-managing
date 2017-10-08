@@ -107,6 +107,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [The First 90 Days: Critical Success Strategies for New Leaders at All Levels](https://www.amazon.com/First-90-Days-Critical-Strategies/dp/1591391105) (book) - by Michael Watkins. Covers the essentials of transitioning into a leadership role, from making allies to avoiding common mistakes.  
 
+- [Key Traits for Best Team Leaders](https://www.wsj.com/articles/key-traits-for-best-team-leaders-1505818803) - by Francesca Fontana. Takeaway: "[R]esearch revealed four common traits of leaders who get the best collaborative efforts from their teams. The majority of respondents at high-performing companies said successful collaboration comes down to a few key behaviors: modeling collaborative action, building strong networks among employees, encouraging collaboration across departments and structuring work effectively."
+
 - [Mastering the Rockefeller Habits: What You Must Do to Increase the Value of Your Growing Firm](https://www.amazon.com/Mastering-Rockefeller-Habits-Increase-Growing/dp/0978774957) (book) - by Verne Harnish. Takeaway: practical strategies for growing a business, including the importance of identifying the “x” factor—discovering, defining, and acting upon to create value.
 
 - [The New Leader's 100-Day Action Plan: How to Take Charge, Build Your Team, and Get Immediate Results](https://www.amazon.com/New-Leaders-100-Day-Action-Plan/dp/1118097548) (book) - by George Bradt. This book provides an onboarding plan for new managers and executives to adjust to their new roles. Chapters cover internal politics/understanding them; motivating teams using the BRAVE (Behaviors, Relationships, Attitudes, Values, and Environment) approach; handling crises, and more.
