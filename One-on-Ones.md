@@ -1,8 +1,4 @@
 ## 1-on-1s    
-
-- [1:1 Basics for the Introvert Engineering Manager](https://speakerdeck.com/orenellenbogen/1-1-basics-for-the-introvert-engineering-manager) (deck) - by Oren Ellenbogen, author of *Leading Snowflakes*. Takeaway: a detailed slidedeck with ideas on how to make 1:1's great, and why (to build trust and provide value as a manager).
-
-- [1:1 Meetings With Your Team](http://www.ryancarson.com/) — by Ryan Carson. Takeaway: Get to know more about your team members individually to establish trust and find out where their interests lie.
  
 - [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) — by Mark Rabkin at Facebook. Takeaway: If your 1:1 isn’t not a bit awkward, you’re not talking about the real stuff. Article includes helpful prompting questions.
  
@@ -25,6 +21,10 @@
 - [The 9 Questions That Uncover the Most Surprising Insights from Employees](https://m.signalvnoise.com/the-9-questions-that-uncover-the-most-surprising-insights-from-employees-b7bc0d20ede8) — by KnowYourCompany CEO Claire Lew. Takeaway: Based on data from 15,000 employees in 15+ countries, the top nine questions.
 
 - [One on One](http://www.bhorowitz.com/one_on_one) - by Ben Horowitz. Takeaway: "Perhaps the CEO’s most important operational responsibility is designing and implementing the communication architecture for her company. The architecture might include the organizational design, meetings, processes, email, yammer and even one-on-one meetings with managers and employees. Absent a well-designed communication architecture, information and ideas will stagnate and your company will degenerate into a bad place to work. While it is quite possible to design a great communication architecture without one-on-one meetings, in most cases one-on-ones provide an excellent mechanism for information and ideas to flow up the organization and should be part of your design."
+
+- [1:1 Basics for the Introvert Engineering Manager](https://speakerdeck.com/orenellenbogen/1-1-basics-for-the-introvert-engineering-manager) (deck) - by Oren Ellenbogen, author of *Leading Snowflakes*. Takeaway: a detailed slidedeck with ideas on how to make 1:1's great, and why (to build trust and provide value as a manager).
+
+- [1:1 Meetings With Your Team](http://www.ryancarson.com/) — by Ryan Carson. Takeaway: Get to know more about your team members individually to establish trust and find out where their interests lie.
 
 - [A 101 on 1:1s](https://labs.spotify.com/2015/12/16/a-101-on-11s/) - by Simon Nadav Cohen. Takeaway: To make 1:1's more fulfilling, create goals like "build trusting relationships between team leads and engineers," "[create] a safe place to discuss sensitive and private issues or provide personal feedback, and "discuss and work on career development plans 	So engineers can set goals for themselves and have a partner who helps them achieve these goals." Sticking to these goals will make the meetings more productive.
 
