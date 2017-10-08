@@ -44,7 +44,7 @@
 
 - [EMAIL TEMPLATE: Help a Programmer Stay Focused, Please](https://medium.com/@orenellenbogen/email-template-help-a-programmer-stay-focused-please-b9fcde4bfb8) - by Oren Ellenbogen. Takeaway: "It’s your responsibility to handle incoming requests from humans, to say 'no' or at least 'later' when appropriate. Humans learn, they just need feedback." Includes a template to send people when distractions/disruptions become unmanageable/affect productivity.
 
-- [Focus – keynote at AgileByExample, Warsaw](http://blog.crisp.se/2016/10/20/henrikkniberg/focus-keynote) - by
+- [Focus – keynote at AgileByExample, Warsaw](https://www.youtube.com/watch?v=n7wH2XdOWpM) and [summary](http://blog.crisp.se/2016/10/20/henrikkniberg/focus-keynote) - by
   Henrik Kniberg. Takeaway: Focus on extracting more value from your available
   time. “Busy-ness” is an artificial concept. Build in slack to your schedule to
   achive better focus.
