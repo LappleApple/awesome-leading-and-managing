@@ -1,5 +1,7 @@
 ## Diversity and Gender
 
+- [Ally Resources](https://github.com/larahogan/ally-resources) - by Lara Hogan. Takeaway: a collection of resources on topics ranging from sponsorship (vs. mentoring) of underrepresented groups, to the impact of diversity work.
+
 - [Argument Cultures and Unregulated Aggression](https://www.kateheddleston.com/blog/argument-cultures-and-unregulated-aggression) - by Kate Heddleston. Takeaway: Using arguments as a tool for decision-making hurts creativity and diversity. Unregulated arguments create hostile work environments by promoting a win-at-all-costs attitude.
 
 - [Atlassian Boosted Its Female Technical Hires By 80% — Here’s How](http://firstround.com/review/atlassian-boosted-its-female-technical-hires-by-80-percent-heres-how/) - by First Round Review. Takeaway: Start on inclusion and diversity as early as possible. Get your management board to commit to inclusion and diversity. Evaluate what is causing exclusion and plan how to address the causes. Have clear guidelines for promotions and job roles.
