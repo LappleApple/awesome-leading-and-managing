@@ -64,4 +64,6 @@
 
 - [Why Men Don’t Believe the Data on Gender Bias in Science](https://www.wired.com/story/why-men-dont-believe-the-data-on-gender-bias-in-science) - by Alison Coil. Takeaway: "[A] recent paper showed that in fact, male STEM faculty assessed the quality of real research that demonstrated bias against women in STEM as being low; instead the male faculty favored fake research, designed for the purposes of the study in question, which purported to demonstrate that no such bias exists."
 
+- [Why the World Needs More Female Leaders](https://www.duuoo.io/blog/why-the-world-needs-more-female-leaders) - by Alicia Gant. Takeaway: "The underrepresentation of women in the boardroom to politics is a problem that needs to be tackled head on. Having more female leaders is important because female leaders change the perceived conception about who can lead and what qualities are necessary to have in a leadership position."
+
 - [Women in Tech: We Need You](https://dev.to/binarycodess/women-in-tech-we-need-you) - by Kristina. A request to women to speak publicly, mentor, and become a role model. "We need to hear your experiences, your lessons, your failures and your successes. We need to hear them because you can never be sure who you’ll influence and whose life you’ll change."
