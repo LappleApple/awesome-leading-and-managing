@@ -80,6 +80,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Rands](https://twitter.com/rands) - VP Engineering at Slack, creator of randsinrepose.com.
 - [Randy Shoup](https://twitter.com/randyshoup) — VP Engineering at Stitch Fix (former eBay, Google).
 - [Raphael Crawford-Marks](https://twitter.com/raphaelcm) — CEO @Bonusly. Alumnus of @Looksharp, @SquareTrade, @PeaceCorps, @HampshireColg.
+- [Richard Kasperowski](https://twitter.com/rkasper) - Great Teams and Results | Agile | Open Space Technology | Core Protocols | CoderDojo. kasperowski.com.
 - [Ryan Burgess](https://twitter.com/burgessdryan) — Software Engineering Manager at @Netflix. Lover of #JavaScript! The Canadian voice on the @FrontEndHH podcast.
 - [Sandi Metz](https://twitter.com/sandimetz) — Cyclist, Rubyist, reluctant author (http://poodr.com), obsessive programmer, recalcitrant blogger.
 - [Sandro Mancuso](https://twitter.com/sandromancuso) — Software craftsman @codurance, author of [The Software Craftsman](http://goo.gl/b9EymU), speaker, founder of the London Software Craftsmanship Community.
