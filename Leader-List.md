@@ -73,7 +73,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Nithya Ruff](https://twitter.com/nithyaruff) — Open source at Comcast; @linuxfoundation & @codechix BOD.
 - [Olaf Lewitz](https://twitter.com/OlafLewitz) — The Trust Artist. CEC & @trusttemenos host.
 - [Oren Ellenbogen](https://twitter.com/orenellenbogen) — VP Engineering at Forter, curator of awesomeness at http://softwareleadweekly.com, author of http://leadingsnowflakes.com.
-- [Patrick Kua](https://twitter.com/patkua) — Principal Technical Consultant at ThoughtWorks. Author, frequent speaker and tech lead.
+- [Patrick Kua](https://twitter.com/patkua) — CTO of @N26, Author of http://thekua.io/evolarch, http://thekua.io/twtl, http://thekua.io/retrobook. Ex-ThoughtWorks.
 - [Phil Calçado](https://twitter.com/pcalcado) — Does things for @DigitalOcean. In the past, did things for @SoundCloud and @ThoughtWorks.
 - [Philip Guo](https://twitter.com/pgbovine) — Assistant Professor of Cognitive Science - UC San Diego - human-computer interaction, online learning, computing education 
 - [Rachel Davies](https://twitter.com/rachelcdavies) — Lead Engineer at Makers Academy. Past practitioner of eXtreme Programming (XP) at Unruly. Co-author of "Agile Coaching" book.
