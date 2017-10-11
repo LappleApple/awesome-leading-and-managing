@@ -6,6 +6,8 @@
 
 - [Building and Scaling a Distributed and Inclusive Team](https://www.youtube.com/watch?list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&v=XAU5q-biY28) (video) - by Matthias Meyer. The founder/CEO of Travis CI talks about how the company has been trying to create a multicultural distributed team, with lots of quotes from team members. Travis pushed for a remote culture to increase diversity.
 
+- [Building the Civilized Workplace](https://www.mckinsey.com/business-functions/organization/our-insights/building-the-civilized-workplace) - by Robert Sutton. Takeaway: "Nasty people don’t just make others feel miserable; they create economic problems for their companies."
+
 - [Building Great Teams: Culture and Core Protocols](http://www.ustream.tv/recorded/102891756) (video) - by Richard Kasperowski. Takeaway: Thoughts on psychological safety and creating authentic trust and connection between people to take the "luck" out of building and working on great teams, and making greatness more intentional.
 
 - [Changing Company Culture Requires a Movement, Not a Mandate](https://hbr.org/2017/06/changing-company-culture-requires-a-movement-not-a-mandate) - by Bryan Walker and Sarah A. Soule. Takeaway: "[C]ulture change can’t be achieved through top-down mandate. It lives in the collective hearts and habits of people and their shared perception of 'how things are done around here.' Someone with authority can demand compliance, but they can’t dictate optimism, trust, conviction, or creativity." This also applies to the best-intentioned culture changes, including agile transformations. You might have the best intentions in the world, but if your team doesn't see the value or direction of the change, don't expect them to adapt.
