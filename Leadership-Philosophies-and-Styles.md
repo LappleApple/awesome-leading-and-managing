@@ -16,7 +16,10 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [Etsy Lessons](http://larahogan.me/blog/etsy-lessons/) - by Lara Hogan. Takeaway: a collection of wisdom Hogan (now at Kickstarter) collected over her years at Etsy, about topics ranging from rethinking diversity hiring to how to deal with feeling shaky as a leader.
 
-- [Good Leaders Are Good Learners](https://hbr.org/2017/08/good-leaders-are-good-learners?__s=ns1epkqjs8qj1ggjuafv) - by Lauren A. Keating, Peter A. Heslin and Susan J. Ashford. Takeaway: "[R]esearch on leadership development shows that leaders who are in learning mode develop stronger leadership skills than their peers." Being experienced helps, but isn't enough.
+- [From College Dropout to CEO of a Billion-Dollar Company: 3 Leadership Lessons from the Founder of Hootsuite]
+(https://www.cnbc.com/2017/10/05/3-leadership-lessons-from-hootsuite-ceo-ryan-holmes.html) - by Catherine Clifford. Takeaway: Start with the why, communicate often, and allow for facetime.
+
+- [Good Leaders Are Good Learners](https://hbr.org/2017/08/good-leaders-are-good-learners) - by Lauren A. Keating, Peter A. Heslin and Susan J. Ashford. Takeaway: "[R]esearch on leadership development shows that leaders who are in learning mode develop stronger leadership skills than their peers." Being experienced helps, but isn't enough.
 
 - [Google Employees Weighed in on What Makes a Highly Effective Manager. Technical Expertise Came in Dead Last](https://www-inc-com.cdn.ampproject.org/c/s/www.inc.com/amp/154561.html) - by Michael Schneider. Takeaway: Tech expertise is worth little if a manager is not committed to communicating clearly/effectively, developing people and removing obstacles so they can get things done.
 
@@ -115,7 +118,7 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [The New Technology Leader’s Plan](http://katemats.com/leadership/new-technology-leaders-plan/) - by Kate Matsudaira. A series of posts covering these topics: Understanding the Strategy; Conversations with the Team; Understand and Assess Technical Risks (Technical Risk Assessment); Focus on Early Wins.
 
-- [https://opensource.com/open-organization/17/8/what-open-leader-do](https://opensource.com/open-organization/17/8/what-open-leader-do) - by Sam Knuth. Takeaway: Open leaders focus on supporting people to become successful, set vision and context, and seeking feedback about how people feel about their work and environment as well as whether they feel connected to/understand its purpose.
+- [What Open Leaders Do](https://opensource.com/open-organization/17/8/what-open-leader-do) - by Sam Knuth. Takeaway: Open leaders focus on supporting people to become successful, set vision and context, and seeking feedback about how people feel about their work and environment as well as whether they feel connected to/understand its purpose.
 
 - [Team and Strategy](http://avc.com/2016/09/team-and-strategy/) - by venture capitalist Fred Wilson. Takeaway: Leaders should do only three (or six?) things. They are: Recruit/retain; build/evolve long-term strategy; ensure there's money; maintain balance between departments; create a commitments system; talk to clients to keep market insight fresh.
 
