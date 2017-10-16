@@ -28,4 +28,6 @@
 
 ### Integrity
 
+- [Put an End to Your Feedback Loop](https://www.strategy-business.com/blog/Put-an-End-to-Your-Feedback-Loop) - by Jesse Sostrin. Takeaway: "If you’ve ever said the words 'I’ve gotten this feedback before,' chances are you’re playing with fire and undermining your own success by failing to address the issue."
+
 ### Honesty
