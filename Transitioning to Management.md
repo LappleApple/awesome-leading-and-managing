@@ -34,7 +34,7 @@
 
 - [The Five Flavors of Being a CTO](https://www.linkedin.com/pulse/five-flavors-being-cto-matt-tucker) - by Koan CEO Matt Tucker. Takeaway: The five types include "(External) Evangelist," a visionary/spokesperson for the technology; "(External) Super Sales Engineer," a charismatic, customer-focused spokesperson; "(Internal) Super Engineer," a coding virtuoso; "(Internal) People Leader," who manages and recruits like a VP Engineering (this is antipattern); and "(Internal) Innovator/Disruptor," who's "next big thing”-oriented.
 
-- [Four Of My Biggest Mistakes As A New CEO And The Single Reason I Made Them](https://www.forbes.com/sites/carriekerpen/2016/04/05/four-of-my-biggest-mistakes-as-a-new-ceo-and-the-single-reason-i-made-them/#620bd95c157d) - by Carrie Kerpen, CEO of Likeable Media. Takeaway: Kerpen identifies "not wanting to rock the boat," "not setting boundaries," "not giving direct feedback," and "not firing fast enough" as her four mistakes, and explains why.
+- [Four of My Biggest Mistakes as a New CEO and the Single Reason I Made Them](https://www.forbes.com/sites/carriekerpen/2016/04/05/four-of-my-biggest-mistakes-as-a-new-ceo-and-the-single-reason-i-made-them/#620bd95c157d) - by Carrie Kerpen, CEO of Likeable Media. Takeaway: Kerpen identifies "not wanting to rock the boat," "not setting boundaries," "not giving direct feedback," and "not firing fast enough" as her four mistakes, and explains why.
 
 - [The 4-Letter-Word That Makes My Blood Boil](https://medium.com/maker-to-manager/the-4-letter-word-word-that-makes-my-blood-boil-d4771df63a1) - by Marcus Blankenship. Takeaway: Avoid words like “just”, “simply”, and “trivial." They could lead you to overlook or forget how detail-oriented technical work can be.
 
@@ -44,11 +44,15 @@
 
 - [How to Make the Leap from Engineer to Manager](http://blog.newrelic.com/2014/07/23/measuring-manager-success/) - by Kirby Frugia at New Relic. Takeaway: "The key to making processes work is to make incremental changes, measure them, and then improve them." Also, managerial success and developer success differ in that the former is often achieved through others, more about strategic impact, and happen less frequently.
 
-- [How To Win Friends and Influence People](https://docs.google.com/document/d/1453UrSTkum5KrbX7SwwaUDVljP2uvDiHk6fIXNCxOCc/edit) - by Dale Carnegie; summary by Joe Goldberg. Notes on the legendary book, whose mention might make you wince but we suggest getting past that. :) 
+- [How to Win Friends and Influence People](https://docs.google.com/document/d/1453UrSTkum5KrbX7SwwaUDVljP2uvDiHk6fIXNCxOCc/edit) - by Dale Carnegie; summary by Joe Goldberg. Notes on the legendary book, whose mention might make you wince but we suggest getting past that. :) 
 
 - [The Leadership Paradox: Why Managers Must Be Consistently Inconsistent](https://getlighthouse.com/blog/leadership-paradox-consistently-inconsistent) - by Lighthouse. Takeaway: "Balancing when to be rigid and when to be flexible is one of the hardest things to learn as a manager." Provides guidance on how to manage this.
 
 - [The Manager's Path [$]](http://shop.oreilly.com/product/0636920056843.do) - by Camille Fournier. A collection of advice for leaders at all levels of the career ladder. Valuable whether you are just starting out in management, a veteran, or just curious about common problems and challenges that managers face on a daily basis. 
+
+- [Manager Tools Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4) - by Manager Tools. Takeaway: Informative podcasts that focus on key opportunities that a manager can leverage to step up their game. 
+
+- [Managing More Experienced People](https://medium.com/the-year-of-the-looking-glass/managing-more-experienced-people-9893f9903649) - by Julie Zhuo. Takeaway: "For me, despite knowing I’m not as strong of a designer as my senior reports, I understood how to approach design at Facebook and could support my team members in setting ambitious goals and working effectively with their partners."
 
 - [The Missing Piece of a Manager’s Responsibilities](https://medium.com/@uicynthia/the-missing-piece-of-a-managers-responsibilities-bc64fa2678a1) - by Cynthia Maxwell. Takeaway: "[it's] 'digging deep': owning your successes and knowing that you can overcome whatever challenges come your way."
 
@@ -57,10 +61,6 @@
 - [The Most Important Management Concept You’re Missing](https://getlighthouse.com/blog/management-concept) - by Lighthouse. The article advocates Task Relevant Maturity, described like so: “How often you monitor should not be based on what you believe your subordinate can do in general, but on [their] experience with a specific task and [their] prior performance with it – [their] task relevant maturity…as the subordinate’s work improves over time, you should respond with a corresponding reduction in the intensity of the monitoring.” 
  
 - [The Most Important, Yet Overlooked Management Skill](https://getlighthouse.com/blog/management-skill) - by Lighthouse. Takeaway: Curiosity is the most important trait of a leader. Ask questions.
-
-- [Manager Tools Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4) - by Manager Tools. Takeaway: Informative podcasts that focus on key opportunities that a manager can leverage to step up their game.
-
-- [Managing More Experienced People](https://medium.com/the-year-of-the-looking-glass/managing-more-experienced-people-9893f9903649) - by Julie Zhuo. Takeaway: "For me, despite knowing I’m not as strong of a designer as my senior reports, I understood how to approach design at Facebook and could support my team members in setting ambitious goals and working effectively with their partners."
  
 - [New Leader's 100-Day Action Plan & First 90 Days](https://docs.google.com/document/d/1w0JPuwaJSmDbrpv9n4FSXmHXS6XuKM-lcvQ-mIKo89A/edit) - by Joe Goldberg (summary). Highly detailed document with TOC. Covers topics ranging from due diligence (before you accept a job) to choosing the right approach for the culture and context.
 
