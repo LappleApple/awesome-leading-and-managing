@@ -52,6 +52,8 @@
 
 - [Manager Tools Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4) - by Manager Tools. Takeaway: Informative podcasts that focus on key opportunities that a manager can leverage to step up their game. 
 
+- [Managing More Experienced People](https://medium.com/the-year-of-the-looking-glass/managing-more-experienced-people-9893f9903649) - by Julie Zhuo. Takeaway: "For me, despite knowing I’m not as strong of a designer as my senior reports, I understood how to approach design at Facebook and could support my team members in setting ambitious goals and working effectively with their partners."
+
 - [The Missing Piece of a Manager’s Responsibilities](https://medium.com/@uicynthia/the-missing-piece-of-a-managers-responsibilities-bc64fa2678a1) - by Cynthia Maxwell. Takeaway: "[it's] 'digging deep': owning your successes and knowing that you can overcome whatever challenges come your way."
 
 - [The More Senior Your Job Title, the More You Need to Keep a Journal](https://hbr.org/2017/07/the-more-senior-your-job-title-the-more-you-need-to-keep-a-journal?__s=ns1epkqjs8qj1ggjuafv) - by Dan Ciampa. Takeaway: "The French philosopher Blaise Pascal pointed out that 'All of humanity’s problems come from man’s inability to sit quietly in a room alone.' He didn’t mean sitting quietly in front of a laptop responding to emails. The best thinking comes from structured reflection — and the best way to do that is keeping a personal journal."
