@@ -70,6 +70,14 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [42 Things Non-Front-Liners Misunderstand](https://hackernoon.com/40-things-non-front-liners-misunderstand-fcb2f55088f9) - by John Cutler. Takeaway: "It is unfair to expect people who haven’t worked on the front lines in software development to just get it. Just as, I’m guessing, it is hard for developers and UXers to grok sales and marketing, being a CEO, and working in HR. Assuming malice is a big mistake. We all want great outcomes for our respective businesses, but have a hard time bridging the divide."
 
+- [How Much To Manage (“Management Energy
+  Units”)](https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140)
+  - by [Steven Sinofsky](https://medium.learningbyshipping.com/@stevesi).
+  Takeaways: Discussing the various groups of management (down to reports, up to
+  your boss, sideways to your peers), as well as how much time an individual
+  level should generally be spending on them vs "work". Make sure you are
+  spending the right amount of time managing in the right areas.
+
 - [How to Make Your Engineering Team More Effective](http://www.effectiveengineer.com/blog/how-to-make-your-team-more-effective) - by Edmond Lau. Takeaway: Gather input as to what’s hard or frustrating; explicitly design how to align someone’s growth goals with what creates value; give and request frequent and honest feedback; leverage your strengths to level up the team; reduce sources of complexity, and create more opportunities for collaboration.
 
 - [Leadership Is Not About Your Good Intentions](https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b?__s=ns1epkqjs8qj1ggjuafv) - by Johnathan Nightingale. Takeaway: "If you want to be a leader, own it. Like you would anywhere else in your life. Work harder to understand the context. Develop better strategies for anticipating future failure and avoiding it. The stuff you expect junior folks to do."
