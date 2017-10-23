@@ -18,6 +18,14 @@
 
 - [A Psychologist Studied 6,000 People for 40 Years and Found This 1 Super Effective Conflict Resolution Tactic](https://www.inc.com/brenda-barbosa/a-psychologist-studied-relationship-dynamics-in-60.html) - by Brenda Barbosa. Takeaway: Taking some cues from psychologist and couples researcher John Gottman, avoid conflict by lightening up; showing empathy; calming yourself down; and showing appreciation for the other person.
 
+- [These 13 Exercises Will Prepare You for Work's Toughest
+  Situations](http://firstround.com/review/these-13-exercises-will-prepare-you-for-works-toughest-situations/)
+  - by First Round Review. By identifying and understanding people's motivations
+  you can take a difficult conversation and turn it into a dialog that is
+  constructive. The initial goal is to find common ground, and by asking
+  questions around motivations before tough situations, you can review your own
+  feelings and be overall better prepared.
+
 ### Postmortems
 
 - [Etsy’s Guide to Postmortems](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) - by John Allspaw, Morgan Evans and Daniel Schauenberg. A lengthy document that provides a guide on the art of asking questions. [On Failure and Resilience](https://beero.ps/2017/06/17/on-failure-and-resilience/) provides a briefer summary, describing an Etsy incident and how the team managed it.
