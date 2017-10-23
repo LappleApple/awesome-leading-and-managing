@@ -50,6 +50,8 @@
 
 - [Right Here, Right Now: 27 Simple Actions to Support Women in Tech](https://shift.newco.co/amp/p/1672110989cd) - by Cassie Divine. Takeaway: Includes 27 things one can do to support women, from speaking out when something amiss occurs, to celebrating women colleagues.
 
+- [The Rolodex](https://www.gamasutra.com/blogs/JennFrank/20140327/214022/The_Rolodex.php) - by Jenn Frank. Takeaway: "It isn't that we actively discriminate against anybody in particular. It's that we constantly discriminate IN FAVOR of white men." The article addresses the argument that we should hire for merit, not gender.
+
 - [There's No 'Silver Bullet' to Increasing Diversity, But Here's How We're Making Progress](https://magoosh.com/blog/silver-bullet-diversity-progress/) - by Bhavin Parikh. An honest and personal account of how Magoosh is addressing the topic, and what they're doing to create a fair hiring/growth culture: providing guidance to candidates, creating a salary framework, stay interviews/check-ins, and more. Their efforts produced noticeable results.
 
 - [Tracking Compensation and Promotion Inequity](http://larahogan.me/blog/inclusion-math/) - by Lara Hogan. Takeaway: "Plenty of tech companies are attempting to make their pipeline of candidates more diverse. But an organization won’t find much success recruiting a more diverse group of employees unless its leaders are aware of their existing internal inclusion and equity issues. Unless leadership has already started to tackle these issues, it’s likely that these new hires will enter into an environment that they won’t want to stick around in for long."
