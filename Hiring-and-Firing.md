@@ -53,8 +53,6 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 
 - [Recruiting Diverse Engineering Candidates: What Tech Companies Still Get Wrong](https://techbeacon.com/recruiting-diverse-engineering-candidates-what-tech-companies-still-get-wrong) - by Angie Jones. Takeaway: The author describes her experiences interviewing with heavyweight tech companies like Amazon, Google, and Twitter, and reveals some of the disconcerting behaviors she witnessed during the process while praising the good. "All tech companies need to revisit their interviewing practices. Diversify the panel of people who will decide the candidate’s fate with the company; acknowledge that diverse candidates may be concerned with more than just the specifics of the job itself; and ensure that you allocate time for them to have their questions and concerns addressed. Finally, tailor the interview questions to the job for which the candidate is being considered, and steer clear of unjustified coding challenges that only serve to intimidate and stress candidates."
 
-- [The Rolodex (On the argument that we should hire for merit, not gender)](https://www.gamasutra.com/blogs/JennFrank/20140327/214022/The_Rolodex.php) - by Jenn Frank. Takeaway: "It isn't that we actively discriminate against anybody in particular. It's that we constantly discriminate IN FAVOR of white men." 
-
 - [7 Practical Ways to Reduce Bias in Your Hiring
   Process](https://hbr.org/2017/06/7-practical-ways-to-reduce-bias-in-your-hiring-process) - by Rebecca Knight. Takeaways: Identify and actively seek to reduce bias. If
   you aren't talking about bias, you aren't changing anything. Standardizing
