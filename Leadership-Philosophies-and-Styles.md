@@ -29,7 +29,7 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [How Do I Manage People?](https://medium.com/@lennymarkus/how-do-i-manage-people-93018dc19fb4) - by Lenny Markus. Takeaway: Based around questions posed in a Twitter thread kicked off by Charity Majors, this article offers a well-rounded view of all aspects of a manager's duties, along with personal insights from the author.
 
-- [How Much To Manage (“Management Energy Units”)](https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140) - by Steven Sinofsky. Takeaway: "I have found it helpful to think about managing in terms of direction — managing up to those you are accountable/responsible to, down to those you formally manage/responsible for, or sideways to your peers across functions/teams."
+- [How Much To Manage (“Management Energy Units”)](https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140) - by Steven Sinofsky. Takeaway: Discusses the various level-directions of management (down to reports, up to your boss, sideways to your peers), as well as how much time an individual level should generally be spending on them vs "work". Make sure you are spending the right amount of time managing in the right areas.
 
 - [How to Lead a Team](https://drt.fm/simon-sinek) (podcast) - by Simon Sinek. Fun trivia: Joe Goldberg, the originator of this Awesome list, realized through this podcast that "You can’t manage people, you can only lead them. You can only manage processes."
 
