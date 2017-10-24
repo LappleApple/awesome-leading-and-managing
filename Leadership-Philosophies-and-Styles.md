@@ -16,8 +16,7 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [Etsy Lessons](http://larahogan.me/blog/etsy-lessons/) - by Lara Hogan. Takeaway: a collection of wisdom Hogan (now at Kickstarter) collected over her years at Etsy, about topics ranging from rethinking diversity hiring to how to deal with feeling shaky as a leader.
 
-- [From College Dropout to CEO of a Billion-Dollar Company: 3 Leadership Lessons from the Founder of Hootsuite]
-(https://www.cnbc.com/2017/10/05/3-leadership-lessons-from-hootsuite-ceo-ryan-holmes.html) - by Catherine Clifford. Takeaway: Start with the why, communicate often, and allow for facetime.
+- [From College Dropout to CEO of a Billion-Dollar Company: 3 Leadership Lessons from the Founder of Hootsuite](https://www.cnbc.com/2017/10/05/3-leadership-lessons-from-hootsuite-ceo-ryan-holmes.html) - by Catherine Clifford. Takeaway: Start with the why, communicate often, and allow for facetime.
 
 - [Good Leaders Are Good Learners](https://hbr.org/2017/08/good-leaders-are-good-learners) - by Lauren A. Keating, Peter A. Heslin and Susan J. Ashford. Takeaway: "[R]esearch on leadership development shows that leaders who are in learning mode develop stronger leadership skills than their peers." Being experienced helps, but isn't enough.
 
@@ -30,6 +29,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 - [How Do I Manage People?](https://medium.com/@lennymarkus/how-do-i-manage-people-93018dc19fb4) - by Lenny Markus. Takeaway: Based around questions posed in a Twitter thread kicked off by Charity Majors, this article offers a well-rounded view of all aspects of a manager's duties, along with personal insights from the author.
 
 - [How Much To Manage (“Management Energy Units”)](https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140) - by Steven Sinofsky. Takeaway: Discusses the various level-directions of management (down to reports, up to your boss, sideways to your peers), as well as how much time an individual level should generally be spending on them vs "work". Make sure you are spending the right amount of time managing in the right areas.
+
+- [How Strong Is Your Leadership Toolkit?](https://blog.bonus.ly/how-strong-is-your-leadership-toolkit) - by Alex Saez. Takeaway: Establish strong relationships, understand employee needs, and possess the appropriate "hard" and "soft" skills.
 
 - [How to Lead a Team](https://drt.fm/simon-sinek) (podcast) - by Simon Sinek. Fun trivia: Joe Goldberg, the originator of this Awesome list, realized through this podcast that "You can’t manage people, you can only lead them. You can only manage processes."
 
