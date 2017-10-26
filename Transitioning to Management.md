@@ -6,7 +6,7 @@
 
 - [How Do Managers Get Stuck?](http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html) - by Camille Fournier. Takeaway: Tips on how to get promoted to the next level of management and prove you're ready to manage managers."
 
-- [How Do You Know Someone Has True Leadership Skills? Look for These 5 Signs](https://www-inc-com.cdn.ampproject.org/c/s/www.inc.com/amp/138086.html) - by Marcel Schwantes. Takeaway: Leaders spread joy and drive fear away; provide employees with meaning, purpose and a sense of belonging; foster a learning spirit within the organization; build trust that leads to business outcomes; and are open and transparent in how they communicate.
+- [How Do You Know Someone Has True Leadership Skills? Look for These 5 Signs](https://www.inc.com/marcel-schwantes/5-obvious-signs-someone-has-true-leadership-ability-ask-any-employee.html) - by Marcel Schwantes. Takeaway: Leaders spread joy and drive fear away; provide employees with meaning, purpose and a sense of belonging; foster a learning spirit within the organization; build trust that leads to business outcomes; and are open and transparent in how they communicate.
 
 - [How to Ensure a New Manager Succeeds](https://getlighthouse.com/blog/new-manager-how-to-help-succeed) - by Lighthouse. Takeaway: Provide more support through 1:1's; give them good fundamentals to start; make some failure okay.
 
