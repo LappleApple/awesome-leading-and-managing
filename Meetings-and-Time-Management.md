@@ -49,6 +49,8 @@
   time. “Busy-ness” is an artificial concept. Build slack into your schedule to
   achieve better focus.
 
+- [Gatekeepers and Gardeners](http://product.hubspot.com/blog/gatekeepers-and-gardeners) - by Jared Williams. Takeaway: "To manage, new leaders often adopt the role of a gatekeeper early on and have a hard time letting go...A gatekeeper controls the flow of information in an attempt to narrow focus and avoid surprises." Be a gardener instead. "A gardener trusts, encourages autonomy, and exposes their team to higher level problems. Gardeners turn scaling and growth into a team sport."
+
 - [The Habit of No](https://ethansaustin.com/2015/01/01/the-habit-of-no/) - by
   Ethan Austin. The habit of saying no is important for teamwork and keeping a
   startup focused on the common goal.
