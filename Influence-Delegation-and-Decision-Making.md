@@ -80,6 +80,8 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [Never Split the Difference Cheat-Sheet](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - by Yan-David Erlich. Takeaway: a detailed, six-page summary of Chris Voss' *Never Split the Difference*, the 2016 book about negotiation.
 
+- [Public Speaking Resources](https://github.com/vmbrasseur/Public_Speaking) - by VM Brasseur. Takeaway: A collection of resources on speaker training/tips, technical conferences, proposing talks and more.
+
 - [Uniquely HR](https://www.google.com/url?q=http://uniquelyhr.com/management-development-training/&sa=D&ust=1497272863257000&usg=AFQjCNFCpE9ZQyRzTMoqItlEdU2neBygnw) - by Gary Ford. Takeaway: Influence is the power to affect someone/something without directly forcing them. It’s about establishing credibility, finding common ground, and connecting emotionally. A systemic approach to influencing.
 
 - [Use Coaching Techniques to Help People Make Their Own Decisions](https://vimeo.com/128634479) (video) - by Meredith Noble. Takeaway: A talk about how to use the GROW coaching technique "to structure conversations and help people make their own decisions; ask questions that encourage people to consider new approaches; embrace the coaching mindset, and and let go of the urge to play expert."
