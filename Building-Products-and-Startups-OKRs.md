@@ -16,6 +16,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - by Charity Majors. Takeaway: "Fuck the whole idea that only managers get career progression. And fuckkkk the idea you have to choose a “lane” and grow old there.  I completely reject this kind of slotting."
 
+- [Everyone Forgets Technical Research](https://producthabits.com/everyone-forgets-technical-research/) - by Product Habits. Takeaway: Offers a step-by-step template for creating a 1-3 page technical research outline that will enable product leads to communicate plans more effectively with developers, who can then better do the research on their side required to build a product successfully. "The outline should be a short summary of what you’re looking to create, including required features and functionality. You should also provide guidance on what matters most to you (and customers). What’s the core problem you’re looking to solve, and how do you plan to solve it? What are the most important parts of what you’re building?"
+
 - [Growth Hacking Notebook](https://docs.google.com/document/d/1uN_kMZlwsdaliiUhIEei5PTnLphm0p6Eo57Xg6LnFHc/edit) - notes by Joe Goldberg.
 
 - [How Compare and Contrast Decisions Lead to Better Product Outcomes](https://www.producttalk.org/2017/09/compare-and-contrast-decisions/) (slides) - by Teresa Torres. Takeaway: A detailed look at how to bring focus to product decisions, including suggested tools like the "opportunity solution tree." 
