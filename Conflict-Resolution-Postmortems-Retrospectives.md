@@ -69,3 +69,5 @@
 - [Running Effective Retrospectives](http://werve.net/articles/running-effective-retrospectives/) - by Don Werve. Takeaway: "[R]etrospectives plus science equals an effective tool for killing bad process before it metastasizes into truly epic stupidity."
 
 - [Which Questions do you Ask in Retrospectives?](https://www.benlinders.com/2013/which-questions-do-you-ask-in-retrospectives/) - by Ben Linders. With four key retro questions: "What did we do well, that if we don’t discuss we might forget? What did we learn? What should we do differently next time? What still puzzles us?"
+
+- [The World Cafe – Agile Retrospective Technique](https://luis-goncalves.com/the-world-cafe/?__s=zmnhwriwrwhonuvpmtq8) - by Timothee Bourguignon. Takeaway: an approach to spread knowledge, tips and practices across teams.
