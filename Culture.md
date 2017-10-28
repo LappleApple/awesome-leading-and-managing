@@ -38,6 +38,8 @@
 
 - [Hearts and Minds: Shaping Dev Culture Through Technical Training](https://medium.com/@karen_meep/hearts-and-minds-shaping-dev-culture-through-technical-training-3c9c6ed49ce6) - by Karen Cohen. Takeaway: "[W]e have to make sure we don’t lose our culture. Left unattended, it will turn into ‘null culture’. It’s what happens when no formal culture is put into place. It leaves people guessing what is socially acceptable and creates an impossible environment for those who guess wrong. It’s not the type of environment that makes employees want to stick around."
 
+- [How a Microsoft Docs Team Increased Openness and Improved Collaboration](https://opensource.com/open-organization/17/10/microsoft-collaboration-case-study) - by Angela Robertson. Takeaway: An honest account of transforming the technical content team of Microsoft's Cloud and Enterprise group from closed and uncollaborative to open and transparent. Finding purpose in openness was key.
+
 - [How Do We Go Faster?](https://hackernoon.com/how-do-we-go-faster-ed51207952a8) - by John Cutler. Takeaway: Lists of concepts to apply and actions to take to build a culture that fosters a productive, efficient environment.
 
 - [How Netflix Reinvented HR](http://hbr.org/2014/01/how-netflix-reinvented-hr/ar/pr) - by Patty McCord. Takeaway: Hire only people who are able to put your company’s interests first.
