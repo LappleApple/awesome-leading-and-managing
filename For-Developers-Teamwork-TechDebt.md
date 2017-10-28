@@ -56,6 +56,8 @@
 
 - [Agile Self-Assessment Game](https://www.benlinders.com/game/) - by Ben Linders. Takeaway: playing the game enables teams to reflect on how they work together, discover how agile they are, and agree upon next steps they can take to increase their agility to deliver more value to their customers and stakeholders.
 
+- [How Awesome Engineers Ask for Help](https://hackernoon.com/how-awesome-engineers-ask-for-help-93bcb2c7dbb7) - by Greg Sabo. Takeaway: Techniques for collaboration, such as clarifying what's expected of you, taking full responsibility for work so that you don't pass the buck, following up after getting answers, and showing appreciation.
+
 - [How to Improve Team Closeness with Personal Maps](https://management30.com/practice/personal-maps/) - by Jürgen Appelo at M3.0. Takeaway: Personal maps and group exercises to develop them can enable members of teams to get to know each other as *humans* with interests and hobbies. The article points to tips and case stories for you to get ideas.
 
 - [Hyperproductive Development](http://blog.jessitron.com/2017/06/the-most-productive-circumstances-for.html) - by Jessica Kerr. Takeaway: "the most productive development happens when one person knows the system intimately because they wrote it; this is in conflict with growing a system beyond what one person maintains." The post offers suggestions for what teams can do.
