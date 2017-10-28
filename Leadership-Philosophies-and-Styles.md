@@ -123,6 +123,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [The New Technology Leader’s Plan](http://katemats.com/leadership/new-technology-leaders-plan/) - by Kate Matsudaira. A series of posts covering these topics: Understanding the Strategy; Conversations with the Team; Understand and Assess Technical Risks (Technical Risk Assessment); Focus on Early Wins.
 
+- [Qualities of an Exceptional Engineering Director](https://twitter.com/isaach/status/916171857170071552) - by various. Takeaway: a lengthy Twitter thread in which contributors identify the qualities they believe a great engineering leader needs.
+
 - [What Open Leaders Do](https://opensource.com/open-organization/17/8/what-open-leader-do) - by Sam Knuth. Takeaway: Open leaders focus on supporting people to become successful, set vision and context, and seeking feedback about how people feel about their work and environment as well as whether they feel connected to/understand its purpose.
 
 - [Team and Strategy](http://avc.com/2016/09/team-and-strategy/) - by venture capitalist Fred Wilson. Takeaway: Leaders should do only three (or six?) things. They are: Recruit/retain; build/evolve long-term strategy; ensure there's money; maintain balance between departments; create a commitments system; talk to clients to keep market insight fresh.
