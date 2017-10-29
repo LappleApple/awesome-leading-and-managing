@@ -19,6 +19,10 @@
   
 - [How Do We Build Better Meetings?](https://medium.com/@JBunky/how-do-we-build-better-meetings-5b483d2066ec#.fp4nrqx2d) - by Jen Bunk. Takeaway: Includes the "4 A's of Awesome Meetings: announce the agenda, attack the agenda benevolently, allow agenda deviations mindfully, and assign next actions.
 
+- [On Better Meetings](http://larahogan.me/blog/better-meetings/) - by Lara
+  Hogan. Takeaways: Productive meetings come from doing the right amount of work
+  before, during, and after a meeting.
+  
 - [Run Your Meetings Like a
   Boss](http://99u.com/articles/25075/run-your-meeting-like-a-boss-lessons-from-mayer-musk-and-jobs) - by David Fallarme. Takeaways: Make decisions using data, keep meetings to the
   necessary size, and be prepared with questions and answers to ensure a meeting
@@ -81,16 +85,14 @@
 
 - [Reducing Hours by Focusing your Job](https://wildbit.com/blog/2017/06/05/reducing-hours-by-focusing-your-job) - by Natalie Nagele. Takeaway: How to use a mindmap plus the 30-60-90 plan to clarify the focus of your role, plus what to prioritize. Can be a great exercise to do with your team.
 
-- [On Better Meetings](http://larahogan.me/blog/better-meetings/) - by Lara
-  Hogan. Takeaways: Productive meetings come from doing the right amount of work
-  before, during, and after a meeting.
-
 - [Three P’s of Prioritizing](http://www.johnmaxwell.com/blog/priorities-prevent-your-leadership-from-crashing) - by the John Maxwell Company. Takeaway: If you are feeling crunched for time,
   reevaluate your priorites. The three Ps are *P*rivate Time, *P*roduction
   Time, and *P*eople Time.
   
 - [The Top 5 Productivity Mistakes](https://www.iwillteachyoutoberich.com/blog/top-5-productivity-mistakes/) - by Ramit Sethi. Takeaways: Talks about the psychology of being unproductive,
   and how changing the narrative can achive big breakthroughs.
+
+- [Thinking is Work. Give Yourself Time to Do It.](https://savagethoughts.com/thinking-is-work-give-yourself-time-to-do-it-f2088b55e622) - by Chris Savage. Takeaway: "It is easy to feel guilty if you find yourself with the time to think. We have a tech culture that reveres the hustle. Crazy work hours and paying your dues are the norm. The challenge is that, when scaling, that thinking time becomes even more important, and much harder to get." Delegate to find time to think.
 
 - [“Vacations are for the Weak”](http://sethbannon.com/vacations-are-for-the-weak) - by Seth Bannon. Takeaway: "Preventing burnout is part of your job. Staying well rested is part of your job. Sleep and exercise help, but occasional extended breaks are essential too, and their benefits on creativity, productivity, and happiness are well documented."
 
