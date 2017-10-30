@@ -39,6 +39,9 @@
 - [Why Happiness at Work Is Good for the Bottom Line](http://www.managers.org.uk/insights/news/2017/july/why-happiness-at-work-is-good-for-the-bottom-line) - by Andy Cope. Takeaway: Being an inspiring and positive person can be learned. Very happy employees "are rare but when you find them you discover they are positive energisers who create and support the vitality of others. They have an uplifting and boosting effect that leaves others feeling lively and motivated."
 
 ### Retention
+
+- [Coaching Should Be The New Free Lunch in Tech](https://blog.keen.io/coaching-should-be-the-new-free-lunch-in-tech-7850690cc0fd) - by Lisa Nielsen. Takeaway: "Apparently, having an employer invest in your growth as a human makes a big impact on an employee’s willingness to stay put." About Keen IO's decision to create an internal team of coaches to offer coaching all employees; 91% have opted in to take advantage of the service.
+
 - [“Cost of Turnover” Calculator](https://docs.google.com/spreadsheets/d/1BikDho6Odqp7uD6_q3050-T5jayx3orSKPM1ZXwUySI/edit#gid=0) - by Lattice HQ. Takeaway: Plug in your company size and turnover rate, along with the costs of hiring and onboarding. The results may surprise you. And that says nothing of the emotional headache and cultural drain felt from losing great people.
 
 - [8 Bad Mistakes That Make Good Employees Leave](http://www.huffingtonpost.com/entry/8-bad-mistakes-that-make-good-employees-leave_us_592f02e5e4b0d80e3a8a3288) - by Dr. Travis Bradberry. Takeaway: You'll lose your best employees by making lots of stupid rules, treating everyone equally (not to be confused to "fairly"), tolerating poor performance, not recognizing accomplishments, not caring about people, not showing the big picture, not helping people cultivate their passions, and not making things fun. 
