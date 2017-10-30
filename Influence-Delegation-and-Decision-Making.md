@@ -8,6 +8,8 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
 
 ### Decision-Making
 
+- [Business Value Game](https://www.agile42.com/en/business-value-game/) - by Andrea Tomasini. Takeaway: an interactive game in which a "product management board" of stakeholders decides, in a manner inspired by Planning Poker, which goals to prioritize based on relative value to the business.
+
 - [“Do We All Agree” Is a Terrible Question](https://medium.com/@hunterwalk/do-we-all-agree-is-a-terrible-question-14499769591b) - by Hunter Walk. Takeaway: We often confuse 'collaboration' with 'consensus.' The former is about engaging a group of people to work together and discuss ideas. It aims to make the whole greater than the sum of its parts. The best leaders are certainly collaborative."
 
 - [The 90% Agreement Rule](https://hackernoon.com/the-90-agreement-rule-36757dcc8eaa) - by Lawrence Ripsher. Takeaway: Ripsher asserts that "we spend 90% of our time, talking about the 10% of things we disagree on." This takes up time and energy. Instead, "[c]reate clarity (and build on) wherever there is ‘about 90% agreement’ first— then come back around and address the disagreements after."
