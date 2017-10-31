@@ -19,6 +19,8 @@
   
 - [How Do We Build Better Meetings?](https://medium.com/@JBunky/how-do-we-build-better-meetings-5b483d2066ec#.fp4nrqx2d) - by Jen Bunk. Takeaway: Includes the "4 A's of Awesome Meetings: announce the agenda, attack the agenda benevolently, allow agenda deviations mindfully, and assign next actions.
 
+- [How to Run a Meeting](http://randsinrepose.com/archives/how-to-run-a-meeting/) - by Rands. Takeaway: "A meeting has two critical components: an agenda and a referee ... A meeting’s progress is measured by the flow, and the referee’s job is keep it moving along at a good clip, which is why the referee sometimes needs to own it," or improvise. "If you must meet, start the meeting by remembering the definition of a successful meeting is that when the meeting is done, it need never occur again."
+
 - [On Better Meetings](http://larahogan.me/blog/better-meetings/) - by Lara
   Hogan. Takeaways: Productive meetings come from doing the right amount of work
   before, during, and after a meeting.
