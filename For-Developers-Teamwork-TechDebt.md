@@ -60,6 +60,8 @@
 
 - [Agile Self-Assessment Game](https://www.benlinders.com/game/) - by Ben Linders. Takeaway: playing the game enables teams to reflect on how they work together, discover how agile they are, and agree upon next steps they can take to increase their agility to deliver more value to their customers and stakeholders.
 
+- [Building a Delivery Team](https://engineering.edx.org/building-a-delivery-team-8201d06f1021) - by Bill DeRusha. Takeaway: How the edX internationalization team spun up quickly—team charter, communication, building a relationship with the product manager, being clear and focused about the project scope, and communicating. Includes links to articles about creating team charters.
+
 - [How Awesome Engineers Ask for Help](https://hackernoon.com/how-awesome-engineers-ask-for-help-93bcb2c7dbb7) - by Greg Sabo. Takeaway: Techniques for collaboration, such as clarifying what's expected of you, taking full responsibility for work so that you don't pass the buck, following up after getting answers, and showing appreciation.
 
 - [How to Improve Team Closeness with Personal Maps](https://management30.com/practice/personal-maps/) - by Jürgen Appelo at M3.0. Takeaway: Personal maps and group exercises to develop them can enable members of teams to get to know each other as *humans* with interests and hobbies. The article points to tips and case stories for you to get ideas.
