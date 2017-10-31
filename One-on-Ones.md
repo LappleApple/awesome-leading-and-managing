@@ -14,6 +14,8 @@
  
 - [How to Make Your One-on-Ones with Employees More Productive](https://hbr.org/2016/08/how-to-make-your-one-on-ones-with-employees-more-productive) - by Rebecca Knight. Takeaway: Block regular time in your schedules, prepare discussion points, be fully present, start positive, problem-solve, add questions about career plans and express gratitude.
 
+- [Manager Handoffs](http://larahogan.me/blog/manager-handoffs/) - by Lara Hogan. Takeaway: Hold open 1:1:1's (former manager, new manager, the managee) to share relevant information from the previous manager to the new manager about the direct report..."do this transparently such that the direct report can get a good sense of whether there’s things unsaid or things that differ from their own perception, with an opportunity to disagree or clarify, and reduce the natural career friction, pausing, or hiccups that happen when a person gets a new manager."
+
 - [Managing Engineers: How to Perfect the “Stay Interview”](https://medium.com/@bradvogel/how-to-perfect-the-stay-interview-8fa1ebbda907) — by Brad Vogel. Takeaway: includes six questions for asking current employees why they continue working for your company.
  
 - [Master the One-on-One Meeting](http://hbswk.hbs.edu/item/master-the-one-on-one-meeting) - by Julia B. Austin. Takeaway: tips on setting an agenda, creating expectations, handling remotes, and more.
