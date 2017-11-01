@@ -20,8 +20,6 @@
 
 - [First Thoughts on Developer Gravity](http://redmonk.com/jgovernor/2017/07/28/first-thoughts-on-developer-gravity/) - by James Governor. Takeaway: A post that's a kickoff to future exploration, but already offers insights about "developer gravitiy" (where devs "live") and the importance of developer experience (which decreases with poor documentation, bug fixes and examples). "Developers are certainly not immune to the perception of momentum for environments they might target. Tensor Flow, for example, is seen as a hot technology. GitHub makes developer momentum more obvious than ever. 25k forks – sign me up! Developers want to adopt technologies than other developers find interesting. Herd mentality is a thing."
 
-- [The Five Dysfunctions of a Team: A Leadership Fable](http://www.bip.org.bd/SharingFiles/11-The%20Five%20Dysfunctions%20of%20a%20Team.pdf) - by Patrick Lencioni. Takeaway: lack of trust and commitment, fear of conflict, avoidance of accountability, and inattention to results will prevent your team from gelling and performing. This book uses a narrative/fictional case study to make its point about overcoming the five dysfunctions.
-
 - [The Future of Programming (video)](https://www.youtube.com/watch?v=ecIWPzGEbFc) - by Uncle Bob Martin. Takeaway: A history of software development, with context on how developers have solved problems in the industry and where the profession's going.
 
 - [Getting Feedback](http://daydreamsinruby.com/getting-feedback/) - by Allison (Sheren) McMillan. Takeaway: Ask your teammates for feedback so you can continue growing and developing. Includes short lists of questions you can ask.
@@ -62,6 +60,8 @@
 
 - [Building a Delivery Team](https://engineering.edx.org/building-a-delivery-team-8201d06f1021) - by Bill DeRusha. Takeaway: How the edX internationalization team spun up quickly—team charter, communication, building a relationship with the product manager, being clear and focused about the project scope, and communicating. Includes links to articles about creating team charters.
 
+- [The Five Dysfunctions of a Team: A Leadership Fable](http://www.bip.org.bd/SharingFiles/11-The%20Five%20Dysfunctions%20of%20a%20Team.pdf) - by Patrick Lencioni. Takeaway: lack of trust and commitment, fear of conflict, avoidance of accountability, and inattention to results will prevent your team from gelling and performing. This book uses a narrative/fictional case study to make its point about overcoming the five dysfunctions.
+
 - [How Awesome Engineers Ask for Help](https://hackernoon.com/how-awesome-engineers-ask-for-help-93bcb2c7dbb7) - by Greg Sabo. Takeaway: Techniques for collaboration, such as clarifying what's expected of you, taking full responsibility for work so that you don't pass the buck, following up after getting answers, and showing appreciation.
 
 - [How to Improve Team Closeness with Personal Maps](https://management30.com/practice/personal-maps/) - by Jürgen Appelo at M3.0. Takeaway: Personal maps and group exercises to develop them can enable members of teams to get to know each other as *humans* with interests and hobbies. The article points to tips and case stories for you to get ideas.
@@ -71,6 +71,8 @@
 - [Makers and Menders: Putting the Right Developers on the Right Projects (deck)](https://www.slideshare.net/andrea_goulet/makers-and-menders-putting-the-right-developers-on-the-right-projects) - by Andrea Goulet, CEO & Co-Founder of Corgibytes. Takeaway: Makers and menders each have valuable roles to play in development. Focusing too much on making leads to maintenance, "legacy code," and technical debt; mend as well to reduce your overhead.
 
 - [Mindful Communication in Code Reviews](http://amyciavolino.com/assets/MindfulCommunicationInCodeReviews.pdf) (slides) - by Amy Ciavolino. Takeaway: How to be kind and constructive in code reviews.
+
+- [The New Work Order: Team Ingredients and Role Blending ](https://www.slideshare.net/hhfleming/the-new-work-order-team-ingredients-and-role-blending) - by Heather Fleming. Takeaway: Use "team ingredients" to build teams that achieve maximum productivity and happiness.
 
 - [9 Attributes of Successful Development Teams](https://about.gitlab.com/2017/05/23/attributes-of-successful-development-teams/) - by Rebecca Dodd at GitLab. Takeaway: Great teams automate everything, are meticulous about documentation, use collaboration tools and integrated platforms, version control everything, make it easy for everyone to contribute, spend time on side projects, make code review collaborative, and are allowed to be creative.
 
