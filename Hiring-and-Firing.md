@@ -24,7 +24,7 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 - [The Hidden Reason You Can’t Scale Your Engineering Team](https://home.opsolutely.com/the-hidden-reason-you-cant-scale-your-engineering-team/) - by Jack Danger. Takeaway: Hiring only "senior engineers" is a recipe for failure. "When a team advertises that they only hire senior engineers, what they’re really saying is that their people and technology infrastructure can’t support hiring beginners – a strong indication of fragile tooling and a fragile team. If you’re at all interested in growth, this should serve as a huge red flag, because it is extraordinarily difficult to scale a fragile team."
 
 - [How to Hire](https://medium.com/eshares-blog/how-to-hire-34f4ded5f176) - by
-  Henry Ward, CEO at eShares. Takeaways: Hiring is largely due to lack of scaling
+  Henry Ward, CEO at eShares. Takeaway: Hiring is largely due to lack of scaling
   as a business and needing outside resources. It is more important to hire
   someone who can grow and contribute to your culture than someone who will fit
   in and have the same skillset as current hires.
