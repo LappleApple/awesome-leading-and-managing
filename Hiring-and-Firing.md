@@ -13,6 +13,8 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 
 - [Why Firing Brilliant Assholes Is Required to Build a Great Engineering Culture](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/) - by Joe Stump (transcript by First Round). Takeaway: "Do not send a recruiter to do an engineer's job. It’s the job of founders and CTOs to be personally involved in the recruiting of the first 30 to 40 team members. Once you identify a great engineer, send your very best engineering employee who's personable to go after the person (this could be you). Make sure this individual can speak the candidate’s language and pitch them on the things that actually matter." And cultivate culture through communication.
 
+- [You Fired Your Top Talent. I Hope You’re Happy.](https://startupsventurecapital.com/you-fired-your-top-talent-i-hope-youre-happy-cf57c41183dd) - by Tony Robinson. Takeaway: If management is complacent, absent or enabling, then expect to cultivate so-called rockstars who will create friction and work in isolation. You can fire the rockstars, but what about fixing the management that created the conditions for dysfunction?
+
 ### Hiring
 
 - [Applied Humaning for Technical Interviews](https://www.youtube.com/watch?v=yeV62jgu1l0) - by Cate Huston. Takeaway: In a power-based situation, the person with the power (the interviewer) owns the quality of the relationship. Don't give feedback on aspects you have no evidence for. Also: What does a good interview question look like? Answer: It should have multiple answers and tradeoffs. For developers: How does the interviewer handle the bits of the role that aren't coding?
