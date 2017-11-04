@@ -67,3 +67,5 @@ As a leader of a product development team you might have a PM that you’re work
 - [Applying OKRs](https://dannorth.net/2017/05/01/applying-okrs) - by Dan North. Takeaway: Insights from Dan about working with companies applying Objectives and Key Results; do's and dont's. 
 
 - [Beyond OKRs: The Formula for High Performing Teams](http://eleganthack.com/beyond-okrs-the-formula-for-high-performing-teams/) (video) - by Christina Wodtke. Takeaway: the creator of Radical Focus talks about different kinds of teams, team-building, experiential learning, and more.
+
+- [Why OKRs Are Not Delivering the Result Executive Managers Expect](https://luis-goncalves.com/okrs/?__s=zmnhwriwrwhonuvpmtq8) - by Veronika Goncalves. Takeaway: "In many cases, when organizations apply OKRs, they apply the process the in the same format as Management by Objectives: using a Top-Down Approach. But this format does not create value for the organization because the top managers do not understand what the customer’s real problems are. When defining the objectives, they are usually not in alignment with the company’s current reality."
