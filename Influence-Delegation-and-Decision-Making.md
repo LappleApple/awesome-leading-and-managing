@@ -67,6 +67,8 @@ a) Do I understand the complete context, b) am I the right person to handle it, 
 
 - [11 Top Tips for a Successful Technical Presentation](https://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx) - by Scott Hanselman. Takeaway: detail-oriented tips ranging from font type/size to being mindful of your distracting personal habits.
 
+- [Escaping E-mail Hell](https://medium.com/the-year-of-the-looking-glass/escaping-e-mail-hell-f55905f3862f) - by Julie Zhuo. Takeaway: Tips for communicating more succinctly in emails to reduce workload and also increase the chances that others will read them. Also includes this nugget: "Forwarding a huge thread with nothing more than 'Thoughts?' at the start is the e-mail equivalent of a flaming bag of dog poop on your doorstep."
+
 - [Etsy's Charter of Mindful Communication](http://larahogan.me/blog/charter-mindful-communication/) - by Lara Hogan and Etsy's Culture & Engagement team. Takeaway: When engaging with someone, keep it REAL—"Reflect on the dynamics in the room;
 Elevate the conversation; Assume best intentions; Listen to learn."
 
