@@ -120,6 +120,8 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 
 - [This Is Why You Never End up Hiring Good Developers](https://qz.com/258066/this-is-why-you-dont-hire-good-developers/) - by Laurie Voss. Takeaway: "Interview techniques test skills that are at best irrelevant to real working life"; hire for what people can grow into, not what they've already done or can show on a whiteboard.
 
+- [Tired: Engineering Interviews; Hired: Engineering Auditions.](https://medium.com/@trek/tired-engineering-interviews-hired-engineering-auditions-5f9f00147a57) - by Trek Glowacki. Takeaway: A six-stage audition process that emphasizes candidates' strengths. The steps: What’re You Great At?; Who Can Evaluate That?; The Pitch; Show Me What You’ve Got; Evaluate the Individual; Evaluate the New Team.
+
 - [We Built Voice Modulation to Mask Gender in Technical Interviews. Here’s What Happened.](http://blog.interviewing.io/we-built-voice-modulation-to-mask-gender-in-technical-interviews-heres-what-happened/) - by Aline Lerner. Takeaway: No effect from voice pitch; women stop practicing interviews more often than men after bad feedback.
 
 - [What Are Interviews For?](https://medium.com/tech-lead-talks/what-are-interviews-for-8130cef253a5) - by Brujo Benavides. Takeaways: The article asks whether we should use the interview process to detect cheaters, or to check how the candidate and the company fit together; and about the consequences of choosing one approach over the other.
