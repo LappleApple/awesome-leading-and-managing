@@ -76,7 +76,7 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [How to Make Your Engineering Team More Effective](http://www.effectiveengineer.com/blog/how-to-make-your-team-more-effective) - by Edmond Lau. Takeaway: Gather input as to what’s hard or frustrating; explicitly design how to align someone’s growth goals with what creates value; give and request frequent and honest feedback; leverage your strengths to level up the team; reduce sources of complexity, and create more opportunities for collaboration.
 
-- [How to Win Hearts & Minds - Lessons Learned from Electoral Politics](https://www.youtube.com/watch?v=tZzoJcA5Rrc) (video) - by K. Gray & C. Young. Takeaway: This GOTO Amsterdam talk connnects methods used in political campaigns to their useful application in a tech organization, so that you can connect with teams and influence them.
+- [How to Win Hearts & Minds - Lessons Learned from Electoral Politics](https://www.youtube.com/watch?v=tZzoJcA5Rrc) (video) - by K. Gray & C. Young. Takeaway: This GOTO Amsterdam talk connnects methods used in political campaigns to their useful application in a tech organization, so that you can connect with teams and influence them. You have to blend facts with emotional resonance.
 
 - [Leadership Is Not About Your Good Intentions](https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b?__s=ns1epkqjs8qj1ggjuafv) - by Johnathan Nightingale. Takeaway: "If you want to be a leader, own it. Like you would anywhere else in your life. Work harder to understand the context. Develop better strategies for anticipating future failure and avoiding it. The stuff you expect junior folks to do."
 
