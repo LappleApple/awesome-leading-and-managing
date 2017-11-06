@@ -32,4 +32,12 @@
 
 - [Put an End to Your Feedback Loop](https://www.strategy-business.com/blog/Put-an-End-to-Your-Feedback-Loop) - by Jesse Sostrin. Takeaway: "If you’ve ever said the words 'I’ve gotten this feedback before,' chances are you’re playing with fire and undermining your own success by failing to address the issue."
 
-### Honesty
+### Trust
+
+- [A Trust Toolbox for Virtual Teams. Module 1: “The Prelude Game”](https://inteamwetrust.com/2016/06/22/trust-toolbox-for-virtual-teams-module-1/) - by Alexey Pikulev. Takeaway: A five-module framework for building trust, including sections on personal integrity and trust in action.
+
+- [Building Trust Inside Your Team](https://www.mindtools.com/pages/article/building-trust-team.htm) - by MindTools. Takeaway: Build trust inside teams via example-setting and clear communication.
+
+- [Team Trust Canvas](https://inteamwetrust.com/team-trust-toolbox/team-trust-canvas/) - by In Team We Trust. Takeaway: a one-page planning canvas to help your team build trust explicitly.
+
+- [Trust Anti-Pattern Cards](https://inteamwetrust.com/team-trust-toolbox/trust-anti-pattern-cards/) - by In Team We Trust. Takeaway: a set of cards that cover antipatterns like blame, broken schedules, conflict. You can use the cards in retrospective exercises to identiy issues and resolve them.
