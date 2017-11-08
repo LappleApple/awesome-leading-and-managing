@@ -2,8 +2,6 @@
 
 ### Motivation
 
-- [3 Simple Secrets to Motivating Employees You Can Do Today](https://getlighthouse.com/blog/motivating-employees) - by Lighthouse. Takeaway: Give specific, frequent, strategic praise on something great they did; give feedback on their work (millennials want it more frequently); remind them of their impact and purpose. Autonomy: the urge to direct our own lives. Mastery: the desire to get better and better at something that matters. Purpose: yearning to do something larger than ourselves—e.g., hospital janitor as “ambassador” or “promote healing by creating sterile places.”
-
 - [Building and Motivating Engineering Teams](https://medium.com/swlh/building-and-motivating-engineering-teams-24fd56910039) - by Camille Fournier. Takeaway:
 
   1. **Money:** When you don’t pay people well enough, you contribute to undermining their resilience in the face of problems at work. Think of it as the baseline of [Maslow’s hierarchy](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs).
@@ -27,6 +25,8 @@
 - [The Neuroscience of Trust](https://hbr.org/2017/01/the-neuroscience-of-trust) - by Paul J. Zak. Takeaway: "[B]uilding a culture of trust is what makes a meaningful difference. Employees in high-trust organizations are more productive, have more energy at work, collaborate better with their colleagues, and stay with their employers longer than people working at low-trust companies. They also suffer less chronic stress and are happier with their lives, and these factors fuel stronger performance."
 
 - [The 3 Motivational Forces of Developers](http://www.bennorthrop.com/Essays/2013/developer-motivation.php) - by Ben Northrop. Takeaway: Developers have three main different motivations, and each motivation can be used in different states of a project life-cycle.
+
+- [3 Simple Secrets to Motivating Employees You Can Do Today](https://getlighthouse.com/blog/motivating-employees) - by Lighthouse. Takeaway: Give specific, frequent, strategic praise on something great they did; give feedback on their work (millennials want it more frequently); remind them of their impact and purpose. Autonomy: the urge to direct our own lives. Mastery: the desire to get better and better at something that matters. Purpose: yearning to do something larger than ourselves—e.g., hospital janitor as “ambassador” or “promote healing by creating sterile places.”
 
 - [What Do Workers Want from the Boss?](https://blogs.wsj.com/atwork/2015/04/02/what-do-workers-want-from-the-boss/?__s=ns1epkqjs8qj1ggjuafv) - by Lauren Weber. Takeaway: "People don’t leave jobs, they leave managers." A study of 7,200 people showed that half had left a job because of their manager. Employees want daily face time from their manager, and regular meetings.
 
