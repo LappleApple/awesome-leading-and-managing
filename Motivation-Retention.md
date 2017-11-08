@@ -20,6 +20,8 @@
 
 - [How to Tell the Truth](https://a16z.com/2017/07/27/how-to-tell-the-truth/) - by Ben Horowitz. Takeaway: Do not lie to your people when it comes to telling bad news, but attach meaning to it.  
   
+- [Motivating People to Be on Time](http://innolution.com/blog/motivating-people-to-be-on-time) - by Ken Rubin. Takeaway: Bribes and penalties don't work. Intrinsic motivation gets people to show up on time.
+
 - [Moving Motivators](https://management30.com/practice/moving-motivators/) - by Jurgen Appelo. A fun exercise you can use with your team to understand which values and aspirations motivate them—status, freedom, power, etc.
 
 - [The Neuroscience of Trust](https://hbr.org/2017/01/the-neuroscience-of-trust) - by Paul J. Zak. Takeaway: "[B]uilding a culture of trust is what makes a meaningful difference. Employees in high-trust organizations are more productive, have more energy at work, collaborate better with their colleagues, and stay with their employers longer than people working at low-trust companies. They also suffer less chronic stress and are happier with their lives, and these factors fuel stronger performance."
