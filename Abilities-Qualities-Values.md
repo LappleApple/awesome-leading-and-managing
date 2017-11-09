@@ -40,6 +40,8 @@
 
 - [Building Trust on Agile Teams](http://agilecoach.typepad.com/agile-coaching/2010/08/building-trust.html) - by Rachel Davies. Takeaway: Posits a trust equation—"T = C + R + I / S. The letters in this formula stands for, Trustworthiness = Credibility + Reliability + Intimacy all divided by Self-orientation, where: Credibility relates to expertise."
 
+- [Humans Hate Being Spun: How to Practice Radical Honesty — from the Woman Who Defined Netflix’s Culture](http://firstround.com/review/humans-hate-being-spun-how-to-practice-radical-honesty-from-the-woman-who-defined-netflixs-culture/) - by FirstRound. Takeaway: "Too often, upper management thinks that sharing about problems confronting the business will heighten anxiety among staff, but what's more anxiety provoking is not knowing. You can't protect your people from hard truths anyway. And holding back the truth, or telling them half-truths, will only breed contempt. Trust is based on honest communication, and I find that employees become cynical when they hear half-truths."
+
 - [Team Trust Canvas](https://inteamwetrust.com/team-trust-toolbox/team-trust-canvas/) - by In Team We Trust. Takeaway: a one-page planning canvas to help your team build trust explicitly.
 
 - [Trust Anti-Pattern Cards](https://inteamwetrust.com/team-trust-toolbox/trust-anti-pattern-cards/) - by In Team We Trust. Takeaway: a set of cards that cover antipatterns like blame, broken schedules, conflict. You can use the cards in retrospective exercises to identiy issues and resolve them.
