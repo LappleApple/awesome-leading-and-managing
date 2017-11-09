@@ -11,7 +11,7 @@
 ### Dev Leveling Guides—aka Engineering Ladders
 It’s hard to get these right. Just b/c they work for one org doesn’t mean they’ll work for yours.
 
-- [On Being A Senior
+- [On Being a Senior
   Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) -
   by John Allspaw. Focusing on attributing "Senior" to "Mature". Covers aspects
   of being social. Mature engineers are at least aware of their ego, able to
@@ -44,7 +44,9 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Three Paths in the Tech Industry: Founder, Executive, or Employee](http://blog.ycombinator.com/three-paths-in-the-tech-industry-founder-executive-or-employee/) - by Michael Seibel. Takeaway: pros, cons, and strategies for pursuing all three paths.
 
-- [Uncovering the Secret Powers of MailChimp Employees Through Apprenticeships](https://blog.mailchimp.com/uncovering-the-secret-powers-of-mailchimp-employees-through-apprenticeships/) - by MailChimp. Takeaway: MailChimp created a 90-day apprenticeship program for employees to explore their interests and curiosity about other roles. The program has strengthened diversity efforts and also helped employees launch new careers. 
+- [Uncovering the Secret Powers of MailChimp Employees Through Apprenticeships](https://blog.mailchimp.com/uncovering-the-secret-powers-of-mailchimp-employees-through-apprenticeships/) - by MailChimp. Takeaway: MailChimp created a 90-day apprenticeship program for employees to explore their interests and curiosity about other roles. The program has strengthened diversity efforts and also helped employees launch new careers.
+
+- [When Mentoring Turns Toxic](https://qz.com/526226/when-mentoring-turns-toxic/) - by Lorraine Duffy Merkl. Takeaway: "In a best-case scenario, mentors induct young people into the traditions of their professions. But this dynamic can set the stage for destructive behavior, McClelland writes. Sometimes mentors try to stamp out daring ideas that threaten long-held principles in their fields. Others may see themselves as “gatekeepers” whose role is to cut upstarts down to size. And basic narcissism may lead mentors to act out when they feel threatened by promising protégés. Mentoring relationships can also go awry when young professionals feel beholden to their advisers."
 
 ### Performance Reviews
 “We see things not as they are but as we are.” Giving reviews is a place where bias lurks. Understand the cognitive bias cheatsheet and mental models list and you’ll at least acknowledge that we’re all biased.
