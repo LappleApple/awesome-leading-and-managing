@@ -98,6 +98,8 @@
 
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - by Charles Duhhig. Takeway: The best teams are supportive and team members are sensitive to each others' feelings and needs.
 
+- [What Is It Like to Work at Quip?](https://www.quora.com/What-is-it-like-to-work-at-Quip/answer/Edmond-Lau?share=eef74f95) - by Edmond Lau. Takeaway: Quip invests in people and in coaching, expects people to work hard but not while burning out, aims for sustainability, respects people's lives outside of work, plans swiftly and thoughtfully to mitigate risk and complexity, and improves on its tooling (among other steps).
+
 - [Why Psychological Safety Matters and What to Do About It](https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/) - by Amy Edmondson and Jeff Polzer, Harvard Business School. Takeaway: "Even small acts that seem inconsequential at the time can pave the way for larger contributions that carry more weight. By creating a team climate that encourages people to embrace potentially risky contributions, the team will be rewarded with better decisions, motivated members, and improved performance."
 
 - [Working On The Right Thing](https://medium.com/redbubble/working-on-the-right-thing-faeb1af73cfe) - by Tom Sommer. A lot of happiness and productivity is thrown away because some of your employees are mismatched to the tasks they work on. By assessing our team on Ability, Affinity and Ambition we can do better.
