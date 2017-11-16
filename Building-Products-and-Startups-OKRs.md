@@ -66,6 +66,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Applying OKRs](https://dannorth.net/2017/05/01/applying-okrs) - by Dan North. Takeaway: Insights from Dan about working with companies applying Objectives and Key Results; do's and dont's. 
 
+- [Awesome-OKR](https://github.com/domenicosolazzo/awesome-okr) - by Domenico Solazzo. Takeaway: an Awesome List of OKR-related decks, articles and videos.
+
 - [Beyond OKRs: The Formula for High Performing Teams](http://eleganthack.com/beyond-okrs-the-formula-for-high-performing-teams/) (video) - by Christina Wodtke. Takeaway: the creator of Radical Focus talks about different kinds of teams, team-building, experiential learning, and more.
 
 - [Learn OKR](http://felipecastro.com/en/okr/) - by Felipe Castro. Takeaway: A comprehensive resource of information on how to create and plan to OKRs. Includes a link to a free, downloadable book.
