@@ -72,4 +72,6 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Learn OKR](http://felipecastro.com/en/okr/) - by Felipe Castro. Takeaway: A comprehensive resource of information on how to create and plan to OKRs. Includes a link to a free, downloadable book.
 
+- [Set Goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) - by re:Work. Takeaway: a step-by-step guide to creating, developing and grading OKRs. 
+
 - [Why OKRs Are Not Delivering the Result Executive Managers Expect](https://luis-goncalves.com/okrs/?__s=zmnhwriwrwhonuvpmtq8) - by Veronika Goncalves. Takeaway: "In many cases, when organizations apply OKRs, they apply the process the in the same format as Management by Objectives: using a Top-Down Approach. But this format does not create value for the organization because the top managers do not understand what the customer’s real problems are. When defining the objectives, they are usually not in alignment with the company’s current reality." Also, OKRs might not be the right framework for every company; consider options like agile portfolio management.
