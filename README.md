@@ -30,7 +30,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauritaapplez) found out about 
 * "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
 * "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan<br>
 * "A leader is best when people barely know he exists, when their work‘s done, her aim fulfilled, they will say: we did it ourselves." — Lao Tzu*
-* "People need to stop using the phrase "natural-born leader." No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317)
+* "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317)
 
 ## Contribute Your Favorites
 Please share/promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
