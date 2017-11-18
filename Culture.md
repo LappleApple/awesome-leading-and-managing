@@ -22,9 +22,7 @@
 
 - [Crush the Wall!…of your Departments to Build 100% Agile Company. This Is How We Did It](https://www.linkedin.com/pulse/crush-wallof-your-departments-build-100-agile-company-tomas-laboutka) - by Tomas Laboutka. Takeaway: "Without full alignment and team empowerment, a company will not be able to make good decisions and execute quickly. Some studies point out that for every 1 hour of work done by product teams, 48 minutes is spent waiting for a decision to be made. That means in one 8-hour day, 3.5 hours is dedicated to waiting. This is crazy."
 
-- [Culture is the Behavior You Reward and
-  Punish](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e) - by Jocelyn Goldfein. Takeaways: Employees will work to emulate other
-  successful employees. Success is what happens _publically_. If successful people in a company all behave the similarly, then alignment and culture flow from it.
+- [Culture Is the Behavior You Reward and Punish](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e) - by Jocelyn Goldfein. Takeaway: Employees will work to emulate other successful employees. Success is what happens _publicly_. If successful people in a company all behave similarly, then alignment and culture flow from that.
 
 - [Culture Is the Spec, Process Is the Code](https://medium.com/@richarmstrong/culture-is-the-spec-process-is-the-code-ccb0df70514f) - by Rich Armstrong. Takeway: Create every process around your culture. Just like your devs need specs in order to know what code to write, your company needs processes in order to implement culture. 
 
