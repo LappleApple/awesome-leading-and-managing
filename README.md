@@ -19,6 +19,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauritaapplez) found out about 
 - [For Developers: Software Craftspersonship, Teamwork, Technical Debt](For-Developers-Teamwork-TechDebt.md)
 - [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
 - [Leader List](Leader-List.md)
+- [Leadership Media](Leadership-Media.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
 - [Meetings and Time Management](Meetings-and-Time-Management.md)
 - [Motivation and “Retention”](/Motivation-Retention.md)
