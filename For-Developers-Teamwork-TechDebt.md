@@ -1,15 +1,5 @@
 ## When You're Not a "Manager": Leadership for Developers
 
-### Blogs, Websites, Misc. Resources
-
-- [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - a very long list of engineering-related podcasts in several languages.
-
-- [ConferenceList](https://conferencelist.io/) - by Cezar Floroiu. A list of conferences around the world. Get out there and make your voice heard.
-
-- [Practicing Developer](https://practicingdeveloper.com/) - by Gregory Brown, author of O'Reilly's "Programming Beyond Practices."
-
-- [The Ultimate List Of Developer Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/) - by John Sonmez. Includes the Changelog, the Simple Programmer Podcast, Developer on Fire, and dozens of other podcasts for software developers, organized into topics/sections.
-
 ### Software Craftspersonship
 
 - [Active Learner — How Developers Keep Learning](https://medium.com/dennis-nerush/active-learner-how-developers-keep-learning-1309b91f1ae6) - by Dennis Nerush. Takeaway: "the kind of developers we want to hire and be part of our company and our teams ... are not expert beginners and they are not necessary real experts. But they are aware of what they know and most importantly, what they don’t know. They are on the path to someday become real experts. To go in this path they cannot rely only on what their job teaches them and 'out of the box' just working solutions—they must actively learn."
