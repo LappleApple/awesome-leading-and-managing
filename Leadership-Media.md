@@ -3,6 +3,8 @@ Some of our favorite resources for new insights about leadership and management.
 
 ### Blogs
 
+- [Bonusly blog](https://blog.bonus.ly/) - by Bonusly. Articles on hiring, firing, workplace culture, diversity and inclusion, feedback and more.
+
 - [Practicing Developer](https://practicingdeveloper.com/) - by Gregory Brown, author of O'Reilly's "Programming Beyond Practices."
 
 ### Newsletters
