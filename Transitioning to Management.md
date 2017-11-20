@@ -118,6 +118,8 @@
 
 ### The VP of Engineering Role
 
+- [The CTO to VP Engineering Fork](https://insidedigitalocean.com/the-cto-to-vp-engineering-fork-74919f9c4066) - by Julia Austin. Takeaway: "When you’ve decided it’s time to fork that technology leadership role and have both a CTO and a VPE, look for someone eager to create a partnership. Someone who prefers to lean into GSD and growing teams and who values the technology leadership, vision and evangelism of your CTO. Be leery of career CTOs who seek a role as VPE at your company — they may say they’re willing to be in charge of GSD, but could easily step on your CTOs toes."
+
 - [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/) - by Martin Casado. Takeaway: A VPE is responsible for product planning, building the engineering team and culture, ensuring execution, maintaining morale, delivering quality releases on time.
 
 - [The Role of a VP of Engineering](https://blog.brunomiranda.com/the-role-of-a-vp-of-engineering-648a09a3ad56) - by Bruno Miranda. Takeaway: VPEs are measured by the success of their team; set process in terms of "*why* we do what we do"; keep coding; manage up and down.
