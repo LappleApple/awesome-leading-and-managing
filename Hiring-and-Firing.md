@@ -93,6 +93,8 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 
 - [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers) - by Ammon Bartram (Triplebyte). Takeaway: Ask questions similar to real work. Ask multipart questions. Avoid hard questions. Make decisions based on max skill, not average/minimum skill.  Most programmers prefer interviews to trials/take-homes, even though interviews aren't the best way to evaluate people.
   
+- [How to Make Tech Interviews a Little Less Awful](https://medium.com/@racheltho/how-to-make-tech-interviews-a-little-less-awful-c29f35431987) - by Rachel Thomas. Takeaway: Don't believe that the smartest individuals make for the smartest teams. Think about whether you're hiring people just like you/yourselves; and consider false negatives. "[I]f an entire industry’s interview processes are biased against a particular group of people, members of that group will have a hard time getting hired anywhere, regardless of how talented they are." Based your interviews around these factors: It reesembles actual work the candidate would be doing in their job; clear rubrics; consistent and standardized; don’t have an elite-candidate fast path.
+
 - [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9) - by Jeff Jenkins and David Park. Takeaway: offers an overview of a three-hour take-home they give and use for onsite code review.
 
 - [Interviewing](https://www.xaprb.com/blog/interviewing/) - by Baron Schwartz. Takeaway: Understand what you're hiring for, ask questions about past performance only, and gauge potential by "asking questions about what challenged them and how they responded to it."
