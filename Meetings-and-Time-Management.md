@@ -46,10 +46,9 @@
 
 - [Daily Planning — Get Ready for the Current Day](https://impactspheres.co/daily-planning-get-ready-for-the-current-day-91ffbd243c26) - by Jurgen Appelo. Takeaway: a five-part exercise to help you prioritize the day's work and break it down into achievable chunks.
 
-- [Data Driven Time Management](http://okdork.com/time-management-tips/) - By
-  Noah Kagan at Sumo. Takeaway: Measure your time and then use that data to
-  decide how you really want to be spending your time. This does not just mean
-  office time!
+- [Data Driven Time Management](http://okdork.com/time-management-tips/) - by Noah Kagan at Sumo. Takeaway: Measure your time and then use that data to decide how you really want to be spending your time. This does not just mean office time!
+
+- [Does Your Solution Solve the Right Problem?](https://blog.intercom.com/does-your-solution-solve-the-right-problem/) - by Brian. Takeaway: "[B]efore breaking ground on any project, write down the problem you’re trying to solve and why you’re solving it. Get that reviewed before you make any decisions or write any code. And make sure you do it every time before you start building a new piece of software. Do this, and you’ll avoid the many pitfalls that can keep an engineer from solving the right problem." Why we solve the wrong problems: technology-driven development, premature frameworks, sunk cost roadmaps.
 
 - [EMAIL TEMPLATE: Help a Programmer Stay Focused, Please](https://medium.com/@orenellenbogen/email-template-help-a-programmer-stay-focused-please-b9fcde4bfb8) - by Oren Ellenbogen. Takeaway: "It’s your responsibility to handle incoming requests from humans, to say 'no' or at least 'later' when appropriate. Humans learn, they just need feedback." Includes a template to send people when distractions/disruptions become unmanageable/affect productivity.
 
