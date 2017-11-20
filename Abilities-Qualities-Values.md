@@ -45,3 +45,5 @@
 - [Team Trust Canvas](https://inteamwetrust.com/team-trust-toolbox/team-trust-canvas/) - by In Team We Trust. Takeaway: a one-page planning canvas to help your team build trust explicitly.
 
 - [Trust Anti-Pattern Cards](https://inteamwetrust.com/team-trust-toolbox/trust-anti-pattern-cards/) - by In Team We Trust. Takeaway: a set of cards that cover antipatterns like blame, broken schedules, conflict. You can use the cards in retrospective exercises to identiy issues and resolve them.
+
+- [Who Should Own Your Engineering Team’s Skill Debt?](https://medium.com/@orenellenbogen/who-should-own-your-engineering-team-s-skill-debt-3c3f07bbefe9) - by Oren Ellenbogen. Takeaway: "Increasing skill debt is an outcome of an organization where trust is deteriorating." This is because lack of trust encourages people to stick to what they already know, instead of stretching their skills and knowledge and experimenting. This leads to stagnation. Watch out for lack of empathy, disinterest, blame and cynicism. Managers and team leads must work together to resolve.
