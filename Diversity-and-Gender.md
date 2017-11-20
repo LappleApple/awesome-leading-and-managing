@@ -24,6 +24,8 @@
 
 - [Hire More Women in Tech](https://www.hiremorewomenintech.com/) - by Karen Schoellkopf. A wealth of information and data about why companies should hire more tech women and why they don't. Includes lists of reading materials, women in tech groups, and other valuable information.
 
+- [“How Do We Hire More Women?”](https://kateheddleston.com/blog/how-to-build-diverse-teams) - by Kate Heddleston. Takeaway: The question you should be asking isn’t, “how can we hire more women?” The question you should be asking is: how can we make our company suck less for women and people of color? Or, in more polite terms: how do you create a workplace that is fundamentally better for women and people of color than the ones that exist at tech companies today?"
+
 - [How Fragile Deployments Hurt Diversity](https://home.opsolutely.com/how-your-bad-engineering-tooling-is-hurting-your-ability-to-hire-diversity/) - by Kate Heddleston. Takeaway: "Here are two things that are true: the single most expensive thing on your engineering team is engineers, and fragile teams are terrible places to work. Which means – the biggest problem with fragile deployments isn’t just that your code might break; the real problem is that you will lose your valuable engineers because of bad workplace culture. In the long run, a broken culture can be more costly than outages. It can even kill your business."
 
 - [How Men and Women See the Workplace Differently](http://graphics.wsj.com/how-men-and-women-see-the-workplace-differently/) - by Nikki Waller. A *Wall Street Journal* article on a study conducted by LeanIn.org and MicKinsey. "Data show that men win more promotions, more challenging assignments and more access to top leaders than women do. Men are more likely than women to feel confident they are en route to an executive role, and feel more strongly that their employer rewards merit."
@@ -31,9 +33,9 @@
 - [How Our Engineering Environments Are Killing Diversity (and How We Can Fix It)](https://www.youtube.com/watch?v=kNke_4WOWAU) (video) - by Kate Heddleston.
 
 - [How Our Engineering Environments Are Killing Diversity: Introduction](https://kateheddleston.com/blog/how-our-engineering-environments-are-killing-diversity-introduction) - by Kate Heddleston.
-
-- [“How Do We Hire More Women?”](https://kateheddleston.com/blog/how-to-build-diverse-teams) - by Kate Heddleston. Takeaway: The question you should be asking isn’t, “how can we hire more women?” The question you should be asking is: how can we make our company suck less for women and people of color? Or, in more polite terms: how do you create a workplace that is fundamentally better for women and people of color than the ones that exist at tech companies today?"
  
+- [How to Move Past the Pipeline Problem to Reach Your Diversity Goals](https://talentsonar.com/blog/webinar-dont-call-it-a-skills-shortage/) (video/webinar) - by Elizabeth Ames and Laura Mather. Takeaway: "Companies continually hire from a traditional talent pool that is only 35% of the US population, when they should be looking at a much broader swath of the population. There is a qualified, untapped talent pool of women, underrepresented minorities, LGBT, veterans, etc. that comprises more than 65% of the US."
+
 - [If You Can Use a Fork, You’re “Technical”](https://medium.com/@Aprilw/if-you-can-use-a-fork-youre-technical-352e21d92c87) - by April Wensel. Takeaway: "'Technical' is not a useful adjective to describe human beings," because it's vague; it hides bias in hiring decisions; it blocks technical contributions from "non-technical" employees; and limits potential. "There’s no magic to coding or any other technical skills. People are not 'technical' or 'not technical.' We all have a variety of skills already and the potential to learn any others that we choose."
 
 - [Imposter Syndrome + Cognitive Behavioral Therapy Resources](https://nerdneha.tumblr.com/post/99575500980/imposter-syndrome-cognitive-behavioral-therapy) - by Neha. A good collection of resources on Imposter Syndrome and Cognitive Behavioral Therapy.
