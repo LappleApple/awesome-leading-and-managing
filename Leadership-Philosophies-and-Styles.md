@@ -30,7 +30,7 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [How Do I Manage People?](https://medium.com/@lennymarkus/how-do-i-manage-people-93018dc19fb4) - by Lenny Markus. Takeaway: Based around questions posed in a Twitter thread kicked off by Charity Majors, this article offers a well-rounded view of all aspects of a manager's duties, along with personal insights from the author.
 
-- [How Much To Manage (“Management Energy Units”)](https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140) - by Steven Sinofsky. Takeaway: Discusses the various level-directions of management (down to reports, up to your boss, sideways to your peers), as well as how much time an individual level should generally be spending on them vs "work". Make sure you are spending the right amount of time managing in the right areas.
+- [How Much to Manage (“Management Energy Units”)](https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140) - by Steven Sinofsky. Takeaway: Discusses the various level-directions of management (down to reports, up to your boss, sideways to your peers), as well as how much time an individual level should generally be spending on them vs "work". Make sure you are spending the right amount of time managing in the right areas.
 
 - [How Strong Is Your Leadership Toolkit?](https://blog.bonus.ly/how-strong-is-your-leadership-toolkit) - by Alex Saez. Takeaway: Establish strong relationships, understand employee needs, and possess the appropriate "hard" and "soft" skills.
 
@@ -40,7 +40,7 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [In Just 8 Words, Uber's New CEO Gave a Master Class in Leadership](https://www.inc.com/amp/180941.html) - by Jessica Stillman. Takeaway: Uber CEO Dara Khosrowshahi, who took over from Travis Kalanick, seems the reverse of his predecessor by expressing vulnerability. In his sign-off, he wrote to his team: "I have to tell you I am scared." Vulnerability is an underrated leadership skill.
 
-- [The Key To Employee-Empowering Leadership](https://www.forbes.com/sites/forbescoachescouncil/2017/06/14/the-key-to-employee-empowering-leadership/#74f950561267) - by Ed Krow, an HR consultant. Takeaway: Empower people, let go, learn to take calculated risks, create incentives/compensation.  
+- [The Key to Employee-Empowering Leadership](https://www.forbes.com/sites/forbescoachescouncil/2017/06/14/the-key-to-employee-empowering-leadership/#74f950561267) - by Ed Krow, an HR consultant. Takeaway: Empower people, let go, learn to take calculated risks, create incentives/compensation.  
 
 - [Lazy Leadership: Thinking of Your Org as a Machine](https://medium.com/flow/lazy-leadership-8ba19e34f959#.mixfpu15t) - by Andrew Wilkinson. Takeaway: "It’s about spending time on what matters and what you’re good at, then leaving everything else to your team. Giving up on the idea that you have to drive yourself into the ground in order to run a successful company, and thinking about your business as a machine that you design and optimize, instead of becoming a worn out cog within."
 
@@ -65,6 +65,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 - [On Being a Bad Manager](https://m.signalvnoise.com/on-being-a-bad-manager-e56e1fb3d9dc) - by Jason Fried. Takeaway: "Observation is no substitute for doing." 
 
 - [On Leadership vs Management](https://dbsmasher.com/2017/09/30/on-leadership-vs-management/) - by dbsmasher. Takeaway: a "flight of ideas" about the ability of all members of an organization to be leaders, and what to do to cultivate that mindset (and what not to do.
+
+- [Our 6 Must Reads for Scaling Yourself as a Leader](http://firstround.com/review/our-6-must-reads-for-scaling-yourself-as-a-leader/) - by FirstRound. Takeaway: Comes with outside resources that support six planks. Understand and engineer your calendar around your energy (physical, emotional and mental); say "not now, not ever" using "no" templates; avoid decision debt — create process and structure that doesn't need you; challenge the "when" to make speed a habit; beat burnout with prioritization and communication techniques; and balance internal and external movitations to see yourself and decisions more clearly.
 
 - [The Principles of Quantum Team Management](http://firstround.com/review/the-principles-of-quantum-team-management/) - by James Everingham. Takeaway: "Setting up your team the way you would set up a machine can give you a ton of leverage — as long as you realize how complicated and unpredictable the people in that machine can be."
 
