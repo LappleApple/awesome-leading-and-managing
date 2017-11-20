@@ -6,7 +6,7 @@
 
 - [How HR Can Become Agile (and Why It Needs To)](https://hbr.org/2017/06/how-hr-can-become-agile-and-why-it-needs-to) - by Jeff Gothelf. Takeaway: "In an agile organization, HR needs to provide the same services it’s always provided — hiring, professional development, performance management — but in ways that are responsive to the ongoing changes in the culture and work style of the organization."
 
-- [What is "People Operations" and Why Should You Care?](https://www.linkedin.com/pulse/20141016192150-30417852-what-is-people-operations-and-why-should-you-care/) - by Doug Devlin. Takeaway: "People Operations is based on the simple truth: to hold on to your talent, you have to understand and “take care” of your talent. Allowing employee choice based on analytics as opposed to emotional mandates is the cornerstone of People Operations. "
+- [What Is "People Operations" and Why Should You Care?](https://www.linkedin.com/pulse/20141016192150-30417852-what-is-people-operations-and-why-should-you-care/) - by Doug Devlin. Takeaway: "People Operations is based on the simple truth: to hold on to your talent, you have to understand and “take care” of your talent. Allowing employee choice based on analytics as opposed to emotional mandates is the cornerstone of People Operations. "
 
 ### Dev Leveling Guides—aka Engineering Ladders
 It’s hard to get these right. Just b/c they work for one org doesn’t mean they’ll work for yours.
