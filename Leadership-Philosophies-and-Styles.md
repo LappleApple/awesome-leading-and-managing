@@ -20,6 +20,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [From College Dropout to CEO of a Billion-Dollar Company: 3 Leadership Lessons from the Founder of Hootsuite](https://www.cnbc.com/2017/10/05/3-leadership-lessons-from-hootsuite-ceo-ryan-holmes.html) - by Catherine Clifford. Takeaway: Start with the why, communicate often, and allow for facetime.
 
+- [The Future of Management](https://shift.newco.co/the-future-of-management-5914beda43d2) - by Esko Kilpi. Takeaway: "The future is accordingly described as goals and performance targets. Following this logic, the role of management is to control the movement into a chosen future. But what management really is, is about reduction of anxiety. Anxiety levels in the experiences of individuals most often depend on the perceived level of control people have over themselves and their environment. This drives our need to believe that someone is, or should be, in control."
+
 - [Good Leaders Are Good Learners](https://hbr.org/2017/08/good-leaders-are-good-learners) - by Lauren A. Keating, Peter A. Heslin and Susan J. Ashford. Takeaway: "[R]esearch on leadership development shows that leaders who are in learning mode develop stronger leadership skills than their peers." Being experienced helps, but isn't enough.
 
 - [Google Employees Weighed in on What Makes a Highly Effective Manager. Technical Expertise Came in Dead Last](https://www-inc-com.cdn.ampproject.org/c/s/www.inc.com/amp/154561.html) - by Michael Schneider. Takeaway: Tech expertise is worth little if a manager is not committed to communicating clearly/effectively, developing people and removing obstacles so they can get things done.
