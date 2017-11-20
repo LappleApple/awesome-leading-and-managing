@@ -10,6 +10,8 @@
 
 - [First Thoughts on Developer Gravity](http://redmonk.com/jgovernor/2017/07/28/first-thoughts-on-developer-gravity/) - by James Governor. Takeaway: A post that's a kickoff to future exploration, but already offers insights about "developer gravitiy" (where devs "live") and the importance of developer experience (which decreases with poor documentation, bug fixes and examples). "Developers are certainly not immune to the perception of momentum for environments they might target. Tensor Flow, for example, is seen as a hot technology. GitHub makes developer momentum more obvious than ever. 25k forks – sign me up! Developers want to adopt technologies than other developers find interesting. Herd mentality is a thing."
 
+- [Forget Velocity, Let's Talk Acceleration](https://www.youtube.com/watch?v=Lbcyyu8XB_Y) (video) - by Jessica Kerr. Takeaway: a Goto Copenhagen talk about acceleration: deliberate changes in speed and direction to do the most valuable work.
+
 - [The Future of Programming (video)](https://www.youtube.com/watch?v=ecIWPzGEbFc) - by Uncle Bob Martin. Takeaway: A history of software development, with context on how developers have solved problems in the industry and where the profession's going.
 
 - [Getting Feedback](http://daydreamsinruby.com/getting-feedback/) - by Allison (Sheren) McMillan. Takeaway: Ask your teammates for feedback so you can continue growing and developing. Includes short lists of questions you can ask.
