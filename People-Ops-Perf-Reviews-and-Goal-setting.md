@@ -65,6 +65,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [How to Be a Better Manager by Remembering 5 Simple Phrases](https://getlighthouse.com/blog/how-to-be-a-better-manager/) - by Lighthouse. Takeaway: They are, “...that sounds important to you, let me write that down” (helps you keep your promises, and is a signal that you value what they said); "...what can we each do by next time to make progress on this?”; “Yes and...”; "...tell me about the last time that happened"; "...together...”
 
+- [How to Get to the Core by Asking the Right Questions](https://www.tombartel.me/blog/how-to-get-to-the-core/) - by Tom Bartel. Takeaway: Asking why, listening to someone before making assumptions and stating them, and achieving buy-in are critical to getting someone to adapt their behavior. Mistakes like suggestive questions, "you have to fix it" messaging and inflexible plans will alienate and not solve the issue. 
+
 - [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d) - by Gabriel Weinberg. A comprehensive list of mental models to make you aware of biases and assumptions.
 
 - [A Note on Feedback](http://andrewspittle.com/2016/02/23/a-note-on-feedback/) - by Andrew Spittle. Takeaway: How to use the 3-2-1-Oh performance feedback chat, "a mix of a team member writing a self-assessment and a team lead writing a review. The conversation centers around answers to these bullet points: What are 3 things you’ve done well? What are 2 areas or skills you’d like to develop? What’s one way your team lead or Automattic itself can support you? And, oh, can you write a sentence or two about how you see your career developing?"
