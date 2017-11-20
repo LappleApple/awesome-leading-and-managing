@@ -41,6 +41,8 @@
 
 - [Why Motivating Others Starts with Using the Right Language](http://99u.com/articles/25567/why-motivating-others-starts-with-using-the-right-language) - by David Marquet. Takeaway: "the next time one of your subordinates tries to trick you into telling them what to do, take the time to ask them what they think you should do. Then be quiet and listen. With time, these incremental changes will have a profound impact not only on your organization’s effectiveness, but on the lives of its people."
 
+- [Why Today’s Workplace Creates Emotional Conflicts: The Dark Side of Success](https://www.huffingtonpost.com/douglas-labier/work-stress_b_1305477.html) - by Douglas LaBier. Takeaway: "Periodically a new survey appears, documenting depression in the workplace and dissatisfaction with leadership. Other research confirms that demoralization rises when work isn’t very engaging; or when opportunities for continued growth and expanding competencies are too limited or blocked. It’s time we recognize the negative psychological impact that the management culture and the 'requirements' for success can have on people and the organizations they work for. They exist at great cost to both."
+
 ### Retention
 
 - [Coaching Should Be The New Free Lunch in Tech](https://blog.keen.io/coaching-should-be-the-new-free-lunch-in-tech-7850690cc0fd) - by Lisa Nielsen. Takeaway: "Apparently, having an employer invest in your growth as a human makes a big impact on an employee’s willingness to stay put." About Keen IO's decision to create an internal team of coaches to offer coaching all employees; 91% have opted in to take advantage of the service.
