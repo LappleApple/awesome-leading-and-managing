@@ -1,13 +1,5 @@
 ## People Ops, Performance Reviews and Goal-setting
 
-### People Operations/HR
-
-- [From HR to People Ops: When and Why To Start a People Team](https://open.buffer.com/people-team/) - by Courtney Seiter at Buffer. Covers when to start a People team, and what to consider: team size and/or growth rate, start before you need one, and your reasons. Four why's to start a team: to change the world, increase diversity, succeed, and allow your teammates to succeed.
-
-- [How HR Can Become Agile (and Why It Needs To)](https://hbr.org/2017/06/how-hr-can-become-agile-and-why-it-needs-to) - by Jeff Gothelf. Takeaway: "In an agile organization, HR needs to provide the same services it’s always provided — hiring, professional development, performance management — but in ways that are responsive to the ongoing changes in the culture and work style of the organization."
-
-- [What Is "People Operations" and Why Should You Care?](https://www.linkedin.com/pulse/20141016192150-30417852-what-is-people-operations-and-why-should-you-care/) - by Doug Devlin. Takeaway: "People Operations is based on the simple truth: to hold on to your talent, you have to understand and “take care” of your talent. Allowing employee choice based on analytics as opposed to emotional mandates is the cornerstone of People Operations. "
-
 ### Dev Leveling Guides—aka Engineering Ladders
 It’s hard to get these right. Just b/c they work for one org doesn’t mean they’ll work for yours.
 
@@ -48,6 +40,14 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [When Mentoring Turns Toxic](https://qz.com/526226/when-mentoring-turns-toxic/) - by Lorraine Duffy Merkl. Takeaway: "In a best-case scenario, mentors induct young people into the traditions of their professions. But this dynamic can set the stage for destructive behavior, McClelland writes. Sometimes mentors try to stamp out daring ideas that threaten long-held principles in their fields. Others may see themselves as “gatekeepers” whose role is to cut upstarts down to size. And basic narcissism may lead mentors to act out when they feel threatened by promising protégés. Mentoring relationships can also go awry when young professionals feel beholden to their advisers."
 
+### People Operations/HR
+
+- [From HR to People Ops: When and Why To Start a People Team](https://open.buffer.com/people-team/) - by Courtney Seiter at Buffer. Covers when to start a People team, and what to consider: team size and/or growth rate, start before you need one, and your reasons. Four why's to start a team: to change the world, increase diversity, succeed, and allow your teammates to succeed.
+
+- [How HR Can Become Agile (and Why It Needs To)](https://hbr.org/2017/06/how-hr-can-become-agile-and-why-it-needs-to) - by Jeff Gothelf. Takeaway: "In an agile organization, HR needs to provide the same services it’s always provided — hiring, professional development, performance management — but in ways that are responsive to the ongoing changes in the culture and work style of the organization."
+
+- [What Is "People Operations" and Why Should You Care?](https://www.linkedin.com/pulse/20141016192150-30417852-what-is-people-operations-and-why-should-you-care/) - by Doug Devlin. Takeaway: "People Operations is based on the simple truth: to hold on to your talent, you have to understand and “take care” of your talent. Allowing employee choice based on analytics as opposed to emotional mandates is the cornerstone of People Operations. "
+
 ### Performance Reviews
 “We see things not as they are but as we are.” Giving reviews is a place where bias lurks. Understand the cognitive bias cheatsheet and mental models list and you’ll at least acknowledge that we’re all biased.
 
@@ -60,6 +60,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 - [Decisions: What Makes Someone Have “Impact” Anyway?](https://medium.com/@skamille/decisions-7eed2bae82b3) - by Camille Fournier. Takeaway: Expect people to make impact within the scope of the level they are operating at, so talk about impact and scope almost interchangeably. No matter what level: Good decisions → Trust → More responsibility → Impact.
 
 - [Employee Reviews – Tips to Use Them as Motivation](http://katemats.com/employee-reviews-tips-use-them-as-motivation/) - by kate{mats}. Takeaway: keep them more positive than negative; attach constructive suggestions to negative points; ensure feedback is accurate and continuous; set clear expectations and guidance on how to achieve different ratings; round up when in doubt, end positively.
+
+- [5 Keys to Building a Human-Centric Performance Management Process](https://blog.bonus.ly/5-keys-to-building-a-human-centric-performance-management-process) - by Johnny Duncan. Takeaway: Build genuine relationships, prioritize psychological safety, check-in regularly with people before checking out, recognize and appreciate people instead of only giving them rewards, and keep the process simple.
 
 - [Five Ways to Receive Negative Feedback Well](https://m.signalvnoise.com/five-ways-to-receive-negative-feedback-well-f9edd3d27097#---0-273) - by Claire Lew. Takeaway: "How you receive feedback — especially negative feedback — sets the precedent for how welcome honest, forthcoming perspectives are in your company. Dismiss feedback on a whim or become overly defensive, and you’re not likely to hear critical feedback from that person again."
 
