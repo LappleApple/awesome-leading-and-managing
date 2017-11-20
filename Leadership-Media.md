@@ -27,4 +27,6 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - a very long list of engineering-related podcasts in several languages.
 
+- [People Stack](https://medium.com/@JBunky) - by Jen Bunk. Interviews with management and leadership experts and thinkers to help tech managers build thriving high-performing teams.
+
 - [The Ultimate List Of Developer Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/) - by John Sonmez. Includes the Changelog, the Simple Programmer Podcast, Developer on Fire, and dozens of other podcasts for software developers, organized into topics/sections.
