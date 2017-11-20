@@ -72,6 +72,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Learn OKR](http://felipecastro.com/en/okr/) - by Felipe Castro. Takeaway: A comprehensive resource of information on how to create and plan to OKRs. Includes a link to a free, downloadable book.
 
+- [OKRs](http://eleganthack.com/category/okrs-2/) - by Eleganthack. Takeaway: articles on personal OKRs, "one objective to rule them all," and miscellaneous resources.
+
 - [OKRs.com](http://www.okrs.com/okrs-blog/) - by Ben Lamorte. Takeaway: a resource for anyone using Objectives and Key Results (OKRs) or considering using OKRs to make measurable progress on their most important goals at work.
 
 - [Set Goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) - by re:Work. Takeaway: a step-by-step guide to creating, developing and grading OKRs. 
