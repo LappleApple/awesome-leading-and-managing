@@ -7,6 +7,8 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [Practicing Developer](https://practicingdeveloper.com/) - by Gregory Brown, author of O'Reilly's "Programming Beyond Practices."
 
+- [Retrospective.co](https://retrospective.co/) - by Anonymous. A strategy guide for tech managers, with articles on culture, leadership, mentoring and more. 
+
 ### Newsletters
 
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/) - by GitPrime. A weekly email covering trends in engineering leadership, productivity, culture, and scaling development teams.
