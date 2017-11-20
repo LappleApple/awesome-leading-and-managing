@@ -9,17 +9,19 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [Retrospective.co](https://retrospective.co/) - by Anonymous. A strategy guide for tech managers, with articles on culture, leadership, mentoring and more. 
 
+### Misc.
+
+- [ConferenceList](https://conferencelist.io/) - by Cezar Floroiu. A list of conferences around the world. Get out there and make your voice heard.
+
 ### Newsletters
 
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/) - by GitPrime. A weekly email covering trends in engineering leadership, productivity, culture, and scaling development teams.
 
 - [The Heartbeat](https://knowyourcompany.com/learn/newsletter) - by Claire Lew, CEO of Know Your Company. A bi-weekly newsletter on leadership, company culture, employee engagement and feedback.
 
+- [The Looking Glass](http://www.juliezhuo.com/design/mailinglist.html) - by Julie Zhuo. A newsletter about "product and design, this industry's ups and downs, hopes and dreams, failure and self-doubt, how you actually do X, and the things that matter most to [readers]."
+
 - [Software Lead Weekly](http://softwareleadweekly.com/) - by Oren Ellenbogen. A weekly email for busy people who care about people, culture and leadership.
-
-### Misc.
-
-- [ConferenceList](https://conferencelist.io/) - by Cezar Floroiu. A list of conferences around the world. Get out there and make your voice heard.
 
 ### Podcasts
 
