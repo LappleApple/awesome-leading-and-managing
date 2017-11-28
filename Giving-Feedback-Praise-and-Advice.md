@@ -6,6 +6,8 @@
 
 - [Feedback Doesn’t Have to Be Scary](https://chrismurman.com/2017/02/28/feedback-doesnt-have-to-be-scary/) - by Chris Murman at ThoughtWorks. Takeaway: what you can do when you rely upon feedback and reviews from multiple people. Ask for feedback frequently and proactively, in small measures. "Giving your co-workers some specific questions or topics you want to discuss in advance focuses the conversation. It also steers the conversation away from personal feelings. The giver can focus on helping me."
 
+- [Feedback That Gives Focus](https://alistapart.com/article/feedback-that-gives-focus) - by Dave Peth. Takeaway: "[L]ike a good story, good feedback can take us out of ourselves, allowing us to see the work more clearly. It can remove the artificial barrier between feedback giver and receiver, refocusing both on shared goals. Change your habits around feedback, and you can change the story of your project."
+
 - [51 Things Your Employees Won't Tell You (Unless You Ask)](https://www.inc.com/john-brandon/51-things-your-employees-won-t-tell-you-unless-you-ask.html) - by John Brandon. Takeaway: A list of 51 reasons why your reports/employees aren't telling you what they really feel. At the top: "You don't listen."
 
 - [4 Tips for Leaders Helping Others Evolve Their Careers](https://opensource.com/open-organization/17/9/own-your-open-career) - by Allison Matlack. Takeaway: Set the context, invest in skill building, pull up a seat at the table (advocate for others) and open some doors.
