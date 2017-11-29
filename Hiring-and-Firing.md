@@ -119,8 +119,6 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 
 - [Thirteen Thousand, Four Hundred, Fifty-Five Minutes of Talking to Get One Job](http://kolesky.com/datums/job-search/) - by Jeff Kolesky. Takeaway: A first-person view of what would have made for better interviewing, with recommendations like "use homework assignments," "simulate the real world," and "help candidates prepare for the interview."
 
-- [This Is Why You Never End up Hiring Good Developers](https://qz.com/258066/this-is-why-you-dont-hire-good-developers/) - by Laurie Voss. Takeaway: "Interview techniques test skills that are at best irrelevant to real working life"; hire for what people can grow into, not what they've already done or can show on a whiteboard.
-
 - [Tired: Engineering Interviews; Hired: Engineering Auditions.](https://medium.com/@trek/tired-engineering-interviews-hired-engineering-auditions-5f9f00147a57) - by Trek Glowacki. Takeaway: A six-stage audition process that emphasizes candidates' strengths. The steps: What’re You Great At?; Who Can Evaluate That?; The Pitch; Show Me What You’ve Got; Evaluate the Individual; Evaluate the New Team.
 
 - [We Built Voice Modulation to Mask Gender in Technical Interviews. Here’s What Happened.](http://blog.interviewing.io/we-built-voice-modulation-to-mask-gender-in-technical-interviews-heres-what-happened/) - by Aline Lerner. Takeaway: No effect from voice pitch; women stop practicing interviews more often than men after bad feedback.
