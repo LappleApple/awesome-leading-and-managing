@@ -72,6 +72,8 @@
 
 - [How We Do Large Scale Retrospectives](https://labs.spotify.com/2015/11/05/large-scale-retros/) - by Henrik Kniberg. Takeaway: How decentralized retrospectives with tiered granularity helped Spotify hold large and meaningful retros. Breaking down large groups into teams organized around themes is the "scaling trick" here.
 
+- [The Overall Retrospective for Team and Stakeholders](https://age-of-product.com/overall-retrospective/) - by Stefan Wolpers. Takeaway: How to do a two-hour retrospective with 16 people, based on the LeSS framework's overall retrospective concept—modified to include all team members, not just team representatives.
+
 - [Retromat](https://plans-for-retrospectives.com/en/?id=31-127-66-29-102) - by Corinna Baldauf and Timon Fiddike. Activities for retrospectives, plus an eBook link.
 
 - [Retrospective Exercises](https://age-of-product.com/retrospective-exercises/) - by Stefan Wolpers. Takeaway: How to use Retromat, which aggregates lots of exercises for retrospectives, to change up your retros to keep them interesting and fresh.
