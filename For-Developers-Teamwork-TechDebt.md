@@ -74,8 +74,6 @@
 
 - [Scaling Your Software Becomes Increasingly Easier, but What About Scaling Your Team?](https://medium.com/@orenellenbogen/scaling-your-software-becomes-increasingly-easier-but-what-about-scaling-your-team-f8ab8e0da20f) - by Oren Ellenbogen. Takeaway: The five traits of a scalable team are 1. and aligned vision, 2. aligned, core values, 3. core values over individuals, 4. self-balance, and 5. having a sense of accomplishment.
 
-- [The Senior Engineer’s Guide to Helping Others Make Decisions](http://silverwraith.com/blog/2017/10/the-senior-engineers-guide-to-helping-others-make-decisions) - by Av. Takeaway: Senior developers should develop effective ways that allow their peers and junior developers to share their ideas in a collaborative way which favours improvement of proposed ideas instead of rejecting them. "Being a senior engineer means realising not everything should be done the way you want it to be."
-
 - [That's Not Our Code](http://ourbit.norbertoherz.com/2017/08/22/That-is-not-our-code/) - by Norberto Herz. Takeaway: "Keeping the right mindset and the correct culture is key in order to have an organization that understands their boundaries and when it is right to cross them." Hints at employing InnerSource, and addresses the conflicts and communication issues that can arise when autonomous teams are working in a microservices context.
 
 - [Thinking of the Next Developer](https://dev.to/dnimmo/thinking-of-the-next-developer) - by David Nimmo. Takeaway: before moving on to the next coding problem, take the time to save hassle for the next person joining your team or working with your code.
