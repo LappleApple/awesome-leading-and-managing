@@ -46,6 +46,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [Lazy Leadership: Thinking of Your Org as a Machine](https://medium.com/flow/lazy-leadership-8ba19e34f959#.mixfpu15t) - by Andrew Wilkinson. Takeaway: "It’s about spending time on what matters and what you’re good at, then leaving everything else to your team. Giving up on the idea that you have to drive yourself into the ground in order to run a successful company, and thinking about your business as a machine that you design and optimize, instead of becoming a worn out cog within."
 
+- [Lead at Your Best](https://www.mckinsey.com/global-themes/leadership/lead-at-your-best) - by Joanna Barsh and Johanne Lavoie. Takeaway: A five-step approach that focuses on raising self-awareness to enhance leadership. Find your strengths; practice the pause; forge trust; choose your questions wisely; and make time to recover.
+
 - [Leadership FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.e0uby6of3) - Essay by Henry Ward that offers a concise list of essential questions with clear, thought-provoking answers. For example: "How do I give negative feedback? *By being curious.*."
 
 - [Leadership Is a Quality That You Can Teach Yourself](https://qz.com/659038/leadership-is-a-quality-that-you-can-teach-yourself/?__s=ns1epkqjs8qj1ggjuafv) - by Christian Bonilla. Takeaway: "To be a successful leader, you have to learn to consider how your work affects others, and how to work with people to get things done. The higher up you go in any organization, the harder it is to get things done on your own. So invest in building relationships every step of the way, and you’ll have more people who want to see you succeed when your time comes."
