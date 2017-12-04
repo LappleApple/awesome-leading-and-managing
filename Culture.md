@@ -1,5 +1,7 @@
 ## Culture
 
+- [Avoiding Organizational Debt](https://medium.com/positiveslope/avoiding-organizational-debt-3e47760803a0) - by Scott Belsky. Takeaway: "organizational debt is the accumulation of changes that leaders should have made but didn’t." Consistently optimize how you work.
+
 - [The Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-03) (slides) - a deck about Buffer's unique culture, which reinforces transparency, self-improvement and positivity, among other elements.
 
 - [Buffer Sees Clear Benefits to Transparent Employee Salary Policy](https://opensource.com/open-organization/16/3/social-startup-buffer-transparency-reigns?sc_cid=701600000011jJkAAI) - by Bryan Behrenshausen. Takeaway: "At social media startup Buffer, a single leadership decision eliminated salary negotiation for new employees, preempted gender-based salary discrimination, and prompted a flood of job applications. The decision? Make all employee salaries transparent."
@@ -14,7 +16,7 @@
 
 - [Collaboration at Scale](https://medium.com/@ran_than/collaboration-at-scale-b27f17b4614a) - by Ranganathan Balashanmugam. Takeaway: "Collaboration becomes difficult with organizational growth. So, hierarchy may not be easily eliminated as the organization grows but can be implemented well — by respecting diversity and better ways of adopting and implementing authority and decision making. Choose a model that is not coming in the way of collaboration and works in the context of the organization."
 
-- [Company Culture is Shaped at the Top, and Forms at the Bottom](https://www.coderhood.com/on-company-culture/) - by Lorenzo Pasqualis. Takeaway: "A company culture is an overall personality that results from the interactions between its people, and the environment in which employees work. It includes elements such as mission, values, environment, ethics, expectations, mood, goals, politics, morals, rules and policies."
+- [Company Culture Is Shaped at the Top, and Forms at the Bottom](https://www.coderhood.com/on-company-culture/) - by Lorenzo Pasqualis. Takeaway: "A company culture is an overall personality that results from the interactions between its people, and the environment in which employees work. It includes elements such as mission, values, environment, ethics, expectations, mood, goals, politics, morals, rules and policies."
 
 - [The Company Isn’t a Family](https://m.signalvnoise.com/the-company-isnt-a-family-d24f26c3f3fe) - by David Heinemeier Hansson. Takeaway: "Whenever executives talk about how their company is really like a big ol’ family, beware. They’re usually not referring to how the company is going to protect you no matter what or love you unconditionally. You know, like healthy families would. The motive is rather more likely to be a unidirectional form of sacrifice: Yours."
 
@@ -60,7 +62,7 @@
 
 - [Lessons from 7 Highly Successful Software Engineering Cultures](https://techbeacon.com/lessons-7-highly-successful-software-engineering-cultures) - by Mitch Pronschinske. Takeaway: Common themes across these seven engineering cultures include removing everything that hinders productivity; having as few rules as possible; hiring adults; having smaller teams and shorter projects; being kind and modest; not focusing on blaming, and focusing on learning from mistakes. Dan Pink's autonomy, mastery, and purpose are also common themes. Diversity is also important for some of these companies because, as research shows, diverse teams are more effective than homogeneous ones.
 
-- [Let’s Talk About Your Plan to Run A Consequence-Free Company](https://mfbt.ca/lets-talk-about-your-plan-to-run-a-consequence-free-company-72ff4a095fec) - by Johnathan Nightingale. Takeaway: "The failure to be basically decent, and to build an organization that values decency, builds up. Like technical debt, it comes more from ignorance and expediency than malice. Some leaders are sociopaths, no doubt, but I think most would insist that they aren’t trying to make things awful. They just never bothered to give enough of a shit to make them better."
+- [Let’s Talk About Your Plan to Run a Consequence-Free Company](https://mfbt.ca/lets-talk-about-your-plan-to-run-a-consequence-free-company-72ff4a095fec) - by Johnathan Nightingale. Takeaway: "The failure to be basically decent, and to build an organization that values decency, builds up. Like technical debt, it comes more from ignorance and expediency than malice. Some leaders are sociopaths, no doubt, but I think most would insist that they aren’t trying to make things awful. They just never bothered to give enough of a shit to make them better."
 
 - [Nails in the Coffin: Why a Flat Organizational Structure Fails](https://getlighthouse.com/blog/flat-organizational-structure-fails/) - by Lighthouse. Takeaway: GitHub, Zappos, Medium and others have abandoned flat hierarchies because you can’t manage everyone yourself; they slow things down; unspoken lines of communication and decision making form; you miss or become overwhelmed by problems; you waste time re-inventing the wheel; important decisions can become a mess. Instead of flat hierarchy, develop your leaders instead.
 
