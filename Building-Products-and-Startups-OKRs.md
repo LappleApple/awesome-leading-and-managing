@@ -12,6 +12,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Bootstrapper’s Bible](https://docs.google.com/document/d/1atBNc_GFQ0jXkUiEEZ7sU7S0awlHN_nL-ukVVljOGP4/edit) - Joe Goldberg's notes about the book by Seth Godin.
 
+- [Designing Workshops that Work: Getting Better at Brainstorming](https://blog.intercom.com/running-design-workshops/) - by Cindy Chang. Takeaway: Start with an overview, work backwards and think in chunks to start a plan as well as about outcomes, detail, delegate.
+
 - [Do the Simple Thing First: The Engineering Behind Instagram](https://www.fastcompany.com/3047642/do-the-simple-thing-first-the-engineering-behind-instagram) - by Harry McCracken. Takeaway: Instagram founders made technical decisions using a principle which favored practicality over perfection. "If it solves a problem and gets us closer to launch, let’s do it."
 
 - [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - by Charity Majors. Takeaway: "Fuck the whole idea that only managers get career progression. And fuckkkk the idea you have to choose a “lane” and grow old there.  I completely reject this kind of slotting."
