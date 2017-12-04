@@ -86,6 +86,8 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [Never Split the Difference Cheat-Sheet](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - by Yan-David Erlich. Takeaway: a detailed, six-page summary of Chris Voss' *Never Split the Difference*, the 2016 book about negotiation.
 
+- [9 Tips: How IT Leaders Can Build Better Relationships](https://enterprisersproject.com/article/2017/11/9-tips-how-it-leaders-can-build-better-relationships) - by Carla Rudder. Takeaway: Be a partner, be transparent, be truthful, be in constant communication, be OK with being wrong, be in the moment, be engaged, be a team player, be candid.
+
 - [Public Speaking Resources](https://github.com/vmbrasseur/Public_Speaking) - by VM Brasseur. Takeaway: A collection of resources on speaker training/tips, technical conferences, proposing talks and more.
 
 - [Uniquely HR](https://www.google.com/url?q=http://uniquelyhr.com/management-development-training/&sa=D&ust=1497272863257000&usg=AFQjCNFCpE9ZQyRzTMoqItlEdU2neBygnw) - by Gary Ford. Takeaway: Influence is the power to affect someone/something without directly forcing them. It’s about establishing credibility, finding common ground, and connecting emotionally. A systemic approach to influencing.
