@@ -12,7 +12,7 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Bootstrapper’s Bible](https://docs.google.com/document/d/1atBNc_GFQ0jXkUiEEZ7sU7S0awlHN_nL-ukVVljOGP4/edit) - Joe Goldberg's notes about the book by Seth Godin.
 
-- [Do The Simple Thing First: The Engineering Behind Instagram](https://www.fastcompany.com/3047642/do-the-simple-thing-first-the-engineering-behind-instagram) - by Harry McCracken. Takeaway: Instagram founders made technical decisions using a principle which favored practicality over perfection. "If it solves a problem and gets us closer to launch, let’s do it."
+- [Do the Simple Thing First: The Engineering Behind Instagram](https://www.fastcompany.com/3047642/do-the-simple-thing-first-the-engineering-behind-instagram) - by Harry McCracken. Takeaway: Instagram founders made technical decisions using a principle which favored practicality over perfection. "If it solves a problem and gets us closer to launch, let’s do it."
 
 - [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - by Charity Majors. Takeaway: "Fuck the whole idea that only managers get career progression. And fuckkkk the idea you have to choose a “lane” and grow old there.  I completely reject this kind of slotting."
 
@@ -22,7 +22,7 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [How Compare and Contrast Decisions Lead to Better Product Outcomes](https://www.producttalk.org/2017/09/compare-and-contrast-decisions/) (slides) - by Teresa Torres. Takeaway: A detailed look at how to bring focus to product decisions, including suggested tools like the "opportunity solution tree." 
 
-- [How to Sell The Problem Before Selling The Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484) - by David Bailey. Takeaway: Tactical ways to express customer needs and "lead with the need."
+- [How to Sell the Problem Before Selling the Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484) - by David Bailey. Takeaway: Tactical ways to express customer needs and "lead with the need."
 
 - [Key Learnings in My First Year as a PM at Amazon](https://www.linkedin.com/pulse/key-learnings-my-first-year-pm-amazon-venkatraman-prabhu) - by Venkatraman Prabhu. Takeaway: Lessons learned after a year at the global retailer. Choose the right manager, always measure the product's impact, keep experimenting, have weekly 1:1's with key stakeholders, and get advice.
 
@@ -43,6 +43,8 @@ As a leader of a product development team you might have a PM that you’re work
 - [Paul Graham’s Startup Advice for the Lazy](https://medium.com/swlh/graham-for-the-lazy-51a170dacc86) - by Stelios Constantinides. All of Paul Graham’s startup advice summarized in one article.
 
 - [The Product Dartboard](http://blog.carbonfive.com/2015/07/29/the-product-dartboard/) - by Janet Brunckhorst at Carbon Five. Takeaway: offers a deep dive/description of a tool that assesses a team or individual against attributes associated with project success.
+
+- [Product Discovery Anti-Patterns Leading to Failure](https://age-of-product.com/product-discovery-anti-patterns/) - by Stefan Wolpers. Takeaway: "The main contributing variables to various product discovery anti-patterns are: * Existing organizational dysfunctions, for example, the organization is structured in functional silos; * A substantial degree of ego issues among individual players—the what-is-in-for-me-syndrome—resulting in personal agendas being pursued; * A complex, multi-layered reporting structure within organizations that filters as well as delays the flow of information, thus impeding communication and decision-making."
 
 - [Product Manager vs. Product Owner](https://melissaperri.com/blog/2017/06/29/product-manager-vs-product-owner) - by Melissa Perri. Takeaway: "A good Product Manager is taught how to prioritize work against clear outcome oriented goals, how to discover and validate real customer and business value, and what processes are needed to reduce the uncertainty that the product will succeed in market. Without this background in Product Management, someone can effectively go through the motions of Product Owner role in Scrum, but they can never be successful in making sure they are building the right thing." 
 
