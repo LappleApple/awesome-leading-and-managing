@@ -28,6 +28,8 @@
     
 - [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) - Olivier Lacan. An entire website dedicated to the art of the changelog, with an FAQ and an aim to produce a better changelog convention.  
 
+- [On Writing Tech Specs](https://codeburst.io/on-writing-tech-specs-6404c9791159) - by Chuck Groom. Takeaway: "A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing."
+
 - [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.amazon.com/Programming-Beyond-Practices-More-Monkey/dp/1491943823/ref=sr_1_1?ie=UTF8&qid=1496801606&sr=8-1&keywords=programming+beyond+practices) - by Gregory Brown. Covers all aspects of being a leader-developer besides writing code, from prototyping to improving processes.
 
 - [Satisficery Engineering](http://baggerspion.net/2017/08/satisficery-engineering/) - by Paul Adams, Zalando. Takeaway: looks at the topic of "Push." How do we know when to push a team—and in which direction? Sometimes asking a team to deliver more is appropriate but, likewise, it can also be appropriate to give them a break. This article is about being mindful of these opportunities and their consequences.
