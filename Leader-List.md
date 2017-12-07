@@ -3,6 +3,7 @@
 Leaders and thinkers who frequently write/speak/tweet about tech leadership and work culture from a humble, progressive, well-rounded point of view. Names link to Twitter feeds.
 
 - [Adam Tornhill](https://twitter.com/AdamTornhill) — Programmer, psychologist, Lisp hacker, author and speaker. Founder of Empear and https://codescene.io/.
+- [Adewale Oshineye](https://twitter.com/ade_oshineye) - Developer Advocate at Google. Co-author of Apprenticeship Patterns. 
 - [Adrian Cockcroft](https://twitter.com/adrianco) — VP of Cloud Architecture at AWS, formerly Battery Ventures, Netflix, eBay, and Sun, frequent speaker, microservices thought leader.
 - [Adrian Trenaman](https://twitter.com/adrian_trenaman) — CTO at Gilt/Hudson's Bay, speaker, energetic leader.
 - [Andrea Goulet](https://twitter.com/andreagoulet) — CEO @corgibytes. Founder http://LegacyCode.Rocks. Coder, communicator, mama.
