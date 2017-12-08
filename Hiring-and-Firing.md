@@ -25,6 +25,8 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
 
 - [The Hidden Reason You Can’t Scale Your Engineering Team](https://home.opsolutely.com/the-hidden-reason-you-cant-scale-your-engineering-team/) - by Jack Danger. Takeaway: Hiring only "senior engineers" is a recipe for failure. "When a team advertises that they only hire senior engineers, what they’re really saying is that their people and technology infrastructure can’t support hiring beginners – a strong indication of fragile tooling and a fragile team. If you’re at all interested in growth, this should serve as a huge red flag, because it is extraordinarily difficult to scale a fragile team."
 
+- [How Slack Supports Junior Engineers](https://slack.engineering/how-slack-supports-junior-engineers-89f6dcfe74a1) - by Carly, a Slack engineer. Takeaway: a detailed, in-depth, first-person account of getting hired at Slack as a junior engineer. An invigorating read that covers the author's interview process, hire, on-the-job Imposter Syndrome, mentorship experiences, and more. Offers good ideas for ramping up your own processes for hiring juniors/first-job engineers.
+
 - [How to Hire](https://medium.com/eshares-blog/how-to-hire-34f4ded5f176) - by
   Henry Ward, CEO at eShares. Takeaway: Hiring is largely due to lack of scaling
   as a business and needing outside resources. It is more important to hire
@@ -42,7 +44,7 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
   
 - [How to Interview at Amazon - Leadership](https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson) - by David Anderson. Takeaway: Though framed according to the activity of interviewing at Amazon and the company's principles, this detailed and thought-provoking article also provides insights on ideas on growing a team/tech organization; building a culture of customer-focused leaders; and much more.
 
-- [How Slack Supports Junior Engineers](https://slack.engineering/how-slack-supports-junior-engineers-89f6dcfe74a1) - by Carly, a Slack engineer. Takeaway: a detailed, in-depth, first-person account of getting hired at Slack as a junior engineer. An invigorating read that covers the author's interview process, hire, on-the-job Imposter Syndrome, mentorship experiences, and more. Offers good ideas for ramping up your own processes for hiring juniors/first-job engineers.
+- [How We Hire, Shapes Tech.](https://medium.com/@lennymarkus/how-we-hire-shapes-tech-9461ad483c10) - by Lenny Markus. Takeaway: "Make sure that your filtering process is applied to the right criteria: Will this person be able to perform the needs of the role at hand?; Will this person bring anything new of value to the team?; Will this person be able to learn? Don’t filter based on: GPA; School; Background; Bad interpretations of 'passion.'"
 
 - [Let’s Stop Calling Them "Soft Skills"](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.m0rq6bldu) - by Seth Godin. Takeaways: Don't overemphasize so-called "vocational" skills.
   Real-world interpersonal skills are just as (if not more) important. Details
