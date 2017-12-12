@@ -28,6 +28,8 @@
 
 - [Culture Is the Behavior You Reward and Punish](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e) - by Jocelyn Goldfein. Takeaway: Employees will work to emulate other successful employees. Success is what happens _publicly_. If successful people in a company all behave similarly, then alignment and culture flow from that.
 
+- [The Culture Cliché](https://m.signalvnoise.com/the-culture-clich%C3%A9-e226cf5a6354) - by Claire Lew. Takeaway: If you’re looking to shift your company culture, it starts with understanding what culture is in the first place.
+
 - [Culture Is the Spec, Process Is the Code](https://medium.com/@richarmstrong/culture-is-the-spec-process-is-the-code-ccb0df70514f) - by Rich Armstrong. Takeway: Create every process around your culture. Just like your devs need specs in order to know what code to write, your company needs processes in order to implement culture. 
 
 - [Engineering Culture at Airbnb](http://nerds.airbnb.com/engineering-culture-airbnb) - by Mike Curtis. Takeaway: Create a culture about helping others and celebrating their successes.
