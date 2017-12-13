@@ -50,6 +50,8 @@
 
 - [The Root Cause Fallacy](https://www.xaprb.com/blog/2014/07/21/root-cause-fallacy/) - by Baron Schwartz. Takeaway: Asking why repeatedly will always get you to the CEO, eventually; stop looking for a single root cause — instead, identify system of conditions/dysfunctions that jointly caused the problem; change the culture and own failures as opportunities.
 
+- [Social Issues in Postmortems](https://medium.com/@allspaw/social-issues-in-postmortems-d48dde624d18) - by John Allspaw. Takeaway: "Although apparently technically focused, postmortems are inherently social events. Especially for events with significant consequences, there are incentives to direct attention towards some issues and away from others. When large losses incur attention of senior management the tenor and content of the postmortem may shift away from freewheeling discourse to a more closed ended, narrowly technical discussion. Postmortems may become “stage plays” intended to assert organizational control, ratify management decisions, or localize and truncate the inquiry into circumstances and contributors."
+
 - [Why Airbnb Encourages Employees to Predict Its Own Downfall](http://www.inc.com/adam-vaccaro/airbnb-demise.html) - by Adam Vaccaro. Takeaway: Imagine the disruption that causes your company’s demise. Have pre-mortems: “Meet before a project and imagine they're a few months or a year in the future and that the project has failed.” Or the opposite: “the team imagines absolute success--and talks through the crucial hypothetical points in the process where the right decisions were made.”
 
 ### Retrospectives
