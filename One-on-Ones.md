@@ -8,6 +8,8 @@
 
 - [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447) - by Douglas Stone, Bruce Patton and Sheila Heen. Takeaway: Learn how to convert a difficult conversation to a learning conversation, thereby having more effective, fruitful discussions.
  
+- [Getting Feedback](http://daydreamsinruby.com/getting-feedback/) - by Allison (Sheren) McMillan. Takeaway: Offers questions you can ask to colleagues with both more and less experience, in 1:1's or other direct communications.
+
 - [Having Bad One to One Meetings? Here’s How to Turn Them Around](https://getlighthouse.com/blog/one-to-one-meeting) — by Lighthouse. Takeaway: genuinely care about your reports, and aim to understand them. Let them talk 90% of the time, take notes, ask good questions, and talk about their career growth.
  
 - [How to Have an Honest One-on-One with an Employee](https://m.signalvnoise.com/how-to-have-an-honest-one-on-one-with-an-employee-24bbddeb0f47) — by KnowYourCompany CEO Claire Lew. Takeaway: Make empathy your mission. Every 1:1 should have a single mission, “to understand how the other person is feeling.” Ask questions to uncover tension and energy.
