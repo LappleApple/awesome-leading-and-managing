@@ -10,6 +10,8 @@
 
 - [How to Ensure a New Manager Succeeds](https://getlighthouse.com/blog/new-manager-how-to-help-succeed) - by Lighthouse. Takeaway: Provide more support through 1:1's; give them good fundamentals to start; make some failure okay.
 
+- [How to Lead a Team Like a Pro Your First Time](https://blog.bonus.ly/how-to-lead-a-team-for-the-first-time) - by George Dickson. Takeaway: Know yourself and your organization; share your assets; value and practice transparency; schedule regular one-on-one meetings; recognize great work; focus on team performance; learn to delegate.
+
 - [Managing More Experienced People](https://medium.com/the-year-of-the-looking-glass/managing-more-experienced-people-9893f9903649) - by Julie Zhuo. Takeaway: Don’t pretend to be perfect, welcome the opportunity to learn from senior reports, know that you can always ask questions or give impressions, and remember that you're the sum of the people around you.
 
 - [The PM Mind Meld](https://www.kennorton.com/newsletter/2016-03-02-bringing-the-donuts.html) - by Ken Norton. Takeaway: what to do when your CEO and product manager aren't aligned, and tips on how to get them to align: 1:1's between them, keeping the conversation going both ways, talking about the future, and finding "third rails." 
