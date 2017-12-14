@@ -61,6 +61,8 @@
 
 - [How We Pay People at Basecamp](https://m.signalvnoise.com/how-we-pay-people-at-basecamp-f1d04f4f194b) - by DHH. Takeaway: "There are no negotiated salaries or raises at Basecamp. Everyone in the same role at the same level is paid the same. Equal work, equal pay." Basecamp offers employees salaries in the top 5% of the market (Chicago) and meaningful benefits, and has instituted a new profit growth sharing scheme.
 
+- [Retention and the Cross-Generational Pipeline](https://kateheddleston.com/blog/retention-and-the-crossgenerational-pipeline) - by Kate Heddleston. Takeaway: "You can retain any employee by valuing them equal to their work, training managers at your company, and giving employees the benefits and work flexibility to manage life outside the office. I wish we valued retaining underrepresented groups as much as we valued hiring them."
+
 - [Tech Leavers](http://www.kaporcenter.org/tech-leavers/) - by Kapor Center. Takeaway: A survey of 2,000 U.S. adults who left a job during the previous three years. "Workplace culture drives turnover, significantly affecting the retention of underrepresented groups, and costing the industry more than $16 billion each year."
 
 - [10 Surprising Employee Retention Statistics You Need to Know](http://blog.bonus.ly/10-surprising-employee-retention-statistics-you-need-to-know) - by George Dickson, Bonusly. Takeaway: surprising stats and context about retention, from "35% of employees said they'd look for a new job if they do not receive a pay raise in the next year" to "93% of millennials say they left their employer the last time they changed roles."
