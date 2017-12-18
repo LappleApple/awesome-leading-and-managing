@@ -44,6 +44,8 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
   
 - [How to Interview at Amazon - Leadership](https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson) - by David Anderson. Takeaway: Though framed according to the activity of interviewing at Amazon and the company's principles, this detailed and thought-provoking article also provides insights on ideas on growing a team/tech organization; building a culture of customer-focused leaders; and much more.
 
+- [How to Make Executive Hires at Your Startup](https://thinkgrowth.org/how-to-make-executive-hires-at-your-startup-5531d8cb770d) - by Steve Blank. Takeaway: "Know whether you’re hiring for search or execution. Show the job requirements visually as a pie chart. Prioritize each requirement by the width of the pie. Show your assessment of each candidate’s competencies by the length of the slices. Now with the data in front of you, the conversation about hiring can start."
+
 - [How We Hire, Shapes Tech.](https://medium.com/@lennymarkus/how-we-hire-shapes-tech-9461ad483c10) - by Lenny Markus. Takeaway: "Make sure that your filtering process is applied to the right criteria: Will this person be able to perform the needs of the role at hand?; Will this person bring anything new of value to the team?; Will this person be able to learn? Don’t filter based on: GPA; School; Background; Bad interpretations of 'passion.'"
 
 - [Let’s Stop Calling Them "Soft Skills"](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.m0rq6bldu) - by Seth Godin. Takeaways: Don't overemphasize so-called "vocational" skills.
