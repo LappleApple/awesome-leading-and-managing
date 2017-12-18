@@ -51,6 +51,8 @@ aka, “the hardest thing you’ll ever do as a manager.” First are some tips 
   categories of qualities like Self-Control, Productivity, Wisdom, Perception,
   and Influence.
 
+- [Make Stronger Offers to Engineering Candidates and Boost Your Closes](http://firstround.com/review/make-stronger-offers-to-engineering-candidates-and-boost-your-closes/) - by First Round. Takeaway: "The secret to closing isn’t offering the most equity or saying just the right thing during an offer call. It’s really closely listening to and noticing what’s motivating each candidate during the entire process, and then explaining precisely how your company will serve those needs."
+
 - [Never, Ever Compromise: Hiring for Culture Fit](http://blog.eladgil.com/2012/04/never-ever-compromise-hiring-for.html) - by Elad Gil. Takeaway: "Your company culture is the foundation on which everything you do rests. Your culture acts as an unwritten set of rules that drives behavior and cohesion across the company. Cohesive, insular cultures are more resilient and can withstand shocks to it..." The article does point out that homogeneity of values is the idea, not homogeneity of backgrounds or personalities; however, its suggestion to use social outing tests (going to a bar) with candidates could reinforce monoculture.
 
 - [Product Manager Skills by Seniority Level — a Deep Breakdown](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10) - by Brent Tworetzky. Takeaway: how XO Group has created six skills and management areas to determine product professionals' levels of seniority. Can be useful for interviewing candidates and determining which roles to offer them.
