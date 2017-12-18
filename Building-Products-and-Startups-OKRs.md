@@ -62,6 +62,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Ultimate Question](https://docs.google.com/document/d/1nsmy2GqHL-9IjEc0Q88tsSYafHJQXtgK0P8pJWKOTAs/edit) - notes by Joe Goldberg about the book by Fred Reichheld, which focuses on measurements like the net promoter score (NPS).
 
+- [What Happens When Startups Turn from Their Innovation Stage to Operational Excellence?](https://bothsidesofthetable.com/what-happens-when-startups-turn-from-their-innovation-stage-to-operational-excellence-91bee1540e66) - by Mark Suster. Takeaway: "Startups are fun and exhilarating and filled with challenging problems to solve. To the neophyte it seems like startup challenges are strictly product or technical in nature but to innovate, systematize and scale a billion dollar company it involves way more decisions about strategy, economics, resource allocations and team composition."
+
 - [Why Software Sucks](http://scottberkun.com/essays/46-why-software-sucks/) - by Scott Berkun. Good ways to think about why it happens and what you can do to make it happen less.
 
 ## OKRs
