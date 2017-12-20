@@ -2,6 +2,8 @@
 
 - [Avoiding Organizational Debt](https://medium.com/positiveslope/avoiding-organizational-debt-3e47760803a0) - by Scott Belsky. Takeaway: "organizational debt is the accumulation of changes that leaders should have made but didn’t." Consistently optimize how you work.
 
+- [Blamestorming and Other Telling Signs Your Organization Is “Siloed”](https://marlagottschalk.wordpress.com/2014/03/10/blamestorming-and-other-telling-signs-your-organization-is-still-siloed/) - by Marla Gottschalk. Takeaway: Signs include a lack of a constructive cross-functional conversation; customers are no longer central to the conversation; you are unsure what other functions are really doing; there's rampant “blame-storming” and separate cultural identities; things are portrayed as a “zero sum” game; and you’ve given up trying to become a better organization.
+
 - [The Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-03) (slides) - a deck about Buffer's unique culture, which reinforces transparency, self-improvement and positivity, among other elements.
 
 - [Buffer Sees Clear Benefits to Transparent Employee Salary Policy](https://opensource.com/open-organization/16/3/social-startup-buffer-transparency-reigns?sc_cid=701600000011jJkAAI) - by Bryan Behrenshausen. Takeaway: "At social media startup Buffer, a single leadership decision eliminated salary negotiation for new employees, preempted gender-based salary discrimination, and prompted a flood of job applications. The decision? Make all employee salaries transparent."
