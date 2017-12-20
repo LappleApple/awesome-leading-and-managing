@@ -26,6 +26,8 @@
 
 - [How Do You Know Your Code Is Bad?](https://dev.to/bob/how-do-you-know-your-code-is-bad) - by Dinesh Babu. Takeaway: "When you write code, ask yourselves these questions: Is this code too rigid? Is it possible to change the internals of this module in the future without touching the code in other modules and other layers? Is this code too fragile? Will it be hard to find all the places to refactor for any changes in the future? Should this feature be reusable? If so, does this code depends on any unwanted modules or frameworks that can be avoided?"
     
+- [How to Level up as a Developer w/ Scott Hanselman](https://dev.to/niko/how-to-level-up-as-a-developer-w-scott-hanselman) - by Niko. Takeaway: Fear and potential keep us from reaching our full potential. Learn how differentiate between doing the right things and doing things right.
+
 - [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) - Olivier Lacan. An entire website dedicated to the art of the changelog, with an FAQ and an aim to produce a better changelog convention.  
 
 - [On Writing Tech Specs](https://codeburst.io/on-writing-tech-specs-6404c9791159) - by Chuck Groom. Takeaway: "A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing."
