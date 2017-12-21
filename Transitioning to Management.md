@@ -28,6 +28,8 @@
 
 - [Assessing Technical Risks for Startups](http://katemats.com/assessing-technical-risks-for-startups-new-tech-leader-series/) - by kate{mats}. Takeaway: "As a new technology executive it is imperative that you take the time to understand the technology strategy and risk and communicate that to senior management." Comes with a great checklist for doing just that.
 
+- [Becoming Your Future Self](https://codingvc.com/becoming-your-future-self) - by Leo Polovets. Takeaway: Bottlenecks that prevent leaders from adapting to the role and scaling up include being good but not great; being unwilling to delegate, and not becoming well-rounded skills-wise. Listen to your gut, do 360-degree reviews, talk to great leadership peers and explore executive coaching to level up and overcome these hurdles.
+
 - [Chaotic Beautiful Snowflakes](http://randsinrepose.com/archives/chaotic-beautiful-snowflakes/) - by Rands in Repose. Takeaway: Think about the new work you’re creating with your words and actions. "The hard work of great leadership isn’t just managing the expected tasks that we can predict, it’s the art of successfully traversing the unexpected."
 
 - [Conversations with Your Team, Peers and Boss](http://katemats.com/conversations-with-your-team-peers-and-boss-guide-for-new-leaders/) - by kate{mats}. Takeaway: "Whenever you first join a new team the most important thing you can do is listen and observe.  Get to know the players and the company culture."
