@@ -9,6 +9,8 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [The Best Leaders Are Constant Learners](https://hbr.org/2015/10/the-best-leaders-are-constant-learners) - HBR article by Kenneth Mikkelsen and Harold Jarche. Takeaway: "Leaders that stay on top of society’s changes do so by being receptive and able to learn." 
 
+- [CEOs Should Stop Thinking that Execution Is Somebody Else’s Job; It Is Theirs](https://hbr.org/2017/11/ceos-should-leave-strategy-to-their-team-and-save-their-focus-for-execution) - by Roger L. Martin. Takeaway: "Usually when businesspeople talk about 'strategy' and 'execution,' the former is the act of making choices and the latter the act of obeying them. My quibble with this characterization is that the things that happen in the activity called 'strategy' and the activity called 'execution' are identical: people are making choices about what to do and what not to do. In my 36 years of working with companies, I still haven’t seen an example of a strategy that was so tightly specified that the people 'executing' it didn’t have to make major choices—choices as tricky and important as the so-called 'strategy choices' themselves."
+
 - [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals/) - by Farnam Street. Takeaway: a series of bullet points identifying the differences. Examples: "Amateurs give up at the first sign of trouble and assume they’re failures. Professionals see failure as part of the path to growth and mastery;
 Amateurs don’t have any idea what improves the odds of achieving good outcomes. Professionals do." 
 
