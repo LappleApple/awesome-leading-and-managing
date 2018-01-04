@@ -88,6 +88,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [A Tech Lead Manifesto](https://blog.magpiebrain.com/2006/09/12/a-tech-lead-manifesto/) - by Sam Newman. Takeaway: a very pithy summary of what a tech lead should and should not do. Newman believes tech leads should continue coding, but should not write all the "hard" code.
 
+- [10 Principles of Strategic Leadership](https://www.strategy-business.com/article/10-Principles-of-Strategic-Leadership) - by Jessica Leitch, David Lancefield, and Mark Dawson. Takeaway: Distribute responsibility, be honest and open about information, create multiple paths for raising and testing ideas, make it safe to fail, provide access to other strategists, develop opportunities for experience-based learning, hire for transformation, bring your whole self to work, find time to reflect, and recognize leadership development as an ongoing practice.
+
 - [Ten Senior Leadership Lessons I Wish I Learned Sooner](https://twitter.com/i/moments/874780733146939392?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Ftwitter.com%2Fi%2Fmoments%2F874780733146939392) - by Julia Grace. Takeaway: "observations growing from a junior manager to a senior manager running a whole organization ... For example: providing less guidance is often better. The more prescriptive you are, the less you allow people below you to grow."
   
 - [10 Things Great Bosses Do Every Day](https://www.linkedin.com/pulse/unique-things-great-bosses-do-every-day-dr-travis-bradberry) - by Dr. Travis Bradberry. Takeaway: from "respects your time" to "looks for and celebrates wins," this list covers the bases.
