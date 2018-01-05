@@ -18,6 +18,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [Effective Leadership Styles for Scrum Masters](https://www.benlinders.com/2016/leadership-styles-scrum-masters/) - by Ben Linders. Takeaway: This post provides an overview of many effective leadership styles that Scrum masters can learn from and apply when working in agile teams, so that their teams can deliver value. Servant leadership alone is not enough.
 
+- [Engineering Leadership Principles with Oren Ellenbogen](http://simpleleadership.io/engineering-leadership-principals-with-oren-ellenbogen/) (podcast) - by Christian McCarrick. Takeaway: A chat with the editor of Software Lead Weekly/the author of *Leading Snowflakes*.  
+
 - [Etsy Lessons](http://larahogan.me/blog/etsy-lessons/) - by Lara Hogan. Takeaway: a collection of wisdom Hogan (now at Kickstarter) collected over her years at Etsy, about topics ranging from rethinking diversity hiring to how to deal with feeling shaky as a leader.
 
 - [From College Dropout to CEO of a Billion-Dollar Company: 3 Leadership Lessons from the Founder of Hootsuite](https://www.cnbc.com/2017/10/05/3-leadership-lessons-from-hootsuite-ceo-ryan-holmes.html) - by Catherine Clifford. Takeaway: Start with the why, communicate often, and allow for facetime.
