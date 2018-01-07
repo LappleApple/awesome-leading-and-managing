@@ -48,6 +48,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [How HR Can Become Agile (and Why It Needs To)](https://hbr.org/2017/06/how-hr-can-become-agile-and-why-it-needs-to) - by Jeff Gothelf. Takeaway: "In an agile organization, HR needs to provide the same services it’s always provided — hiring, professional development, performance management — but in ways that are responsive to the ongoing changes in the culture and work style of the organization."
 
+- [How to Navigate the First 90 Days as the First HR Hire at a Startup](https://tettra.co/culture-codes/interview/how-to-navigate-the-first-90-days-as-the-first-hr-hire-at-a-startup/) - by Culture Codes. Takeaway: A profile of HR veteran Heather Doshay, who as VP of People for a startup aims to build healthy culture. "Small cracks aren’t always visible or might seem trivial, but if left untreated, they can break apart a company." Surveys, observing meetings, scaling good attributes, hiring an HR professional early are some techniques companies can use to leverage HR expertise well.
+
 - [What Is "People Operations" and Why Should You Care?](https://www.linkedin.com/pulse/20141016192150-30417852-what-is-people-operations-and-why-should-you-care/) - by Doug Devlin. Takeaway: "People Operations is based on the simple truth: to hold on to your talent, you have to understand and “take care” of your talent. Allowing employee choice based on analytics as opposed to emotional mandates is the cornerstone of People Operations. "
 
 ### Performance Reviews
