@@ -34,6 +34,8 @@
 
 - [Culture Is the Spec, Process Is the Code](https://medium.com/@richarmstrong/culture-is-the-spec-process-is-the-code-ccb0df70514f) - by Rich Armstrong. Takeway: Create every process around your culture. Just like your devs need specs in order to know what code to write, your company needs processes in order to implement culture. 
 
+- [Emailing While You’re on Vacation Is a Quick Way to Ruin Company Culture](https://hbr.org/2017/12/emailing-while-youre-on-vacation-is-a-quick-way-to-ruin-company-culture) - by Katie Denis. Takeaway: "Every email sent by a vacationing employee is a tiny cultural erosion: a signal to other employees that time off isn’t really time off. In aggregate, these tiny erosions matter. They send signals like 'I don’t trust you to do the job without me,' or 'I’m not organized enough to wrap up my loose ends before I go on vacation.' Either way, they erode perceptions of your likability and competence."
+
 - [Engineering Culture at Airbnb](http://nerds.airbnb.com/engineering-culture-airbnb) - by Mike Curtis. Takeaway: Create a culture about helping others and celebrating their successes.
 
 - [5 Questions That Reveal If a Company Has a Healthy Workplace Culture](http://www.cnbc.com/2017/07/12/5-questions-that-reveal-if-a-company-has-a-healthy-workplace-culture.html) - by Claire Lew. Takeaway: A healthy workplace offers uninterrupted time, heated debate, access to the top leadership, reasons to value and be proud of it, and a culture of selflessness.
