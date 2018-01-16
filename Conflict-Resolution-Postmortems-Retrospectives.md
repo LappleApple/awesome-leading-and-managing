@@ -38,6 +38,8 @@
 
 - [These 13 Exercises Will Prepare You for Work's Toughest Situations](http://firstround.com/review/these-13-exercises-will-prepare-you-for-works-toughest-situations/) - by First Round Review. By identifying and understanding people's motivations you can take a difficult conversation and turn it into a dialog that is constructive. The initial goal is to find common ground, and by asking questions around motivations before tough situations, you can review your own feelings and be overall better prepared.
 
+- [Why We Should Be Disagreeing More at Work](https://hbr.org/2018/01/why-we-should-be-disagreeing-more-at-work) - by Amy Gallo. Takeaway: "[M]ost people don’t want to disagree or know how to do it. In fact, we’ve come to equate saying “I see it differently” or “I don’t agree” with being angry, rude, or unkind, so it makes most people horribly uncomfortable...Disagreements are an inevitable, normal, and healthy part of relating to other people. There is no such thing as a conflict-free work environment. You might dream of working in a peaceful utopia, but it wouldn’t be good for your company, your work, or you. In fact, disagreements — when managed well — have lots of positive outcomes."
+
 ### Postmortems
 
 - [Etsy’s Guide to Postmortems](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) - by John Allspaw, Morgan Evans and Daniel Schauenberg. A lengthy document that provides a guide on the art of asking questions. [On Failure and Resilience](https://beero.ps/2017/06/17/on-failure-and-resilience/) provides a briefer summary, describing an Etsy incident and how the team managed it.
