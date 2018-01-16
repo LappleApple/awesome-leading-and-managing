@@ -7,28 +7,20 @@
 
 - [A Field Guide to Dudes Who Ruin Meetings](https://medium.com/part-and-sum/a-field-guide-to-dudes-who-ruin-meetings-3877de28b661#.di6epdtpw) - by Jim Babb. Takeaway: tips on thow to deal with Cool Tool, Mister Details, Professor This-is-Bullshit and other meeting-ruiners.
 
-- [Gossip, Rumors, and
-  Lies](http://randsinrepose.com/archives/gossip-rumors-and-lies/) - by Michael
-  Lopp. Takeaways: What are the right reasons to have  meetings, how to provide
-  important structure, and the importance of settings an agenda. 
+- [Gossip, Rumors, and Lies](http://randsinrepose.com/archives/gossip-rumors-and-lies/) - by Michael Lopp. Takeaway: What are the right reasons to have  meetings, how to provide important structure, and the importance of settings an agenda. 
 
-- [How I Share Information with My
-  Team](http://www.mikemcgarr.com/blog/week-in-review.html) - by Mike McGarr.
-  Takeaways: Team meetings aren't the only way to spread information to the
-  group.
+- [How I Share Information with My Team](http://www.mikemcgarr.com/blog/week-in-review.html) - by Mike McGarr.
+  Takeaway: Team meetings aren't the only way to spread information to the group.
   
 - [How Do We Build Better Meetings?](https://medium.com/@JBunky/how-do-we-build-better-meetings-5b483d2066ec#.fp4nrqx2d) - by Jen Bunk. Takeaway: Includes the "4 A's of Awesome Meetings: announce the agenda, attack the agenda benevolently, allow agenda deviations mindfully, and assign next actions.
 
 - [How to Run a Meeting](http://randsinrepose.com/archives/how-to-run-a-meeting/) - by Rands. Takeaway: "A meeting has two critical components: an agenda and a referee ... A meeting’s progress is measured by the flow, and the referee’s job is keep it moving along at a good clip, which is why the referee sometimes needs to own it," or improvise. "If you must meet, start the meeting by remembering the definition of a successful meeting is that when the meeting is done, it need never occur again."
 
-- [On Better Meetings](http://larahogan.me/blog/better-meetings/) - by Lara
-  Hogan. Takeaways: Productive meetings come from doing the right amount of work
-  before, during, and after a meeting.
+- [Only You Can Prevent Tech Burnout](https://medium.com/@Aprilw/only-you-can-prevent-tech-burnout-be3f0504c627) - by April Wensel. Takeaway: "The prevailing work culture in Silicon Valley is not sustainable. We all know it, but few are doing anything to change it...As leaders, whether in name or in spirit, you have a responsibility to cultivate a healthier, more sustainable culture. Why? Your team will be more productive. As shared in *The Optimistic Workplace*, 'People in positive work environments outperform those who work in negative climates by 10–30%.' As an employee, you owe it to yourself to improve your own situation, whether that means inspiring change at your current company or moving on to somewhere that actually does value you as a human being."
+
+- [On Better Meetings](http://larahogan.me/blog/better-meetings/) - by Lara Hogan. Takeaway: Productive meetings come from doing the right amount of work before, during, and after a meeting.
   
-- [Run Your Meetings Like a
-  Boss](http://99u.com/articles/25075/run-your-meeting-like-a-boss-lessons-from-mayer-musk-and-jobs) - by David Fallarme. Takeaways: Make decisions using data, keep meetings to the
-  necessary size, and be prepared with questions and answers to ensure a meeting
-  is productive.
+- [Run Your Meetings Like a Boss](http://99u.com/articles/25075/run-your-meeting-like-a-boss-lessons-from-mayer-musk-and-jobs) - by David Fallarme. Takeaway: Make decisions using data, keep meetings to the necessary size, and be prepared with questions and answers to ensure a meeting is productive.
   
  - [Seven Helpful Tips to Ruin a Meeting – What Not to Do to Run Effective Meetings](https://luis-goncalves.com/7-helpful-tips-to-ruin-a-meeting/?__s=zmnhwriwrwhonuvpmtq8) - by Simon Cockayne. Takeaway: Avoid back-to-back scheduling; unclear purpose; lack of preparation; multitasking; personality-based judging of ideas; running over time; zero followup.
 
