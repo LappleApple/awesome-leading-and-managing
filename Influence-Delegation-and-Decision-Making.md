@@ -8,6 +8,8 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
 
 ### Decision-Making
 
+- [Act Last, Read the Room, and Taste the Soup](http://randsinrepose.com/archives/act-last-read-the-room-and-taste-the-soup) - by Rands in Repose. Takeaway: In times of decision-making, it's best to go last in expressing your views because by this time, everyone else has provided context you'll need to make the best decision. Also, take the temperature of whatever room you're in so you can communicate effectively, and don't micromanage.
+
 - [Business Value Game](https://www.agile42.com/en/business-value-game/) - by Andrea Tomasini. Takeaway: an interactive game in which a "product management board" of stakeholders decides, in a manner inspired by Planning Poker, which goals to prioritize based on relative value to the business.
 
 - [“Do We All Agree” Is a Terrible Question](https://medium.com/@hunterwalk/do-we-all-agree-is-a-terrible-question-14499769591b) - by Hunter Walk. Takeaway: We often confuse 'collaboration' with 'consensus.' The former is about engaging a group of people to work together and discuss ideas. It aims to make the whole greater than the sum of its parts. The best leaders are certainly collaborative."
