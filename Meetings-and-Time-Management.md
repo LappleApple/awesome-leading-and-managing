@@ -46,6 +46,8 @@
 
 - [EMAIL TEMPLATE: Help a Programmer Stay Focused, Please](https://medium.com/@orenellenbogen/email-template-help-a-programmer-stay-focused-please-b9fcde4bfb8) - by Oren Ellenbogen. Takeaway: "It’s your responsibility to handle incoming requests from humans, to say 'no' or at least 'later' when appropriate. Humans learn, they just need feedback." Includes a template to send people when distractions/disruptions become unmanageable/affect productivity.
 
+- [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - by Joel Spolsky. Takeaway: "You gather evidence, mostly from historical timesheet data, that you feed back into your schedules. What you get is not just one ship date: you get a confidence distribution curve, showing the probability that you will ship on any given date...The steeper the curve, the more confident you are that the ship date is real."
+
 - [Focus – keynote at AgileByExample, Warsaw](https://www.youtube.com/watch?v=n7wH2XdOWpM) and [summary](http://blog.crisp.se/2016/10/20/henrikkniberg/focus-keynote) - by
   Henrik Kniberg. Takeaway: Focus on extracting more value from your available
   time. “Busy-ness” is an artificial concept. Build slack into your schedule to
