@@ -3,8 +3,9 @@
 ### Dev Leveling Guides—aka Engineering Ladders
 It’s hard to get these right. Just b/c they work for one org doesn’t mean they’ll work for yours.
 
-- [On Being a Senior
-  Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) -
+- [Medium Engineering Growth: Tracks](https://gist.github.com/david206/b8dceddd687bb2c60805c9669cc89eaa) - by David Shimon. Takeaway: Different skills/items for different types of developers, listed and detailed.
+
+- [On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) -
   by John Allspaw. Focusing on attributing "Senior" to "Mature". Covers aspects
   of being social. Mature engineers are at least aware of their ego, able to
   take into account the feelings and egos of their fellow engineers, and work 
