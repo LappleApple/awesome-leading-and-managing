@@ -14,6 +14,8 @@
   
 - [How to Bullshit](https://www.happymelly.com/happy-melly-challenge-month-how-to-bull-sht/) (podcast) - by Happy Melly, with guest Tomas Kejzlar. Takeaway: this podcast is more of a breakdown of bullshit and how it impedes progress, distracts teams from action or innovation, and demotivates teams.
 
+- [How to Feel Progress](http://jkglei.com/progress/) - by Jocelyn K. Glei. Takeaway: "Making progress in meaningful work is the key to staying engaged...A palpable sense of progress typically emerges from studiously tracking our “small wins.” 
+
 - [How to Foster Talent through a Growth Mindset and Grit](http://blog.bonus.ly/how-to-foster-talent-through-a-growth-mindset-and-grit) - by Jessica Collins. Takeaway: "[L]eaders can leverage growth mindset and grit to better develop talent and drive performance. This article outlines what it takes to build a culture of continuous improvement, among other evidence-based practices."
 
 - [How to Tell the Truth](https://a16z.com/2017/07/27/how-to-tell-the-truth/) - by Ben Horowitz. Takeaway: Do not lie to your people when it comes to telling bad news, but attach meaning to it.  
