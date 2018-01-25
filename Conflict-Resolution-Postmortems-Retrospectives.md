@@ -20,6 +20,8 @@
 
 - [Personal User Manual Template](https://docs.google.com/document/d/1s8StvKGov4jBbsE6Ha1pOe_EQ7TTVI0LaBrQ6sbmNss/edit#) - by Yan-David Erlich. Takeaway: Modeled on Urs Hölzle's Personal User Manual, this template enables people to design their relationships by mapping out communication style particulars and pet peeves/preferences.
 
+- [A Taxonomy of Troublemakers for Those Navigating Difficult Colleagues](http://firstround.com/review/a-taxonomy-of-troublemakers-for-those-navigating-difficult-colleagues/) - by First Round. Takeaway: "a behavior often isn’t good or bad in and of itself — it’s the application of that behavior to a given context that’s good or bad...Research shows that, in about 70% of cases, difficult people will be shocked about how their behavior is being received and will simply self-correct. They didn’t know, and just stop."
+
 - [These 13 Exercises Will Prepare You for Work's Toughest Situations](http://firstround.com/review/these-13-exercises-will-prepare-you-for-works-toughest-situations/) - by First Round. Takeaway: A profile of Maggie Leung, who uses the term “dynamic empathy” to describe "quickly gaining an understanding of how a colleague feels and figuring out how to act on it in a swiftly changing environment."
 
 - [Three Ways to Cool the Conflict](https://www.kornferry.com/institute/work-conflict-management-emotional-intelligence) - by Daniel Goleman. Takeaway: Manage self by noticing feelings and reframing situationss, manage conversations by reflecting and pausing, and manage relationships.
