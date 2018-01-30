@@ -3,6 +3,8 @@
 ### Leadership Philosophies
 This topic comes first, because the following articles offer great frameworks/definitions for leadership.
 
+- [Actions Reflect Leadership — Not Words](https://blog.knowyourcompany.com/actions-reflect-leadership-not-words-ca65ca26790a) - by Claire Lew. Takeaway: "Studies have found that the biggest reason for why people don’t speak up at work is because they believe it is futile. Employees don’t think anything will happen with their feedback ... so they don’t give it ... If you want honest feedback, you must act on the feedback you’ve gotten in some way. Prove to employees it’s worth their effort to be honest with you."
+
 - [Average Manager vs. Great Manager, Explained in 10 Sketches](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d) - by Julie Zhuo (VP Product Design, Facebook). Go look at these, they’re humorous and poignant. It’ll only take a minute.
 
 - [Be Yourself, but Carefully](https://enterprisersproject.com/resources/be-yourself-carefully?sc_cid=70160000000xYYJAA2) - by Lisa Rosh and Lynn Offerman. Takeaway: "Sharing details about your life can be a valuable way to build relationships in the workplace. But self-disclosures can also lead to oversharing, which can do more harm than good in the office."
