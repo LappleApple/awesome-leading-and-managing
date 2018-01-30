@@ -92,6 +92,8 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [Making Engineering Team Communication Clearer, Faster, Better](http://firstround.com/review/making-engineering-team-communication-clearer-faster-better/) - by First Round. Takeaway: Using a technical design review system with design documents can help teams communicate effectively and clearly. The article links to a [design doc template](https://docs.google.com/document/d/1uMHzRsEDZb_p9xfFGerCVhr-0mAi-d-OFY4jJi0dYk4/edit) by Google, and [a completed example](https://docs.google.com/document/d/1CMlG1v9AAln9SvI4Ysqo8NOd4L4ObDy3SY8pNh9iXhI/edit).
 
+- [Meeting Resistance and Moving Forward](https://www.youtube.com/watch?v=DrCD1wmK9oM) - by Linda Rising. Takeaway: A keynote talk featuring tips for handling naysayers and skeptics.
+
 - [Never Split the Difference Cheat-Sheet](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - by Yan-David Erlich. Takeaway: a detailed, six-page summary of Chris Voss' *Never Split the Difference*, the 2016 book about negotiation. Includes [blog post](https://medium.com/@yanda/negotiation-cheat-sheet-31c73031956a).
 
 - [9 Tips: How IT Leaders Can Build Better Relationships](https://enterprisersproject.com/article/2017/11/9-tips-how-it-leaders-can-build-better-relationships) - by Carla Rudder. Takeaway: Be a partner, be transparent, be truthful, be in constant communication, be OK with being wrong, be in the moment, be engaged, be a team player, be candid.
