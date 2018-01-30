@@ -88,6 +88,8 @@
 
 - [Respect for People - Lean's Neglected Pillar](https://www.infoq.com/presentations/respect-lean) (video) - by Jon Terry, of LeanKit. Takeaway: What "respect for people" means is open to interpretation. Reading a lot of books and articles isn't a quick-fix to understanding it. Understanding that people are motivated by purpose and staying in touch with continuous improvement helps to reinforce respect for people.
 
+- [The Right Culture: Not Just About Employee Satisfaction](http://news.gallup.com/businessjournal/208487/right-culture-not-employee-happiness.aspx) - by Jim Harter and Annamarie Mann. Takeaway: "Measuring workers' contentment doesn't improve business outcomes. Approaching engagement as a business strategy yields better results. Highly engaged organizations share common philosophies and practices."
+
 - [Sorry, but Your Start-Up’s Team Isn’t Actually Any More Agile Than the Big Guys. Why You Really Still Can Win](https://www.saastr.com/sorry-but-your-start-ups-team-isnt-actually-any-more-agile-than-the-big-guys-why-you-really-still-can-win/) - by Jason Lemkin. Takeaway: "The BigCo problem is a combination of (x) impact/runway and (y) cross-functionality “unagility”.  Here’s where start-ups can execute so much better."
 
 - [Transforming Company Culture] (podcast) (https://directory.libsyn.com/episode/index/id/5762224/tdest_id/402889) - by Happy Melly. Takeaway: A truly inspiring conversation with John Hilliard of Next Jump about the company's "better me + better you = a better us" culture, which includes a no-fire policy and programs to help employees cultivate their leadership skills.
