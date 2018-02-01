@@ -64,6 +64,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Ultimate Question](https://docs.google.com/document/d/1nsmy2GqHL-9IjEc0Q88tsSYafHJQXtgK0P8pJWKOTAs/edit) - notes by Joe Goldberg about the book by Fred Reichheld, which focuses on measurements like the net promoter score (NPS).
 
+- [Veteran CTO (with Multiple Successful Exits) Answers Your Top Startup-Building Questions](http://firstround.com/review/veteran-cto-with-20-years-experience-answers-your-top-startup-building-questions/) - by FirstRound. Takeaway: an interview with/profile of Adil Ajmal, CTO of LendingHome, who has scaled up teams at seven tech organizations. He covers topics ranging from interviewing to hiring a VP Product.
+
 - [What Happens When Startups Turn from Their Innovation Stage to Operational Excellence?](https://bothsidesofthetable.com/what-happens-when-startups-turn-from-their-innovation-stage-to-operational-excellence-91bee1540e66) - by Mark Suster. Takeaway: "Startups are fun and exhilarating and filled with challenging problems to solve. To the neophyte it seems like startup challenges are strictly product or technical in nature but to innovate, systematize and scale a billion dollar company it involves way more decisions about strategy, economics, resource allocations and team composition."
 
 - [Why Software Sucks](http://scottberkun.com/essays/46-why-software-sucks/) - by Scott Berkun. Good ways to think about why it happens and what you can do to make it happen less.
