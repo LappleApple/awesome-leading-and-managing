@@ -88,6 +88,8 @@
 
 - [What Determines How Collaborative You'll Be?](https://opensource.com/open-organization/17/7/collaboration-vs-competition-part-2?sc_cid=7016000000127L3AAI) - by Ron McFarland. Takeaway: Four scenarios that illustrate the factors influencing your level of openness.
 
+[What Is a High-performance Team?](https://medium.com/@rkasper/what-is-a-high-performance-team-79a7a617a071) - by Richard Kasperowski. Takeaway: a brief post listing different metrics to measure the performance of different kinds of teams.
+
 ### Technical Debt/Managing It
 
 - [A Crystal Ball to Prioritise Technical Debt in Monoliths or Microservices: Adam Tornhill's Thoughts](https://www.infoq.com/news/2017/04/tornhill-prioritise-tech-debt) - by Daniel Bryant. Takeaway: a summary of Thornhill's QCon London 2017 talk, which covered "methods to identify 'hotspots' of code complexity and churn; the benefit of continually evaluating the suitability of the architecture for the current system, for example, by examining 'temporal coupling' of components or microservices; and that the cost of inter-team coordination can often be learned from examining the social metadata associated with code commits within a version control system."
