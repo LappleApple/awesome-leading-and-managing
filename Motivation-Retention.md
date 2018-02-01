@@ -63,6 +63,8 @@
 
 - [How We Pay People at Basecamp](https://m.signalvnoise.com/how-we-pay-people-at-basecamp-f1d04f4f194b) - by DHH. Takeaway: "There are no negotiated salaries or raises at Basecamp. Everyone in the same role at the same level is paid the same. Equal work, equal pay." Basecamp offers employees salaries in the top 5% of the market (Chicago) and meaningful benefits, and has instituted a new profit growth sharing scheme.
 
+- [People Leave Managers, Not Companies. Don’t Let That Manager Be You.](https://blog.intercom.com/people-leave-managers-not-companies/) - by Rich Archebold. Takeaway: Avoid manager overconfidence by asking for advice and peer review, owning instead of blaming, give feedback with empathy, savor success, and constantly revisit what it takes to be a good manager.  
+
 - [Retention and the Cross-Generational Pipeline](https://kateheddleston.com/blog/retention-and-the-crossgenerational-pipeline) - by Kate Heddleston. Takeaway: "You can retain any employee by valuing them equal to their work, training managers at your company, and giving employees the benefits and work flexibility to manage life outside the office. I wish we valued retaining underrepresented groups as much as we valued hiring them."
 
 - [Tech Leavers](http://www.kaporcenter.org/tech-leavers/) - by Kapor Center. Takeaway: A survey of 2,000 U.S. adults who left a job during the previous three years. "Workplace culture drives turnover, significantly affecting the retention of underrepresented groups, and costing the industry more than $16 billion each year."
