@@ -18,7 +18,7 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
 
 - [The 90% Agreement Rule](https://hackernoon.com/the-90-agreement-rule-36757dcc8eaa) - by Lawrence Ripsher. Takeaway: Ripsher asserts that "we spend 90% of our time, talking about the 10% of things we disagree on." This takes up time and energy. Instead, "[c]reate clarity (and build on) wherever there is ‘about 90% agreement’ first— then come back around and address the disagreements after."
 
-- [3 Ways To Ease The Pain Of Slow And Frustrating Decision Making](http://corporate-rebels.com/rebellious-practices-distributed-authority/) - by the Corporate Rebels. Takeaway: Change your language to imply empowerment; distribute decision-making authority by practice, and push decision making authority down through proper training.
+- [3 Ways to Ease the Pain of Slow and Frustrating Decision Making](http://corporate-rebels.com/rebellious-practices-distributed-authority/) - by the Corporate Rebels. Takeaway: Change your language to imply empowerment; distribute decision-making authority by practice, and push decision making authority down through proper training.
 
 - [Why Humble People Make Better Decisions](https://journal.thriveglobal.com/why-humble-people-make-better-decisions-d18e6ad6180a#.hy27xhl36) - by Drake Baer. Takeaway: A Duke University research study shows that people with high "intellectual humility" are more open to the information coming their way, as a form of "information sensitivity." This means they end up making more informed decisions than those who need to be right and ignore evidence.
 
@@ -81,6 +81,8 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 - [The Heartbeat Interview with Amy Gallo](https://youtu.be/-yZi2WwIXnQ) (video) - by Claire Lew. Takeaway: A chat about how leaders can become friendly and human with their teams, set boundaries and be friendly. Being human at work builds empathy and care.
 
 - [How to Improve Emotional Intelligence](https://medium.com/personal-growth/how-to-improve-emotional-intelligence-375dbe1c5d51) - by Darius Foroux. Takeaway: Identify, interpret, manage your emotions. "When you can identify your own emotions, you will also get better at identifying other people’s emotions." This can positively impact your leadership abilities. 
+
+- [How to Influence Culture When You’re Not the CEO](https://m.signalvnoise.com/how-to-influence-culture-when-youre-not-the-ceo-81a4162257b) - by Claire Lew. Takeaway: Model what you’d like to be true of your team; speak up with improvement ideas through the prism of team instead of individual/personal; give space, grace, and gratitude to leaders.
 
 - [How to Make Your Engineering Team More Effective](http://www.effectiveengineer.com/blog/how-to-make-your-team-more-effective) - by Edmond Lau. Takeaway: Gather input as to what’s hard or frustrating; explicitly design how to align someone’s growth goals with what creates value; give and request frequent and honest feedback; leverage your strengths to level up the team; reduce sources of complexity, and create more opportunities for collaboration.
 
