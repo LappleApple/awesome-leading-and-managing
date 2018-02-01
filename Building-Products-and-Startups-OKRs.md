@@ -28,6 +28,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Key Learnings in My First Year as a PM at Amazon](https://www.linkedin.com/pulse/key-learnings-my-first-year-pm-amazon-venkatraman-prabhu) - by Venkatraman Prabhu. Takeaway: Lessons learned after a year at the global retailer. Choose the right manager, always measure the product's impact, keep experimenting, have weekly 1:1's with key stakeholders, and get advice.
 
+- [Knowns vs Unknowns — Are You Building a Successful Company or Just Typing?](https://medium.com/lightspeed-venture-partners/knowns-vs-unknowns-78b0da5ca887) - by Aaron Batalion. Takeaway: “You’re probably not the only one in the world with your idea, but if you focus the best people in the room on only the known unknowns, you’ll have a much better shot at winning.”
+
 - [Lean-Agile Product Management](https://lapm.continuousdelivery.com/) - by Jez Humble. Takeaway: the course website from Humble's class at UC Berkeley, with syllabus and resources that cover the product lifecycle, team-building, and other key topics. Includes lots of links to talks/articles/etc. that you might also find linked to here.
 
 - [Lean Startup](https://docs.google.com/document/d/1Xs9VBBhh68DVCywXN7TRtDcWQQLDJWcLCvUOxnzNHmw/edit) - notes by Joe Goldberg about the book by Eric Ries.
