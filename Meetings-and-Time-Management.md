@@ -1,7 +1,6 @@
 ## Meetings and Time Management
 
 ### Meetings
-- [6 Steps to Running the Perfect 30-Minute Meeting](https://opensource.com/open-organization/16/2/6-steps-running-perfect-30-minute-meeting) - by Jimmy Sjölund. Takeaways: People tend to "default" to 60-minute meetings, but most meetings rarely require this much time. Sjölund offers six suggestions for trimming meetings to a more managemable and appropriate length while simulatenously making them more effective.
   
 - [Declutter Your Meetings and Create Minimum Viable Meetings](https://zenkara.wordpress.com/2015/09/21/declutter-your-meetings-and-create-minimum-viable-meetings/) - by Zenkara. Takeaway: Run Minimum Viable Meetings, which include the absolute fewest participants with only critical topics for meeting objectives. "Schedule the fewest meetings possible and as early as possible; have the result and outcome that you are satisfied with."
 
@@ -22,7 +21,9 @@
   
 - [Run Your Meetings Like a Boss](http://99u.com/articles/25075/run-your-meeting-like-a-boss-lessons-from-mayer-musk-and-jobs) - by David Fallarme. Takeaway: Make decisions using data, keep meetings to the necessary size, and be prepared with questions and answers to ensure a meeting is productive.
   
- - [Seven Helpful Tips to Ruin a Meeting – What Not to Do to Run Effective Meetings](https://luis-goncalves.com/7-helpful-tips-to-ruin-a-meeting/?__s=zmnhwriwrwhonuvpmtq8) - by Simon Cockayne. Takeaway: Avoid back-to-back scheduling; unclear purpose; lack of preparation; multitasking; personality-based judging of ideas; running over time; zero followup.
+- [Seven Helpful Tips to Ruin a Meeting – What Not to Do to Run Effective Meetings](https://luis-goncalves.com/7-helpful-tips-to-ruin-a-meeting/?__s=zmnhwriwrwhonuvpmtq8) - by Simon Cockayne. Takeaway: Avoid back-to-back scheduling; unclear purpose; lack of preparation; multitasking; personality-based judging of ideas; running over time; zero followup.
+
+- [6 Steps to Running the Perfect 30-Minute Meeting](https://opensource.com/open-organization/16/2/6-steps-running-perfect-30-minute-meeting) - by Jimmy Sjölund. Takeaways: People tend to "default" to 60-minute meetings, but most meetings rarely require this much time. Sjölund offers six suggestions for trimming meetings to a more managemable and appropriate length while simulatenously making them more effective.
 
 - [Start Every Meeting with a Personal Check-in](https://blog.travis-ci.com/2016-06-09-start-meetings-with-personal-checkins) - by Mathias Meyer. Takeaway: the Travis CI CEO talks about how meditation has enhanced his ability to be present, and how this carries into team meetings. "Before you walk into a meeting (virtually or into the meeting room), close your eyes, inhale three times, and walk in. I found that this can have a great impact on my presence and focus in meetings." The team starts meetings with the red/yellow/green scale and everyone states how they're feeling.
 
