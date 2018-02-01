@@ -1,5 +1,9 @@
 ## Leadership Abilities, Qualities and Values
 
+### Conscientiousness
+
+- [The Angel’s in the Details](https://medium.com/@dunn/make-a-big-deal-about-the-little-things-49044db95b3f) - by Andy Dunn. Takeaway: “If you ever meet someone who is obsessed with the little things, and it bothers you, take an introspective look inside. The person with the problem might be you. Only by being obsessed with little things do amazing things emerge. The culture of little things emerges from the top down, not only by what is celebrated, but by what is role modeled.”
+
 ### Empathy
 
 - [Assholes, Jerks and Dickheads Are People Too](https://www.linkedin.com/pulse/assholes-jerks-dickheads-people-too-neil-mcgregor) - by Neil McGregor. Takeaway: "There is worrying trend on LinkedIn and in the business media in general. The labelling of people into categories labelled Assholes, Jerks and Dickheads. I have to say this worries me for a number of reasons, not the least of which, is the fact that some pretty heavy hitters are using the terms and in turn influencing many others to think along similar narrow minded lines. No doubt many if not all of us have had the unfortunate opportunity to work with some difficult folk, but labelling and discarding them helps no-one." The article encourages empathy and staying focused on someone's humanity.
