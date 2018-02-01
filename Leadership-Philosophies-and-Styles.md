@@ -92,6 +92,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/) - by Adam Buggia. Takeaway: covers six basics of effective leadership—1:1's, team surveys, psychological safety, building resilient teams, informing your department, and self-improvement—and provides "recipes" to achieve them.
 
+- [6 Things Great Leaders Do Differently](https://www.theladders.com/career-advice/six-things-great-leaders-do-differently) - by Travis Bradberry. Takeaway: They’re kind without being weak or expecting something in return, strong without being harsh, confident without being cocky, stay positive but remain realistic, are role models not preachers, and will do anything for their teams.
+
 - [A Tech Lead Manifesto](https://blog.magpiebrain.com/2006/09/12/a-tech-lead-manifesto/) - by Sam Newman. Takeaway: a very pithy summary of what a tech lead should and should not do. Newman believes tech leads should continue coding, but should not write all the "hard" code.
 
 - [10 Principles of Strategic Leadership](https://www.strategy-business.com/article/10-Principles-of-Strategic-Leadership) - by Jessica Leitch, David Lancefield, and Mark Dawson. Takeaway: Distribute responsibility, be honest and open about information, create multiple paths for raising and testing ideas, make it safe to fail, provide access to other strategists, develop opportunities for experience-based learning, hire for transformation, bring your whole self to work, find time to reflect, and recognize leadership development as an ongoing practice.
