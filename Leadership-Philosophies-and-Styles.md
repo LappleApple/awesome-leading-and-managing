@@ -76,6 +76,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [On Being a Bad Manager](https://m.signalvnoise.com/on-being-a-bad-manager-e56e1fb3d9dc) - by Jason Fried. Takeaway: "Observation is no substitute for doing." 
 
+- [On Being an Engineering Manager](http://codeplease.io/2018/01/15/on-being-an-engineering-manager/) - by Rui Peres. Takeaway: Filter out the noise, be optimistic, prioritize company/team/individual, and other tips.
+
 - [On Leadership vs Management](https://dbsmasher.com/2017/09/30/on-leadership-vs-management/) - by dbsmasher. Takeaway: a "flight of ideas" about the ability of all members of an organization to be leaders, and what to do to cultivate that mindset (and what not to do.
 
 - [Our 6 Must Reads for Scaling Yourself as a Leader](http://firstround.com/review/our-6-must-reads-for-scaling-yourself-as-a-leader/) - by FirstRound. Takeaway: Comes with outside resources that support six planks. Understand and engineer your calendar around your energy (physical, emotional and mental); say "not now, not ever" using "no" templates; avoid decision debt — create process and structure that doesn't need you; challenge the "when" to make speed a habit; beat burnout with prioritization and communication techniques; and balance internal and external movitations to see yourself and decisions more clearly.
