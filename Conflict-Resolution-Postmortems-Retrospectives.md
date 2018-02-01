@@ -32,6 +32,8 @@
 
 ### Conflict Resolution
 
+- [How to Communicate with People Who Disagree with You](https://www.fastcompany.com/40515575/how-to-communicate-with-people-who-disagree-with-you) - by Michael Grothaus. Takeaway: Work backwards from a person’s known belief; opt for in-person communication if possible, because it’s easier for people to dehumanize you via text communication; and use video conferencing instead of email.
+
 - [Overcome the 5 Dysfunctions of a Team](https://medium.com/the-mission/part-2-overcome-the-5-dysfunctions-of-a-team-ef922309f8b5) : by The Mission. Takeaway: 1. It takes time to build trust in a team. 2. Never fear conflict, as "the only purpose of productive conflict is to produce the best solution in the shortest period of time." 3. Commitment is a function of two things: clarity and buy-in. Great teams move forward with complete buy-in, including members who voted against the decision. Therefore, leaders must be comfortable with the prospect of making a decision that turns out to be wrong. 4. Leaders must create a culture of accountability in/to the team by encouraging and allowing the team to serve as the first and primary accountability mechanism. 5. Leaders must set the tone for the team to focus on results. If the team members sense that the leader values anything other than results, they will take that as permission to do the same.
 
 - [Power up Your Team with Nonviolent Communication Principles](http://firstround.com/review/power-up-your-team-with-nonviolent-communication-principles/) - by First Round. An enlightened interview with executive coaches Ann Mehl and Jerry Colonna, who teach major tech companies about nonviolent communication principles through emphasizing awareness, responsibility and empathy.
