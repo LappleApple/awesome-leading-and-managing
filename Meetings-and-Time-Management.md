@@ -55,11 +55,13 @@
 
 - [Gatekeepers and Gardeners](http://product.hubspot.com/blog/gatekeepers-and-gardeners) - by Jared Williams. Takeaway: "To manage, new leaders often adopt the role of a gatekeeper early on and have a hard time letting go...A gatekeeper controls the flow of information in an attempt to narrow focus and avoid surprises." Be a gardener instead. "A gardener trusts, encourages autonomy, and exposes their team to higher level problems. Gardeners turn scaling and growth into a team sport."
 
-  - [Getting Started with Getting Things Done](http://blog.jbrains.ca/permalink/getting-started-with-getting-things-done) - by JB Rainsberger. Takeaway: the core of David Allen's Getting Things Done system, condensed into a four-page document.
+- [Getting Started with Getting Things Done](http://blog.jbrains.ca/permalink/getting-started-with-getting-things-done) - by JB Rainsberger. Takeaway: the core of David Allen's Getting Things Done system, condensed into a four-page document.
 
 - [The Habit of No](https://ethansaustin.com/2015/01/01/the-habit-of-no/) - by
   Ethan Austin. The habit of saying no is important for teamwork and keeping a
   startup focused on the common goal.
+
+- [It's Time to Stop Wearing Burnout as a Badge of Courage](https://advice.shinetext.com/articles/its-time-to-stop-wearing-burnout-as-a-badge-of-courage/) - by Stephanie Jade Wong. Takeaway: Predict your burnout using the Overwhelm Cycle, a diagram of a clock that highlights what happens at 11:30 PM for you to hit burnout mode. Then work your way backward. Get a support network, plan breaks and list priorities. 
 
 - [Listening Is the Job](http://boz.com/articles/listening-is-the-job.html) - by Andrew Bosworth. Takeaway: Have a system for taking in/consuming information; maximize signal-to-noise ratio; give feedback; proactively identify gaps in your information flows; write notes to remember reactions you have through the day; tell your story; be clear about the information you seek; and listen.
 
