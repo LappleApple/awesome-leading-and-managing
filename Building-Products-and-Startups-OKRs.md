@@ -70,6 +70,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [What Happens When Startups Turn from Their Innovation Stage to Operational Excellence?](https://bothsidesofthetable.com/what-happens-when-startups-turn-from-their-innovation-stage-to-operational-excellence-91bee1540e66) - by Mark Suster. Takeaway: "Startups are fun and exhilarating and filled with challenging problems to solve. To the neophyte it seems like startup challenges are strictly product or technical in nature but to innovate, systematize and scale a billion dollar company it involves way more decisions about strategy, economics, resource allocations and team composition."
 
+- [When, Which...Design Thinking, Lean, Design Sprint, Agile?](https://blog.usejournal.com/when-which-design-thinking-lean-design-sprint-agile-a4614fa778b9) - by Geert Claes. Takeaway: “It probably makes more sense to just look at Design Thinking, Lean, Design Sprint & Agile as a bunch of tools and techniques in one’s toolbox, rather than argue for one over the other, because they can all add value somewhere on the innovation spectrum.”
+
 - [Why Software Sucks](http://scottberkun.com/essays/46-why-software-sucks/) - by Scott Berkun. Good ways to think about why it happens and what you can do to make it happen less.
 
 ## OKRs
