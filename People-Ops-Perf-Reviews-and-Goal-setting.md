@@ -28,6 +28,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 ### Goal-setting
 
+- [Habits to Earn a Raise](https://dev.to/recursivefaults/habits-to-earn-a-raise-ad8) - by Ryan Latta. Takeaway: Get a journal to record your wins, set goals aligned with company goals and follow up, run at problems that everyone else avoids.
+
 - **How to Set Team Goals**: Notes from a Conversation with Joe Goldberg and his Colleague, David Wolpa.
   - Deciding on a goal: Why do people choose to join your org/team?; What goals has the team really rallied around in the past? Why?
   - Look at "paired metrics" from High Output Management, e.g. output + quality-measuring outcomes ($, billable hours), not inputs (utilization, "time spent on tickets")
