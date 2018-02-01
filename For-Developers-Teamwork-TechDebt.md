@@ -86,6 +86,8 @@
 
 - [Thinking of the Next Developer](https://dev.to/dnimmo/thinking-of-the-next-developer) - by David Nimmo. Takeaway: before moving on to the next coding problem, take the time to save hassle for the next person joining your team or working with your code.
 
+- [25 Hints You’re Working on a High Performing Team](https://hackernoon.com/25-hints-youre-working-on-a-high-performing-team-c4d02f27dd3) - by John Cutler. Takeaway: Growth mindset, infrequent production issues, multidisciplinary collaboration, and 22 more signs.
+
 - [What Determines How Collaborative You'll Be?](https://opensource.com/open-organization/17/7/collaboration-vs-competition-part-2?sc_cid=7016000000127L3AAI) - by Ron McFarland. Takeaway: Four scenarios that illustrate the factors influencing your level of openness.
 
 [What Is a High-performance Team?](https://medium.com/@rkasper/what-is-a-high-performance-team-79a7a617a071) - by Richard Kasperowski. Takeaway: a brief post listing different metrics to measure the performance of different kinds of teams.
