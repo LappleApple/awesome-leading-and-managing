@@ -12,7 +12,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauritaapplez) found out about 
 ## Contents
 - [Abilities, Qualities and Values](Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](Building-Products-and-Startups-OKRs.md)
-- [Conflict Resolution, Postmortems and Retrospectives](Conflict-Resolution-Postmortems-Retrospectives.md)
+- [Conflict Prevention and Conflict Resolution](Conflict-Prevention-Resolution.md)
 - [Culture](Culture.md)
 - [Diversity and Gender](Diversity-and-Gender.md)
 - [Firing](Firing.md)
@@ -28,6 +28,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauritaapplez) found out about 
 - [Onboarding](Onboarding.md)
 - [One-on-Ones](One-on-Ones.md)
 - [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md)
+- [Postmortems and Retrospectives](Postmortems-Retrospectives.md)
 - [Transitioning to Management (and Managing Managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 
 * "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
