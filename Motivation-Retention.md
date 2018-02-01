@@ -79,4 +79,6 @@
 
 - [20 Simple Reasons Your Top Performers Quit](https://blog.bonus.ly/6-simple-reasons-your-top-performers-quit) - by George Dickson at Bonusly. Takeaway: "Start by taking a step back and objectively analyzing the causes of voluntary turnover. Understanding why top performers quit is the first step in preventing yours from leaving for greener pastures. Luckily, you don't have to make these mistakes yourself to learn from them. Plenty of others already have."
 
+- [Why I Rejected My Manager](https://medium.com/personal-growth/why-i-rejected-my-manager-b2273e354462) - by Mianya Ong. Takeaway: Ong rejects in managers the “their way or the highway” attitude, being busy being too busy, lack of awareness of what reports are working on, infallibiity, inability to explain why, hiring people exactly like them, and inability to compromise.
+
 - [Why People Can’t Wait to Quit Your Company](https://startupsventurecapital.com/why-people-cant-wait-to-quit-your-company-7502eb9eb086) - by Nicole Sanchez. Takeaway: Bad managers, HR isn't trusted/can't do its job well; misalignment; your company treats people like tools; the CEO is underperforming instead of working; your approach to hiring senior leadership looks more like cronyism than rigorous selection; the smartest person in your company is buried deep in the org chart and underutilized. But you can fix it.
