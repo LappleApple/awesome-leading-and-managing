@@ -86,9 +86,9 @@
 
 - [So You Think You Want to Manage?](https://medium.com/the-year-of-the-looking-glass/so-you-think-you-want-to-manage-1229723a4501) - by Julie Zhuo. Takeaway: Make sure your transition to management is an intentional and well informed decision by answering a bunch of questions.
 
-- [Speed Matters: Why Working Quickly Is More Important Than It Seems](http://jsomers.net/blog/speed-matters) - by James Somers. Takeaway: "The obvious benefit to working quickly is that you’ll finish more stuff per unit time. But there’s more to it than that. If you work quickly, the cost of doing something new will seem lower in your mind. So you’ll be inclined to do more."
+- [Speed Matters: Why Working Quickly Is More Important than It Seems](http://jsomers.net/blog/speed-matters) - by James Somers. Takeaway: "The obvious benefit to working quickly is that you’ll finish more stuff per unit time. But there’s more to it than that. If you work quickly, the cost of doing something new will seem lower in your mind. So you’ll be inclined to do more."
 
-- [Speeding Up Your Engineering Org, Part I: Beyond the Cost Center Mentality](http://blog.hut8labs.com/speeding-up-your-eng-org-part-i.html) - by Edmund Jorgensen. Takeaway: "[I]t isn’t actually a law of nature that engineering orgs have to slow down as they mature and grow. With active, contravening investment, it’s possible to maintain and even gain speed."
+- [Speeding up Your Engineering Org, Part I: Beyond the Cost Center Mentality](http://blog.hut8labs.com/speeding-up-your-eng-org-part-i.html) - by Edmund Jorgensen. Takeaway: "[I]t isn’t actually a law of nature that engineering orgs have to slow down as they mature and grow. With active, contravening investment, it’s possible to maintain and even gain speed."
 
 - [Team Lead — Here Is What Your Boss Isn’t Telling You, Yet Still Expects of You](https://medium.com/@orenellenbogen/team-lead-here-is-what-your-boss-isnt-telling-you-yet-still-expects-of-you-69f0e174e534) - by Oren Ellenbogen. Takeaway: as a team lead, it is your job to enable your company’s scalability. You do this by removing blockers, making your people happy, planning for growth, and delegating.
 
@@ -115,6 +115,8 @@
 - [Understanding Company Strategy: New Tech Leader Series](http://katemats.com/understanding-company-strategy-new-tech-leader-series/) - by kate{mats}. Takeaway: "The very first thing you need to do in a leadership role is understand the goals of the company and the way your organization fits into that strategy." Provides the steps to make that happen.
 
  - [What Are Common Mistakes That New or Inexperienced Managers Make?](https://www.quora.com/Management/What-are-common-mistakes-that-new-or-inexperienced-managers-make/answer/Ian-McAllister) - by Ian McAllister. Takeaway: Some of them include being slow to deal with performance issues, not investing in recruiting or team development, taking credit for others' work and blaming, and simply not leading.
+
+- [What Stops Us from Transitioning Into a Leadership Role](https://www.youtube.com/watch?v=cBTpbPzm838) - by Femgineer. Takeaway: A chat with leadership coach Jean Hsu about why our perception of who or what we think it takes to be in a role is often wrong, and why we are more capable of learning and growing in a new role than we realize.
 
 - [What’s Your Learning Stack?](https://mystudentvoices.com/whats-your-learning-stack-55f8639c3d56) - by Mattan Griffel and Álvaro Sanmartín. Takeaway: Analogous to a tech stack, a learning stack codifies how learning is done in an org.
 
