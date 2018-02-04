@@ -12,6 +12,8 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
 
 - [Business Value Game](https://www.agile42.com/en/business-value-game/) - by Andrea Tomasini. Takeaway: an interactive game in which a "product management board" of stakeholders decides, in a manner inspired by Planning Poker, which goals to prioritize based on relative value to the business.
 
+- [Decision-Making Auditing](http://tomtunguz.com/decision-making-auditing/) - by Tomasz Tunguz. Takeaway: "I’ll never know as much about a company’s operations or strategy or a sector as a founder/management team. But, I still want to be helpful. So, the most effective strategy I’ve found so far is to probe how the decision was made. Answer a question with a trenchant question, which coincidentally, ties back to some of the best advice I’ve received from a founder."
+ 
 - [“Do We All Agree” Is a Terrible Question](https://medium.com/@hunterwalk/do-we-all-agree-is-a-terrible-question-14499769591b) - by Hunter Walk. Takeaway: We often confuse 'collaboration' with 'consensus.' The former is about engaging a group of people to work together and discuss ideas. It aims to make the whole greater than the sum of its parts. The best leaders are certainly collaborative."
 
 - [In 2018, Focus on Quality of Decision Over Quality of Outcome](https://hunterwalk.com/2018/01/01/in-2018-focus-on-quality-of-decision-over-quality-of-outcome/) - by Hunter Walk. Takeaway: "In any system with relatively low cost of failure and repeatable game scenarios, it would seem that getting the decision right is actually what matters."
