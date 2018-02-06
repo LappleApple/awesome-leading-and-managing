@@ -72,6 +72,8 @@
 
 - [The Management Technique Essential to Google’s Growth](http://blog.idonethis.com/management-technique/) - by Blake Thorne. Takeaway: On the potential benefits of open office hours and how to make them work.
   
+- [Manager Energy Drain](http://larahogan.me/blog/manager-energy-drain/) - by Lara Hogan. Takeaway: Three tricks to conserve your energy — defragging your calendar, delegating messy and unscoped projects and saying no.
+
 - [My New Calendar System](https://sneakerheadvc.com/my-new-calendar-system-9e0a193ffebc) - by Phin Barnes. Takeaway: Ensure your time spent in meetings aligns with your priorities, and that you're not so busy that you can't be productive. Don't overcommit. And check to see if this describes you: "...I found that I was most frequently canceling or re-scheduling on my strongest and most valuable connections because I believed they’d be most likely to understand."
 
 - [No Time to Be Nice at Work](https://www.nytimes.com/2015/06/21/opinion/sunday/is-your-boss-mean.html) - by Christine Porath. Takeaway: "Rudeness and bad behavior have all grown over the last decades, particularly at work. For nearly 20 years [Porath has] been studying, consulting and collaborating with organizations around the world to learn more about the costs of this incivility. How we treat one another at work matters. Insensitive interactions have a way of whittling away at people’s health, performance and souls."
