@@ -28,6 +28,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [How to Sell the Problem Before Selling the Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484) - by David Bailey. Takeaway: Tactical ways to express customer needs and "lead with the need."
 
+- [In Praise of SWARMing](https://dannorth.net/2018/01/26/in-praise-of-swarming/) - by Dan North. Takeaway: "I am offering a new acronym, SWARMing: Scaling Without A Religious Methodology. My argument isn’t that packaged scaling methods are unhelpful per se, rather that they are neither necessary nor sufficient for successful transformation. They can be anything from a useful starting point to an expensive distraction, but one thing they are not is a solution."
+
 - [Key Learnings in My First Year as a PM at Amazon](https://www.linkedin.com/pulse/key-learnings-my-first-year-pm-amazon-venkatraman-prabhu) - by Venkatraman Prabhu. Takeaway: Lessons learned after a year at the global retailer. Choose the right manager, always measure the product's impact, keep experimenting, have weekly 1:1's with key stakeholders, and get advice.
 
 - [Knowns vs Unknowns — Are You Building a Successful Company or Just Typing?](https://medium.com/lightspeed-venture-partners/knowns-vs-unknowns-78b0da5ca887) - by Aaron Batalion. Takeaway: “You’re probably not the only one in the world with your idea, but if you focus the best people in the room on only the known unknowns, you’ll have a much better shot at winning.”
