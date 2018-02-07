@@ -1,6 +1,6 @@
 ## 1-on-1s    
  
-- [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) — by Mark Rabkin at Facebook. Takeaway: If your 1:1 isn’t not a bit awkward, you’re not talking about the real stuff. Article includes helpful prompting questions.
+- [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) — by Mark Rabkin at Facebook. Takeaway: If your 1:1 isn’t a bit awkward, you’re not talking about the real stuff. Article includes helpful prompting questions.
  
 - [Ask What, Why, and How to gain Purpose and Perspective](https://hackernoon.com/purpose-and-perspective-through-what-why-and-how-e158bf63e764) — by Brent Baisley. Takeaway: Three questions to help with alignment/purpose are: 1) What are you working on? (description of the work to be done); 2) Why are you working on it? (purpose behind the work); 3) How is it going to have an impact?
  
