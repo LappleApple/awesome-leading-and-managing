@@ -4,6 +4,10 @@
 
 - [The Angel’s in the Details](https://medium.com/@dunn/make-a-big-deal-about-the-little-things-49044db95b3f) - by Andy Dunn. Takeaway: “If you ever meet someone who is obsessed with the little things, and it bothers you, take an introspective look inside. The person with the problem might be you. Only by being obsessed with little things do amazing things emerge. The culture of little things emerges from the top down, not only by what is celebrated, but by what is role modeled.”
 
+### Emotional Intelligence 
+
+- [Emotional Intelligence for Engineers](https://www.youtube.com/watch?v=SJnVhkEx8Cs) (video) - by April Wensel. Takeaway: what emotional IQ is, why it's important, and how to develop it, by the head of Compassionate Coding.
+
 ### Empathy
 *"Empathy is about standing in someone else's shoes, feeling with his or her heart, seeing with his or her eyes. Not only is empathy hard to outsource and automate, but it makes the world a better place." — Daniel Pink*
 
