@@ -37,6 +37,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Heather Fleming](https://twitter.com/hfleming) — Agile Evangelist, Product & PMO Exec, Myers-Briggs Coach and a Voice for Women in Tech.
 - [Helena Edelson](https://twitter.com/helenaedelson) — Distributed Systems, Big Data & Infra Engineer @Apple. Speaker. FP, Scala, Intelligent self healing systems. Streaming. Cassandra MVP.
 - [Henrik Kniberg](https://twitter.com/henrikkniberg) — agile coach, led lots of Spotify's efforts and documented them for the world to learn from, author.
+- [Ihor Dvoretskyi](https://twitter.com/idvoretskyi) - Developer Advocate at Cloud Native Computing Foundation, co-founder and co-lead of the [Product Management Special Interest Group at Kubernetes Community](https://github.com/kubernetes/community/blob/master/sig-product-management/README.md).
 - [Isabel Drost-Fromm](https://twitter.com/MaineC) — Open Source Strategist at Europace.de, Apache Software Foundation, Berlin Buzzwords founder, frequent speaker and creator of things.
 - [James Turnbull](https://twitter.com/kartar) - CTO @EmpaticoOrg. Previously CTO @kickstarter, OG @docker/@puppetize. Likes tattoos & good food. The Terraform Book http://goo.gl/NnSJpe.
 - [Jamie Allen](https://twitter.com/jamie_allen) — Noted Lambda hater. Author of Effective Akka, contributor to Reactive Design Patterns. Engineering Head at Starbucks, formerly of Lightbend.
