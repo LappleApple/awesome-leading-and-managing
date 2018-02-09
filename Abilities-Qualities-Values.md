@@ -37,6 +37,10 @@
 
 - [Put an End to Your Feedback Loop](https://www.strategy-business.com/blog/Put-an-End-to-Your-Feedback-Loop) - by Jesse Sostrin. Takeaway: "If you’ve ever said the words 'I’ve gotten this feedback before,' chances are you’re playing with fire and undermining your own success by failing to address the issue."
 
+###Self-Awareness
+
+- [The 5 Ways to Improve Your Self-Awareness as a Leader](https://blog.knowyourcompany.com/the-5-ways-to-improve-your-self-awareness-as-a-leader-2f1464e5b00) - by Claire Lew. Takeaway: Assume positive intent, hold up a mirror to yourself and your decisions, remember that it’s not all about you, ask your team the tough questions and find an accountability partner like a coach.
+
 ### Trust
 
 - [A Trust Toolbox for Virtual Teams. Module 1: “The Prelude Game”](https://inteamwetrust.com/2016/06/22/trust-toolbox-for-virtual-teams-module-1/) - by Alexey Pikulev. Takeaway: A five-module framework for building trust, including sections on personal integrity and trust in action.
