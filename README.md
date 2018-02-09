@@ -23,13 +23,14 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauritaapplez) found out about 
 - [Leader List](Leader-List.md)
 - [Leadership Media](Leadership-Media.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
+- [Leading Leaders(Leading-Leaders.md)
 - [Meetings and Time Management](Meetings-and-Time-Management.md)
 - [Motivation and “Retention”](/Motivation-Retention.md)
 - [Onboarding](Onboarding.md)
 - [One-on-Ones](One-on-Ones.md)
 - [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md)
 - [Postmortems and Retrospectives](Postmortems-Retrospectives.md)
-- [Transitioning to Management (and Managing Managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
+- [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 
 * "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
 * "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan<br>
