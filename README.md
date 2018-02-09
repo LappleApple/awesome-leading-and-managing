@@ -23,7 +23,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauritaapplez) found out about 
 - [Leader List](Leader-List.md)
 - [Leadership Media](Leadership-Media.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
-- [Leading Leaders(Leading-Leaders.md)
+- [Leading Leaders](Leading-Leaders.md)
 - [Meetings and Time Management](Meetings-and-Time-Management.md)
 - [Motivation and “Retention”](/Motivation-Retention.md)
 - [Onboarding](Onboarding.md)
