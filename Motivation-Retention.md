@@ -69,6 +69,8 @@
 
 - [People Leave Managers, Not Companies. Don’t Let That Manager Be You.](https://blog.intercom.com/people-leave-managers-not-companies/) - by Rich Archebold. Takeaway: Avoid manager overconfidence by asking for advice and peer review, owning instead of blaming, give feedback with empathy, savor success, and constantly revisit what it takes to be a good manager.  
 
+- [Quantifying Personal Retention Impact: A Mathematical Thought Exercise](http://royrapoport.blogspot.ie/2015/01/quantifying-personal-retention-impact.html) - by Roy Rapoport. Takeaway: Offers a scale from -3 to +3 for determining how much you'd join a company based on whether a former colleague you liked or disliked is working there.
+
 - [Retention and the Cross-Generational Pipeline](https://kateheddleston.com/blog/retention-and-the-crossgenerational-pipeline) - by Kate Heddleston. Takeaway: "You can retain any employee by valuing them equal to their work, training managers at your company, and giving employees the benefits and work flexibility to manage life outside the office. I wish we valued retaining underrepresented groups as much as we valued hiring them."
 
 - [Tech Leavers](http://www.kaporcenter.org/tech-leavers/) - by Kapor Center. Takeaway: A survey of 2,000 U.S. adults who left a job during the previous three years. "Workplace culture drives turnover, significantly affecting the retention of underrepresented groups, and costing the industry more than $16 billion each year."
