@@ -50,6 +50,8 @@
 
 - [Retrospectives](http://www.retrospectives.com/) - by Norman L. Kerth. Takeaway: A website dedicated to retrospectives, "the practice of looking back to move forward." Includes the Retrospective Prime Directive: "Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand."
 
+- [Retrospectives for Large Teams with Many Sub-Teams](http://lisacrispin.com/2018/02/14/retrospectives-large-teams-many-sub-teams/) - by Lisa Crispin. Takeaway: How Crispin organized a retro with 40+ team members, distributed into seven or so “pods” and across several locations.
+
 - [Running Effective Retrospectives](http://werve.net/articles/running-effective-retrospectives/) - by Don Werve. Takeaway: "[R]etrospectives plus science equals an effective tool for killing bad process before it metastasizes into truly epic stupidity."
 
 - [Which Questions do you Ask in Retrospectives?](https://www.benlinders.com/2013/which-questions-do-you-ask-in-retrospectives/) - by Ben Linders. With four key retro questions: "What did we do well, that if we don’t discuss we might forget? What did we learn? What should we do differently next time? What still puzzles us?"
