@@ -100,6 +100,8 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [Making Engineering Team Communication Clearer, Faster, Better](http://firstround.com/review/making-engineering-team-communication-clearer-faster-better/) - by First Round. Takeaway: Using a technical design review system with design documents can help teams communicate effectively and clearly. The article links to a [design doc template](https://docs.google.com/document/d/1uMHzRsEDZb_p9xfFGerCVhr-0mAi-d-OFY4jJi0dYk4/edit) by Google, and [a completed example](https://docs.google.com/document/d/1CMlG1v9AAln9SvI4Ysqo8NOd4L4ObDy3SY8pNh9iXhI/edit).
 
+- [Master the Art of Influence — Persuasion as a Skill and Habit](http://firstround.com/review/master-the-art-of-influence-persuasion-as-a-skill-and-habit) - by FirstRound. Takeaway: "To persuade someone, you need to speak as much as you can to System I [of the brain]— the child, the interns — who want to believe you (because it just makes so much darn sense, what’s not to love?). Trouble is, most tech operators express themselves with complexity, nuance, facts and figures. That’s their default, and it doesn’t appeal to people’s unconscious processor."
+
 - [Meeting Resistance and Moving Forward](https://www.youtube.com/watch?v=DrCD1wmK9oM) - by Linda Rising. Takeaway: A keynote talk featuring tips for handling naysayers and skeptics.
 
 - [Never Split the Difference Cheat-Sheet](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - by Yan-David Erlich. Takeaway: a detailed, six-page summary of Chris Voss' *Never Split the Difference*, the 2016 book about negotiation. Includes [blog post](https://medium.com/@yanda/negotiation-cheat-sheet-31c73031956a).
