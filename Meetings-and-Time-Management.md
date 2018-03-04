@@ -19,6 +19,8 @@
 
 - [On Better Meetings](http://larahogan.me/blog/better-meetings/) - by Lara Hogan. Takeaway: Productive meetings come from doing the right amount of work before, during, and after a meeting.
   
+- [Plan a Better Meeting with Design Thinking](https://hbr.org/2018/02/plan-a-better-meeting-with-design-thinking) - by Maya Bernstein and Rae Ringel. Takeaway: "Start by putting your own expertise and agenda aside and thinking about the people who will be affected by your meeting. Develop empathy for them by asking three sets of questions: Who is going to be in the room and what are their needs? Who won’t be in the room but will nevertheless be affected by the meeting and what are their needs? In what broader culture and environment are you operating and what are some of the overarching challenges and opportunities?"
+
 - [Run Your Meetings Like a Boss](http://99u.com/articles/25075/run-your-meeting-like-a-boss-lessons-from-mayer-musk-and-jobs) - by David Fallarme. Takeaway: Make decisions using data, keep meetings to the necessary size, and be prepared with questions and answers to ensure a meeting is productive.
   
 - [Seven Helpful Tips to Ruin a Meeting – What Not to Do to Run Effective Meetings](https://luis-goncalves.com/7-helpful-tips-to-ruin-a-meeting/?__s=zmnhwriwrwhonuvpmtq8) - by Simon Cockayne. Takeaway: Avoid back-to-back scheduling; unclear purpose; lack of preparation; multitasking; personality-based judging of ideas; running over time; zero followup.
