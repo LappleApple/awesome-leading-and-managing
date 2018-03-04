@@ -96,5 +96,7 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [360-Degree Feedback](http://en.wikipedia.org/wiki/360-degree_feedback) - Wikipedia entry on the process for collecting feedback from a person's reports, peers, supervisors and self.
 
+- [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/) - by Michael Lynch. Takeaway: A former Google engineer describes how Google's promotions committee setup meant that the legacy pipeline project he worked on didn't produce the metrics required to impress committee members. "Google kept telling me that it couldn’t judge my work until it saw me complete a project. Meanwhile, I couldn’t complete any projects because Google kept interrupting them midway through and assigning me new ones. My career was being dictated by a shifting, anonymous committee who thought about me for an hour of their lives. Management decisions that I had no input into were erasing months of my career progress."
+
 ### How to Review Managers
 - [Running a Manager Feedback Cycle](https://cate.blog/2017/03/23/running-a-manager-feedback-cycle/) - by Cate Huston. Provides a structured, transparent process for getting feedback as a manager. "It’s hard to get feedback as a manager, the hope was that people would be more candid if they 1) submitted feedback anonymously 2) to someone else. Because we tend to amplify negative feedback, there was a benefit to having someone else go through it, find trends, and repackage it for the recipient."
