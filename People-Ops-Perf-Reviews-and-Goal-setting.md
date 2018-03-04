@@ -20,6 +20,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Sharing Our Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder) - by Camille Fournier. Rent the Runway's famous engineering ladder, in [spreadsheet](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0) and [text/doc](https://docs.google.com/document/d/1SxmQBrDZvj16veuc2OVO0wUX7a7vEKPM-57dNLXhuEk/edit) formats.
 
+- [The Software Engineering Job Ladder](https://medium.com/@cgroom/the-software-engineering-job-ladder-4bf70b4c24f3) - by Chuck Groom. Takeaway: "why having a job ladder helps everybody; what makes for a good job ladder; the way I think about software engineer job levels; and [...] some related advice." 
+
 - [Technical Assessment Rubric](https://github.com/heddle317/onboarding/blob/master/technical_assessment_rubric.md) - by Kate Heddleston. Takeaway: Different people have different trajectories. Tailor goals to target weaknesses in a category (confidence, communication, code quality, etc.).
 
 - [Thoughts on the Technical Track](http://mcfunley.com/thoughts-on-the-technical-track) - by Dan McKinley. Thoughts on how the different ways developers become technical managers, including randomly and ad hoc. "I don't think that proceeding with the assumption that leaders will just naturally emerge produces the best results."
