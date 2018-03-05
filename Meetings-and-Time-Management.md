@@ -87,6 +87,8 @@
 
 - [On Becoming Me-Shaped Again](https://beero.ps/2017/07/17/on-becoming-me-shaped-again/) - by Katherine Daniels of Travis CI. Takeaway: "It’s unfortunate that it took me getting to the point where I nearly completely broke before I realized how burnt out and unbalanced I actually was. But it’s a good reminder to me to pay closer attention to how I’m spending my time and how I’m defining myself."
 
+- [One-Touch to Inbox Zero](https://praxis.fortelabs.co/one-touch-to-inbox-zero-a74cfa02e5bf) - by Tiago Forte. Takeaway: five relatively simple steps for implementing Inbox Zero.
+
 - [Product Strategy Means Saying
   No](http://www.productstrategymeanssayingno.com/) - by Intercom. Takeaways: Review common
   reasons for making product decisions and ask whether they are actually good
