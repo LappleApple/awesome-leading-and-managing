@@ -26,6 +26,8 @@
 
 - [Negative Feedback Antipatterns](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns) - by Charles-Axel Dein. Covers the OFNR (Observation, Feeling, Need, Request) method. *Observation* of a fact: A fact is rarely controversial, and a great way to start a conversation. *Feeling*: express your feelings and your story. Clarify that it’s your story. *Need*: state what you value, or the kind of impact you’d like to see. *Request*: explain what concrete action the other person would need to take.
 
+- [Our 6 Must Reads for Managers to Give Feedback That Helps People Grow](http://firstround.com/review/our-6-must-reads-for-managers-to-give-feedback-that-helps-people-grow/) - by FirstRound. Takeaway: six FirstRound articles to help you deliver feedback more effectively.
+
 - [Perfection Game](https://www.benlinders.com/2014/getting-feedback-with-the-perfection-game/) - by Ben Linders. Takeaway: use this game to generate detailed feedback, discover strengths, and define effective improvement actions (e.g. in a retrospective). It gives power to teams and helps them to self-organize and become more agile.
 
 - [A Primer on Giving Critical Feedback](https://www.tombartel.de/blog/a-primer-on-giving-critical-feedback) - by Tom Bartel. Provides a simple, four-step structure for giving feedback: 1) Describe a event (with facts) and the consequences, while criticizing only the behavior; 3) collect suggestions from the feedback receiver; by suggesting a solution themselves, they have an active part and become accountable; 4) make an agreement how to move on and follow up.
