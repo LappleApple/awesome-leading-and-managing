@@ -14,4 +14,6 @@
 
 ## Onboarding Decks
 
+- [The Art and Science of OnBoarding](https://www.slideshare.net/darthted/on-boarding-cto-summit) - by Ted Tencza of finder.com.au. 10 questions to ask about your new Developer hire onboarding program that will help focus and deliver better results. 
+
 - [Welcome to Netflix](https://docs.google.com/presentation/d/1bQt-9ROFBxtQ9njEyq-HrbdDQDy2BwZ6rpU0yiiO--4/edit#slide=id.p) - by Roy Rappaport of Netflix. After reading it you feel as if you know him personally and understand what it’ll be like to work with him.
