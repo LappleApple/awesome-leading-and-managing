@@ -51,7 +51,7 @@
 
 - [Why Today’s Workplace Creates Emotional Conflicts: The Dark Side of Success](https://www.huffingtonpost.com/douglas-labier/work-stress_b_1305477.html) - by Douglas LaBier. Takeaway: "Periodically a new survey appears, documenting depression in the workplace and dissatisfaction with leadership. Other research confirms that demoralization rises when work isn’t very engaging; or when opportunities for continued growth and expanding competencies are too limited or blocked. It’s time we recognize the negative psychological impact that the management culture and the 'requirements' for success can have on people and the organizations they work for. They exist at great cost to both."
 
-- [Why your programmers just want to code](https://hackernoon.com/why-your-programmers-just-want-to-code-36da9973388e) - by Marcus Blankenship. Takeaway: "How you handle ideas from new programmers sends an important signal. Good or bad, it sets the stage for what they expect. This determines if they share more ideas in the future… or keep their mouth shut."
+- [Why Your Programmers Just Want to Code](https://hackernoon.com/why-your-programmers-just-want-to-code-36da9973388e) - by Marcus Blankenship. Takeaway: "How you handle ideas from new programmers sends an important signal. Good or bad, it sets the stage for what they expect. This determines if they share more ideas in the future… or keep their mouth shut."
 
 
 ### Retention
