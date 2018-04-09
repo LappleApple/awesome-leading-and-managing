@@ -88,6 +88,8 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [The Heartbeat Interview with Amy Gallo](https://youtu.be/-yZi2WwIXnQ) (video) - by Claire Lew. Takeaway: A chat about how leaders can become friendly and human with their teams, set boundaries and be friendly. Being human at work builds empathy and care.
 
+- [How to Blast Through Silo Mentality to Create a Culture of Experimentation](https://www.widerfunnel.com/destroying-silo-mentality/) - by Lindsay Kwan. Takeaway: Align your stakeholders on a vision for experimentation; get buy-in from stakeholders and leaders; clarify your experimentation protocol; get strategic with cross-functional teams; communicate.
+
 - [How to Improve Emotional Intelligence](https://medium.com/personal-growth/how-to-improve-emotional-intelligence-375dbe1c5d51) - by Darius Foroux. Takeaway: Identify, interpret, manage your emotions. "When you can identify your own emotions, you will also get better at identifying other people’s emotions." This can positively impact your leadership abilities. 
 
 - [How to Influence Culture When You’re Not the CEO](https://m.signalvnoise.com/how-to-influence-culture-when-youre-not-the-ceo-81a4162257b) - by Claire Lew. Takeaway: Model what you’d like to be true of your team; speak up with improvement ideas through the prism of team instead of individual/personal; give space, grace, and gratitude to leaders.
