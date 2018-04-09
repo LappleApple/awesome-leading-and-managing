@@ -22,6 +22,8 @@
 
 - [A Taxonomy of Troublemakers for Those Navigating Difficult Colleagues](http://firstround.com/review/a-taxonomy-of-troublemakers-for-those-navigating-difficult-colleagues/) - by First Round. Takeaway: "a behavior often isn’t good or bad in and of itself — it’s the application of that behavior to a given context that’s good or bad...Research shows that, in about 70% of cases, difficult people will be shocked about how their behavior is being received and will simply self-correct. They didn’t know, and just stop." Includes eight archetypes: Narcissus, Bean Counter, Venus Flytrap, Swindler, Distracted, Robotic, Eccentric and Suspicious.
 
+- [Team Leader Venn Diagram](https://medium.com/making-meetup/em-el-pm-venn-diagram-764e79b42baf) - by Lara Hogan. Takeaway: How to differentiate between product managers, engineering managers and engineering leads. This eliminates confusion and conflict down the road.
+
 - [These 13 Exercises Will Prepare You for Work's Toughest Situations](http://firstround.com/review/these-13-exercises-will-prepare-you-for-works-toughest-situations/) - by First Round. Takeaway: A profile of Maggie Leung, who uses the term “dynamic empathy” to describe "quickly gaining an understanding of how a colleague feels and figuring out how to act on it in a swiftly changing environment."
 
 - [Three Ways to Cool the Conflict](https://www.kornferry.com/institute/work-conflict-management-emotional-intelligence) - by Daniel Goleman. Takeaway: Manage self by noticing feelings and reframing situationss, manage conversations by reflecting and pausing, and manage relationships.
