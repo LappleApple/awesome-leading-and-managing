@@ -19,6 +19,8 @@
 
 - [Forming Stronger Bonds with People at Work](https://hbr.org/2017/10/forming-stronger-bonds-with-people-at-work) - by Monica C. Worline, Jane E. Dutton and Ashley E. Hardin. Takeaway: "Too many people think of compassion and connection with others as a nice-to-have in organizations. But if people feel like they belong and genuinely care about one another, they will be more creative, resilient, and eager to contribute at work. It’s tempting to ignore distress, and suffering and pretend like they have no place in our offices. But the human experience of pain is going to show up, whether we invite it or not, and the only way to respond is with compassion."
 
+- [Hanlon’s Razor: Relax, Not Everything Is Out to Get You](https://www.fs.blog/2017/04/mental-model-hanlons-razor/) — by Farnam Street. Takeaway: Don’t assign malicious intent to people and situations when unintentional mistakes might be the cause of things not working as you’d expected or wanted.
+
 - [How the Former CTO of Kickstarter Finds Meaning in Leading](https://blog.clubhouse.io/how-the-former-cto-of-kickstarter-finds-meaning-in-leading-e8f5a67044b6) - by Michelle. Takeaway: a profile of James Turnbull that covers leadership basics but also delves into his thoughts and implementations of empathy, including his work at Empatico (a startup for facilitating empathy in schoolchildren).
 
 - [Which Factors Shape Our Empathy?](https://greatergood.berkeley.edu/article/item/which_factors_shape_our_empathy) - by Emiliana R. Simon-Thomas. Takeaway: A summary of what empathy is from a neuroscientific and psychological approach, with a link to an empathy quiz included. Offered by UC Berkeley's "Greater Good" magazine.
