@@ -18,6 +18,8 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
  
 - [“Do We All Agree” Is a Terrible Question](https://medium.com/@hunterwalk/do-we-all-agree-is-a-terrible-question-14499769591b) - by Hunter Walk. Takeaway: We often confuse 'collaboration' with 'consensus.' The former is about engaging a group of people to work together and discuss ideas. It aims to make the whole greater than the sum of its parts. The best leaders are certainly collaborative."
 
+- [How to De-Risk a Startup](https://codingvc.com/how-to-de-risk-a-startup/)— by Leo Polovets. Takeaway: lists common risks and heuristics for risk mitigation and decision-making. States that showing is better than telling; external validation is better than personal opinion, and more data is better. Identifies types of risk, from product quality and recruiting to product/market fit.
+
 - [In 2018, Focus on Quality of Decision Over Quality of Outcome](https://hunterwalk.com/2018/01/01/in-2018-focus-on-quality-of-decision-over-quality-of-outcome/) - by Hunter Walk. Takeaway: "In any system with relatively low cost of failure and repeatable game scenarios, it would seem that getting the decision right is actually what matters."
 
 - [The 90% Agreement Rule](https://hackernoon.com/the-90-agreement-rule-36757dcc8eaa) - by Lawrence Ripsher. Takeaway: Ripsher asserts that "we spend 90% of our time, talking about the 10% of things we disagree on." This takes up time and energy. Instead, "[c]reate clarity (and build on) wherever there is ‘about 90% agreement’ first— then come back around and address the disagreements after."
