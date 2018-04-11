@@ -20,6 +20,8 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
 
 - [How to De-Risk a Startup](https://codingvc.com/how-to-de-risk-a-startup/)— by Leo Polovets. Takeaway: lists common risks and heuristics for risk mitigation and decision-making. States that showing is better than telling; external validation is better than personal opinion, and more data is better. Identifies types of risk, from product quality and recruiting to product/market fit.
 
+-[How to Make One of the Most Difficult Decisions as a Manager](https://medium.com/@lnetanel/how-to-make-one-of-the-most-difficult-decisions-as-a-manager-6b1a1f0d1d6a) — by Netanel Lev. Takeaway: Understand that leaving your job as a manager is a process with emotions involved. Find a mentor to guide you through the situation, have an exit plan, don’t blame other people or be blindly loyal, and trust your instincts.
+
 - [In 2018, Focus on Quality of Decision Over Quality of Outcome](https://hunterwalk.com/2018/01/01/in-2018-focus-on-quality-of-decision-over-quality-of-outcome/) - by Hunter Walk. Takeaway: "In any system with relatively low cost of failure and repeatable game scenarios, it would seem that getting the decision right is actually what matters."
 
 - [The 90% Agreement Rule](https://hackernoon.com/the-90-agreement-rule-36757dcc8eaa) - by Lawrence Ripsher. Takeaway: Ripsher asserts that "we spend 90% of our time, talking about the 10% of things we disagree on." This takes up time and energy. Instead, "[c]reate clarity (and build on) wherever there is ‘about 90% agreement’ first— then come back around and address the disagreements after."
