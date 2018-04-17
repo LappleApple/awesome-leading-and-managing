@@ -106,6 +106,8 @@
 
 - [How to Identify and Address CTO Smells: Process](https://medium.com/cto-craft/how-to-identify-and-address-cto-smells-process-b9a4265cb9f0) - by Andy Skipper. Takeaway: "Smells" include poor hiring, the inability to frame technology challenges against business challenges, a lack of succession planning and/or technical vision and/or belief, insufficient focus on quality, and an inability to manage upwards or sideways.
 
+- [Mastering sales as a CTO](https://jjude.com/cto-sales/) - by Joseph Jude. Takeaway: Most careers turn into sales jobs when you get senior enough. For an IT services company, there is none better suited to build trust in the minds of prospects than a chief technology officer. A CTO can follow a structured approach to handle sales calls. The structure could be: Pre-call preparation, On-call performance, and Retro (post-call and post-closure).
+
 ### The VP of Engineering Role
 
 - [The CTO to VP Engineering Fork](https://insidedigitalocean.com/the-cto-to-vp-engineering-fork-74919f9c4066) - by Julia Austin. Takeaway: "When you’ve decided it’s time to fork that technology leadership role and have both a CTO and a VPE, look for someone eager to create a partnership. Someone who prefers to lean into GSD and growing teams and who values the technology leadership, vision and evangelism of your CTO. Be leery of career CTOs who seek a role as VPE at your company — they may say they’re willing to be in charge of GSD, but could easily step on your CTOs toes."
