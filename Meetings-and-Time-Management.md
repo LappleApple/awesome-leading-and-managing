@@ -31,6 +31,8 @@
 
 - [Start Every Meeting with a Personal Check-in](https://blog.travis-ci.com/2016-06-09-start-meetings-with-personal-checkins) - by Mathias Meyer. Takeaway: the Travis CI CEO talks about how meditation has enhanced his ability to be present, and how this carries into team meetings. "Before you walk into a meeting (virtually or into the meeting room), close your eyes, inhale three times, and walk in. I found that this can have a great impact on my presence and focus in meetings." The team starts meetings with the red/yellow/green scale and everyone states how they're feeling.
 
+- [Three-Day No-Meeting Schedule for Engineers](https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567) - by Pinterest Engineering. Takeaway: "Obviously there are trade-offs when making a change like this. However, we [at Pinterest] feel that three focused days with two days of meetings is better than scattered meetings throughout the week. The survey results also indicate that the majority of engineers share that sentiment."
+
 - [What I Hear When You Tell Me Your Company Doesn’t Do Meetings](https://mfbt.ca/what-i-hear-when-you-tell-me-your-company-doesnt-do-meetings-dfbb57a038d6) - by Johnathan Nightingale. Takeaway: "When you tell me your company doesn’t do meetings, this is what I hear[:] You don’t understand the privilege of executive context ... you also undervalue narrative and alignment [and] ou don’t know how to run an effective meeting." Four questions to ask when planning a meeting: "Who is running this meeting?; What is the output of this meeting?; Who are the right people to produce that output?; How are we going to get to that output?"
 
 ### Time Management
