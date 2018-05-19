@@ -35,6 +35,8 @@
 
 - [How We Hire, Shapes Tech.](https://medium.com/@lennymarkus/how-we-hire-shapes-tech-9461ad483c10) - by Lenny Markus. Takeaway: "Make sure that your filtering process is applied to the right criteria: Will this person be able to perform the needs of the role at hand?; Will this person bring anything new of value to the team?; Will this person be able to learn? Don’t filter based on: GPA; School; Background; Bad interpretations of 'passion.'"
 
+- [Interviewing for Potential](https://medium.com/@Bar_Code/interviewing-for-potential-58ee886aa41d) - by Brent Baisley. Takeaway: "A person’s ability to perform is based on their potential to succeed. Potential is the ability to be effective long term. Trajectory is the progress one has made on the path to reaching his or her potential. Performance is the act of tapping into our potential — it’s a side effect of potential and trajectory."
+
 - [Let’s Stop Calling Them "Soft Skills"](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.m0rq6bldu) - by Seth Godin. Takeaways: Don't overemphasize so-called "vocational" skills.
   Real-world interpersonal skills are just as (if not more) important. Details
   categories of qualities like Self-Control, Productivity, Wisdom, Perception,
