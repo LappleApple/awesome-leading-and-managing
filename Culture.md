@@ -38,6 +38,8 @@
 
 - [Engineering Culture at Airbnb](http://nerds.airbnb.com/engineering-culture-airbnb) - by Mike Curtis. Takeaway: Create a culture about helping others and celebrating their successes.
 
+- [Fear of Process or How to Scale the Team Without Getting "Corporate”](https://www.linkedin.com/pulse/fear-process-how-scale-team-without-getting-corporate-avi-revivo/) - by Avi Revivo. Takeaway: "Finding the sweet spot in the organization where you utilize exactly the right amount of processes is practically impossible. Sometimes you’ll use a process that provides less value than what it cost and sometimes the opposite. It means that you need to remember the 3 questions - Can we achieve the same goal without a process? or with an even simpler one? Is the process ROI positive? What is the chance of a successful adoption of the process and why?...and consider them for each new process but you’ll also need to ask the first 2 questions on exciting processes every now and then to make sure it stands the test of time."
+
 - [5 Questions That Reveal If a Company Has a Healthy Workplace Culture](http://www.cnbc.com/2017/07/12/5-questions-that-reveal-if-a-company-has-a-healthy-workplace-culture.html) - by Claire Lew. Takeaway: A healthy workplace offers uninterrupted time, heated debate, access to the top leadership, reasons to value and be proud of it, and a culture of selflessness.
 
 - [Five Years, Building a Culture, and Handing It Off](http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off) - by Kellan Elliott-McCrea. Takeaway: Build a culture of learning, generosity and values.
