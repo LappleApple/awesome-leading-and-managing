@@ -60,6 +60,8 @@
 
 - [The Five Dysfunctions of a Team: a Leadership Fable](http://www.bip.org.bd/SharingFiles/11-The%20Five%20Dysfunctions%20of%20a%20Team.pdf) - by Patrick Lencioni. Takeaway: lack of trust and commitment, fear of conflict, avoidance of accountability, and inattention to results will prevent your team from gelling and performing. This book uses a narrative/fictional case study to make its point about overcoming the five dysfunctions.
 
+- [Getting Better at Team Communication](https://monades.roperzh.com/getting-better-at-team-communication/) - by Roberto Dip. Takeaway: Tips based on experience for communicating better with individuals, teams and yourself.
+
 - [How Awesome Engineers Ask for Help](https://hackernoon.com/how-awesome-engineers-ask-for-help-93bcb2c7dbb7) - by Greg Sabo. Takeaway: Techniques for collaboration, such as clarifying what's expected of you, taking full responsibility for work so that you don't pass the buck, following up after getting answers, and showing appreciation.
 
 - [How to Build Ownership in Your Team – Case Study](https://luis-goncalves.com/build-ownership-team-case-study/) - by Michael Carr. Takeaway: Let the entire team to be involved in project inception, high-level backlog planning and prioritization; make teams cross-functional; be lean; and provide data so the team can understand the problem.
