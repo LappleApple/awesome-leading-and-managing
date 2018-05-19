@@ -10,6 +10,8 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
 
 - [Act Last, Read the Room, and Taste the Soup](http://randsinrepose.com/archives/act-last-read-the-room-and-taste-the-soup) - by Rands in Repose. Takeaway: In times of decision-making, it's best to go last in expressing your views because by this time, everyone else has provided context you'll need to make the best decision. Also, take the temperature of whatever room you're in so you can communicate effectively, and don't micromanage.
 
+- [Battling Perfectionism](https://medium.com/the-year-of-the-looking-glass/battling-perfectionism-713537a8b8b6) - by Julie Zhuo. Takeaway: "The problem is that trying to do things perfectly all the time often leads to worse prioritization decisions when you take a step back...The thing is, perfectionism tends to be rooted in fear rather than opportunity."
+
 - [Business Value Game](https://www.agile42.com/en/business-value-game/) - by Andrea Tomasini. Takeaway: an interactive game in which a "product management board" of stakeholders decides, in a manner inspired by Planning Poker, which goals to prioritize based on relative value to the business.
 
 - [Decide How to Decide: Empowering Product Ownership](https://medium.com/@ellengott/decide-how-to-decide-empowering-product-ownership-97a54be29e7) — by Ellen Gottesdiener. Takeaway: Offers suggestions to help teams and product owners reach decisions without making assumptions about whether they’ve come to a consensus or not and includes a “gradient of agreement”
