@@ -120,7 +120,7 @@
 
 - [Why Psychological Safety Matters and What to Do About It](https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/) - by Amy Edmondson and Jeff Polzer, Harvard Business School. Takeaway: "Even small acts that seem inconsequential at the time can pave the way for larger contributions that carry more weight. By creating a team climate that encourages people to embrace potentially risky contributions, the team will be rewarded with better decisions, motivated members, and improved performance."
 
-- [Working On The Right Thing](https://medium.com/redbubble/working-on-the-right-thing-faeb1af73cfe) - by Tom Sommer. A lot of happiness and productivity is thrown away because some of your employees are mismatched to the tasks they work on. By assessing our team on Ability, Affinity and Ambition we can do better.
+- [Working on the Right Thing](https://medium.com/redbubble/working-on-the-right-thing-faeb1af73cfe) - by Tom Sommer. A lot of happiness and productivity is thrown away because some of your employees are mismatched to the tasks they work on. By assessing our team on Ability, Affinity and Ambition we can do better.
 
 ## Culture Codes
 
