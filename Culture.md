@@ -126,8 +126,6 @@
 
 - [Working on the Right Thing](https://medium.com/redbubble/working-on-the-right-thing-faeb1af73cfe) - by Tom Sommer. A lot of happiness and productivity is thrown away because some of your employees are mismatched to the tasks they work on. By assessing our team on Ability, Affinity and Ambition we can do better.
 
-- [Engineering a culture of psychological safety](https://www.intercom.com/blog/psychological-safety/) - by John Looney. Takeaway: Defines a technique to create a high performing team by increasing the psychological safety. Provides an exercise you can run with your team do determine the current level of safety and steps for improvement. 
-
 ## Culture Codes
 
 - [500 Startups’ 5 Values](http://thenextweb.com/insider/2013/04/27/the-5-values-that-drive-500-startups/)
