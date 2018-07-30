@@ -68,6 +68,8 @@
 
 - [The 4 ‘Perks’ Good Developers Really Want](https://venturebeat.com/2017/08/27/the-4-perks-good-developers-really-want/) - by Mike Melnicki. Takeaway: The best developers "want to have an impact in all aspects of the company: product direction, marketing, human resources, design and even finance." The other three: Allow your devs to build a personal brand; create opportunities for them to demonstrate creativity; and consider the unique needs of your team members, and support them with flexibility.
 
+- [How to Grow Your Employees When You Can’t Promote Them](https://getlighthouse.com/blog/employee-development-grow-cant-promote/) - by unspecified Lighthouse blog writer. Takeaway: There are still opportunities for employees even if promotion is not currently an option. Lateral moves, and specific skills focus can help retain folks. Tapping into intrinsic motivations can help with engagement. 
+
 - [How We Pay People at Basecamp](https://m.signalvnoise.com/how-we-pay-people-at-basecamp-f1d04f4f194b) - by DHH. Takeaway: "There are no negotiated salaries or raises at Basecamp. Everyone in the same role at the same level is paid the same. Equal work, equal pay." Basecamp offers employees salaries in the top 5% of the market (Chicago) and meaningful benefits, and has instituted a new profit growth sharing scheme.
 
 - [People Leave Managers, Not Companies. Don’t Let That Manager Be You.](https://blog.intercom.com/people-leave-managers-not-companies/) - by Rich Archebold. Takeaway: Avoid manager overconfidence by asking for advice and peer review, owning instead of blaming, give feedback with empathy, savor success, and constantly revisit what it takes to be a good manager.  
