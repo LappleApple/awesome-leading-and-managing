@@ -52,6 +52,8 @@
 
 - [Not Everyone Is a Manager](https://engineering.wework.com/not-everyone-is-a-manager-4fe01a329ed1) - by Shem Magnezi. Takeaway: "[D]iscovering that I don’t have to be a manager to get promoted in a tech company was a huge relief. A lot of companies (and individuals) understand now that there is a place for engineers to grow as individuals outside of the management track, and every one of us should know about this alternative. For me—if I had had the opportunity to read this kind of post, I would have been thinking about my career development differently."
 
+- [On Managing Your Friends](https://medium.com/@jenniferdary/on-managing-your-friends-d980b5d56e78) - by Jennifer Dary. Takeaway: "At the end of the day, you cannot control the emotional growth or maturity of anyone but yourself. So if your friend is going to hold it against you, if they’re going to be resentful and stick their tongue out when you’re not looking, then you keep on keeping on."
+
 - [Only 10% of CEOs Have This Critical Skill](https://www.linkedin.com/pulse/only-10-ceos-have-critical-skill-ryan-holmes) - by Ryan Holmes. Takeaway: Social media skills are increasingly worthwhile for leaders to develop, for reasons ranging from recruitment outreach to promoting products. 
 
 - [Popforms New Manager Guide](https://gallery.mailchimp.com/44b412d7516b3a88b8be5c8c9/files/new_manager_guide_popforms.pdf) - by the Popforms team. A four-step how-to for new managers to own their new role. Long but actionable.
