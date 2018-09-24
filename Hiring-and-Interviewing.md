@@ -56,6 +56,8 @@
 
 - [7 Practical Ways to Reduce Bias in Your Hiring Process](https://hbr.org/2017/06/7-practical-ways-to-reduce-bias-in-your-hiring-process) - by Rebecca Knight. Takeaways: Identify and actively seek to reduce bias. If you aren't talking about bias, you aren't changing anything. Standardizing your interview process reduces ability for subtle biases to creep in.
   
+- [Things Are Going So Well We’re Doing a Hiring Freeze](https://m.signalvnoise.com/things-are-going-so-well-were-doing-a-hiring-freeze-5f66372a4214) - by DHH. Takeaway: "We’ve always been great fans of constraints, and capping the headcount in the face of growth is perhaps the biggest constraint of all. Especially because we’re not at all about running faster. Squeezing out more productivity from fewer hands. Quite the contrary."
+
 - [25 Tips for Diverse
   Hiring](https://modelviewculture.com/pieces/25-tips-for-diverse-hiring) - by 
   Model View Culture. Takeaways: Externally, know what you want and be sure to
