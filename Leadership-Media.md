@@ -27,6 +27,8 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - a very long list of engineering-related podcasts in several languages.
 
+- [John Maxwell Leadership Podcast](https://johnmaxwellleadershippodcast.com/) - by John Maxwell, who has been called the #1 leader in business and the world's most influential leadership expert.  This podcast offers a plethora of information for leaders of all kinds.
+
 - [People Stack](https://medium.com/@JBunky) - by Jen Bunk. Interviews with management and leadership experts and thinkers to help tech managers build thriving high-performing teams.
 
 - [Quality Remarks](http://qualityremarks.com/qr-podcast/) - by Keith Klain. About software testing and the organizational/cultural elements around it. 
