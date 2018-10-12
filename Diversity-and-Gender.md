@@ -24,7 +24,7 @@
 
 - [For an Inclusive Culture, Try Working Less](https://hackernoon.com/for-inclusive-culture-maybe-less-is-more-87b663662cea) - by Rich Armstrong. Takeaway: "When our office culture is focused on business rather than socializing, we reduce the number of ways in which we all have to be the same. When we do that, we allow diversity to flourish. If your culture expects people to work long hours or hang out off-hours, the strain on the people who are different, in whatever way, is increased, and your ability to retain a diverse work force is reduced."
 
-- [Girl, Wash Your Face](https://www.girlwashyourface.com/) - by Rachel Hollis. Takeaway: "The truth? You, and only you, are ultimately responsible for who you become and how happy you are." This book breaksdown the lies that women hear from the world or tell themselves and reshapes the narrative to believe in your self as a strong, capable, worthy women that can achieve your dreams; a perfect message for women navigating the business of the tech industry.
+- [Girl, Wash Your Face](https://www.girlwashyourface.com/) - by Rachel Hollis. Takeaway: "The truth? You, and only you, are ultimately responsible for who you become and how happy you are." This book breaks down the lies that women hear from the world or tell themselves and reshapes the narrative to believe in your self as a strong, capable, worthy woman who can achieve your dreams. A perfect message for women navigating the business of the tech industry.
 
 - [Hire More Women in Tech](https://www.hiremorewomenintech.com/) - by Karen Schoellkopf. A wealth of information and data about why companies should hire more tech women and why they don't. Includes lists of reading materials, women in tech groups, and other valuable information.
 
