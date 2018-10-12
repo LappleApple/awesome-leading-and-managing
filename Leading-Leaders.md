@@ -2,6 +2,8 @@
 
 - [Dealing with Team Rejection](https://informatiq.github.io/2017/06/25/Dealing-with-team-rejection.html) - by Ramez Hanna. Takeaway: "Team needs to establish healthy relationships between its members based on trust and communications." Provides useful context points and insight for when you have to tell your report that they need to improve.
 
+- [The Everything Store: Jeff Bezos and the Age of Amazon](http://a.co/d/4WGjFRq) - by Brad Stone. Takeaway: Be willing to take risks; don't get stuck on the small things; keep your eyes on the customer; and lead by example.  This book takes you into the history of how Amazon went from a book store to an 'everything store' and provides great insight into the mentality and leadership style of Bezos.
+
 - [How Do Managers Get Stuck?](http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html) - by Camille Fournier. Takeaway: Tips on how to get promoted to the next level of management and prove you're ready to manage managers."
 
 - [How Do You Know Someone Has True Leadership Skills? Look for These 5 Signs](https://www.inc.com/marcel-schwantes/5-obvious-signs-someone-has-true-leadership-ability-ask-any-employee.html) - by Marcel Schwantes. Takeaway: Leaders spread joy and drive fear away; provide employees with meaning, purpose and a sense of belonging; foster a learning spirit within the organization; build trust that leads to business outcomes; and are open and transparent in how they communicate.
