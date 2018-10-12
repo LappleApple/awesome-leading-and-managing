@@ -15,6 +15,8 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [CEOs Should Stop Thinking that Execution Is Somebody Else’s Job; It Is Theirs](https://hbr.org/2017/11/ceos-should-leave-strategy-to-their-team-and-save-their-focus-for-execution) - by Roger L. Martin. Takeaway: "1. Make only the set of choices you are more capable of making than anyone else. 2. Explain the choice that has been made and the reasoning behind it. 3. Explicitly identify the next downstream choice. 4. Assist in making the downstream choice, as needed. 5. Commit to revisit and modify the choice based on downstream feedback."
 
+- [Developing the Leader Within You 2.0](https://store.johnmaxwell.com/Developing-the-Leader-Within-You-20_p_2792.html) - by John C. Maxwell. Takeaway: "...leaders are not born, they're made"; “Good leaders don’t just resolve the issue to get it off their plates quickly for the sake of their own comfort. They help create solutions that take their people and their organization forward and put them in a better position than they were in before they experienced the problem.” 
+
 - [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals/) - by Farnam Street. Takeaway: a series of bullet points identifying the differences. Examples: "Amateurs give up at the first sign of trouble and assume they’re failures. Professionals see failure as part of the path to growth and mastery;
 Amateurs don’t have any idea what improves the odds of achieving good outcomes. Professionals do." 
 
