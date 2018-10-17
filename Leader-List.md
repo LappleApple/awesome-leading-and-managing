@@ -32,6 +32,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Elisabeth Hendrickson](https://twitter.com/testobsessed) — VP R&D, Data at @pivotal. Into radical collaboration and fast feedback.
 - [Erica Joy Baker](https://twitter.com/EricaJoy) — Senior Engineer at Slack Technologies and advocate for diversity and inclusion in tech, and expanding access to tech education.
 - [Francesc Campoy](https://twitter.com/francesc) — Señor Developer Advocate for @GoogleCloud, Gopher, Catalan, Gaygler - perennial learner of things. One half of @GCPPodcast.
+- [Gilan Gork](https://www.gilangork.com/) - Mentalist, Global Speaker and Best-selling Author on Influence. Author of [Persuasion Games](https://www.amazon.com/Persuasion-Games-persuade-persuaded-influence-ebook/dp/B00XJG122W).
 - [Gregory Brown](https://twitter.com/practicingdev) — Author of the O'Reilly book "Programming Beyond Practices."
 - [Gregory Mazurek](https://twitter.com/GregoryMazurek) — Engineering leader at CapitalOne. Speaker, enthusiast.
 - [Heather Fleming](https://twitter.com/hfleming) — Agile Evangelist, Product & PMO Exec, Myers-Briggs Coach and a Voice for Women in Tech.
