@@ -39,6 +39,8 @@
 
 - [Questions for Our First 1:1](http://larahogan.me/blog/first-one-on-one-questions/) — by Lara Hogan, Kickstarter. Takeaway: Ask reports what make them grumpy; how they like to get feedback and recognition; what their goals are, and more.
 
+- [The Secret to Better One-on-One Meetings](https://opensource.com/open-organization/18/5/open-one-on-one-meetings-guide) - by Angela Robertson. Takeaway: "Are your meetings as engaging, comprehensive, honest, and open as they should be? This checklist can help." 
+
 - [7 Essential Tips for Effective 1 on 1 Meetings with Your Manager](https://getlighthouse.com/blog/effective-1-on-1-meetings) from Lighthouse. Takeaway: Don't cancel 1:1's but reschedule them; don't let managers cancel your 1:1's; avoid status updates but provide updates outside of the meeting; bring discussion items; make an agenda; talk about your career goals; encourage your manager to take notes and write things down; make items actionable; hint at steps for next time; ask your manager if you can help them.
 
 - [The Simple Secret to Effective One-on-Ones](http://www.effectiveengineer.com/blog/secret-to-effective-one-on-ones) - by Edmund Lau. Takeaway: "[T]he most important thing to do in any collaborative relationship is to explicitly design the relationship. At work, this is particularly important when it comes to your relationships with your manager and with anyone who reports to you — those relationships tend to be some of the longest-running ones you’ll have."
