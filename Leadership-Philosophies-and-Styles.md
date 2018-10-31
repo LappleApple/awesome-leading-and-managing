@@ -126,6 +126,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [Why You Must Lead Differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=) - *Forbes* article by George Bradt.
 
+- [Who I Want to Work For](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202) - by Keavy. Takeaway: A GitHub senior engineer describes the leader she wants to work for.
+
 ### Famous Leaders
 
 - [How Charles Schwab Got His Workers To Produce More Steel](http://www.businessinsider.com/how-charles-schwab-got-his-workers-to-produce-more-steel-2013-7?IR=T) - by Vivian Giang for Business Insider. Takeaway: chalk a number six on the floor and see what your employees/team members do.
