@@ -94,6 +94,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [Six Crucial Behaviors Of Collaborative Leaders](https://www.forbes.com/sites/carolkinseygoman/2017/07/11/six-crucial-behaviors-of-collaborative-leaders/#4050a9e38cbe) - by Carol Kinsey Goman. Takeaway: Silo-busting, building trust, aligning body language, promoting diversity, sharpening "soft" skills, and creating psychological safety are the six behaviors leaders need.
 
+- [6 Lessons from Lara Hogan on Humanizing Management](https://blog.gitprime.com/6-lessons-lara-hogan-humanizing-engineering-management/) - by GitPrime. Takeaway: Recalibrate what success looks like; learn what makes the individual grumpy, and how to know when they’re grumpy, how your report prefers feedback and recognition, and the person’s goals and needs (from you, from their team, etc.); use her three-part feedback behavior path; manage through crisis; optimize for long-term relationships, and develop your managers.
+
 - [Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/) - by Adam Buggia. Takeaway: covers six basics of effective leadership—1:1's, team surveys, psychological safety, building resilient teams, informing your department, and self-improvement—and provides "recipes" to achieve them.
 
 - [6 Things Great Leaders Do Differently](https://www.theladders.com/career-advice/six-things-great-leaders-do-differently) - by Travis Bradberry. Takeaway: They’re kind without being weak or expecting something in return, strong without being harsh, confident without being cocky, stay positive but remain realistic, are role models not preachers, and will do anything for their teams.
