@@ -68,6 +68,8 @@
 
 - [How to Build a Company Where the Best Ideas Win](https://www.ted.com/talks/ray_dalio_how_to_build_a_company_where_the_best_ideas_win?rss) (video) - by Ray Dalio. Takeaway: "makes the business case for radical transparency and algorithmic decision-making to create an idea meritocracy where people can speak up and say what they really think -- even calling out the boss is fair game."
 
+- [How Warby Parker Makes Every Point In Its Employee Lifecycle Extraordinary](https://www.youtube.com/watch?v=SrLCXrsEPZE&t=2s) - by FirstRoundCapital. Takeaway: CEO Dave Gilboa describes how Warby created its culture. 
+
 - [Innovation vs. Execution](http://svpg.com/innovation-vs-execution/) - by Marty Cagan. Takeaway: Not many companies are good at both innovation and execution. Assess your company in terms of both, and decide which one comes first.
 
 - [Lessons from 7 Highly Successful Software Engineering Cultures](https://techbeacon.com/lessons-7-highly-successful-software-engineering-cultures) - by Mitch Pronschinske. Takeaway: Common themes across these seven engineering cultures include removing everything that hinders productivity; having as few rules as possible; hiring adults; having smaller teams and shorter projects; being kind and modest; not focusing on blaming, and focusing on learning from mistakes. Dan Pink's autonomy, mastery, and purpose are also common themes. Diversity is also important for some of these companies because, as research shows, diverse teams are more effective than homogeneous ones.
