@@ -70,6 +70,8 @@
 
 - [Hyperproductive Development](http://blog.jessitron.com/2017/06/the-most-productive-circumstances-for.html) - by Jessica Kerr. Takeaway: "the most productive development happens when one person knows the system intimately because they wrote it; this is in conflict with growing a system beyond what one person maintains." The post offers suggestions for what teams can do.
 
+- [Incentivize Teams, not People](https://rkoutnik.com/2018/03/17/incentivize-teams-not-people.html) - by Randall Koutnik. Takeaway: "Any programmer worth their salt is willing to help team members out when they’re in a pinch. Software development is a team sport, after all. Unfortunately, management can often completely miss the point and create perverse incentives that wreck a team’s cooperation and communication."
+
 - [Makers and Menders: Putting the Right Developers on the Right Projects (deck)](https://www.slideshare.net/andrea_goulet/makers-and-menders-putting-the-right-developers-on-the-right-projects) - by Andrea Goulet, CEO & Co-Founder of Corgibytes. Takeaway: Makers and menders each have valuable roles to play in development. Focusing too much on making leads to maintenance, "legacy code," and technical debt; mend as well to reduce your overhead.
 
 - [Mindful Communication in Code Reviews](http://amyciavolino.com/assets/MindfulCommunicationInCodeReviews.pdf) (slides) - by Amy Ciavolino. Takeaway: How to be kind and constructive in code reviews.
