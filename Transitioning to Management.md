@@ -104,6 +104,8 @@
 
 - [What’s Your Learning Stack?](https://mystudentvoices.com/whats-your-learning-stack-55f8639c3d56) - by Mattan Griffel and Álvaro Sanmartín. Takeaway: Analogous to a tech stack, a learning stack codifies how learning is done in an org.
 
+- [Communicate Like a Boss](https://youtu.be/uUPH7-4IwSs) - by Kathryn Koehler. Takeaway: well-rounded, pragmatic communication overview for new and first-line managers delivered in a well organized as well as entertaining manner. 
+
 ### The CTO Role
 
 - [Chief Technology Officer Job Description: What Does a CTO Do?](https://buttercms.com/blog/chief-technology-officer-job-description-what-does-a-cto-do) - by Roger Jin. Takeaway: how to put the "chief" in CTO. "A great CTO should be ready to delegate, while also being comfortable enough to work on the frontline, coding alongside their fellow developers. Furthermore, they will be required to be even more flexible if they’re working in a startup."
