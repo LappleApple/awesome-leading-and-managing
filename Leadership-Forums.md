@@ -1,5 +1,5 @@
 ## Leadership Forums
-Places to ask questions or discuss leadership topics with others
+*Places to ask questions or discuss leadership topics with others.*
 
 ### Slack Workspaces
 
@@ -14,4 +14,3 @@ Places to ask questions or discuss leadership topics with others
 - [Manager Tools](https://www.manager-tools.com/forums) - A portion of the Manager Tools site that allows for forum discussions.
 
 - [Reddit CS Career Questions](https://www.reddit.com/r/cscareerquestions/) - Many questions revolve around direct development career options, but some involve management.
-
