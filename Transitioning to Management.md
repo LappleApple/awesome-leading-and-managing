@@ -10,6 +10,8 @@
 
 - [Chaotic Beautiful Snowflakes](http://randsinrepose.com/archives/chaotic-beautiful-snowflakes/) - by Rands in Repose. Takeaway: Think about the new work you’re creating with your words and actions. "The hard work of great leadership isn’t just managing the expected tasks that we can predict, it’s the art of successfully traversing the unexpected."
 
+- [Communicate Like a Boss](https://youtu.be/uUPH7-4IwSs) - by Kathryn Koehler. Takeaway: well-rounded, pragmatic communication overview for new and first-line managers delivered in a well organized as well as entertaining manner. 
+
 - [Conversations with Your Team, Peers and Boss](http://katemats.com/conversations-with-your-team-peers-and-boss-guide-for-new-leaders/) - by kate{mats}. Takeaway: "Whenever you first join a new team the most important thing you can do is listen and observe.  Get to know the players and the company culture."
 
 - [The Curious Transition to Becoming an Engineering Manager](https://blog.gitprime.com/transition-to-engineering-manager/) - by GitPrime. Takeaway: A conversation with Engineering Leadership coach Jean Hsu about knowing one's impact, handling self-doubt, and growing into the role. “'Actually, we don’t really dock people for those lacks, as an industry,' she says. 'People get rewarded for their technical focus. We put them in management positions, or just keep promoting them, and people can get pretty high up without really thinking too much about people’s intrinsic motivations.'”
@@ -103,8 +105,6 @@
 - [What Stops Us from Transitioning Into a Leadership Role](https://www.youtube.com/watch?v=cBTpbPzm838) - by Femgineer. Takeaway: A chat with leadership coach Jean Hsu about why our perception of who or what we think it takes to be in a role is often wrong, and why we are more capable of learning and growing in a new role than we realize.
 
 - [What’s Your Learning Stack?](https://mystudentvoices.com/whats-your-learning-stack-55f8639c3d56) - by Mattan Griffel and Álvaro Sanmartín. Takeaway: Analogous to a tech stack, a learning stack codifies how learning is done in an org.
-
-- [Communicate Like a Boss](https://youtu.be/uUPH7-4IwSs) - by Kathryn Koehler. Takeaway: well-rounded, pragmatic communication overview for new and first-line managers delivered in a well organized as well as entertaining manner. 
 
 ### The CTO Role
 
