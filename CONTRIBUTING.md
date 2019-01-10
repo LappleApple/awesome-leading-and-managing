@@ -43,4 +43,4 @@ You'll need a [GitHub account](https://github.com/join)!
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
 ## Updating your Pull Request: How-to Info
-We might ask you to edit your pull request before including it, due to spelling errors or because your PR didn't follow the guidelines. [Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write-up on how to change a pull request.
+We might ask you to edit your pull request before including it, due to spelling errors or because your PR didn't follow the guidelines. [Here](https://www.burntfen.com/2015-10-30/how-to-amend-a-commit-on-a-github-pull-request) is a write-up on how to change a pull request.
