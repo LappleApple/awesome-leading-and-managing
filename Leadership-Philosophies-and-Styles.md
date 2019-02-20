@@ -66,6 +66,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [Leadership Nudges](https://www.youtube.com/channel/UCM6PvFiH_weNCMCnFynTNdg) - by David Marquet. Takeaway: short, digestible videos about intent-based leadership, from being a "know all, tell not" leader to thinking long-term.
 
+- [Love Being a Lead](https://margint.blog/2019/02/16/love-being-a-lead-valentines-edition/) - by Mikio L. Braun. Takeaway: Love being a lead boils down to “Everything you do is about helping  those whom you lead do their work.
+
 - [Management Philosophy](https://3002.ca/posts/management-philosophy/) - by Gordon Radlein. Takeaway: A five-point philosophy: Trust above all else, feedback, give space to succeed or fail, find the right balance of process, and always have a vision.
 
 - [A Model for Leadership](http://randsinrepose.com/archives/leadership-comes-from-everywhere/) - A political article, but it provides one the most complete leadership frameworks we’ve seen. Values are the linchpin in the model, but important things precede and flow from values:
