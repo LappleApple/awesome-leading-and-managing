@@ -10,6 +10,8 @@
 
 - [Chaotic Beautiful Snowflakes](http://randsinrepose.com/archives/chaotic-beautiful-snowflakes/) - by Rands in Repose. Takeaway: Think about the new work you’re creating with your words and actions. "The hard work of great leadership isn’t just managing the expected tasks that we can predict, it’s the art of successfully traversing the unexpected."
 
+- [Communicate Like a Boss](https://youtu.be/uUPH7-4IwSs) - by Kathryn Koehler. Takeaway: well-rounded, pragmatic communication overview for new and first-line managers delivered in a well organized as well as entertaining manner. 
+
 - [Conversations with Your Team, Peers and Boss](http://katemats.com/conversations-with-your-team-peers-and-boss-guide-for-new-leaders/) - by kate{mats}. Takeaway: "Whenever you first join a new team the most important thing you can do is listen and observe.  Get to know the players and the company culture."
 
 - [The Curious Transition to Becoming an Engineering Manager](https://blog.gitprime.com/transition-to-engineering-manager/) - by GitPrime. Takeaway: A conversation with Engineering Leadership coach Jean Hsu about knowing one's impact, handling self-doubt, and growing into the role. “'Actually, we don’t really dock people for those lacks, as an industry,' she says. 'People get rewarded for their technical focus. We put them in management positions, or just keep promoting them, and people can get pretty high up without really thinking too much about people’s intrinsic motivations.'”
