@@ -74,7 +74,7 @@
 
 - [Makers and Menders: Putting the Right Developers on the Right Projects (deck)](https://www.slideshare.net/andrea_goulet/makers-and-menders-putting-the-right-developers-on-the-right-projects) - by Andrea Goulet, CEO & Co-Founder of Corgibytes. Takeaway: Makers and menders each have valuable roles to play in development. Focusing too much on making leads to maintenance, "legacy code," and technical debt; mend as well to reduce your overhead.
 
-- [Mindful Communication in Code Reviews](http://amyciavolino.com/assets/MindfulCommunicationInCodeReviews.pdf) (slides) - by Amy Ciavolino. Takeaway: How to be kind and constructive in code reviews.
+- [A Guide to Mindful Communication in Code Reviews](https://kickstarter.engineering/a-guide-to-mindful-communication-in-code-reviews-48aab5282e5e) - by Amy Ciavolino. Takeaway: How to be kind and constructive in code reviews.
 
 - [The New Work Order: Team Ingredients and Role Blending ](https://www.slideshare.net/hhfleming/the-new-work-order-team-ingredients-and-role-blending) - by Heather Fleming. Takeaway: Use "team ingredients" to build teams that achieve maximum productivity and happiness.
 
