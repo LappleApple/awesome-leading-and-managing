@@ -62,6 +62,8 @@
 
 - [Getting Better at Team Communication](https://monades.roperzh.com/getting-better-at-team-communication/) - by Roberto Dip. Takeaway: Tips based on experience for communicating better with individuals, teams and yourself.
 
+- [A Guide to Mindful Communication in Code Reviews](https://kickstarter.engineering/a-guide-to-mindful-communication-in-code-reviews-48aab5282e5e) - by Amy Ciavolino. Takeaway: How to be kind and constructive in code reviews.
+
 - [How Awesome Engineers Ask for Help](https://hackernoon.com/how-awesome-engineers-ask-for-help-93bcb2c7dbb7) - by Greg Sabo. Takeaway: Techniques for collaboration, such as clarifying what's expected of you, taking full responsibility for work so that you don't pass the buck, following up after getting answers, and showing appreciation.
 
 - [How to Build Ownership in Your Team – Case Study](https://luis-goncalves.com/build-ownership-team-case-study/) - by Michael Carr. Takeaway: Let the entire team to be involved in project inception, high-level backlog planning and prioritization; make teams cross-functional; be lean; and provide data so the team can understand the problem.
@@ -73,8 +75,6 @@
 - [Incentivize Teams, not People](https://rkoutnik.com/2018/03/17/incentivize-teams-not-people.html) - by Randall Koutnik. Takeaway: "Any programmer worth their salt is willing to help team members out when they’re in a pinch. Software development is a team sport, after all. Unfortunately, management can often completely miss the point and create perverse incentives that wreck a team’s cooperation and communication."
 
 - [Makers and Menders: Putting the Right Developers on the Right Projects (deck)](https://www.slideshare.net/andrea_goulet/makers-and-menders-putting-the-right-developers-on-the-right-projects) - by Andrea Goulet, CEO & Co-Founder of Corgibytes. Takeaway: Makers and menders each have valuable roles to play in development. Focusing too much on making leads to maintenance, "legacy code," and technical debt; mend as well to reduce your overhead.
-
-- [A Guide to Mindful Communication in Code Reviews](https://kickstarter.engineering/a-guide-to-mindful-communication-in-code-reviews-48aab5282e5e) - by Amy Ciavolino. Takeaway: How to be kind and constructive in code reviews.
 
 - [The New Work Order: Team Ingredients and Role Blending ](https://www.slideshare.net/hhfleming/the-new-work-order-team-ingredients-and-role-blending) - by Heather Fleming. Takeaway: Use "team ingredients" to build teams that achieve maximum productivity and happiness.
 
