@@ -20,6 +20,8 @@ This topic comes first, because the following articles offer great frameworks/de
 - [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals/) - by Farnam Street. Takeaway: a series of bullet points identifying the differences. Examples: "Amateurs give up at the first sign of trouble and assume they’re failures. Professionals see failure as part of the path to growth and mastery;
 Amateurs don’t have any idea what improves the odds of achieving good outcomes. Professionals do." 
 
+- [Don’t Try to Be the “Fun Boss” — and Other Lessons in Ethical Leadership](https://hbr.org/2018/09/dont-try-to-be-the-fun-boss-and-other-lessons-in-ethical-leadership) - by Kimberly Nei and Darin Nei. Takeaway: Be humble, not charismatic; be steady and dependable; remember that modesty is the best policy, balance analysis with action, be vigilant — vulnerability increases over time.
+
 - [Effective Leaders](https://medium.com/@brendan_ward/effective-leaders-6f36e891706e) - by Brendan Ward. Takeaway: effective leaders set, communicate, and reinforce tangible goals toward broader impact. They set priorities and act strategically, share the opportunity to lead, and listen more than they talk. They are highly introspective, actively seek feedback, grow from their mistakes, and are constantly learning across a broad range of topics.
 
 - [Effective Leadership Styles for Scrum Masters](https://www.benlinders.com/2016/leadership-styles-scrum-masters/) - by Ben Linders. Takeaway: This post provides an overview of many effective leadership styles that Scrum masters can learn from and apply when working in agile teams, so that their teams can deliver value. Servant leadership alone is not enough.
