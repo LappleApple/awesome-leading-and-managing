@@ -126,6 +126,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [What “S’Up”? Using Triads to Develop Tribal Leadership](https://medium.com/artsy-blog/what-sup-using-triads-to-develop-tribal-leadership-a01d4f207bf8) - by Daniel Doubrovkine. Takeaway: an exploration of Artsy’s weekly “S’Up” informal gathering of three randomly selected colleagues, which reinforces tribal leadership. “Stages of Tribal Leadership are often categorized by evaluating the number of connections and communication channels between team members, and triads are the most stable and valuable foundations, a building block of a Stage Four culture. S’Up is a tool we built that creates triads. The result can often feel inspiring and lead to durable communication channels at scale.”
 
+- [Why Should You Want to Lead People?](https://hackernoon.com/why-should-you-want-to-lead-people-edf8c10fd92f) - by Amit Goldshmidt. Takeaway: Reasons why you should and should not want to lead others.
+
 - [Why Tim Cook is Steve Ballmer and Why He Still Has His Job at Apple](https://www.linkedin.com/pulse/why-tim-cook-steve-ballmer-he-still-has-his-job-apple-steve-blank) - by Steve Blank. Takeaway: "What happens to a company when a visionary CEO is gone? Most often innovation dies and the company coasts for years on momentum and its brand. Rarely does it regain its former glory." Uses Microsoft and Apple as examples.
 
 - [Why You Must Lead Differently as Your Team Grows](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgebradt/2013/10/16/why-you-must-lead-differently-as-your-team-grows/&refURL=&referrer=) - *Forbes* article by George Bradt.
