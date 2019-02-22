@@ -1,5 +1,7 @@
 ## Leading Leaders
 
+- [Becoming a Manager of Managers](https://medium.com/redbubble/becoming-a-manager-of-managers-1d63b883166d) - by Tom Sommer. Takeaway: Be a role model, lead through others, and ramp up responsibility over time.
+
 - [Dealing with Team Rejection](https://informatiq.github.io/2017/06/25/Dealing-with-team-rejection.html) - by Ramez Hanna. Takeaway: "Team needs to establish healthy relationships between its members based on trust and communications." Provides useful context points and insight for when you have to tell your report that they need to improve.
 
 - [The Everything Store: Jeff Bezos and the Age of Amazon](http://a.co/d/4WGjFRq) - by Brad Stone. Takeaway: Be willing to take risks; don't get stuck on the small things; keep your eyes on the customer; and lead by example.  This book takes you into the history of how Amazon went from a book store to an 'everything store' and provides great insight into the mentality and leadership style of Bezos.
