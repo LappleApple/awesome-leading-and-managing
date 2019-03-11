@@ -89,6 +89,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Sandro Mancuso](https://twitter.com/sandromancuso) — Software craftsman @codurance, author of [The Software Craftsman](http://goo.gl/b9EymU), speaker, founder of the London Software Craftsmanship Community.
 - [Sarah Mei](https://twitter.com/sarahmei) — Software dev, founder of @railsbridge, Director of Ruby Central, Chief Consultant of @devmyndsoftware.
 - [Sarah Sharp](https://twitter.com/sarahsharp) — @ottertechllc founder. Diversity & inclusion consultant. Community metrics data miner. @outreachy admin.
+- [Sasan Goodarzi](https://twitter.com/sasan_goodarzi) — CEO at Intuit and Member, Board of Directors at Atlassian
 - [Simon Wardley](https://twitter.com/swardley) — Corporate cartographer, chaotic evil, destroyer of undeserved value.
 - [Steve Francia](https://twitter.com/spf13) — Golang team at Google, Drupal Board Member, author, speaker, developer, creator of @gohugoio, Cobra and spf13-vim, formerly of Docker and MongoDB.
 - [Steven Sinofsky](https://twitter.com/stevesi) — Board Partner @a16z, adviser @BoxHQ.
