@@ -3,7 +3,7 @@
 ### Dev Leveling Guides—aka Engineering Ladders
 It’s hard to get these right. Just b/c they work for one org doesn’t mean they’ll work for yours.
 
-- [Career Structure. It Doesn't Matter. Until It Matters.](http://tech.gilt.com/leadership/2018/01/24/career-structure) - by Ade Trenaman. Takeaway: A comprehensive overview of career structure at Gilt, touching upon other companies' models. Gilt's model is based on Radford and considers these elements: Level of knowledge, job complexity, supervision, experience, sphere of influence and team size (for leads to manage), and accountability.
+- [Career Structure. It Doesn't Matter. Until It Matters.](https://web.archive.org/web/20180817070012/https://tech.hbc.com/2018-01-24-career-structure.html) - by Ade Trenaman. Takeaway: A comprehensive overview of career structure at Gilt, touching upon other companies' models. Gilt's model is based on Radford and considers these elements: Level of knowledge, job complexity, supervision, experience, sphere of influence and team size (for leads to manage), and accountability.
 
 - [Medium Engineering Growth: Tracks](https://gist.github.com/david206/b8dceddd687bb2c60805c9669cc89eaa) - by David Shimon. Takeaway: Different skills/items for different types of developers, listed and detailed.
 
