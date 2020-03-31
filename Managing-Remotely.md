@@ -12,11 +12,11 @@ Please add your favorite articles, videos, and other resources — just follow t
 
 - [How to Manage Remote Workers](https://www.ziprecruiter.com/blog/how-to-manage-remote-workers) - by ZipRecruiter. Takeaway: Provides a roundup of tips from co-founders and CEOs.
 
-- [A Practical Guide to Remote Work ](https://docs.google.com/document/u/1/d/1FH_2ViEkoFxIgVrEOTZWfs8cUQzkNRLfkeqA37hK690/mobilebasic) - by Avishai Ish-Shalom. Takeaway: A comprehensive doc, presented in outline format, covering both individual and team needs when transitioning to remote. Even covers remote whiteboarding sessions and Slack etiquette and discipline.
+- [A Practical Guide to Remote Work](https://docs.google.com/document/u/1/d/1FH_2ViEkoFxIgVrEOTZWfs8cUQzkNRLfkeqA37hK690/mobilebasic) - by Avishai Ish-Shalom. Takeaway: A comprehensive doc, presented in outline format, covering both individual and team needs when transitioning to remote. Even covers remote whiteboarding sessions and Slack etiquette and discipline.
 
 - [Remote Leadership: 6 Ways How to Lead When You Have to Lead From Home](https://theglasshammer.com/2020/03/31/remote-leadership-6-ways-how-to-lead-when-you-have-to-lead-from-home/) - by Aimee Hansen. Takeaway: Focuses on six ways to lead remotely, including being flexible and compassionate, establishing work availability and boundaries, and encouraging a routine and dedicated work space.
 
-- [7 Tips for Successfully Managing Remote Teams] (https://www.inc.com/jason-aten/7-tips-for-working-fsuccessfully-managing-remote-teams.html) - by Jason Aten. Takeaway: Have a daily check-in, communicate a lot, take advantage of technology, manage expectations, focus on outcomes (not activity), make sure your team has the resources to work effectively, and be flexible. 
+- [7 Tips for Successfully Managing Remote Teams](https://www.inc.com/jason-aten/7-tips-for-working-fsuccessfully-managing-remote-teams.html) - by Jason Aten. Takeaway: Have a daily check-in, communicate a lot, take advantage of technology, manage expectations, focus on outcomes (not activity), make sure your team has the resources to work effectively, and be flexible. 
 
 - [7 Tips to Ensure Success in 1:1 Meetings (for remote managers)](https://soapboxhq.com/blog/management-skills/1-on-1-meeting-tips-remote-managers) - by Soapbox. Takeaway: Tips emphasize maintaining flexibility, establishing expectations, coming prepared, getting the virtual space right, and showing up.
 
