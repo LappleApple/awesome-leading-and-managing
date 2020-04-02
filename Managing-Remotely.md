@@ -6,6 +6,8 @@ Please add your favorite articles, videos, and other resources — just follow t
 
 - [COVID-19 Has My Teams Working Remotely: A Guide for Leaders](https://www.gallup.com/workplace/288956/covid-teams-working-remotely-guide-leaders.aspx) - by Gallup. Takeaway: "Individualization, expectations, communication are key for remote workers; managers need their leaders' support more than ever during this time; going fully remote may be your organization's new way to work."
 
+- [Five Tips for Managers of Newly Dispersed Teams](https://www.jrothman.com/mpd/2020/03/five-tips-for-managers-of-newly-dispersed-teams/) - by Johanna Rothman. Takeaway: support team-based work, not individual work; make all progress visible; reduce the team's WIP; substitute video for MBWAL (Management by Walking Around and Listening); resist the urge to micromanage.
+
 - [A Guide to Managing Remote Teams](https://knowyourteam.com/m/managing_remote_teams) - by Know Your Company/Claire Lew. Takeaway: A downloadable, 60-page, 11-chapter guide on remote working and leading best practices, based on research.
 
 - [A Guide to Managing Your (Newly) Remote Workers](https://hbr.org/2020/03/a-guide-to-managing-your-newly-remote-workers) - by Barbara Z. Larson , Susan R. Vroman and Erin E. Makarius. Takeaway: This Harvard Business Review article delves into some of the challenges of remote work, including loneliness, home distractions, and erosion of trust. It then advises bridging the gaps through such steps as providing several different communication technology options, establishing "rules of engagement," and providing opportunities for remote social interaction.
