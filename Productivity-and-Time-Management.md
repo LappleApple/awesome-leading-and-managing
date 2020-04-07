@@ -71,9 +71,6 @@
 
 - [One-Touch to Inbox Zero](https://praxis.fortelabs.co/one-touch-to-inbox-zero-a74cfa02e5bf) - by Tiago Forte. Takeaway: five relatively simple steps for implementing Inbox Zero.
 
-- [Product Strategy Means Saying No](http://www.productstrategymeanssayingno.com/) - by Intercom. Takeaways: Review common
-  reasons for making product decisions and ask whether they are actually good for the product.
-
 - [Reducing Hours by Focusing your Job](https://wildbit.com/blog/2017/06/05/reducing-hours-by-focusing-your-job) - by Natalie Nagele. Takeaway: How to use a mindmap plus the 30-60-90 plan to clarify the focus of your role, plus what to prioritize. Can be a great exercise to do with your team.
 
 - [Three P’s of Prioritizing](http://www.johnmaxwell.com/blog/priorities-prevent-your-leadership-from-crashing) - by the John Maxwell Company. Takeaway: If you are feeling crunched for time, reevaluate your priorites. The three Ps are *P*rivate Time, *P*roduction Time, and *P*eople Time.
