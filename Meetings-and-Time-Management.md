@@ -93,31 +93,23 @@
 
 - [One-Touch to Inbox Zero](https://praxis.fortelabs.co/one-touch-to-inbox-zero-a74cfa02e5bf) - by Tiago Forte. Takeaway: five relatively simple steps for implementing Inbox Zero.
 
-- [Product Strategy Means Saying
-  No](http://www.productstrategymeanssayingno.com/) - by Intercom. Takeaways: Review common
-  reasons for making product decisions and ask whether they are actually good
-  for the product.
+- [Product Strategy Means Saying No](http://www.productstrategymeanssayingno.com/) - by Intercom. Takeaways: Review common
+  reasons for making product decisions and ask whether they are actually good for the product.
 
 - [Reducing Hours by Focusing your Job](https://wildbit.com/blog/2017/06/05/reducing-hours-by-focusing-your-job) - by Natalie Nagele. Takeaway: How to use a mindmap plus the 30-60-90 plan to clarify the focus of your role, plus what to prioritize. Can be a great exercise to do with your team.
 
-- [Three P’s of Prioritizing](http://www.johnmaxwell.com/blog/priorities-prevent-your-leadership-from-crashing) - by the John Maxwell Company. Takeaway: If you are feeling crunched for time,
-  reevaluate your priorites. The three Ps are *P*rivate Time, *P*roduction
-  Time, and *P*eople Time.
+- [Three P’s of Prioritizing](http://www.johnmaxwell.com/blog/priorities-prevent-your-leadership-from-crashing) - by the John Maxwell Company. Takeaway: If you are feeling crunched for time, reevaluate your priorites. The three Ps are *P*rivate Time, *P*roduction Time, and *P*eople Time.
   
-- [The Top 5 Productivity Mistakes](https://www.iwillteachyoutoberich.com/blog/top-5-productivity-mistakes/) - by Ramit Sethi. Takeaways: Talks about the psychology of being unproductive,
-  and how changing the narrative can achive big breakthroughs.
+- [The Top 5 Productivity Mistakes](https://www.iwillteachyoutoberich.com/blog/top-5-productivity-mistakes/) - by Ramit Sethi. Takeaways: Talks about the psychology of being unproductive, and how changing the narrative can achive big breakthroughs.
 
-- [Thinking is Work. Give Yourself Time to Do It.](https://savagethoughts.com/thinking-is-work-give-yourself-time-to-do-it-f2088b55e622) - by Chris Savage. Takeaway: "It is easy to feel guilty if you find yourself with the time to think. We have a tech culture that reveres the hustle. Crazy work hours and paying your dues are the norm. The challenge is that, when scaling, that thinking time becomes even more important, and much harder to get." Delegate to find time to think.
+- [Thinking Is Work. Give Yourself Time to Do It.](https://savagethoughts.com/thinking-is-work-give-yourself-time-to-do-it-f2088b55e622) - by Chris Savage. Takeaway: "It is easy to feel guilty if you find yourself with the time to think. We have a tech culture that reveres the hustle. Crazy work hours and paying your dues are the norm. The challenge is that, when scaling, that thinking time becomes even more important, and much harder to get." Delegate to find time to think.
 
-- [“Vacations are for the Weak”](http://sethbannon.com/vacations-are-for-the-weak) - by Seth Bannon. Takeaway: "Preventing burnout is part of your job. Staying well rested is part of your job. Sleep and exercise help, but occasional extended breaks are essential too, and their benefits on creativity, productivity, and happiness are well documented."
+- [Three Things: Reduce Fatige and Increase Productivity](https://ideas.darden.virginia.edu/three-things-reduce-fatigue-and-increase-productivity) - by Manel Baucells. Takeaway: A video in which Baucells, a University of Virginia/Darden professor and expert in quantitative analysis, describes research showing that managing your fatigue is key to productivity.
+
+- [“Vacations Are for the Weak”](http://sethbannon.com/vacations-are-for-the-weak) - by Seth Bannon. Takeaway: "Preventing burnout is part of your job. Staying well rested is part of your job. Sleep and exercise help, but occasional extended breaks are essential too, and their benefits on creativity, productivity, and happiness are well documented."
 
 - [The Value of Flow](https://speakerdeck.com/tastapod/the-value-of-flow) (deck - by Dan North. Takeaway: "Resource efficiency is about keeping people busy," which leads to context-switching and reduces focus. Pull systems more naturally create efficient workflows; limit the work in progress, to enhance focus.
 
-- [What You Don't Know About Management - How to Take Back Your Workday](https://drive.google.com/file/d/0B28qaK8Qf80eRThwOE1oLVRjWkx5TGJNWnBtcS1Nb1BQMTI0/view) - by Janet Choi and Walter Chen at iDoneThis. A longer read that starts with
-  self-managing your own success and covers how to manage people more
-  effectively, as well as effective meeting tips. 
+- [What You Don't Know About Management - How to Take Back Your Workday](https://drive.google.com/file/d/0B28qaK8Qf80eRThwOE1oLVRjWkx5TGJNWnBtcS1Nb1BQMTI0/view) - by Janet Choi and Walter Chen at iDoneThis. A longer read that starts with self-managing your own success and covers how to manage people more effectively, as well as effective meeting tips. 
 
-- [Why Work Doesn't Happen at Work](https://www.youtube.com/watch?v=5XD2kNopsUs) - by Jason Fried @
-  TedXMidwest. Takeaways: Interruptions are toxic, and make workers have to
-  restart. Work to reduce syncronous communication in order to free up employees
-  to have more uninterrupted productive time.
+- [Why Work Doesn't Happen at Work](https://www.youtube.com/watch?v=5XD2kNopsUs) - by Jason Fried @ TedXMidwest. Takeaways: Interruptions are toxic, and make workers have to restart. Work to reduce syncronous communication in order to free up employees to have more uninterrupted productive time.
