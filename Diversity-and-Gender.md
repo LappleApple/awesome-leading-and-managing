@@ -70,6 +70,8 @@
 
 - [Tracking Compensation and Promotion Inequity](http://larahogan.me/blog/inclusion-math/) - by Lara Hogan. Takeaway: "Plenty of tech companies are attempting to make their pipeline of candidates more diverse. But an organization won’t find much success recruiting a more diverse group of employees unless its leaders are aware of their existing internal inclusion and equity issues. Unless leadership has already started to tackle these issues, it’s likely that these new hires will enter into an environment that they won’t want to stick around in for long."
 
+- [The Type of Team Diversity You’re Probably Not Paying Attention To](https://firstround.com/review/the-type-of-team-diversity-youre-probably-not-paying-attention-to/) - by FirstRound Capital. Takeaway: a focus feature on  Itamar Goldminz, whose Heart/Will/Head model defines three “types” of people and how they see the world around them.
+
 - [Ways Men in Tech Are Unintentionally Sexist](https://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/) - by Kat Hagan. Takeaway: Little, unintentially malicious things people say reinforce stereotypes.
 
 - [What Does Sponsorship Look Like?](http://larahogan.me/blog/what-sponsorship-looks-like/) - by Lara Hogan. Takeaway: The former Etsy leader and current Kickstarter lead talks about shifting focus from mentoring to sponsoring as a way to change the ratio. "When privileged people begin to see the systems of bias and privilege, their first instinct typically is to mentor those who haven’t benefited from the same privilege. ... What members of underrepresented groups in tech often need most is opportunity and visibility, not advice."
