@@ -15,7 +15,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Conflict Prevention and Conflict Resolution](Conflict-Prevention-Resolution.md)
 - [Culture](Culture.md)
 - [Decision-Making](Decision-Making.md)
-- [Delegation](Delegation-and-Decision-Making.md)
+- [Delegation](Delegation.md)
 - [Diversity and Gender](Diversity-and-Gender.md)
 - [Firing](Firing.md)
 - [Giving Feedback, Praise, and Advice](Giving-Feedback-Praise-and-Advice.md)
