@@ -7,7 +7,11 @@
 - [Conducting Effective and Regular One-on-Ones](https://moz.com/blog/conducting-effective-and-regular-oneonones) - by Leah Candelaria-Tyler. Takeaway: "In conducting one-on-ones, the goal is to move beyond your role as a manager, and be an available ear for your teammate. In a room, with the door closed and pen in hand, you are all ears and eyes while sitting across from your teammate, ready to discuss and resolve performance concerns, and just generally talk about work. Not only are you setting goals in these meetings, you are also tracking their progress in achieving these goals; making you their biggest fan!"    
 
 - [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447) - by Douglas Stone, Bruce Patton and Sheila Heen. Takeaway: Learn how to convert a difficult conversation to a learning conversation, thereby having more effective, fruitful discussions.
+
+- [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447) - by Douglas Stone, Bruce Patton and Sheila Heen. Takeaway: Learn how to convert a difficult conversation to a learning conversation, thereby having more effective, fruitful discussions.
  
+- [The 4 Questions You Should Stop Asking During Your One-on-One Meetings](https://m.signalvnoise.com/the-4-questions-you-should-stop-asking-during-your-one-on-one-meetings-ed7431da11aa) - by Claire Lew. Takeaway: Don't ask "how's it going?," "What's the latest on (X)?,"How can I help you?," or “How can we improve?” Read the article to find out why.
+
 - [Getting Feedback](http://daydreamsinruby.com/getting-feedback/) - by Allison (Sheren) McMillan. Takeaway: Offers questions you can ask to colleagues with both more and less experience, in 1:1's or other direct communications.
 
 - [Having Bad One to One Meetings? Here’s How to Turn Them Around](https://getlighthouse.com/blog/one-to-one-meeting) — by Lighthouse. Takeaway: genuinely care about your reports, and aim to understand them. Let them talk 90% of the time, take notes, ask good questions, and talk about their career growth.
