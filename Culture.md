@@ -56,8 +56,6 @@
 
 - [How a Microsoft Docs Team Increased Openness and Improved Collaboration](https://opensource.com/open-organization/17/10/microsoft-collaboration-case-study) - by Angela Robertson. Takeaway: An honest account of transforming the technical content team of Microsoft's Cloud and Enterprise group from closed and uncollaborative to open and transparent. Finding purpose in openness was key.
 
-- [How Do We Go Faster?](https://hackernoon.com/how-do-we-go-faster-ed51207952a8) - by John Cutler. Takeaway: Lists of concepts to apply and actions to take to build a culture that fosters a productive, efficient environment.
-
 - [How Netflix Reinvented HR](http://hbr.org/2014/01/how-netflix-reinvented-hr/ar/pr) - by Patty McCord. Takeaway: Hire only people who are able to put your company’s interests first.
 
 - [How 10,000 People Helped Us Rediscover Our Purpose](https://opensource.com/open-organization/17/9/rediscovering-your-why) - by DeLisa Alexander. Takeaway: How Red Hat is working on "sustaining, evolving, and scaling the unique set of values and behaviors that differentiate its culture."
