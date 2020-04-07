@@ -1,3 +1,5 @@
+## Delegation
+
 ### Avoiding Micro- and Undermanagement
 
 Micromanagement leads to mistrust, lack of autonomy, demotivation.
