@@ -22,6 +22,8 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
  
 - [“Do We All Agree” Is a Terrible Question](https://medium.com/@hunterwalk/do-we-all-agree-is-a-terrible-question-14499769591b) - by Hunter Walk. Takeaway: We often confuse 'collaboration' with 'consensus.' The former is about engaging a group of people to work together and discuss ideas. It aims to make the whole greater than the sum of its parts. The best leaders are certainly collaborative."
 
+- [A Framework for Making Smarter Decisions and Fewer Errors](https://fs.blog/smart-decisions/) - by Farnham. Takeaway: Suggests using inversion, second-order thinking, and other concepts, and includes a list of articles for improved decision-making.
+
 - [How to De-Risk a Startup](https://codingvc.com/how-to-de-risk-a-startup/)— by Leo Polovets. Takeaway: lists common risks and heuristics for risk mitigation and decision-making. States that showing is better than telling; external validation is better than personal opinion, and more data is better. Identifies types of risk, from product quality and recruiting to product/market fit.
 
 - [How to Make One of the Most Difficult Decisions as a Manager](https://medium.com/@lnetanel/how-to-make-one-of-the-most-difficult-decisions-as-a-manager-6b1a1f0d1d6a) — by Netanel Lev. Takeaway: Understand that leaving your job as a manager is a process with emotions involved. Find a mentor to guide you through the situation, have an exit plan, don’t blame other people or be blindly loyal, and trust your instincts.
