@@ -21,6 +21,8 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [How to Influence Culture When You’re Not the CEO](https://m.signalvnoise.com/how-to-influence-culture-when-youre-not-the-ceo-81a4162257b) - by Claire Lew. Takeaway: Model what you’d like to be true of your team; speak up with improvement ideas through the prism of team instead of individual/personal; give space, grace, and gratitude to leaders.
 
+-[How To Lead When You Have No Authority](https://medium.com/swlh/how-to-lead-when-you-have-no-authority-9f22206356d4) - by Matt Russell. Takeaway: “Leadership is a choice you make rather than a place you sit. In other words, leadership comes from influence and not from your position. For this reason, even when you’re not in front, you’re still leading those around you.”
+
 - [How to Make Your Engineering Team More Effective](http://www.effectiveengineer.com/blog/how-to-make-your-team-more-effective) - by Edmond Lau. Takeaway: Gather input as to what’s hard or frustrating; explicitly design how to align someone’s growth goals with what creates value; give and request frequent and honest feedback; leverage your strengths to level up the team; reduce sources of complexity, and create more opportunities for collaboration.
 
 - [How to Win Hearts & Minds - Lessons Learned from Electoral Politics](https://www.youtube.com/watch?v=tZzoJcA5Rrc) (video) - by K. Gray & C. Young. Takeaway: This GOTO Amsterdam talk connnects methods used in political campaigns to their useful application in a tech organization, so that you can connect with teams and influence them. You have to blend facts with emotional resonance.
