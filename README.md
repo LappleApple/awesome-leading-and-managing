@@ -28,13 +28,14 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
 - [Leading Leaders](Leading-Leaders.md)
 - [Managing Remotely](Managing-Remotely.md)
-- [Meetings and Time Management](Meetings-and-Time-Management.md)
+- [Meetings](Meetings.md)
 - [Motivation and “Retention”](/Motivation-Retention.md)
 - [Onboarding](Onboarding.md)
 - [One-on-Ones](One-on-Ones.md)
 - [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md)
 - [Planning, Roadmaps and Processes](Planning-roadmaps.md)
 - [Postmortems and Retrospectives](Postmortems-Retrospectives.md)
+- [Productivity and Time Management](Productivity-and-Time-Management.md)
 - [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 
 * "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
