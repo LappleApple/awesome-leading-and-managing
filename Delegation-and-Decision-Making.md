@@ -1,4 +1,4 @@
-## Influence, Delegation, and Decision-Making
+## Delegation and Decision-Making
 
 ### Avoiding Micro- and Undermanagement
 
