@@ -4,7 +4,7 @@
 
 - [Etsy’s Guide to Postmortems](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) - by John Allspaw, Morgan Evans and Daniel Schauenberg. A lengthy document that provides a guide on the art of asking questions. [On Failure and Resilience](https://beero.ps/2017/06/17/on-failure-and-resilience/) provides a briefer summary, describing an Etsy incident and how the team managed it.
  
--[Improving Postmortem Practices with Veteran Google SRE, Steve McGhee](https://www.blameless.com/improve-postmortem-with-sre-steve-mcghee/) - by Blameless. Takeaway: Suggests turning your post-mortems into "textbook-lets," being cautious about finding good authors, and creating action items with structured discipline.
+- [Improving Postmortem Practices with Veteran Google SRE, Steve McGhee](https://www.blameless.com/improve-postmortem-with-sre-steve-mcghee/) - by Blameless. Takeaway: Suggests turning your post-mortems into "textbook-lets," being cautious about finding good authors, and creating action items with structured discipline.
 
 - [The Infinite Hows (or, the Dangers of The Five Whys)](https://www.kitchensoap.com/2014/11/14/the-infinite-hows-or-the-dangers-of-the-five-whys/) - by John Allspaw. Takeaway: A slight tweak to the “5 whys." Allspaw points out that “why” leads to blaming a person, while “how” leads to blaming the system.
 
