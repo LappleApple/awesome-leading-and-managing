@@ -1,8 +1,10 @@
 ## When You're Not a "Manager": Leadership for Developers
 
-### Software Craftspersonship
+### Software Craftspersonship and Teamwork
 
 - [Active Learner — How Developers Keep Learning](https://medium.com/dennis-nerush/active-learner-how-developers-keep-learning-1309b91f1ae6) - by Dennis Nerush. Takeaway: "the kind of developers we want to hire and be part of our company and our teams ... are not expert beginners and they are not necessary real experts. But they are aware of what they know and most importantly, what they don’t know. They are on the path to someday become real experts. To go in this path they cannot rely only on what their job teaches them and 'out of the box' just working solutions—they must actively learn."
+
+- [Are You out of Alignment?](https://medium.com/@skamille/are-you-out-of-alignment-a7b193ab7fc4) - by Camille Fournier. Takeaway: "Getting into alignment with the company is often a challenge for senior ICs because it requires a major change in focus. The hardest part is now identifying the right problem to solve, instead of solving the hardest problem. If you want to be able to find interesting work and also work on important things, you generally have to go find the interesting important things yourself. This requires that you to talk to a lot of people and listen to their problems, and then place a bet on a solution to one of these problems that will actually both be feasible but will also be seen as important."
 
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0137081073&pd_rd_r=ZG5XBXBXACNY81TG4FXM&pd_rd_w=0mdSO&pd_rd_wg=so42p&psc=1&refRID=ZG5XBXBXACNY81TG4FXM) - by Uncle Bob Martin. A practical guide for how to become a software craftsperson.
 
