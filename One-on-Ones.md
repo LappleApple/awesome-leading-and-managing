@@ -1,5 +1,5 @@
 ## 1-on-1s    
- 
+  
 - [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) — by Mark Rabkin at Facebook. Takeaway: If your 1:1 isn’t a bit awkward, you’re not talking about the real stuff. Article includes helpful prompting questions.
  
 - [Ask What, Why, and How to gain Purpose and Perspective](https://hackernoon.com/purpose-and-perspective-through-what-why-and-how-e158bf63e764) — by Brent Baisley. Takeaway: Three questions to help with alignment/purpose are: 1) What are you working on? (description of the work to be done); 2) Why are you working on it? (purpose behind the work); 3) How is it going to have an impact?
@@ -38,6 +38,8 @@
 - [1:1 Basics for the Introvert Engineering Manager](https://speakerdeck.com/orenellenbogen/1-1-basics-for-the-introvert-engineering-manager) (deck) - by Oren Ellenbogen, author of *Leading Snowflakes*. Takeaway: a detailed slidedeck with ideas on how to make 1:1's great, and why (to build trust and provide value as a manager).
 
 - [1:1 Meetings With Your Team](http://www.ryancarson.com/) — by Ryan Carson. Takeaway: Get to know more about your team members individually to establish trust and find out where their interests lie.
+
+- [1on.one](http://1on.one/) - by @TenaciousJoe. Takeaway: A question generator for 1:1's.
 
 - [A 101 on 1:1s](https://labs.spotify.com/2015/12/16/a-101-on-11s/) - by Simon Nadav Cohen. Takeaway: To make 1:1's more fulfilling, create goals like "build trusting relationships between team leads and engineers," "[create] a safe place to discuss sensitive and private issues or provide personal feedback, and "discuss and work on career development plans 	So engineers can set goals for themselves and have a partner who helps them achieve these goals." Sticking to these goals will make the meetings more productive.
 
