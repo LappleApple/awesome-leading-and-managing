@@ -7,12 +7,7 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Medium Engineering Growth: Tracks](https://gist.github.com/david206/b8dceddd687bb2c60805c9669cc89eaa) - by David Shimon. Takeaway: Different skills/items for different types of developers, listed and detailed.
 
-- [On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) -
-  by John Allspaw. Focusing on attributing "Senior" to "Mature". Covers aspects
-  of being social. Mature engineers are at least aware of their ego, able to
-  take into account the feelings and egos of their fellow engineers, and work 
-  through them all to achieve great things. This tends to make them engineers
-  that other engineers want to work with.
+- [On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - by John Allspaw. Focusing on attributing "Senior" to "Mature". Covers aspects of being social. Mature engineers are at least aware of their ego, able to take into account the feelings and egos of their fellow engineers, and work through them all to achieve great things. This tends to make them engineers that other engineers want to work with.
 
 - [Open Source Culture](http://whilefalse.blogspot.com/2015/10/open-source-culture.html) - by Camille Fournier. A post on Rent the Runway's engineering ladder, by the company's now-former CTO.
 
@@ -85,6 +80,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 - [Give Performance Reviews that Actually Inspire Employees](http://news.gallup.com/opinion/gallup/219863/give-performance-reviews-actually-inspire-employees.aspx) - by Ben Wigert and Annamarie Mann. Takeaway: Traditional annual reviews don't usually inspire people to perform better because there's often a lack of trust, context and connection to make them useful. Better alternatives focus on being achievement-oriented, fair and accurate, and developmental. Consider calling them "progress reviews" to make them more encouraging.
 
 - [How to Be a Better Manager by Remembering 5 Simple Phrases](https://getlighthouse.com/blog/how-to-be-a-better-manager/) - by Lighthouse. Takeaway: They are, “...that sounds important to you, let me write that down” (helps you keep your promises, and is a signal that you value what they said); "...what can we each do by next time to make progress on this?”; “Yes and...”; "...tell me about the last time that happened"; "...together...”
+
+- [How to Discuss Poor Performance with an Employee](https://knowyourteam.com/blog/2019/01/31/how-to-discuss-poor-performance-with-an-employee) - by Claire Lew. Takeaway: Provides some conversation structures to handle employees who are either aware or unaware of their poor performance.
 
 - [How to Get to the Core by Asking the Right Questions](https://www.tombartel.me/blog/how-to-get-to-the-core/) - by Tom Bartel. Takeaway: Asking why, listening to someone before making assumptions and stating them, and achieving buy-in are critical to getting someone to adapt their behavior. Mistakes like suggestive questions, "you have to fix it" messaging and inflexible plans will alienate and not solve the issue. 
 
