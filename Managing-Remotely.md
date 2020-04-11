@@ -22,6 +22,8 @@ Please add your favorite articles, videos, and other resources — just follow t
 
 - [Remote Leadership: 6 Ways How to Lead When You Have to Lead From Home](https://theglasshammer.com/2020/03/31/remote-leadership-6-ways-how-to-lead-when-you-have-to-lead-from-home/) - by Aimee Hansen. Takeaway: Focuses on six ways to lead remotely, including being flexible and compassionate, establishing work availability and boundaries, and encouraging a routine and dedicated work space.
 
+- [Remote Work: A Series of Best Practices for a Remote Workplace](https://github.blog/2020-04-10-remote-work-a-series-of-best-practices-for-a-remote-workplace/) - by Laura Heisman. Takeaway: a chat with Kem Boggs, Head of Global Talent Acquisition at GitHub, about how the company has set up a remote workforce and related aspects of its interviewing and hiring process. 
+
 - [Resilience - The Art of Coping with Disasters](https://www.edx.org/course/resilience-the-art-of-coping-with-disasters) - by IsraelX. Takeaway: An edx.org course that "touches upon the internal and external resources and tools necessary for handling stressful situations and for emerging with increased strength from such experiences." Learn how to improve resilience and coping mechanisms.
 
 - [7 Tips for Successfully Managing Remote Teams](https://www.inc.com/jason-aten/7-tips-for-working-fsuccessfully-managing-remote-teams.html) - by Jason Aten. Takeaway: Have a daily check-in, communicate a lot, take advantage of technology, manage expectations, focus on outcomes (not activity), make sure your team has the resources to work effectively, and be flexible. 
