@@ -4,6 +4,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Aligning Projects with Business Goals](https://blog.dnsimple.com/2017/02/aligning-business-goals-with-projects/) - by Anthony Eden. Provides a simple project management spreadsheet of six questions: 1) What is the problem we are trying to solve?; 2) What does success look like, and how does it fit in the big picture?; 3) What are the MUST DO and the MUST NOT DO items?; 4) What is the deadline?; 5) Who should I talk to for help and get feedback?; 6) Have we done this before? Something we already have to get started?
 
+-[From Apathy to Autonomy](https://www.youtube.com/watch?feature=youtu.be&v=3ER5d6uy4EE) (video) - by Darko Zelić. Takeaway: You don't have to go full-corporate as you scale up; in this Lead Dev Amsterdam talk, Zelić tells you how.
+
 - [The Art of Project Management](https://docs.google.com/document/d/1Cr2DRP06GcBNQoOc3K5huQ61Mk_yyX5ZFsS8IlF1M6Y/edit) - notes by Joe Golberg about Scott Berkun's book.
 
 - [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything ](https://docs.google.com/document/d/1EC4eF-uVeD-Arwoxl5SUKSQNmLK1CRF775zpRqVP4q0/edit#heading=h.efeded667ce6) - by Joe Goldberg. Notes about the book by Guy Kawasaki.
