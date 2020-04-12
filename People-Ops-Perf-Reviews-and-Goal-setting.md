@@ -5,6 +5,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Career Structure. It Doesn't Matter. Until It Matters.](https://web.archive.org/web/20180817070012/https://tech.hbc.com/2018-01-24-career-structure.html) - by Ade Trenaman. Takeaway: A comprehensive overview of career structure at Gilt, touching upon other companies' models. Gilt's model is based on Radford and considers these elements: Level of knowledge, job complexity, supervision, experience, sphere of influence and team size (for leads to manage), and accountability.
 
+- [Engineering Ladders at Meetup](https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e) - by Lara Hogan. Takeaway: Details on Meetup's makers and managers tracks, plus a graphic showing the ladders for both.
+
 - [Medium Engineering Growth: Tracks](https://gist.github.com/david206/b8dceddd687bb2c60805c9669cc89eaa) - by David Shimon. Takeaway: Different skills/items for different types of developers, listed and detailed.
 
 - [On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - by John Allspaw. Focusing on attributing "Senior" to "Mature". Covers aspects of being social. Mature engineers are at least aware of their ego, able to take into account the feelings and egos of their fellow engineers, and work through them all to achieve great things. This tends to make them engineers that other engineers want to work with.
