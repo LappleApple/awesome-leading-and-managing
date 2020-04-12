@@ -50,6 +50,9 @@
 
 - [The 5 Ways to Improve Your Self-Awareness as a Leader](https://blog.knowyourcompany.com/the-5-ways-to-improve-your-self-awareness-as-a-leader-2f1464e5b00) - by Claire Lew. Takeaway: Assume positive intent, hold up a mirror to yourself and your decisions, remember that it’s not all about you, ask your team the tough questions and find an accountability partner like a coach.
 
+### Transparency
+- [How This Head of Engineering Boosted Transparency at Instagram](https://firstround.com/review/how-this-head-of-engineering-boosted-transparency-at-instagram/) - by FirstRound Capital. Takeaway: Focusing on James Everingham at Instagram. "Everingham soon realized that boosting Instagram’s straggling transparency scores meant figuring out what a common definition was. And that wasn’t all — he quickly recognized that shedding light on the decision-making process would also become a sizable component of their efforts to solve the transparency equation. The engineering group would need to identify who was making decisions, how those decisions were made and why they were being made."
+
 ### Trust
 
 - [A Trust Toolbox for Virtual Teams. Module 1: “The Prelude Game”](https://inteamwetrust.com/2016/06/22/trust-toolbox-for-virtual-teams-module-1/) - by Alexey Pikulev. Takeaway: A five-module framework for building trust, including sections on personal integrity and trust in action.
