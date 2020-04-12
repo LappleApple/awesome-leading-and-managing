@@ -4,7 +4,7 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Aligning Projects with Business Goals](https://blog.dnsimple.com/2017/02/aligning-business-goals-with-projects/) - by Anthony Eden. Provides a simple project management spreadsheet of six questions: 1) What is the problem we are trying to solve?; 2) What does success look like, and how does it fit in the big picture?; 3) What are the MUST DO and the MUST NOT DO items?; 4) What is the deadline?; 5) Who should I talk to for help and get feedback?; 6) Have we done this before? Something we already have to get started?
 
--[From Apathy to Autonomy](https://www.youtube.com/watch?feature=youtu.be&v=3ER5d6uy4EE) (video) - by Darko Zelić. Takeaway: You don't have to go full-corporate as you scale up; in this Lead Dev Amsterdam talk, Zelić tells you how.
+- [From Apathy to Autonomy](https://www.youtube.com/watch?feature=youtu.be&v=3ER5d6uy4EE) (video) - by Darko Zelić. Takeaway: You don't have to go full-corporate as you scale up; in this Lead Dev Amsterdam talk, Zelić tells you how.
 
 - [The Art of Project Management](https://docs.google.com/document/d/1Cr2DRP06GcBNQoOc3K5huQ61Mk_yyX5ZFsS8IlF1M6Y/edit) - notes by Joe Golberg about Scott Berkun's book.
 
@@ -52,13 +52,9 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Observations on Product Management](https://medium.com/hackernoon/observations-on-product-management-3abc7e00148e) - by Dan Hill. Takeaway: "Most Product Managers (and everyone probably) spend too little time thinking about how to solve a problem. They jump straight into solving it. Problems come in different shapes, and not all need the same process. The process that shipped the last product is unlikely to be the one that you need for the next...Incremental development and vision are not orthogonal; they both require the other. All product must start with a vision — a point of view — but then be built critically step by step. It’s ok to learn something new as you go."
 
-- [On Writing Product Roadmaps](https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c) - by Gaurav Oberoi. Takeaway: "Roadmaps are a tool to think about your product beyond the next couple of sprints. They force you to plan, communicate, and get buy in. The win is that your team is aligned, can focus on execution, and reliably achieve long term goals." Includes some useful examples of roadmap docs, and proposed schedules for planning and creating your roadmaps. 
-
 - [The Only Metric That Matters — Now With Fancy Slides!](https://news.greylock.com/the-only-metric-that-matters-now-with-fancy-slides-232474cf414c) - by Josh Elman at Greylock Partners. Takeaway: "[T]he only thing founders need to think about is: Are people using your product? Are they using it how you expect (i.e performing the core action)? And, are they performing the core action at the frequency you expect?"
 
 - [Paul Graham’s Startup Advice for the Lazy](https://medium.com/swlh/graham-for-the-lazy-51a170dacc86) - by Stelios Constantinides. All of Paul Graham’s startup advice summarized in one article.
-
-- [The Product Dartboard](http://blog.carbonfive.com/2015/07/29/the-product-dartboard/) - by Janet Brunckhorst at Carbon Five. Takeaway: offers a deep dive/description of a tool that assesses a team or individual against attributes associated with project success.
 
 - [Product Discovery Anti-Patterns Leading to Failure](https://age-of-product.com/product-discovery-anti-patterns/) - by Stefan Wolpers. Takeaway: "The main contributing variables to various product discovery anti-patterns are: * Existing organizational dysfunctions, for example, the organization is structured in functional silos; * A substantial degree of ego issues among individual players—the what-is-in-for-me-syndrome—resulting in personal agendas being pursued; * A complex, multi-layered reporting structure within organizations that filters as well as delays the flow of information, thus impeding communication and decision-making."
 
