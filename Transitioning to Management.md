@@ -98,6 +98,8 @@
 
 - [This 90 Day Plan Turns Engineers Into Remarkable Managers](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/) - by David Loftesness. Takeaway: "A newly-minted technical leader typically has no idea how to manage people". This provides a time-bound plan with checkpoints for opting out and leveling up. If you've already transitioned from IC to manager, you might read this and think, "this is the article I wish I'd had before transitioning."
 
+-[Transitioning from Programming to Management](https://joaomdmoura.com/articles/2018/06/03/transitioning-from-programming-to-management/) - by Joao Moura. Takeaway: A high-empathy article listing reasons why it's difficult to transition, from a dev who did.
+
 - [Understanding Company Strategy: New Tech Leader Series](http://katemats.com/understanding-company-strategy-new-tech-leader-series/) - by kate{mats}. Takeaway: "The very first thing you need to do in a leadership role is understand the goals of the company and the way your organization fits into that strategy." Provides the steps to make that happen.
 
  - [What Are Common Mistakes That New or Inexperienced Managers Make?](https://www.quora.com/Management/What-are-common-mistakes-that-new-or-inexperienced-managers-make/answer/Ian-McAllister) - by Ian McAllister. Takeaway: Some of them include being slow to deal with performance issues, not investing in recruiting or team development, taking credit for others' work and blaming, and simply not leading.
