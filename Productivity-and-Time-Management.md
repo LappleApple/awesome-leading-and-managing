@@ -12,6 +12,8 @@
 
 - [“Vacations Are for the Weak”](http://sethbannon.com/vacations-are-for-the-weak) - by Seth Bannon. Takeaway: "Preventing burnout is part of your job. Staying well rested is part of your job. Sleep and exercise help, but occasional extended breaks are essential too, and their benefits on creativity, productivity, and happiness are well documented."
 
+- [When Collaboration Takes a Toll on Productivity](https://insight.kellogg.northwestern.edu/article/when-collaboration-takes-a-toll-on-productivity) - by Kellogg Insight. Takeaway: "[I]t is not the collaboration itself that is the sole culprit. How much that collaboration interrupts another task is crucial."
+
 ### Time Management
 
 - [Arrange Your Time and Tasks According to These Seven Categories, and You’ll Be a Creativity Machine](https://medium.com/the-mission/arrange-your-time-and-tasks-according-to-these-seven-categories-and-youll-be-a-creativity-machine-b142d2fff65) - by David Kadavy. Takeaway: Prioritize, generate, explore, research, recharge, polish and administrate.
