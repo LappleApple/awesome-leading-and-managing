@@ -9,5 +9,8 @@
 
 - [On Drafting an Engineering Strategy](https://www.paperplanes.de/2020/1/31/on-drafting-an-engineering-strategy.html) - by Mathias Meyer. Takeaway: How to develop an engineering strategy, even when there is no defined business strategy. Covers prerequisites, drafting objectives, and other key aspects of the process.
 
+### Roadmaps
+- [On Writing Product Roadmaps](https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c) - by Gaurav Oberoi. Takeaway: "Roadmaps are a tool to think about your product beyond the next couple of sprints. They force you to plan, communicate, and get buy in. The win is that your team is aligned, can focus on execution, and reliably achieve long term goals." Includes some useful examples of roadmap docs, and proposed schedules for planning and creating your roadmaps. 
+
 ### Team Retreats
 - [How to Run a Successful Team Retreat](https://knowyourteam.com/blog/2019/08/13/how-to-run-a-successful-team-retreat/?utm_source=kytnewsletter&utm_medium=email) - by Claire Lew. Takeaway: Define success, share context, create alignment, and build trust. Includes a template for you to use in designing your own retreat.
