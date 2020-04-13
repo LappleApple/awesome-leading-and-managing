@@ -26,7 +26,7 @@
 
 - [Moving Motivators](https://management30.com/practice/moving-motivators/) - by Jurgen Appelo. A fun exercise you can use with your team to understand which values and aspirations motivate them—status, freedom, power, etc.
 
-- [The Neuroscience of Trust](https://hbr.org/2017/01/the-neuroscience-of-trust) - by Paul J. Zak. Takeaway: "[B]uilding a culture of trust is what makes a meaningful difference. Employees in high-trust organizations are more productive, have more energy at work, collaborate better with their colleagues, and stay with their employers longer than people working at low-trust companies. They also suffer less chronic stress and are happier with their lives, and these factors fuel stronger performance."
+- [The Simple Tool That Revives Employee Motivation](https://firstround.com/review/the-simple-tool-that-revives-employee-motivation/) - by FirstRound. Takeaway: Product leader Jack Chou shares his own "hierarchy of needs" for building and maintaining motivation in teams.
 
 - [The 3 Motivational Forces of Developers](http://www.bennorthrop.com/Essays/2013/developer-motivation.php) - by Ben Northrop. Takeaway: Developers have three main different motivations, and each motivation can be used in different states of a project life-cycle.
 
