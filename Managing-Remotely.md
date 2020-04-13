@@ -6,7 +6,7 @@ Please add your favorite articles, videos, and other resources — just follow t
 
 - [COVID-19 Has My Teams Working Remotely: A Guide for Leaders](https://www.gallup.com/workplace/288956/covid-teams-working-remotely-guide-leaders.aspx) - by Gallup. Takeaway: "Individualization, expectations, communication are key for remote workers; managers need their leaders' support more than ever during this time; going fully remote may be your organization's new way to work."
 
--[Documenting Decisions in a Remote Team](https://medium.com/@kawomersley/documenting-decisions-in-a-remote-team-b53cb615ae73) - by Katie Womersley. Takeaway: Clarify decisions and what they were, identify the decision makers, and document what was decided (Slack is not enough).
+- [Documenting Decisions in a Remote Team](https://medium.com/@kawomersley/documenting-decisions-in-a-remote-team-b53cb615ae73) - by Katie Womersley. Takeaway: Clarify decisions and what they were, identify the decision makers, and document what was decided (Slack is not enough).
 
 - [11 Pitfalls of Remote Work and How to Avoid Them](https://www.ideou.com/blogs/inspiration/11-pitfalls-of-remote-work-and-how-to-avoid-them) - by IdeoU. Takeaway: a post and podcast featuring Virtual Work Insider CEO Sascha Connor, outlining pitfalls such as "thinking digital tools are all you need," mistrust and miscommunication.
 
