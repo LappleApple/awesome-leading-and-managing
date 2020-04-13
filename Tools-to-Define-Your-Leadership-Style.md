@@ -2,6 +2,8 @@
 
 - [Brainstorm Communication Expectations Worksheet](https://docs.google.com/document/d/1Fd-rkENsKyxOvlU00IUIHnsJnS5_B7krEE1GVdAwwnI/edit#) - by Lara Hogan. Takeaway: a template for setting communication expectations between you and reports.
 
+- [How to Be a Manager](https://getweeklyupdate.com/manager-guide) - by Greg Skloot. Takeaway: a step-by-step guide, covering major facets of the role. 
+
 - [Manager Readme](https://managerreadme.com/) - by Oren Ellenbogen. Takeaway: "One of the hardest parts of becoming a great leader is developing self-awareness. Writing your Readme can be your outlet, then, share it with your team." 
 
 - [Manual of Me](https://manualofme.co/) - by Leapers.co. Takeaway: "Sort of like a user manual for a person, the Manual of Me is a handy guide for others to help them get the best from you at work."
