@@ -8,6 +8,8 @@ Please add your favorite articles, videos, and other resources — just follow t
 
 - [Documenting Decisions in a Remote Team](https://medium.com/@kawomersley/documenting-decisions-in-a-remote-team-b53cb615ae73) - by Katie Womersley. Takeaway: Clarify decisions and what they were, identify the decision makers, and document what was decided (Slack is not enough).
 
+- [Don’t Let Remote Leadership Bring out the Worst in You](https://knowyourteam.com/blog/2020/04/09/dont-let-remote-leadership-bring-out-the-worst-in-you/) - by Claire Lew. Takeaway: Don't apply pressure, adopt Big Brother tactics, or blur expectations. 
+
 - [11 Pitfalls of Remote Work and How to Avoid Them](https://www.ideou.com/blogs/inspiration/11-pitfalls-of-remote-work-and-how-to-avoid-them) - by IdeoU. Takeaway: a post and podcast featuring Virtual Work Insider CEO Sascha Connor, outlining pitfalls such as "thinking digital tools are all you need," mistrust and miscommunication.
 
 - [Five Tips for Managers of Newly Dispersed Teams](https://www.jrothman.com/mpd/2020/03/five-tips-for-managers-of-newly-dispersed-teams/) - by Johanna Rothman. Takeaway: support team-based work, not individual work; make all progress visible; reduce the team's WIP; substitute video for MBWAL (Management by Walking Around and Listening); resist the urge to micromanage.
