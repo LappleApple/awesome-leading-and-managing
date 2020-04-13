@@ -20,6 +20,9 @@ Please add your favorite articles, videos, and other resources — just follow t
 
 - [Leading Remote Teams: 6 Survival Tips to Improve Communication and Prevent Burnout](https://enterprisersproject.com/article/2020/3/leading-remote-teams-6-survival-tips?sc_cid=7016000000127eyAAA) - by Jason Hibbets. Takeaway: A Red Hatter makes suggestions such as adding a health check to meetings, creating a psychologically safe environment by making sure your people "know how to get help if and when they need it," creating a virtual water cooler, and redefining communication.
 
+- [Managing Remotely, While Remotely Managing](https://speakerdeck.com/auxesis/managing-remotely-while-remotely-managing) - by
+Lindsay Holmwood. Takeaway: a slidedeck of tips for working remotely. 
+
 - [A Practical Guide to Remote Work](https://docs.google.com/document/u/1/d/1FH_2ViEkoFxIgVrEOTZWfs8cUQzkNRLfkeqA37hK690/mobilebasic) - by Avishai Ish-Shalom. Takeaway: A comprehensive doc, presented in outline format, covering both individual and team needs when transitioning to remote. Even covers remote whiteboarding sessions and Slack etiquette and discipline.
 
 - [Remote Leadership: 6 Ways How to Lead When You Have to Lead From Home](https://theglasshammer.com/2020/03/31/remote-leadership-6-ways-how-to-lead-when-you-have-to-lead-from-home/) - by Aimee Hansen. Takeaway: Focuses on six ways to lead remotely, including being flexible and compassionate, establishing work availability and boundaries, and encouraging a routine and dedicated work space.
