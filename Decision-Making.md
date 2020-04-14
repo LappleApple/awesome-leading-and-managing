@@ -6,6 +6,8 @@
 
 - [Business Value Game](https://www.agile42.com/en/business-value-game/) - by Andrea Tomasini. Takeaway: an interactive game in which a "product management board" of stakeholders decides, in a manner inspired by Planning Poker, which goals to prioritize based on relative value to the business.
 
+- [Cost Per Reasonable Decision (CPRD)](https://cutle.fish/blog/cost-per-reasonable-decision-cprd) - by John Cutler. Takeaway: "[W]e want rapid throughput of small, safe-to-fail decisions, coupled with focus and attention on the high-level strategic decisions that will set the course for the org for months/years...Consider the irony that many orgs spend $50k to make a single decision over work that will take two weeks to actually implement and test."
+
 - [Debiasing the Corporation: An Interview with Nobel Laureate Richard Thaler](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/debiasing-the-corporation-an-interview-with-nobel-laureate-richard-thaler) - by Bill Javetski and Tim Koller. Takeaway: Thaler advocates writing things down to avoid hindsight bias and to keep track of patterns. 
 
 - [Decide How to Decide: Empowering Product Ownership](https://medium.com/@ellengott/decide-how-to-decide-empowering-product-ownership-97a54be29e7) — by Ellen Gottesdiener. Takeaway: Offers suggestions to help teams and product owners reach decisions without making assumptions about whether they’ve come to a consensus or not and includes a “gradient of agreement”
