@@ -16,6 +16,8 @@
 
 - [Feelings of Failure](http://blog.eladgil.com/2017/08/feelings-of-failure.html) - by Elad Gil. Takeaway: A post "meant to help with feelings of failure when things are actually going well (whether you as the CEO realize it or not)."
 
+- [5 Ways to Build Resilience Every Day](https://www.mindful.org/5-ways-build-resilience-every-day/) - by Shamash Alidina. Takeaway: Nurture your relationships, find meaning in difficulty, stay optimistic, be decisive, and accept that change is a part of life.
+
 ### Gratitude
 
 - [Gratitude as a Company Value](https://medium.com/make-better-software/gratitude-as-a-company-value-4bc9c8f0a4fc) - by Anil Dash. Takeaway: Dash's first few months as CEO at Fog Creek Software revealed that the company's tradition of expressing genuine thanks to employees/coworkers has engaged him and others on an emotional level, which leads to a better culture. |[W]e should regularly take the time to show our colleagues, peers and collaborators that we’re thankful for their work."
