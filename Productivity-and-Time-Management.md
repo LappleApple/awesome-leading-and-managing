@@ -14,6 +14,8 @@
 
 - [When Collaboration Takes a Toll on Productivity](https://insight.kellogg.northwestern.edu/article/when-collaboration-takes-a-toll-on-productivity) - by Kellogg Insight. Takeaway: "[I]t is not the collaboration itself that is the sole culprit. How much that collaboration interrupts another task is crucial."
 
+- [When Teams Don’t Finish Work in a Sprint: 3 Tips to Seeing and Finishing Work](https://www.jrothman.com/mpd/2018/01/teams-dont-finish-work-sprint-3-tips-seeing-finishing-work/) - by Johanna Rothman. Takeaway: A clean, simple analysis of cumulative flow, velocity and limiting work in progress. 
+
 ### Time Management
 
 - [Arrange Your Time and Tasks According to These Seven Categories, and You’ll Be a Creativity Machine](https://medium.com/the-mission/arrange-your-time-and-tasks-according-to-these-seven-categories-and-youll-be-a-creativity-machine-b142d2fff65) - by David Kadavy. Takeaway: Prioritize, generate, explore, research, recharge, polish and administrate.
