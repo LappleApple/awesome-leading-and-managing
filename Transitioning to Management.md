@@ -18,8 +18,6 @@
 
 - [Don’t Leave Developers in the Dark](https://sprint.ly/blog/dark/) - by Joe Stump. Takeaway: Help developers understand the full scope of their work so they can make sound decisions. Includes questions to ask developers to make this possible.
 
-- [The Five Flavors of Being a CTO](https://www.linkedin.com/pulse/five-flavors-being-cto-matt-tucker) - by Koan CEO Matt Tucker. Takeaway: The five types include "(External) Evangelist," a visionary/spokesperson for the technology; "(External) Super Sales Engineer," a charismatic, customer-focused spokesperson; "(Internal) Super Engineer," a coding virtuoso; "(Internal) People Leader," who manages and recruits like a VP Engineering (this is antipattern); and "(Internal) Innovator/Disruptor," who's "next big thing”-oriented.
-
 - [Four of My Biggest Mistakes as a New CEO and the Single Reason I Made Them](https://www.forbes.com/sites/carriekerpen/2016/04/05/four-of-my-biggest-mistakes-as-a-new-ceo-and-the-single-reason-i-made-them/#620bd95c157d) - by Carrie Kerpen, CEO of Likeable Media. Takeaway: Kerpen identifies "not wanting to rock the boat," "not setting boundaries," "not giving direct feedback," and "not firing fast enough" as her four mistakes, and explains why.
 
 - [The 4-Letter-Word That Makes My Blood Boil](https://medium.com/maker-to-manager/the-4-letter-word-word-that-makes-my-blood-boil-d4771df63a1) - by Marcus Blankenship. Takeaway: Avoid words like “just”, “simply”, and “trivial." They could lead you to overlook or forget how detail-oriented technical work can be.
@@ -37,8 +35,6 @@
 - [The Leadership Paradox: Why Managers Must Be Consistently Inconsistent](https://getlighthouse.com/blog/leadership-paradox-consistently-inconsistent) - by Lighthouse. Takeaway: "Balancing when to be rigid and when to be flexible is one of the hardest things to learn as a manager." Provides guidance on how to manage this.
 
 - [The Manager's Path [$]](http://shop.oreilly.com/product/0636920056843.do) - by Camille Fournier. A collection of advice for leaders at all levels of the career ladder. Valuable whether you are just starting out in management, a veteran, or just curious about common problems and challenges that managers face on a daily basis. 
-
-- [Manager Tools Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4) - by Manager Tools. Takeaway: Informative podcasts that focus on key opportunities that a manager can leverage to step up their game. 
 
 - [Managing More Experienced People](https://medium.com/the-year-of-the-looking-glass/managing-more-experienced-people-9893f9903649) - by Julie Zhuo. Takeaway: "For me, despite knowing I’m not as strong of a designer as my senior reports, I understood how to approach design at Facebook and could support my team members in setting ambitious goals and working effectively with their partners."
 
@@ -107,23 +103,3 @@
 - [What Stops Us from Transitioning Into a Leadership Role](https://www.youtube.com/watch?v=cBTpbPzm838) - by Femgineer. Takeaway: A chat with leadership coach Jean Hsu about why our perception of who or what we think it takes to be in a role is often wrong, and why we are more capable of learning and growing in a new role than we realize.
 
 - [What’s Your Learning Stack?](https://mystudentvoices.com/whats-your-learning-stack-55f8639c3d56) - by Mattan Griffel and Álvaro Sanmartín. Takeaway: Analogous to a tech stack, a learning stack codifies how learning is done in an org.
-
-### The CTO Role
-
-- [Chief Technology Officer Job Description: What Does a CTO Do?](https://buttercms.com/blog/chief-technology-officer-job-description-what-does-a-cto-do) - by Roger Jin. Takeaway: how to put the "chief" in CTO. "A great CTO should be ready to delegate, while also being comfortable enough to work on the frontline, coding alongside their fellow developers. Furthermore, they will be required to be even more flexible if they’re working in a startup."
-
-- [How to Identify and Address CTO Smells: Process](https://medium.com/cto-craft/how-to-identify-and-address-cto-smells-process-b9a4265cb9f0) - by Andy Skipper. Takeaway: "Smells" include poor hiring, the inability to frame technology challenges against business challenges, a lack of succession planning and/or technical vision and/or belief, insufficient focus on quality, and an inability to manage upwards or sideways.
-
-- [Mastering Sales as a CTO](https://jjude.com/cto-sales/) - by Joseph Jude. Takeaway: Most careers turn into sales jobs when you get senior enough. For an IT services company, there is none better suited to build trust in the minds of prospects than a chief technology officer. A CTO can follow a structured approach to handle sales calls. The structure could be: Pre-call preparation, on-call performance, and retro (post-call and post-closure).
-
-### The VP of Engineering Role
-
-- [The CTO to VP Engineering Fork](https://insidedigitalocean.com/the-cto-to-vp-engineering-fork-74919f9c4066) - by Julia Austin. Takeaway: "When you’ve decided it’s time to fork that technology leadership role and have both a CTO and a VPE, look for someone eager to create a partnership. Someone who prefers to lean into GSD and growing teams and who values the technology leadership, vision and evangelism of your CTO. Be leery of career CTOs who seek a role as VPE at your company — they may say they’re willing to be in charge of GSD, but could easily step on your CTOs toes."
-
-- [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/) - by Martin Casado. Takeaway: A VPE is responsible for product planning, building the engineering team and culture, ensuring execution, maintaining morale, delivering quality releases on time.
-
-- [The Role of a VP of Engineering](https://blog.brunomiranda.com/the-role-of-a-vp-of-engineering-648a09a3ad56) - by Bruno Miranda. Takeaway: VPEs are measured by the success of their team; set process in terms of "*why* we do what we do"; keep coding; manage up and down.
-
-- [What Does a VP of Engineering Do?](https://medium.com/@dandemeyere/what-does-a-vp-of-engineering-do-75da2086f74d) - by Dan DeMeyere. Takeaway: "VP’s of Engineering are essential to making sure the trains run on time and identifying the best way to lay down tracks. If the CTO knows the destination, the VPE is identifying the route to get there."
-
-- [“What Does a VP of Engineering Do, Again?”](https://medium.com/@raffi/what-does-a-vp-of-engineering-do-again-553817fbbf2a) - by Raffi Krikorian & Dave Loftesness. Takeaway: a VP Engineering's primary duties involve "establishing focus; leading and designing the engineering org; and representing engineering at the leadership level."
