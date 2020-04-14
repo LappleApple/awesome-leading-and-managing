@@ -28,7 +28,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
 - [Leading Leaders](Leading-Leaders.md)
 - [Managing Remotely](Managing-Remotely.md)
-- [Leadership Media](Media-Blogs-Newsletters-Podcasts.md)
+- [Media: Blogs, Newsletters, Podcasts](Media-Blogs-Newsletters-Podcasts.md)
 - [Meetings](Meetings.md)
 - [Motivation and “Retention”](/Motivation-Retention.md)
 - [Onboarding](Onboarding.md)
