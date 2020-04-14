@@ -13,6 +13,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Abilities, Qualities and Values](Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](Building-Products-and-Startups-OKRs.md)
 - [Conflict Prevention and Conflict Resolution](Conflict-Prevention-Resolution.md)
+- [The CTO Role](The-CTO-role.md)
 - [Culture](Culture.md)
 - [Decision-Making](Decision-Making.md)
 - [Delegation](Delegation.md)
@@ -24,10 +25,10 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Influencing Others](Influencing-Others.md)
 - [Leader List](Leader-List.md)
 - [Leadership Forums](Leadership-Forums.md)
-- [Leadership Media](Leadership-Media.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
 - [Leading Leaders](Leading-Leaders.md)
 - [Managing Remotely](Managing-Remotely.md)
+- [Leadership Media](Media-Blogs-Newsletters-Podcasts.md)
 - [Meetings](Meetings.md)
 - [Motivation and “Retention”](/Motivation-Retention.md)
 - [Onboarding](Onboarding.md)
@@ -38,6 +39,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Productivity and Time Management](Productivity-and-Time-Management.md)
 - [Tools to Define Your Leadership Style](Tools-to-Define-Your-Leadership-Style.md)
 - [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
+- [The VP Engineering Role](VP-Engineering-Role.md)
 
 * "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
 * "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan<br>
