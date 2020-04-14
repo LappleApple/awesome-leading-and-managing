@@ -41,6 +41,10 @@
 
 - [Gratitude as a Company Value](https://medium.com/make-better-software/gratitude-as-a-company-value-4bc9c8f0a4fc) - by Anil Dash. Takeaway: Dash's first few months as CEO at Fog Creek Software revealed that the company's tradition of expressing genuine thanks to employees/coworkers has engaged him and others on an emotional level, which leads to a better culture. |[W]e should regularly take the time to show our colleagues, peers and collaborators that we’re thankful for their work."
 
+### Humility
+
+- [How Real Leaders Melt the Iceberg of Ignorance with Humility](https://corporate-rebels.com/iceberg-of-ignorance/) - by Joost. Takeaway: A follow-up on the 1989 study by consultant Sidney Yoshida, who pointed out that front-line information awareness decreased the further up the management hierarchy he went. This article suggests that humility, via reaching out to front-line workers to understand issues and collect information, can resolve the problem.
+
 ### Integrity
 
 - [Put an End to Your Feedback Loop](https://www.strategy-business.com/blog/Put-an-End-to-Your-Feedback-Loop) - by Jesse Sostrin. Takeaway: "If you’ve ever said the words 'I’ve gotten this feedback before,' chances are you’re playing with fire and undermining your own success by failing to address the issue."
