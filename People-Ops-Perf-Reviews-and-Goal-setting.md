@@ -93,6 +93,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [A Note on Feedback](http://andrewspittle.com/2016/02/23/a-note-on-feedback/) - by Andrew Spittle. Takeaway: How to use the 3-2-1-Oh performance feedback chat, "a mix of a team member writing a self-assessment and a team lead writing a review. The conversation centers around answers to these bullet points: What are 3 things you’ve done well? What are 2 areas or skills you’d like to develop? What’s one way your team lead or Automattic itself can support you? And, oh, can you write a sentence or two about how you see your career developing?"
 
+- [Performance of Performance Reviews](https://medium.learningbyshipping.com/performance-of-performance-reviews-cd7494eeaef8) - by Steven Sinofsky. Takeaway: "We want quantitative certainty and simplicity, but context is crucial and fluid, and qualitative. We desire fair, which is a relative term, but insist on the truth, which is absolute."
+
 - [Scaling Culture with Feedback](https://wistia.com/blog/scaling-culture-with-feedback) - by Chris Savage. Takeway: Ask specific questions to see if people are living out your values.
 
 - [Team Reviews](https://medium.com/@marcprecipice/team-reviews-4b395bee61c9) by Marc Hedlund. Takeaway: "Team reviews are quick and easy to do, and every time I’ve done one, the manager and I wind up talking about important topics, pushing ourselves to promote and reward people who deserve it, and taking action where needed. It also helps me know our whole team better, and get clear signals from managers that make interactions with each person more meaningful. I highly recommend the practice." Includes a template to get you started.
