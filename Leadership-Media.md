@@ -23,6 +23,9 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [Software Lead Weekly](http://softwareleadweekly.com/) - by Oren Ellenbogen. A weekly email for busy people who care about people, culture and leadership.
 
+- [Wherewithall](https://larahogan.me/sign-up/) - by Lara Hogan. The newsletter by the popular and prolific management coach and trainer.
+
+
 ### Podcasts
 
 - [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - a very long list of engineering-related podcasts in several languages.
