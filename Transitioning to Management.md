@@ -98,6 +98,8 @@
 
 - [Understanding Company Strategy: New Tech Leader Series](http://katemats.com/understanding-company-strategy-new-tech-leader-series/) - by kate{mats}. Takeaway: "The very first thing you need to do in a leadership role is understand the goals of the company and the way your organization fits into that strategy." Provides the steps to make that happen.
 
+- [A Voight-Kampff Test for Identifying Engineering Managers](https://hackernoon.com/a-voight-kampff-test-for-identifying-engineering-managers-bb8512c70857) - by Nick Caldwell. Takeaway: How Caldwell created a mechanism for differentiating managers from architects in a way that surfaced his team's interests.
+
  - [What Are Common Mistakes That New or Inexperienced Managers Make?](https://www.quora.com/Management/What-are-common-mistakes-that-new-or-inexperienced-managers-make/answer/Ian-McAllister) - by Ian McAllister. Takeaway: Some of them include being slow to deal with performance issues, not investing in recruiting or team development, taking credit for others' work and blaming, and simply not leading.
 
 - [What Stops Us from Transitioning Into a Leadership Role](https://www.youtube.com/watch?v=cBTpbPzm838) - by Femgineer. Takeaway: A chat with leadership coach Jean Hsu about why our perception of who or what we think it takes to be in a role is often wrong, and why we are more capable of learning and growing in a new role than we realize.
