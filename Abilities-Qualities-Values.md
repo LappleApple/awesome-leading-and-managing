@@ -69,7 +69,7 @@
 
 - [Our 6 Must Reads For Creating and Accelerating Trust on Teams](http://firstround.com/review/our-6-must-reads-for-creating-and-accelerating-trust-on-teams/) - by FirstRound. Takeaway: Leave a good last impression ("[e]nd every meeting or conversation with the feeling and optimism you’d like to have at the start of your next conversation with the person"); give your most recent performance review to your final round candidates; don’t miss the Day One opportunity; write and distribute your user guide; reference the Trust Equation by Steven Drozdeck and Lyn Fisher; work toward a shared consciousness.
 
-- [Team Trust Canvas](https://inteamwetrust.com/team-trust-toolbox/team-trust-canvas/) - by In Team We Trust. Takeaway: a one-page planning canvas to help your team build trust explicitly.
+- [Team Trust Canvas](https://inteamwetrust.com/2020/03/24/team-trust-canvas-session-online/) - by In Team We Trust. Takeaway: a one-page planning canvas to help your team build trust explicitly.
 
 - [The 3 Most Effective Ways to Build Trust as a Leader](https://knowyourteam.com/blog/2019/02/12/the-3-most-effective-ways-to-build-trust-as-a-leader/) - by Claire Lew. Takeaway: Show vulnerability, communicate the intent behind your actions, and follow through.
 
