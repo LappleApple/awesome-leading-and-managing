@@ -4,6 +4,8 @@
 
 - [Communication Training Tomorrow! (no, not really)](https://medium.com/@JBunky/communication-training-tomorrow-no-not-really-8b216d8cb9a3) - by Jen Bunk. Takeaway: Commmunication trainings, and communication skills, aren't enough to fix cultural issues. You need to go deeper and explore where your systems are failing.
 
+- [Driving Change: Why Are Your Ideas Being Rejected?](https://medium.com/@bocytko/driving-change-why-are-your-ideas-being-rejected-e2ab96227e40) - by Bartosz Ocytko. Takeaway: A very thorough examination of the many different reasons why you might not be getting across, with guidance on determining which problems are important; how to get organizational support; bringing solutions instead of problems; timing, and what to do if despite your efforts change still doesn't come. 
+
 - [11 Top Tips for a Successful Technical Presentation](https://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx) - by Scott Hanselman. Takeaway: detail-oriented tips ranging from font type/size to being mindful of your distracting personal habits.
 
 - [Escaping E-mail Hell](https://medium.com/the-year-of-the-looking-glass/escaping-e-mail-hell-f55905f3862f) - by Julie Zhuo. Takeaway: Tips for communicating more succinctly in emails to reduce workload and also increase the chances that others will read them. Also includes this nugget: "Forwarding a huge thread with nothing more than 'Thoughts?' at the start is the e-mail equivalent of a flaming bag of dog poop on your doorstep."
