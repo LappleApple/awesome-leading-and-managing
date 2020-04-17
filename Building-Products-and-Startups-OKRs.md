@@ -28,6 +28,8 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Growth Hacking Notebook](https://docs.google.com/document/d/1uN_kMZlwsdaliiUhIEei5PTnLphm0p6Eo57Xg6LnFHc/edit) - notes by Joe Goldberg.
 
+- [Here's How to De-Risk Your Product Strategy](https://www.linkedin.com/pulse/heres-how-de-risk-your-product-strategy-jeff-gothelf/) - by Jeff Gothelf. Takeaway: Strategic planning involves three questions: who’s the target market, what’s the value proposition, and what's your Key Result.
+
 - [How Compare and Contrast Decisions Lead to Better Product Outcomes](https://www.producttalk.org/2017/09/compare-and-contrast-decisions/) (slides) - by Teresa Torres. Takeaway: A detailed look at how to bring focus to product decisions, including suggested tools like the "opportunity solution tree." 
 
 - [How to Sell the Problem Before Selling the Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484) - by David Bailey. Takeaway: Tactical ways to express customer needs and "lead with the need."
