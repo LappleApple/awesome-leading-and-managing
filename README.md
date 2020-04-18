@@ -11,8 +11,8 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 
 ### Quotes That Capture the General Spirit of this List's Contents
 - "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton
-- "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan*
-- "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317)* 
+- "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan
+- "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317) 
 
 ## Contents
 - [Abilities, Qualities and Values](Abilities-Qualities-Values.md)
