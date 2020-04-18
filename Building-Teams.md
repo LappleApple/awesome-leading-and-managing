@@ -26,6 +26,8 @@
 
 - [The New Work Order: Team Ingredients and Role Blending ](https://www.slideshare.net/hhfleming/the-new-work-order-team-ingredients-and-role-blending) - by Heather Fleming. Takeaway: Use "team ingredients" to build teams that achieve maximum productivity and happiness.
 
+- [The Operating System Canvas](https://medium.com/the-ready/the-operating-system-canvas-420b8b4df062) - by Aaron Dignan. Takeaway: This framework (available as a PDF) presents a canvas for building your organization, with 12 concepts: purpose, authority, structure, strategy, resources, innovation, workflow, meetings, information, membership, mastery and compensation.
+
 - [Reorgs Happen](http://whilefalse.blogspot.co.il/2015/12/reorgs-happen.html) - by Camille Fournier. Takeaway: "Reorgs are unlikely to solve all of your problems overnight. They are not a magic bullet exercise that fixes cultural issues or a lack of business strategy. If you aren't careful, your reorg will feel like rearranging deck chairs on the Titanic, a pointless waste of time for everyone involved. So don't be afraid to do them as necessary, but be realistic. This is a major disruption that impacts everyone, don't just do it for fun."
 
 - [Re-structuring a Growing Team](https://writing.jeanhsu.com/re-structuring-a-growing-team-3ac30d93b637) - by Jean Hsu. Takeaway: Identify why you're reorganizing, understand what it means, and execute. Includes a plan for conducting a team reorg so you can prepare for your own.
