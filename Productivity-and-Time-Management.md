@@ -38,10 +38,7 @@
 
 - [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - by Joel Spolsky. Takeaway: "You gather evidence, mostly from historical timesheet data, that you feed back into your schedules. What you get is not just one ship date: you get a confidence distribution curve, showing the probability that you will ship on any given date...The steeper the curve, the more confident you are that the ship date is real."
 
-- [Focus – keynote at AgileByExample, Warsaw](https://www.youtube.com/watch?v=n7wH2XdOWpM) and [summary](http://blog.crisp.se/2016/10/20/henrikkniberg/focus-keynote) - by
-  Henrik Kniberg. Takeaway: Focus on extracting more value from your available
-  time. “Busy-ness” is an artificial concept. Build slack into your schedule to
-  achieve better focus.
+- [Focus – Keynote at AgileByExample, Warsaw](https://www.youtube.com/watch?v=n7wH2XdOWpM) and [summary](http://blog.crisp.se/2016/10/20/henrikkniberg/focus-keynote) - by Henrik Kniberg. Takeaway: Focus on extracting more value from your available time. “Busy-ness” is an artificial concept. Build slack into your schedule to achieve better focus.
   
 - [From Inbox-Zero to Todo-List-Zero](https://medium.com/practical-empathy/from-inbox-zero-to-todo-list-zero-cb273137d1a7) - by Joe Goldberg. Takeaway: "Todo List Zero: Stuff on your to-do list that needs more than a moment to resolve should get onto your calendar. Block out time in advance for [this], at the time of day where you get your best work done (figure this out if you don’t already know). Also block out time for self-initiated tasks: time to do nothing but think, time to learn and read, etc."
 
