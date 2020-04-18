@@ -19,6 +19,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Decision-Making](Decision-Making.md)
 - [Delegation](Delegation.md)
 - [Diversity and Gender](Diversity-and-Gender.md)
+- [Empathy and Listening](Empathy-and-Listening.md)
 - [Firing](Firing.md)
 - [Giving Feedback, Praise, and Advice](Giving-Feedback-Praise-and-Advice.md)
 - [Hiring and Interviewing Candidates](Hiring-and-Interviewing.md)
