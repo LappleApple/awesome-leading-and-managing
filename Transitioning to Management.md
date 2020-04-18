@@ -18,6 +18,8 @@
 
 - [Don’t Leave Developers in the Dark](https://sprint.ly/blog/dark/) - by Joe Stump. Takeaway: Help developers understand the full scope of their work so they can make sound decisions. Includes questions to ask developers to make this possible.
 
+- [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - by Charity Majors. Takeaway: "Fuck the whole idea that only managers get career progression. And fuckkkk the idea you have to choose a 'lane' and grow old there.  I completely reject this kind of slotting."
+
 - [Four of My Biggest Mistakes as a New CEO and the Single Reason I Made Them](https://www.forbes.com/sites/carriekerpen/2016/04/05/four-of-my-biggest-mistakes-as-a-new-ceo-and-the-single-reason-i-made-them/#620bd95c157d) - by Carrie Kerpen, CEO of Likeable Media. Takeaway: Kerpen identifies "not wanting to rock the boat," "not setting boundaries," "not giving direct feedback," and "not firing fast enough" as her four mistakes, and explains why.
 
 - [The 4-Letter-Word That Makes My Blood Boil](https://medium.com/maker-to-manager/the-4-letter-word-word-that-makes-my-blood-boil-d4771df63a1) - by Marcus Blankenship. Takeaway: Avoid words like “just”, “simply”, and “trivial." They could lead you to overlook or forget how detail-oriented technical work can be.
