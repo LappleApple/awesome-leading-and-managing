@@ -16,6 +16,8 @@
 
 - [Technical Onboarding, Training, and Mentoring](https://www.youtube.com/watch?v=Lpg4jRSH7EE) (video) - a full onboarding curriculum by Kate Heddleston, from RailsConf 2014. Takeaway: Onboarding is taking someone from outside the team and making them productive (technical knowledge); independent/autonomous (company/process knowledge); reliably independent; and confident/believe they are valuable (personal development). 
 
+- [Thinking of the Next Developer](https://dev.to/dnimmo/thinking-of-the-next-developer) - by David Nimmo. Takeaway: before moving on to the next coding problem, take the time to save hassle for the next person joining your team or working with your code.
+
 - [Toast’s Engineering Team Doubled. Here’s How They Scaled Onboarding.](https://www.donut.com/blog/onboarding-engineers-at-toast/) - by Toast. Takeaway: "Ultimately, Toast’s engineering onboarding playbook is comprised of a mixture of background information transmitted through automated systems, coupled with direct in-person trainings. Team leads and onboarding buddies help fill in the gaps to get each and every person acclimated to life at Toast and ready to do their best work. The entire process is systematized and documented, so that everyone knows what to expect, and labor is divided between automated systems and people on the team, so that no one person is overburdened and nothing slips through the cracks."
 
 ## Onboarding Decks
