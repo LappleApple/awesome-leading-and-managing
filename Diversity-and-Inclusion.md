@@ -1,4 +1,4 @@
-## Diversity and Gender
+## Diversity and Inclusion
 
 - [Ally Resources](https://github.com/larahogan/ally-resources) - by Lara Hogan. Takeaway: a collection of resources on topics ranging from sponsorship (vs. mentoring) of underrepresented groups, to the impact of diversity work.
 
