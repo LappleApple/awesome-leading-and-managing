@@ -55,8 +55,6 @@
 
 - [It's Time to Stop Wearing Burnout as a Badge of Courage](https://advice.shinetext.com/articles/its-time-to-stop-wearing-burnout-as-a-badge-of-courage/) - by Stephanie Jade Wong. Takeaway: Predict your burnout using the Overwhelm Cycle, a diagram of a clock that highlights what happens at 11:30 PM for you to hit burnout mode. Then work your way backward. Get a support network, plan breaks and list priorities. 
 
-- [Listening Is the Job](http://boz.com/articles/listening-is-the-job.html) - by Andrew Bosworth. Takeaway: Have a system for taking in/consuming information; maximize signal-to-noise ratio; give feedback; proactively identify gaps in your information flows; write notes to remember reactions you have through the day; tell your story; be clear about the information you seek; and listen.
-
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - by Y Combinator's Paul Graham. Takeaway: The manager's schedule is typically in one-hour blocks, while the maker's schedule requires longer stretches of uninterrupted time. "Each type of schedule works fine by itself. Problems arise when they meet. Since most powerful people operate on the manager's schedule, they're in a position to make everyone resonate at their frequency if they want to. But the smarter ones restrain themselves, if they know that some of the people working for them need long chunks of time to work in."
 
 - [Manage Your Day-to-Day](http://99u.com/book/manage-your-day-to-day-2) - by Seth Godin, Dan Ariely, Gretchen Rubin, Erin Rooney Doland, and other contributors. The book shows you how to stop letting other people run your schedule; find the right recharge/productivity balance; optimize digital communications/social media use, and more.
