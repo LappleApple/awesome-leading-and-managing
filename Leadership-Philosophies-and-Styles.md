@@ -22,6 +22,8 @@ This topic comes first, because the following articles offer great frameworks/de
 - [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals/) - by Farnam Street. Takeaway: a series of bullet points identifying the differences. Examples: "Amateurs give up at the first sign of trouble and assume they’re failures. Professionals see failure as part of the path to growth and mastery;
 Amateurs don’t have any idea what improves the odds of achieving good outcomes. Professionals do." 
 
+- [Directly Responsible Individuals](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) - by Matthew Mamet. Takeaway: "Fostering a culture of accountability within the team (people do what they say they will do) is key for effective product management over the long haul. Creating and fostering the concept of Directly Responsible Individuals (DRI) within product teams is an effective method of increase PM leverage."
+
 - [Don’t Try to Be the “Fun Boss” — and Other Lessons in Ethical Leadership](https://hbr.org/2018/09/dont-try-to-be-the-fun-boss-and-other-lessons-in-ethical-leadership) - by Kimberly Nei and Darin Nei. Takeaway: Be humble, not charismatic; be steady and dependable; remember that modesty is the best policy, balance analysis with action, be vigilant — vulnerability increases over time.
 
 - [Effective Leaders](https://medium.com/@brendan_ward/effective-leaders-6f36e891706e) - by Brendan Ward. Takeaway: effective leaders set, communicate, and reinforce tangible goals toward broader impact. They set priorities and act strategically, share the opportunity to lead, and listen more than they talk. They are highly introspective, actively seek feedback, grow from their mistakes, and are constantly learning across a broad range of topics.
@@ -54,9 +56,13 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [How to Lead]( https://medium.com/@wgalyean/how-to-lead-f4383da7047c) - by Wilson Galyean. Takeaway: Leadership lessons from a former US Army officer and West Point cadet. "There is a difference between management and leadership. Management is decision making and the handling of resources. Leadership goes beyond management to craft and maintain the interpersonal glue that makes your organization a team."
 
+- [How to Lead by Noticing and Filling in Gaps](https://blog.coleadership.com/how-to-lead-by-noticing-and-filling-in-gaps/) - by Jean Hsu. Takeaway: gaps exist everywhere, and leaders know which ones to fill.
+
 - [How Strong Is Your Leadership Toolkit?](https://blog.bonus.ly/how-strong-is-your-leadership-toolkit) - by Alex Saez. Takeaway: Establish strong relationships, understand employee needs, and possess the appropriate "hard" and "soft" skills.
 
 - [How to Lead a Team](https://drt.fm/simon-sinek) (podcast) - by Simon Sinek. Fun trivia: Joe Goldberg, the originator of this Awesome list, realized through this podcast that "You can’t manage people, you can only lead them. You can only manage processes."
+
+- [Ideas That Changed My Life](https://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - by Morgan Housel. Takeaway: "Everyone belongs to a tribe and underestimates how influential that tribe is on their thinking," "Everything’s been done before. The scenes change but the behaviors and outcomes don’t," and eight other observations from the author.
 
 - [I’ve Interviewed Over 300 Entrepreneurs–Here’s Their Most Counterintuitive Advice](https://www.fastcompany.com/40457790/ive-interviewed-over-300-entrepreneurs-heres-their-most-counterintuitive-advice) - by Jenna Abdou. Takeaway: Specialize in more stuff than you think you have to; share what makes you tick, then have your team do the same; forget the competition, and let things happen instead of always making them happen.
 
