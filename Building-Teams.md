@@ -14,6 +14,8 @@
 
 - [Great Development Teams Have a Culture of Discipline](https://www.linkedin.com/pulse/20141022145416-6200243-great-development-teams-have-a-culture-of-discpline/) - by Erran Berger. Takeaway: Value craftsmanship as highly as you value execution; attack each problem you face with a tremendous sense of urgency; instrument everything - you can’t fix what you don’t measure; fewer things done better - the disciplined pursuit of less; be rigorous in prioritization and planning; establish a high hiring bar – you’re creating an enduring culture.
 
+- [Growing a Feature Team Using Lanes](https://medium.com/teads-engineering/growing-a-feature-team-using-lanes-2e50d5521006) - by Vivian Pennel. Takeaway: using a "fast lane" for handling "small requests, features or bugs that need to be executed quickly" and protecting "the strategic lane," the high-value work. Also use a tech lane for paying back debt, updating libraries and components.
+
 - [How a Microsoft Docs Team Increased Openness and Improved Collaboration](https://opensource.com/open-organization/17/10/microsoft-collaboration-case-study) - by Angela Robertson. Takeaway: An honest account of transforming the technical content team of Microsoft's Cloud and Enterprise group from closed and uncollaborative to open and transparent. Finding purpose in openness was key.
 
 - [How to Get Engineering Teams to Eat Their Vegetables](https://medium.com/@duretti/how-to-get-engineering-teams-to-eat-their-vegetables-83e0f83af71a) - by Duretti Hirpa. Takeaway: Good teams are supportive, have a sense of togetherness and don't blame their team members for their mistakes but instead learn from them.
