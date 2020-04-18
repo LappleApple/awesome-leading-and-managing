@@ -12,6 +12,8 @@
 
 - [4 Tips for Leaders Helping Others Evolve Their Careers](https://opensource.com/open-organization/17/9/own-your-open-career) - by Allison Matlack. Takeaway: Set the context, invest in skill building, pull up a seat at the table (advocate for others) and open some doors.
 
+- [Getting Feedback](http://daydreamsinruby.com/getting-feedback/) - by Allison (Sheren) McMillan. Takeaway: Ask your teammates for feedback so you can continue growing and developing. Includes short lists of questions you can ask.
+
 - [Giving Effective Feedback](https://hbr.org/product/giving-effective-feedback-hbr-20-minute-manager-series/13999E-KND-ENG) - by Harvard Business Review. Takeaway: "[T]he basics of delivering feedback that gets results, including: Choosing the right time to talk; Engaging in productive dialogue; Helping both star and struggling performers; Developing a plan for effective follow-up."
 
 - [How and Why You Need to Recognize Your Executives](http://blog.bonus.ly/how-and-why-you-need-to-recognize-your-executives?utm_content=56841793&utm_medium=social&utm_source=twitter) - by Jessica Collins. Takeaway: Leaders are people too, and giving them feedback keeps them in touch with the organization, and motivates them to continue doing the "right" things.
