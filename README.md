@@ -43,9 +43,6 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 - [The VP Engineering Role](VP-Engineering-Role.md)
 
-## Contribute Your Favorites
-Please share/promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
-
 ## FAQ
 - [Who is this for?](#who-is-this-for)
 - [Why should you read this or trust the authors for advice?](#why-should-you-read-this-or-trust-the-authors-for-advice)
@@ -65,10 +62,10 @@ Please share/promote your favorite managing and leading resources/go-to's (books
 * "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317)* 
 
 ### How can I submit a link or ask a question?
-So glad you asked! For submissions, follow our [contributing guidelines](CONTRIBUTING.md). For questions, go ahead and post an issue in our Issues Tracker. 
+So glad you asked! Share and promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by reviewing the [contributor guidelines](CONTRIBUTING.md), then making a pull request (one per item/entry). For questions, go ahead and post an issue in the Issues Tracker. 
 
 ### How can I get more info on [missing topic]?
-Please let us know via the Issues Tracker if there’s a topic you'd like this list to include.
+Please make a request via the Issues Tracker if there’s a topic you'd like this list to include.
 
 ### Did you write all this yourself? (Credit/Attribution)
 Almost none of the content shared in this list is by the authors. Where there’s a link, the content below it is generally a summary of the linked webpage. When there’s no link, it’s either original content or gives credit/attribution. Some book summaries are from [Personal MBA](https://personalmba.com/), which Joe piloted and consulted on, but not to the extent where he is willing to take credit for its content.
