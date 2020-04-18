@@ -12,6 +12,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 ## Contents
 - [Abilities, Qualities and Values](Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](Building-Products-and-Startups-OKRs.md)
+- [Building Teams](Building-Teams.md)
 - [Conflict Prevention and Conflict Resolution](Conflict-Prevention-Resolution.md)
 - [The CTO Role](The-CTO-role.md)
 - [Culture](Culture.md)
