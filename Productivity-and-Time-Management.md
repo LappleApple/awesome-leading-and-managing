@@ -4,6 +4,8 @@
 
 - [How Do We Go Faster?](https://hackernoon.com/how-do-we-go-faster-ed51207952a8) - by John Cutler. Takeaway: Lists of concepts to apply and actions to take to build a culture that fosters a productive, efficient environment.
 
+- [Kaleidoscope Thinking: How to Think Faster and More Clearly](https://taylorpearson.me/kaleidoscope/) - by Taylor Pearson. Takeaway: use mental models from different disciplines and use them in a routine way, to build a latticework process. Read a lot, and study different models. 
+
 - [Only You Can Prevent Tech Burnout](https://medium.com/@Aprilw/only-you-can-prevent-tech-burnout-be3f0504c627) - by April Wensel. Takeaway: "The prevailing work culture in Silicon Valley is not sustainable. We all know it, but few are doing anything to change it...As leaders, whether in name or in spirit, you have a responsibility to cultivate a healthier, more sustainable culture. Why? Your team will be more productive. As shared in *The Optimistic Workplace*, 'People in positive work environments outperform those who work in negative climates by 10–30%.' As an employee, you owe it to yourself to improve your own situation, whether that means inspiring change at your current company or moving on to somewhere that actually does value you as a human being."
 
 - [The Relationship between Team Emotion and Delivery](https://www.infoq.com/news/2018/02/team-emotions-affect-output/) - by Rafiq Gemmail. Takeaway: a summary of the research conducted by Atlassian’s Natalie Mendes and Prashant Kukde, CEO of artificial and emotional intelligence firm Deep Affects. The study used NLP to show that there's a strong relationship between emotional health and team productivity. 
