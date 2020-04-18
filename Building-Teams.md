@@ -1,5 +1,7 @@
 ## Building Teams
 
+- [Building a Delivery Team](https://engineering.edx.org/building-a-delivery-team-8201d06f1021) - by Bill DeRusha. Takeaway: How the edX internationalization team spun up quickly—team charter, communication, building a relationship with the product manager, being clear and focused about the project scope, and communicating. Includes links to articles about creating team charters.
+
 - [Building and Scaling a Distributed and Inclusive Team](https://www.youtube.com/watch?list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&v=XAU5q-biY28) (video) - by Matthias Meyer. The founder/CEO of Travis CI talks about how the company has been trying to create a multicultural distributed team, with lots of quotes from team members. Travis pushed for a remote culture to increase diversity.
 
 - [Building Great Teams: Culture and Core Protocols](http://www.ustream.tv/recorded/102891756) (video) - by Richard Kasperowski. Takeaway: Thoughts on psychological safety and creating authentic trust and connection between people to take the "luck" out of building and working on great teams, and making greatness more intentional.
@@ -8,13 +10,27 @@
 
 - [Fear of Process or How to Scale the Team Without Getting "Corporate”](https://www.linkedin.com/pulse/fear-process-how-scale-team-without-getting-corporate-avi-revivo/) - by Avi Revivo. Takeaway: "Finding the sweet spot in the organization where you utilize exactly the right amount of processes is practically impossible. Sometimes you’ll use a process that provides less value than what it cost and sometimes the opposite. It means that you need to remember the 3 questions - Can we achieve the same goal without a process? or with an even simpler one? Is the process ROI positive? What is the chance of a successful adoption of the process and why?...and consider them for each new process but you’ll also need to ask the first 2 questions on exciting processes every now and then to make sure it stands the test of time."
 
+- [The Five Dysfunctions of a Team: a Leadership Fable](http://www.bip.org.bd/SharingFiles/11-The%20Five%20Dysfunctions%20of%20a%20Team.pdf) - by Patrick Lencioni. Takeaway: lack of trust and commitment, fear of conflict, avoidance of accountability, and inattention to results will prevent your team from gelling and performing. This book uses a narrative/fictional case study to make its point about overcoming the five dysfunctions.
+
 - [Great Development Teams Have a Culture of Discipline](https://www.linkedin.com/pulse/20141022145416-6200243-great-development-teams-have-a-culture-of-discpline/) - by Erran Berger. Takeaway: Value craftsmanship as highly as you value execution; attack each problem you face with a tremendous sense of urgency; instrument everything - you can’t fix what you don’t measure; fewer things done better - the disciplined pursuit of less; be rigorous in prioritization and planning; establish a high hiring bar – you’re creating an enduring culture.
 
 - [How a Microsoft Docs Team Increased Openness and Improved Collaboration](https://opensource.com/open-organization/17/10/microsoft-collaboration-case-study) - by Angela Robertson. Takeaway: An honest account of transforming the technical content team of Microsoft's Cloud and Enterprise group from closed and uncollaborative to open and transparent. Finding purpose in openness was key.
 
 - [How to Get Engineering Teams to Eat Their Vegetables](https://medium.com/@duretti/how-to-get-engineering-teams-to-eat-their-vegetables-83e0f83af71a) - by Duretti Hirpa. Takeaway: Good teams are supportive, have a sense of togetherness and don't blame their team members for their mistakes but instead learn from them.
 
+- [How to Improve Team Closeness with Personal Maps](https://management30.com/practice/personal-maps/) - by Jürgen Appelo at M3.0. Takeaway: Personal maps and group exercises to develop them can enable members of teams to get to know each other as *humans* with interests and hobbies. The article points to tips and case stories for you to get ideas.
+
+- [Incentivize Teams, not People](https://rkoutnik.com/2018/03/17/incentivize-teams-not-people.html) - by Randall Koutnik. Takeaway: "Any programmer worth their salt is willing to help team members out when they’re in a pinch. Software development is a team sport, after all. Unfortunately, management can often completely miss the point and create perverse incentives that wreck a team’s cooperation and communication."
+
+- [The New Work Order: Team Ingredients and Role Blending ](https://www.slideshare.net/hhfleming/the-new-work-order-team-ingredients-and-role-blending) - by Heather Fleming. Takeaway: Use "team ingredients" to build teams that achieve maximum productivity and happiness.
+
 - [Reorgs Happen](http://whilefalse.blogspot.co.il/2015/12/reorgs-happen.html) - by Camille Fournier. Takeaway: "Reorgs are unlikely to solve all of your problems overnight. They are not a magic bullet exercise that fixes cultural issues or a lack of business strategy. If you aren't careful, your reorg will feel like rearranging deck chairs on the Titanic, a pointless waste of time for everyone involved. So don't be afraid to do them as necessary, but be realistic. This is a major disruption that impacts everyone, don't just do it for fun."
+
+- [Re-structuring a Growing Team](https://writing.jeanhsu.com/re-structuring-a-growing-team-3ac30d93b637) - by Jean Hsu. Takeaway: Identify why you're reorganizing, understand what it means, and execute. Includes a plan for conducting a team reorg so you can prepare for your own.
+
+- [Scaling Your Software Becomes Increasingly Easier, but What About Scaling Your Team?](https://medium.com/@orenellenbogen/scaling-your-software-becomes-increasingly-easier-but-what-about-scaling-your-team-f8ab8e0da20f) - by Oren Ellenbogen. Takeaway: The five traits of a scalable team are 1. and aligned vision, 2. aligned, core values, 3. core values over individuals, 4. self-balance, and 5. having a sense of accomplishment.
+
+- [Software Teams: Autonomous or Tightly-Aligned?](https://medium.com/@iancackett/software-teams-autonomous-or-tightly-aligned-9564b3ea74f4) - by Ian Cackett and Sasha Bilton. Takeaway: "In the longer-term, there can be a lost opportunity for synergy between autonomous squads; opportunities to introduce common structure or shared solutions. Having many solutions to the same problem spells wasted effort, less focus on the quality of each implementation and an increased likelihood of bugs creeping in."
 
 - [What Google Learned About Creating Effective Teams](https://www.infoq.com/presentations/google-effective-teams-2017) - by Matt Sakaguchi. Takeaway: Sakaguchi talks about some of the practical research Google has done around building effective teams. He addresses not only the research, but the insights of a manager who worked with his own team and others, to instill the findings and principles in the real world, along with key insights from Google's pilot program.
 
