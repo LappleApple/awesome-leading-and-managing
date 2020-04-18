@@ -2,6 +2,8 @@
 
 - [Chief Technology Officer Job Description: What Does a CTO Do?](https://buttercms.com/blog/chief-technology-officer-job-description-what-does-a-cto-do) - by Roger Jin. Takeaway: how to put the "chief" in CTO. "A great CTO should be ready to delegate, while also being comfortable enough to work on the frontline, coding alongside their fellow developers. Furthermore, they will be required to be even more flexible if they’re working in a startup."
 
+- [CTO Think](https://www.ctothink.com) (podcast) - by Don Vandemark and Randy Burgess. Takeaway: two ex-CTOs talk about tech decision-making, product development and leadership.
+
 - [The Five Flavors of Being a CTO](https://www.linkedin.com/pulse/five-flavors-being-cto-matt-tucker) - by Koan CEO Matt Tucker. Takeaway: The five types include "(External) Evangelist," a visionary/spokesperson for the technology; "(External) Super Sales Engineer," a charismatic, customer-focused spokesperson; "(Internal) Super Engineer," a coding virtuoso; "(Internal) People Leader," who manages and recruits like a VP Engineering (this is antipattern); and "(Internal) Innovator/Disruptor," who's "next big thing”-oriented.
 
 - [How My Role as CTO Has Changed as We've Grown to 100 Engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/) - by Edward Kim. Takeaway: Kim describes the evolution of his role at different stages of the company's growth, in a relatable and honest way.
