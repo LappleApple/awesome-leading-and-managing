@@ -64,7 +64,7 @@
 
 - [The Null Process](https://kateheddleston.com/blog/the-null-process) - by Kate Heddleston. Takeaway: The lack of a clear promotion process creates an informal process for promotions that favors men.
 
-- [Our 2020 Diversity and Inclusion Report](https://monzo.com/blog/our-2020-diversity-and-inclusion-report) - by Monzo. Takeaway: Details on how Monzo has made gains on its D&I efforts; creating partnerships with external groups, requiring privilege awareness training, making a D&I dashboard, providing regular allyship learnings, and many other steps.
+- [Our 2020 Diversity and Inclusion Report](https://monzo.com/blog/our-2020-diversity-and-inclusion-report) - by Monzo. Takeaway: Details on how Monzo has made gains on its D&I efforts, which include creating partnerships with external groups, requiring privilege awareness training, making and sharing internally a D&I dashboard, providing regular allyship learnings, and taking many other steps.
 
 - [Recommended Reading for Allies](https://codeascraft.com/2016/08/10/recommended-reading-for-allies/) - by Toria Gibbs and Ian Malpass. Takeaway: A list of helpful resources on feminism, privilege, allyship, research, and more.
 
