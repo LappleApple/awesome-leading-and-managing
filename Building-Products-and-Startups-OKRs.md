@@ -77,11 +77,13 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Scrum Product Owner Theses](https://age-of-product.com/scrum-product-owner-theses/) - by Stefan Wolpers. Not necessarily tied to the Scrum agile framework, this list of 56 "theses" addresses the PO's role; examines product discovery and stakeholder management; roadmap planning, and more.
 
+- [The Shortest Path Is the Scariest](https://medium.com/gusto-engineering/the-shortest-path-is-the-scariest-77ff94248334) - by Omri Ben Shitrit. Takeaway: "To be good at execution ... Continuously identify the next most important problem we should be solving for our customers. We’ve written about this in the past. Understand (roughly) the cost and benefit of solving the problem, and our confidence level in both side of the equation. Find the optimal set of tradeoffs between product scope and engineering costs in solving the problem."
+
 - [To Grow Faster, Hit Pause — and Ask These Questions from Stripe’s COO](http://firstround.com/review/to-grow-faster-hit-pause-and-ask-these-questions-from-stripes-coo/) - by First Round. Takeaway: "There’s a list of questions companies should ask themselves as they head into rapid growth — ideally in that relatively brief moment right after clinching product-market fit." The post provides these questions, to help you become less reactive and more proactive in managing your growth.
 
-- [The Ultimate Question](https://docs.google.com/document/d/1nsmy2GqHL-9IjEc0Q88tsSYafHJQXtgK0P8pJWKOTAs/edit) - notes by Joe Goldberg about the book by Fred Reichheld, which focuses on measurements like the net promoter score (NPS).
-
 - [Transforming from Projects to Products](https://www.infoq.com/articles/transform-projects-products) - by John Yorke. Takeaway: "Agile Transformation means thinking of Products rather than Projects. Agile is a Mindset not a set of rules to be followed. It requires a cultural change not a process change. Agile changes the way we measure project success and how we measure people's behaviour. Change is Hard. Project Management and People Management are those that need to change the most."
+
+- [The Ultimate Question](https://docs.google.com/document/d/1nsmy2GqHL-9IjEc0Q88tsSYafHJQXtgK0P8pJWKOTAs/edit) - notes by Joe Goldberg about the book by Fred Reichheld, which focuses on measurements like the net promoter score (NPS).
 
 - [Veteran CTO (with Multiple Successful Exits) Answers Your Top Startup-Building Questions](http://firstround.com/review/veteran-cto-with-20-years-experience-answers-your-top-startup-building-questions/) - by FirstRound. Takeaway: an interview with/profile of Adil Ajmal, CTO of LendingHome, who has scaled up teams at seven tech organizations. He covers topics ranging from interviewing to hiring a VP Product.
 
