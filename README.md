@@ -43,10 +43,6 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 - [The VP Engineering Role](VP-Engineering-Role.md)
 
-* "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
-* "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan<br>
-* "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317)*
-
 ## Contribute Your Favorites
 Please share/promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
 
@@ -58,17 +54,18 @@ Please share/promote your favorite managing and leading resources/go-to's (books
 - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
 
 ### Who is this for?
-- Individual contributors (ICs) looking to move into a management role but not sure if it’s right for them
+- Individual contributors (ICs) considering a move to management
 - ICs who want to stay ICs but want to have more influence in their orgs
 - ICs who recently moved into a management role
-- Managers looking to level-up a particular skill
+- Managers looking to level-up a particular skill or attribute
 - Managers transitioning to meta-management (managing managers)
 
-### Why should you read this or trust the authors for advice?
-You shouldn’t. Much of this is self-contradictory. Some seemed like good advice at the time. Little of it is original, even less is written by me. Don’t read this cover-to-cover. Scan the Table of Contents and pick a topic you’d like to learn more about. Joe has highlighted the absolutely most essential content (a few dozen articles, six books, and a handful of videos, checklists, and slide decks).
+* "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton *
+* "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan*
+* "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317)* 
 
 ### How can I submit a link or ask a question?
-First off, we'd love that! For submissions, follow our [contributing guidelines](CONTRIBUTING.md). For questions, go ahead and post an issue in our Issues Tracker. 
+So glad you asked! For submissions, follow our [contributing guidelines](CONTRIBUTING.md). For questions, go ahead and post an issue in our Issues Tracker. 
 
 ### How can I get more info on [missing topic]?
 Please let us know via the Issues Tracker if there’s a topic you'd like this list to include.
