@@ -20,6 +20,8 @@
 
 - [When Teams Don’t Finish Work in a Sprint: 3 Tips to Seeing and Finishing Work](https://www.jrothman.com/mpd/2018/01/teams-dont-finish-work-sprint-3-tips-seeing-finishing-work/) - by Johanna Rothman. Takeaway: A clean, simple analysis of cumulative flow, velocity and limiting work in progress. 
 
+- [Why Team-Building Exercises Won’t Make Your Staff More Productive](https://medium.com/swlh/why-team-building-exercises-wont-make-your-staff-more-productive-f5a1d5223a8f) - by Aytekin Tank. Takeaway: Nurture teams, honor their independence, give them time and space, and be warm.
+
 ### Time Management
 
 - [Arrange Your Time and Tasks According to These Seven Categories, and You’ll Be a Creativity Machine](https://medium.com/the-mission/arrange-your-time-and-tasks-according-to-these-seven-categories-and-youll-be-a-creativity-machine-b142d2fff65) - by David Kadavy. Takeaway: Prioritize, generate, explore, research, recharge, polish and administrate.
