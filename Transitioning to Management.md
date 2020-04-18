@@ -2,6 +2,8 @@
 
 ### Transitioning from Individual Contributor to Manager 
 
+- [Advice for a New Executive](https://larahogan.me/blog/advice-for-new-executive/) - by Lara Hogan. Takeaway: nine tips for getting off to a successful start, such as "find/create a peer support group" and "partner absurdly closely with product and make sure you understand priorities and the head of product understands tradeoffs." Comes with explanations for each tip.
+
 - [The 'Aha' Behind Leading Aha Moments](https://www.forbes.com/sites/georgebradt/2014/10/15/the-aha-behind-leading-aha-moments/#513e93a94505) - by George Bradt. Takeaway: Aha moments are pleasurable, because the experience makes us feel smarter. Making others feel smart, not making others see how smart you are, is the goal.
 
 - [Assessing Technical Risks for Startups](http://katemats.com/assessing-technical-risks-for-startups-new-tech-leader-series/) - by kate{mats}. Takeaway: "As a new technology executive it is imperative that you take the time to understand the technology strategy and risk and communicate that to senior management." Comes with a great checklist for doing just that.
