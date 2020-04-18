@@ -12,6 +12,8 @@
 
 - [My Manager Toolkit](https://medium.com/@clinejj/my-manager-toolkit-79f8a2ee9bfb) - by John Cline. Takeaway: Includes an engineering work tracker (spreadsheet template), engagement surveys, 1:1 tools, vacation tracker, and reference to donut.ai's onboarding product.
 
+- [New Manager](https://officevibe.com/complete-guide-new-manager) - by OfficeVibe. Takeaway: A nicely designed guide through the essentials of being a manager.
+
 - [Readme](https://github.com/KatieLo/README) - by KatieLo. Takeaway: An example of a manager Readme.
 
 - [So You Want to Start a Tech Leaders Study Group](https://github.com/charity/tech-leads-skill-share) - by Charity Majors. Takeaway: A how-to and checklist for forming a study group to level up in your leadership abilities with a similarly situated group.
