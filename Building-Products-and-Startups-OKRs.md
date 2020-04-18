@@ -10,7 +10,7 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Art of Project Management](https://docs.google.com/document/d/1Cr2DRP06GcBNQoOc3K5huQ61Mk_yyX5ZFsS8IlF1M6Y/edit) - notes by Joe Golberg about Scott Berkun's book.
 
-- [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything ](https://docs.google.com/document/d/1EC4eF-uVeD-Arwoxl5SUKSQNmLK1CRF775zpRqVP4q0/edit#heading=h.efeded667ce6) - by Joe Goldberg. Notes about the book by Guy Kawasaki.
+- [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything](https://docs.google.com/document/d/1EC4eF-uVeD-Arwoxl5SUKSQNmLK1CRF775zpRqVP4q0/edit#heading=h.efeded667ce6) - by Joe Goldberg. Notes about the book by Guy Kawasaki.
 
 - [Blue Ocean Strategy](https://docs.google.com/document/d/1eR2K1fLY-_XQUfpJbEkB6xzSatyhQauI3-213jDjTL4/edit) - notes by Joe Goldberg about the book by W. Chan Kim and Renée Mauborgne.
 
@@ -19,8 +19,6 @@ As a leader of a product development team you might have a PM that you’re work
 - [Designing Workshops that Work: Getting Better at Brainstorming](https://blog.intercom.com/running-design-workshops/) - by Cindy Chang. Takeaway: Start with an overview, work backwards and think in chunks to start a plan as well as about outcomes, detail, delegate.
 
 - [Do the Simple Thing First: The Engineering Behind Instagram](https://www.fastcompany.com/3047642/do-the-simple-thing-first-the-engineering-behind-instagram) - by Harry McCracken. Takeaway: Instagram founders made technical decisions using a principle which favored practicality over perfection. "If it solves a problem and gets us closer to launch, let’s do it."
-
-- [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - by Charity Majors. Takeaway: "Fuck the whole idea that only managers get career progression. And fuckkkk the idea you have to choose a “lane” and grow old there.  I completely reject this kind of slotting."
 
 - [Everyone Forgets Technical Research](https://producthabits.com/everyone-forgets-technical-research/) - by Product Habits. Takeaway: Offers a step-by-step template for creating a 1-3 page technical research outline that will enable product leads to communicate plans more effectively with developers, who can then better do the research on their side required to build a product successfully. "The outline should be a short summary of what you’re looking to create, including required features and functionality. You should also provide guidance on what matters most to you (and customers). What’s the core problem you’re looking to solve, and how do you plan to solve it? What are the most important parts of what you’re building?"
 
@@ -32,9 +30,9 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [How Compare and Contrast Decisions Lead to Better Product Outcomes](https://www.producttalk.org/2017/09/compare-and-contrast-decisions/) (slides) - by Teresa Torres. Takeaway: A detailed look at how to bring focus to product decisions, including suggested tools like the "opportunity solution tree." 
 
-- [How to Sell the Problem Before Selling the Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484) - by David Bailey. Takeaway: Tactical ways to express customer needs and "lead with the need."
+- [How to Kickstart and Scale a Marketplace Business – Phase 1: 🐣 Crack the Chicken-and-Egg Problem (Part 1/4)](https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace) - by Lenny Rachitsky. Takeaway: insights from Airbnb, DoorDash, Thumbtack, Etsy, Uber and other companies on how to scale a marketplace. Crack the chicken-and-egg problem, scale your marketplace, then evolve it.
 
-- [How to Take Your Engineering Team from Good to Great](http://codingsans.com/engineering-team-from-good-to-great) - by Tamas Torok. Takeaway: In this guide, we compressed all the knowledge we collected in recent years through interviewing tech leaders, reading countless case studies and using our own experience in the software development field. Learn more about the most effective hiring methods and figure out how to make your team more attractive to new developers. See onboarding practices and retention tips to decrease your team's fluctuation. See exactly what makes a team great and copy the practices they use. See how to set goals, motivate developers, organize communication and work. Easily identify the problems in your team by taking a data-driven approach. Set individual and team expectations, increase your developer team's productivity and make sure to provide regular feedback. 
+- [How to Sell the Problem Before Selling the Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484) - by David Bailey. Takeaway: Tactical ways to express customer needs and "lead with the need." 
 
 - [In Praise of SWARMing](https://dannorth.net/2018/01/26/in-praise-of-swarming/) - by Dan North. Takeaway: "I am offering a new acronym, SWARMing: Scaling Without A Religious Methodology. My argument isn’t that packaged scaling methods are unhelpful per se, rather that they are neither necessary nor sufficient for successful transformation. They can be anything from a useful starting point to an expensive distraction, but one thing they are not is a solution."
 
@@ -76,8 +74,6 @@ As a leader of a product development team you might have a PM that you’re work
 - [Scaling Airbnb with Brian Chesky — Class 18 Notes of Stanford University’s CS183C](https://medium.com/cs183c-blitzscaling-class-collection/scaling-airbnb-with-brian-chesky-class-18-notes-of-stanford-university-s-cs183c-3fcf75778358) - by Chris McCann. Takeaway: about Airbnb’s “10 star service” thought experiment, in which they transcended the usual five-star review by adding five more measurements for success.
 
 - [The Scrum Product Owner Theses](https://age-of-product.com/scrum-product-owner-theses/) - by Stefan Wolpers. Not necessarily tied to the Scrum agile framework, this list of 56 "theses" addresses the PO's role; examines product discovery and stakeholder management; roadmap planning, and more.
-
-- [Software Teams: Autonomous or Tightly-Aligned?](https://medium.com/@iancackett/software-teams-autonomous-or-tightly-aligned-9564b3ea74f4) - by Ian Cackett and Sasha Bilton. Takeaway: "In the longer-term, there can be a lost opportunity for synergy between autonomous squads; opportunities to introduce common structure or shared solutions. Having many solutions to the same problem spells wasted effort, less focus on the quality of each implementation and an increased likelihood of bugs creeping in."
 
 - [To Grow Faster, Hit Pause — and Ask These Questions from Stripe’s COO](http://firstround.com/review/to-grow-faster-hit-pause-and-ask-these-questions-from-stripes-coo/) - by First Round. Takeaway: "There’s a list of questions companies should ask themselves as they head into rapid growth — ideally in that relatively brief moment right after clinching product-market fit." The post provides these questions, to help you become less reactive and more proactive in managing your growth.
 
