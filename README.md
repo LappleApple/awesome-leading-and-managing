@@ -8,6 +8,9 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - "An awesome collection of resources!" —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178), Twitter
 - "Thanks again for putting together this tremendous resource!"—[Dave Golden](https://twitter.com/xdg), MongoDB and contributor
 - "I have hunted and used this repeatedly in the last few months and referred many others to the material. So thank you—it's making a real difference in more ways than you could Imagine! :)" —Dave Igoe, via Slack
+- "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton *
+- "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan*
+- "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317)* 
 
 ## Contents
 - [Abilities, Qualities and Values](Abilities-Qualities-Values.md)
@@ -56,10 +59,6 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - ICs who recently moved into a management role
 - Managers looking to level-up a particular skill or attribute
 - Managers transitioning to meta-management (managing managers)
-
-* "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton *
-* "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan*
-* "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317)* 
 
 ### How can I submit a link or ask a question?
 So glad you asked! Share and promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by reviewing the [contributor guidelines](CONTRIBUTING.md), then making a pull request (one per item/entry). For questions, go ahead and post an issue in the Issues Tracker. 
