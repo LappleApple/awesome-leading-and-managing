@@ -66,6 +66,8 @@
  
 - [On Failure and Resilience](https://beero.ps/2017/06/17/on-failure-and-resilience/) - by Katherine Daniels. Takeaway: "It can be a challenge if you’re starting with or coming from a 'blame and train' or 'blame and shame' culture to a 'blameless' or 'blame-aware' one, but the focus on desired outcome and how people can work together to help resolve a situation in the moment, as well as make the systems involved better equipped to handle situations in the future, can do wonders for system and organizational resilience."
 
+- [On Leadership and Culture](https://hackernoon.com/on-leadership-and-culture-ca4d6f2a9bb0?source=linkShare-d0a0152ff0c0-1520995699) - by Jason Warner. Takeaway: "Leaders are accountable for the culture of their group. Said another way, the cultural brokenness of a group can in almost all cases be traced directly to poor leadership, either past or current."
+
 - [The Power of an Agile Mindset](https://www.infoq.com/presentations/agile-mindset) (video) - by Linda Rising. Takeaway: The agile mindset will enable you to see problems as failures as opportunities for learning.
 
 - [Programming Is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/) - by Allison Parrish. Takeaway: "Every practice, whether technical or artistic, has a history and a culture, and you can’t understand the tools without understanding the culture and vice versa. Computer programming is no different."
