@@ -20,6 +20,8 @@
 
 - [A Framework for Making Smarter Decisions and Fewer Errors](https://fs.blog/smart-decisions/) - by Farnham. Takeaway: Suggests using inversion, second-order thinking, and other concepts, and includes a list of articles for improved decision-making.
 
+- [How I Think About Solving Problems](https://humanwhocodes.com/blog/2020/02/how-i-think-about-solving-problems/) - by Nicholas C. Zakas. Takeaway: "Each question is designed to reveal something about the problem that allows you to go to the next step, or if you’re lucky, just avoid the problem altogether." Zakas provides his five questions as well as subtle explanations and context for each.
+
 - [How to De-Risk a Startup](https://codingvc.com/how-to-de-risk-a-startup/)— by Leo Polovets. Takeaway: lists common risks and heuristics for risk mitigation and decision-making. States that showing is better than telling; external validation is better than personal opinion, and more data is better. Identifies types of risk, from product quality and recruiting to product/market fit.
 
 - [How to Make One of the Most Difficult Decisions as a Manager](https://medium.com/@lnetanel/how-to-make-one-of-the-most-difficult-decisions-as-a-manager-6b1a1f0d1d6a) — by Netanel Lev. Takeaway: Understand that leaving your job as a manager is a process with emotions involved. Find a mentor to guide you through the situation, have an exit plan, don’t blame other people or be blindly loyal, and trust your instincts.
