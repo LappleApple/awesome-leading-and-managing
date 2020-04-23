@@ -23,7 +23,7 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [How to Influence Culture When You’re Not the CEO](https://m.signalvnoise.com/how-to-influence-culture-when-youre-not-the-ceo-81a4162257b) - by Claire Lew. Takeaway: Model what you’d like to be true of your team; speak up with improvement ideas through the prism of team instead of individual/personal; give space, grace, and gratitude to leaders.
 
--[How To Lead When You Have No Authority](https://medium.com/swlh/how-to-lead-when-you-have-no-authority-9f22206356d4) - by Matt Russell. Takeaway: “Leadership is a choice you make rather than a place you sit. In other words, leadership comes from influence and not from your position. For this reason, even when you’re not in front, you’re still leading those around you.”
+- [How To Lead When You Have No Authority](https://medium.com/swlh/how-to-lead-when-you-have-no-authority-9f22206356d4) - by Matt Russell. Takeaway: “Leadership is a choice you make rather than a place you sit. In other words, leadership comes from influence and not from your position. For this reason, even when you’re not in front, you’re still leading those around you.”
 
 - [How to Make Your Engineering Team More Effective](http://www.effectiveengineer.com/blog/how-to-make-your-team-more-effective) - by Edmond Lau. Takeaway: Gather input as to what’s hard or frustrating; explicitly design how to align someone’s growth goals with what creates value; give and request frequent and honest feedback; leverage your strengths to level up the team; reduce sources of complexity, and create more opportunities for collaboration.
 
@@ -33,6 +33,8 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [It’s Not Them, It’s You](https://medium.com/@deoates/what-to-do-if-people-arent-doing-what-you-want-a68cc70b28bf) - by David Oates. Takeaway: "You’re in your first role as a leader and you’re not getting the results you expect — what do you do?
 Start by assuming it’s not them, it’s you."
+
+- [Just Because You Said It, Doesn't Make It So](https://www.linkedin.com/pulse/20140428141014-22330283-just-because-you-said-it-doesn-t-make-it-so/) - by Jeff Weiner. Takeaway: "We all need to be wary of avoiding the Ron Burgundy syndrome: On the surface, looking and sounding the part, but without providing the right discipline, focus, and ongoing context, appearing as nothing more than a talking head." Includes lessons for communicating more effectively.
 
 - [Leadership Is Not About Your Good Intentions](https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b?__s=ns1epkqjs8qj1ggjuafv) - by Johnathan Nightingale. Takeaway: "If you want to be a leader, own it. Like you would anywhere else in your life. Work harder to understand the context. Develop better strategies for anticipating future failure and avoiding it. The stuff you expect junior folks to do."
 
