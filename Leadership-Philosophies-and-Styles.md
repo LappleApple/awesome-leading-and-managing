@@ -52,8 +52,6 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [How Do I Manage People?](https://medium.com/@lennymarkus/how-do-i-manage-people-93018dc19fb4) - by Lenny Markus. Takeaway: Based around questions posed in a Twitter thread kicked off by Charity Majors, this article offers a well-rounded view of all aspects of a manager's duties, along with personal insights from the author.
 
-- [How Much to Manage (“Management Energy Units”)](https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140) - by Steven Sinofsky. Takeaway: Discusses the various level-directions of management (down to reports, up to your boss, sideways to your peers), as well as how much time an individual level should generally be spending on them vs "work". Make sure you are spending the right amount of time managing in the right areas.
-
 - [How to Lead]( https://medium.com/@wgalyean/how-to-lead-f4383da7047c) - by Wilson Galyean. Takeaway: Leadership lessons from a former US Army officer and West Point cadet. "There is a difference between management and leadership. Management is decision making and the handling of resources. Leadership goes beyond management to craft and maintain the interpersonal glue that makes your organization a team."
 
 - [How to Lead by Noticing and Filling in Gaps](https://blog.coleadership.com/how-to-lead-by-noticing-and-filling-in-gaps/) - by Jean Hsu. Takeaway: gaps exist everywhere, and leaders know which ones to fill.
@@ -174,6 +172,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 - [An Inside Look at a Flat Organization That Serves Millions](http://firstround.com/review/An-Inside-Look-at-a-Flat-Organization-That-Serves-Millions/) - by First Round Capital. Takeaway: When you boil it down, management is really about two things—trust and clarity. "Keeping a company flat is all about finding creative ways to achieve trust and clarity without the bureaucracy."
 
 - ["Build a Team That Doesn’t Need You" and Other Counterintuitive Strategies to Succeed as a Manager](https://blog.gitprime.com/counterintuitive-strategies-succeed-manager/) - by Ben Thompson. Takeaway: a profile of Heptio VP Engineering Kevin Stewart, who identifies and discusses the following leadership qualities: authentically caring about people on your team, preparing yourself as a leader and understanding your organization, rallying your team through empowerment and transparency/openness, providing context around decisions and disagreeing-and-committing if necessary, and getting out of people's way.
+
+- [How to Take Control of Your Own Leadership](https://blog.coleadership.com/how-to-take-control-of-your-own-leadership/) - by Jean Hsu. Takeaway: Observe the kind of leader you want to be, come up with a plan of action, and analyze what worked.
 
 - [Introverts Think They Won’t Like Being Leaders but They Are Capable](https://theconversation.com/introverts-think-they-wont-like-being-leaders-but-they-are-capable-84371) - by Peter O'Connor and Andrew Spark. Takeaway: Introverted characteristics are prevalent in servant leaders. The challenge is to help introverts to be more confident about their leadership potential.
 
