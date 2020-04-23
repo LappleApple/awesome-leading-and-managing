@@ -54,6 +54,8 @@
   Ethan Austin. The habit of saying no is important for teamwork and keeping a
   startup focused on the common goal.
 
+- [How Much to Manage (“Management Energy Units”)](https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140) - by Steven Sinofsky. Takeaway: Discusses the various level-directions of management (down to reports, up to your boss, sideways to your peers), as well as how much time an individual level should generally be spending on them vs "work". Make sure you are spending the right amount of time managing in the right areas.
+
 - [It's Time to Stop Wearing Burnout as a Badge of Courage](https://advice.shinetext.com/articles/its-time-to-stop-wearing-burnout-as-a-badge-of-courage/) - by Stephanie Jade Wong. Takeaway: Predict your burnout using the Overwhelm Cycle, a diagram of a clock that highlights what happens at 11:30 PM for you to hit burnout mode. Then work your way backward. Get a support network, plan breaks and list priorities. 
 
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - by Y Combinator's Paul Graham. Takeaway: The manager's schedule is typically in one-hour blocks, while the maker's schedule requires longer stretches of uninterrupted time. "Each type of schedule works fine by itself. Problems arise when they meet. Since most powerful people operate on the manager's schedule, they're in a position to make everyone resonate at their frequency if they want to. But the smarter ones restrain themselves, if they know that some of the people working for them need long chunks of time to work in."
