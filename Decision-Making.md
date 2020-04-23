@@ -40,6 +40,8 @@
 
 - [Some Heuristics to Make Decisions](https://twitter.com/farnamstreet/status/1026105498372845571) - by Shane Parrish. Takeaway: a Twitter thread of heuristics for framing and assessing situations so that you can make better decisions. Parrish invites you to add your own ideas to the thread.
 
+- [Square Defangs Difficult Decisions with this System — Here’s How](https://www.youtube.com/watch?v=Hl_ERo3lKRY&t=) - by FirstRound. Takeaway: "Gokul Rajaram shares a framework that he's used at Square and Caviar to make the most difficult decisions, all while assigning ownership, being inclusive and coordinating execution among all stakeholders."
+
 - [Strategic Decisions: When Can You Trust Your Gut?](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/strategic-decisions-when-can-you-trust-your-gut) - by McKinsey. Takeaway: An interview with psychologist Daniel Kahneman and scientist Gary Klein. “Society’s epitome of credibility is John Wayne, who sizes up a situation and says, ‘Here’s what I’m going to do’—and you follow him. We both worry about leaders in complex situations who don’t have enough experience, who are just going with their intuition and not monitoring it, not thinking about it.”—Klein.
 
 - [3 Ways to Ease the Pain of Slow and Frustrating Decision Making](http://corporate-rebels.com/rebellious-practices-distributed-authority/) - by the Corporate Rebels. Takeaway: Change your language to imply empowerment; distribute decision-making authority by practice, and push decision making authority down through proper training.
