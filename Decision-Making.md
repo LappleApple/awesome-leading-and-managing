@@ -32,6 +32,8 @@
 
 - [Know Thyself: The Power of a Decision Journal](http://www.samkyle.com/decision-journal/) - by Sam Kyle. Takeaway: The author of *The Decision Checklist: A Practical Guide to Avoiding Problems* makes the case for keeping a journal of decisions. "A decision journal will help you to slow down, reflect on and understand your decisions, and provide a path for you to get better. In the end, taking the time to think through problems will save you time. Not only will you make better initial decisions, but you’ll spend less time cleaning up the mess of poor ones." 
 
+- [The Naturalistic Decision Making Podcast](https://naturalisticdecisionmaking.org/podcasts/) - by Brian Moon and Laura Militello. Takeaway: a podcast featuring researchers who study people who make decisions under stress.
+
 - [The 90% Agreement Rule](https://hackernoon.com/the-90-agreement-rule-36757dcc8eaa) - by Lawrence Ripsher. Takeaway: Ripsher asserts that "we spend 90% of our time, talking about the 10% of things we disagree on." This takes up time and energy. Instead, "[c]reate clarity (and build on) wherever there is ‘about 90% agreement’ first— then come back around and address the disagreements after."
 
 - [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) — by Brandon Chu. Takeaway: “Estimate return on investment for each project; apply three constraints: dependencies, timeline and team composition, and sequence projects based on ROI and constraints.” Includes a template for triaging bugs as a tool for getting teams to think about priorities.
