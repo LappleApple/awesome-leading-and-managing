@@ -3,6 +3,8 @@
 ### Dev Leveling Guides—aka Engineering Ladders
 It’s hard to get these right. Just b/c they work for one org doesn’t mean they’ll work for yours.
 
+- [Building a Growth Framework](https://blog.songkick.com/building-a-growth-framework-2464435e9e46) - by Aaron Randall. Takeaway: About Songkick's career growth framework's nine roles and seven key values, and how the company created it.
+
 - [Career Structure. It Doesn't Matter. Until It Matters.](https://web.archive.org/web/20180817070012/https://tech.hbc.com/2018-01-24-career-structure.html) - by Ade Trenaman. Takeaway: A comprehensive overview of career structure at Gilt, touching upon other companies' models. Gilt's model is based on Radford and considers these elements: Level of knowledge, job complexity, supervision, experience, sphere of influence and team size (for leads to manage), and accountability.
 
 - [Engineering Ladders at Meetup](https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e) - by Lara Hogan. Takeaway: Details on Meetup's makers and managers tracks, plus a graphic showing the ladders for both.
