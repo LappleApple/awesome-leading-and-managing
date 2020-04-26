@@ -1,5 +1,7 @@
 ## Leading Leaders
 
+- [Assembling an Executive Leadership Team is Daunting — Let Thumbtack’s CEO Help](https://firstround.com/review/assembling-an-executive-leadership-team-is-daunting-let-thumbtacks-ceo-help/) - by FirstRound Capital. Takeaway: Constrain the job description, split your interview process to separate skill assessment from fit, backchannel to assess skill, and present results of references and swap 360s.
+
 - [Becoming a Manager of Managers](https://medium.com/redbubble/becoming-a-manager-of-managers-1d63b883166d) - by Tom Sommer. Takeaway: Be a role model, lead through others, and ramp up responsibility over time.
 
 - [Dealing with Team Rejection](https://informatiq.github.io/2017/06/25/Dealing-with-team-rejection.html) - by Ramez Hanna. Takeaway: "Team needs to establish healthy relationships between its members based on trust and communications." Provides useful context points and insight for when you have to tell your report that they need to improve.
