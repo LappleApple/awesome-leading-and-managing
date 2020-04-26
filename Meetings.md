@@ -1,4 +1,5 @@
 ## Meetings
+- [Engineering Team Meeting: Format & Topic Ideas](https://marcgg.com/blog/2020/04/06/engineering-team-meeting-ideas/) - by Marc G Gauthier. Takeaway: Offers a format, agenda concept, content ideas and several variations on some of the agenda features to make engineering meetings more value-added.
 
 - [A Field Guide to Dudes Who Ruin Meetings](https://medium.com/part-and-sum/a-field-guide-to-dudes-who-ruin-meetings-3877de28b661#.di6epdtpw) - by Jim Babb. Takeaway: tips on thow to deal with Cool Tool, Mister Details, Professor This-is-Bullshit and other meeting-ruiners.
 
