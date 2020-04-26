@@ -48,6 +48,8 @@
 
 - [Building Trust on Agile Teams](http://agilecoach.typepad.com/agile-coaching/2010/08/building-trust.html) - by Rachel Davies. Takeaway: Posits a trust equation—"T = C + R + I / S. The letters in this formula stands for, Trustworthiness = Credibility + Reliability + Intimacy all divided by Self-orientation, where: Credibility relates to expertise."
 
+- [Building Trust Through Effective Communication](https://medium.com/@dvirsegal/building-trust-through-effective-communication-c00bf9b65c78) - by Dvir Segal. Takeaway: Communicating positively, being patient and mentally present, gauging your audience's emotional state, being clear in saying "no," rejecting victim mentality and other skills will build trust.
+
 - [The 5 Bottom-Line Benefits of Building Trust in the Workplace](https://knowyourteam.com/blog/2019/02/01/the-bottom-line-benefits-of-building-trust-in-the-workplace) - by Claire Lew. Takeaway: "Building trust in our team is more than a 'feel-good' thing – here’s the data that show how trust affects our team’s performance and the company’s bottom line."  
 
 - [A Guide to Building Trust in Teams and Organizations](https://opensource.com/open-organization/16/10/building-organizational-trust) - by Ron McFarland. McFarland's wide-ranging piece outlines various meanings of the term "trust," organizational factors that can influence it, and organizational dynamics that it, in turn, affects. The piece also includes descriptions of ways trust can operate at several interlocking "levels": personal, relational, organizational, and market.
