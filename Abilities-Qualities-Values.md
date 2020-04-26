@@ -1,5 +1,8 @@
 ## Leadership Abilities, Qualities and Values
 
+### General 
+- [Draw The Owl and Other Company Values You Didn’t Know You Should Have](https://firstround.com/review/draw-the-owl-and-other-company-values-you-didnt-know-you-should-have/) - by FirstRound Capital. Takeaway: Twilio CEO and co-founder Jeff Lawson on how to define company values that resonate and stick.
+
 ### Conscientiousness
 
 - [The Angel’s in the Details](https://medium.com/@dunn/make-a-big-deal-about-the-little-things-49044db95b3f) - by Andy Dunn. Takeaway: “If you ever meet someone who is obsessed with the little things, and it bothers you, take an introspective look inside. The person with the problem might be you. Only by being obsessed with little things do amazing things emerge. The culture of little things emerges from the top down, not only by what is celebrated, but by what is role modeled.”
