@@ -2,6 +2,8 @@
 
 ### Motivation
 
+- [Are You Being Micro-Managed? Manage Your Relationship with Your Manager Instead.](https://www.freecodecamp.org/news/are-you-being-micro-managed-manage-your-relationship-with-your-manager-instead-9ad10b28bcda/) - by Osman (Ozzie) Ahmed Osman. Takeaway: Consider that your manager is unaware of their behavior, afraid of failure, or has some other valid-to-them reason for micromanaging. But they might also have control issues. Try to take control back by starting a conversation with feedback, using the SBI model. If it doesn't go well, consider leaving the manager or team for another.
+
 - [Building and Motivating Engineering Teams](https://medium.com/swlh/building-and-motivating-engineering-teams-24fd56910039) - by Camille Fournier. Takeaway:
 
   1. **Money:** When you don’t pay people well enough, you contribute to undermining their resilience in the face of problems at work. Think of it as the baseline of [Maslow’s hierarchy](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs).
@@ -71,6 +73,8 @@
 - [How to Grow Your Employees When You Can’t Promote Them](https://getlighthouse.com/blog/employee-development-grow-cant-promote/) - by unspecified Lighthouse blog writer. Takeaway: There are still opportunities for employees even if promotion is not currently an option. Lateral moves, and specific skills focus can help retain folks. Tapping into intrinsic motivations can help with engagement. 
 
 - [How We Pay People at Basecamp](https://m.signalvnoise.com/how-we-pay-people-at-basecamp-f1d04f4f194b) - by DHH. Takeaway: "There are no negotiated salaries or raises at Basecamp. Everyone in the same role at the same level is paid the same. Equal work, equal pay." Basecamp offers employees salaries in the top 5% of the market (Chicago) and meaningful benefits, and has instituted a new profit growth sharing scheme.
+
+- [Leadership Hack: The Pizza Model for Happy and Productive Teams](https://medium.com/hackernoon/leadership-hack-the-pizza-model-for-happy-and-productive-teams-5708ca3e3ca7) - by Adi Oz. Takeaway: Oz created the Pizza Model after becoming a manager and watching half of the engineers leave due to company culture. The model includes four needs: social, (work-life) balance, profession and salary. Every person rates these factors on a different scale. 
 
 - [People Leave Managers, Not Companies. Don’t Let That Manager Be You.](https://blog.intercom.com/people-leave-managers-not-companies/) - by Rich Archebold. Takeaway: Avoid manager overconfidence by asking for advice and peer review, owning instead of blaming, give feedback with empathy, savor success, and constantly revisit what it takes to be a good manager.  
 
