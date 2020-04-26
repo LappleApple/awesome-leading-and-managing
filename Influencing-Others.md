@@ -19,6 +19,8 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [How to Blast Through Silo Mentality to Create a Culture of Experimentation](https://www.widerfunnel.com/destroying-silo-mentality/) - by Lindsay Kwan. Takeaway: Align your stakeholders on a vision for experimentation; get buy-in from stakeholders and leaders; clarify your experimentation protocol; get strategic with cross-functional teams; communicate.
 
+- [How to Have Impact](https://vishalkapur.com/how-to-have-impact/) - by Vishal Kapur. Takeaway: "Some aspects of the impact generation process are in your control, and some aren’t. The world (i.e. the "environment") isn’t in your control. Neither are the outcomes you get from trying things – remember the intention/impact gap. However, generating ideas, making things, taking risks, and the people you choose to work with are."
+
 - [How to Improve Emotional Intelligence](https://medium.com/personal-growth/how-to-improve-emotional-intelligence-375dbe1c5d51) - by Darius Foroux. Takeaway: Identify, interpret, manage your emotions. "When you can identify your own emotions, you will also get better at identifying other people’s emotions." This can positively impact your leadership abilities. 
 
 - [How to Influence Culture When You’re Not the CEO](https://m.signalvnoise.com/how-to-influence-culture-when-youre-not-the-ceo-81a4162257b) - by Claire Lew. Takeaway: Model what you’d like to be true of your team; speak up with improvement ideas through the prism of team instead of individual/personal; give space, grace, and gratitude to leaders.
@@ -42,6 +44,8 @@ Start by assuming it’s not them, it’s you."
 
 - [Making Engineering Team Communication Clearer, Faster, Better](http://firstround.com/review/making-engineering-team-communication-clearer-faster-better/) - by First Round. Takeaway: Using a technical design review system with design documents can help teams communicate effectively and clearly. The article links to a [design doc template](https://docs.google.com/document/d/1uMHzRsEDZb_p9xfFGerCVhr-0mAi-d-OFY4jJi0dYk4/edit) by Google, and [a completed example](https://docs.google.com/document/d/1CMlG1v9AAln9SvI4Ysqo8NOd4L4ObDy3SY8pNh9iXhI/edit).
 
+- [Management and False Certainty](https://abe-winter.github.io/dress/for/the/job/you/want/2018/06/24/certainty.html) - by Abe Winter. Takeaway: "Even healthy people can APPEAR to have ... bad traits when you’re not holding up your end by fighting for your beliefs, i.e. your skills and organizational knowledge, i.e. your spider-sense."
+
 - [Master the Art of Influence — Persuasion as a Skill and Habit](http://firstround.com/review/master-the-art-of-influence-persuasion-as-a-skill-and-habit) - by FirstRound. Takeaway: "To persuade someone, you need to speak as much as you can to System I [of the brain]— the child, the interns — who want to believe you (because it just makes so much darn sense, what’s not to love?). Trouble is, most tech operators express themselves with complexity, nuance, facts and figures. That’s their default, and it doesn’t appeal to people’s unconscious processor."
 
 - [Meeting Resistance and Moving Forward](https://www.youtube.com/watch?v=DrCD1wmK9oM) - by Linda Rising. Takeaway: A keynote talk featuring tips for handling naysayers and skeptics.
@@ -59,3 +63,5 @@ Start by assuming it’s not them, it’s you."
 - [Uniquely HR](https://www.google.com/url?q=http://uniquelyhr.com/management-development-training/&sa=D&ust=1497272863257000&usg=AFQjCNFCpE9ZQyRzTMoqItlEdU2neBygnw) - by Gary Ford. Takeaway: Influence is the power to affect someone/something without directly forcing them. It’s about establishing credibility, finding common ground, and connecting emotionally. A systemic approach to influencing.
 
 - [Use Coaching Techniques to Help People Make Their Own Decisions](https://vimeo.com/128634479) (video) - by Meredith Noble. Takeaway: A talk about how to use the GROW coaching technique "to structure conversations and help people make their own decisions; ask questions that encourage people to consider new approaches; embrace the coaching mindset, and and let go of the urge to play expert."
+
+- [Wait But Why’s Tim Urban on Parsing and Transmitting Complex Ideas](https://firstround.com/review/wait-but-whys-tim-urban-on-parsing-and-transmitting-complex-ideas/) - by FirstRound Capital. Takeaway: "The first step is to identify what type of complexity you are attempting to unravel...Let’s call them: complexity as gathering, complexity as dusting and complexity as pattern-matching (or pattern-resisting)...[then P]inpoint where on a 1-10 scale the recipient of your explanation falls."
