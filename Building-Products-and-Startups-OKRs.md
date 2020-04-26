@@ -32,9 +32,13 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [How to Kickstart and Scale a Marketplace Business – Phase 1: 🐣 Crack the Chicken-and-Egg Problem (Part 1/4)](https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace) - by Lenny Rachitsky. Takeaway: insights from Airbnb, DoorDash, Thumbtack, Etsy, Uber and other companies on how to scale a marketplace. Crack the chicken-and-egg problem, scale your marketplace, then evolve it.
 
+- [How to Make Things High-Quality](https://medium.com/the-year-of-the-looking-glass/how-to-make-things-high-quality-f466f875227d) - by Julie Zhuo. Takeaway: "When you get into a TTBQT ('The Tradeoff Between Quality and Time') state, the real question to ask is: 'If we knew X would take this long to get to high-quality, would we have opted to do it in the first place?'”
+
 - [How New Startups Can Win at PR — Advice from a 20-Year Comms Career](http://firstround.com/review/how-new-startups-can-win-at-pr-advice-from-a-20-year-comms-career) - by FirstRound. Takeaway: Terra Carmichael, VP of Global Communications at Eventbrite, offers tips on attracting media coverage.
 
 - [How to Sell the Problem Before Selling the Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484) - by David Bailey. Takeaway: Tactical ways to express customer needs and "lead with the need." 
+
+- [Hypergrowth and The Law of Startup Physics](https://firstround.com/review/hypergrowth-and-the-law-of-startup-physics/) - by FirstRound Capital. Takeaway: "The law of startup physics: humans grow linearly, companies grow exponentially."
 
 - [In Praise of SWARMing](https://dannorth.net/2018/01/26/in-praise-of-swarming/) - by Dan North. Takeaway: "I am offering a new acronym, SWARMing: Scaling Without A Religious Methodology. My argument isn’t that packaged scaling methods are unhelpful per se, rather that they are neither necessary nor sufficient for successful transformation. They can be anything from a useful starting point to an expensive distraction, but one thing they are not is a solution."
 
