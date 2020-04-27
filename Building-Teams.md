@@ -1,5 +1,7 @@
 ## Building Teams
 
+- [Assembling an Executive Leadership Team is Daunting — Let Thumbtack’s CEO Help](https://firstround.com/review/assembling-an-executive-leadership-team-is-daunting-let-thumbtacks-ceo-help/) - by FirstRound Capital. Takeaway: Constrain the job description, split your interview process to separate skill assessment from fit, backchannel to assess skill, and present results of references and swap 360s.
+
 - [Building a Delivery Team](https://engineering.edx.org/building-a-delivery-team-8201d06f1021) - by Bill DeRusha. Takeaway: How the edX internationalization team spun up quickly—team charter, communication, building a relationship with the product manager, being clear and focused about the project scope, and communicating. Includes links to articles about creating team charters.
 
 - [Building and Scaling a Distributed and Inclusive Team](https://www.youtube.com/watch?list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&v=XAU5q-biY28) (video) - by Matthias Meyer. The founder/CEO of Travis CI talks about how the company has been trying to create a multicultural distributed team, with lots of quotes from team members. Travis pushed for a remote culture to increase diversity.
