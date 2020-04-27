@@ -46,7 +46,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Productivity and Time Management](Productivity-and-Time-Management.md)
 - [Tools to Define Your Leadership Style](Tools-to-Define-Your-Leadership-Style.md)
 - [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
-- [The VP Engineering Role](VP-Engineering-Role.md)
+- [The VP Engineering Role](The-VP-Engineering-Role.md)
 
 ## FAQ
 - [Who is this for?](#who-is-this-for)
