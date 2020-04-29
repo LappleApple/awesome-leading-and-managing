@@ -76,7 +76,7 @@
 
 - [What Determines How Collaborative You'll Be?](https://opensource.com/open-organization/17/7/collaboration-vs-competition-part-2?sc_cid=7016000000127L3AAI) - by Ron McFarland. Takeaway: Four scenarios that illustrate the factors influencing your level of openness.
 
-[What Is a High-performance Team?](https://medium.com/@rkasper/what-is-a-high-performance-team-79a7a617a071) - by Richard Kasperowski. Takeaway: a brief post listing different metrics to measure the performance of different kinds of teams.
+- [What Is a High-performance Team?](https://medium.com/@rkasper/what-is-a-high-performance-team-79a7a617a071) - by Richard Kasperowski. Takeaway: a brief post listing different metrics to measure the performance of different kinds of teams.
 
 ### Managing Technical Debt
 
