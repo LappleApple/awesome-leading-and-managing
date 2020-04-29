@@ -1,7 +1,6 @@
 ## When You're Not a "Manager": Leadership for Developers
 
 ### Software Craftspersonship and Teamwork
-
 - [Active Learner — How Developers Keep Learning](https://medium.com/dennis-nerush/active-learner-how-developers-keep-learning-1309b91f1ae6) - by Dennis Nerush. Takeaway: "the kind of developers we want to hire and be part of our company and our teams ... are not expert beginners and they are not necessary real experts. But they are aware of what they know and most importantly, what they don’t know. They are on the path to someday become real experts. To go in this path they cannot rely only on what their job teaches them and 'out of the box' just working solutions—they must actively learn."
 
 - [Are You out of Alignment?](https://medium.com/@skamille/are-you-out-of-alignment-a7b193ab7fc4) - by Camille Fournier. Takeaway: "Getting into alignment with the company is often a challenge for senior ICs because it requires a major change in focus. The hardest part is now identifying the right problem to solve, instead of solving the hardest problem. If you want to be able to find interesting work and also work on important things, you generally have to go find the interesting important things yourself. This requires that you to talk to a lot of people and listen to their problems, and then place a bet on a solution to one of these problems that will actually both be feasible but will also be seen as important."
@@ -61,6 +60,8 @@
 - [How Awesome Engineers Ask for Help](https://hackernoon.com/how-awesome-engineers-ask-for-help-93bcb2c7dbb7) - by Greg Sabo. Takeaway: Techniques for collaboration, such as clarifying what's expected of you, taking full responsibility for work so that you don't pass the buck, following up after getting answers, and showing appreciation.
 
 - [How to Build Ownership in Your Team – Case Study](https://luis-goncalves.com/build-ownership-team-case-study/) - by Michael Carr. Takeaway: Let the entire team to be involved in project inception, high-level backlog planning and prioritization; make teams cross-functional; be lean; and provide data so the team can understand the problem.
+
+- [High Output Management for (Non-managing) Tech Leads](https://www.g9labs.com/2020/01/04/high-output-management-for-non-managing-tech-leads/) - by Andrew Hao. Takeaway: Framed within a reference to Andy Grove's *High Output Management*, this covers how tech leads can be effective. "Collaborate closely with your management counterpart to develop and contextualize these indicators ... output indicators, quality indicators, in-process inspections."
 
 - [Hyperproductive Development](http://blog.jessitron.com/2017/06/the-most-productive-circumstances-for.html) - by Jessica Kerr. Takeaway: "the most productive development happens when one person knows the system intimately because they wrote it; this is in conflict with growing a system beyond what one person maintains." The post offers suggestions for what teams can do.
 
