@@ -24,6 +24,8 @@
 
 - [How to Improve Team Closeness with Personal Maps](https://management30.com/practice/personal-maps/) - by Jürgen Appelo at M3.0. Takeaway: Personal maps and group exercises to develop them can enable members of teams to get to know each other as *humans* with interests and hobbies. The article points to tips and case stories for you to get ideas.
 
+- [How to Run a Successful Team Retreat](https://knowyourteam.com/blog/2019/08/13/how-to-run-a-successful-team-retreat/?utm_source=kytnewsletter&utm_medium=email) - by Claire Lew. Takeaway: Define success, share context, create alignment, and build trust. Includes a template for you to use in designing your own retreat.
+
 - [Incentivize Teams, not People](https://rkoutnik.com/2018/03/17/incentivize-teams-not-people.html) - by Randall Koutnik. Takeaway: "Any programmer worth their salt is willing to help team members out when they’re in a pinch. Software development is a team sport, after all. Unfortunately, management can often completely miss the point and create perverse incentives that wreck a team’s cooperation and communication."
 
 - [The New Work Order: Team Ingredients and Role Blending ](https://www.slideshare.net/hhfleming/the-new-work-order-team-ingredients-and-role-blending) - by Heather Fleming. Takeaway: Use "team ingredients" to build teams that achieve maximum productivity and happiness.
