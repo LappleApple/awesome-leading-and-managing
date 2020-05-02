@@ -91,4 +91,6 @@
 
 - [Technical Debt: Adding Math to the Metaphor](http://reinertsenassociates.com/technical-debt-adding-math-metaphor/) - by Donald Reinertsen. Takeaway: Explores differences between the usual financial debt metaphor for technical debt and what deferred work really means in product development. The main difference Reinertsen investigates involves the (missing) certainty of how much principal you gain and how much interest you will pay back (if at all).
 
+- [Technical Debt Is Like a Tetris Game](https://www.fluentcpp.com/2020/01/17/technical-debt-is-like-a-tetris-game/) - by Jonathan Boccara. Takeaway: "If you’re asked to make a fix that will compromise the quality of your code, you can explain that it’s like placing a Tetris block at the wrong position. You can do it, and if you’re not too far into the game you won’t lose right now."
+
 - [When Your Tech Debt Comes Due](https://www.linkedin.com/pulse/when-your-tech-debt-comes-due-kevin-scott) - by Kevin Scott. Takeaway: a compelling story about how LinkedIn rebuilt their architecture in two months, and involved their entire engineering team.
