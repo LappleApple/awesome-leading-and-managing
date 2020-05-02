@@ -4,7 +4,9 @@
 
 - [Building a Delivery Team](https://engineering.edx.org/building-a-delivery-team-8201d06f1021) - by Bill DeRusha. Takeaway: How the edX internationalization team spun up quickly—team charter, communication, building a relationship with the product manager, being clear and focused about the project scope, and communicating. Includes links to articles about creating team charters.
 
-- [Building and Scaling a Distributed and Inclusive Team](https://www.youtube.com/watch?list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&v=XAU5q-biY28) (video) - by Matthias Meyer. The founder/CEO of Travis CI talks about how the company has been trying to create a multicultural distributed team, with lots of quotes from team members. Travis pushed for a remote culture to increase diversity.
+- [Building a First Team Mindset](http://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/) - by Jason Wong. Takeaway: "A First Team mindset is the idea that leaders prioritize supporting their fellow leaders over supporting their direct reports—that they are responsible to their peers more than they are to their individual teams."
+
+- [Building and Scaling a Distributed and Inclusive Team](https://www.youtube.com/watch?list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&v=XAU5q-biY28) (video) - by Mathias Meyer. The founder/CEO of Travis CI talks about how the company has been trying to create a multicultural distributed team, with lots of quotes from team members. Travis pushed for a remote culture to increase diversity.
 
 - [Building Great Teams: Culture and Core Protocols](http://www.ustream.tv/recorded/102891756) (video) - by Richard Kasperowski. Takeaway: Thoughts on psychological safety and creating authentic trust and connection between people to take the "luck" out of building and working on great teams, and making greatness more intentional.
 
