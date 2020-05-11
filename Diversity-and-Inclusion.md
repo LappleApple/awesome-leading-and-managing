@@ -1,4 +1,4 @@
-## Diversity and Gender
+## Diversity and Inclusion
 
 - [Ally Resources](https://github.com/larahogan/ally-resources) - by Lara Hogan. Takeaway: a collection of resources on topics ranging from sponsorship (vs. mentoring) of underrepresented groups, to the impact of diversity work.
 
@@ -14,11 +14,17 @@
 
 - [Bootstrapping Inclusion](http://www.attack-gecko.net/2017/10/22/bootstrapping-inclusion/) - by Jason Wong. Takeaway: "If you are a tech leader of a 5 to 30 person engineering organization sitting around a table with your all-male leadership team wondering how you can hire more under represented minorities, this is for you."
 
+- [A Counterintuitive Way to Increase Diversity in Tech](https://medium.com/@rachelnabors/a-counterintuitive-way-to-increase-diversity-in-tech-31aea2ce6a50) - by Rachel Nabors. Takeaway: "No matter how many people from underrepresented groups we train for entry-level positions, it means doodle squat if they don’t have upward mobility or can’t get hired due to bias." So get into management and promote them.
+
 - [Criticism and Ineffective Feedback](https://www.kateheddleston.com/blog/criticism-and-ineffective-feedback) - by Kate Heddleston. Takeaway: Research shows that more critisism and negative feedback is given to women. In order to boost people's performance, it is best to give positive feedback. If we want people to improve or change, it is best to tell them what exactly to do as opposed to what not to do.
 
 - [Diversity Debt: How Much Does Your Startup Have?](https://medium.com/@abarrica/startups-diversity-debt-and-what-to-do-about-it-cd385364506#.37de3laye) - by Andrea Barrica. Takeaway: "In the same way that engineers can accrue “technical debt” when they push out sloppy code, or business owners can accrue “bookkeeping debt” when they procrastinate their financials until tax time, companies can also accrue diversity debt over their life cycle. The more people your company hires until you have a diverse team (meaning an array of genders, LGBT, socio-economic backgrounds, ethnicities, ages, able-bodiedness, etc.) — the more diversity debt your organization has accrued."
 
+- [Diversity and Inclusion at Patreon](https://patreonhq.com/diversity-and-inclusion-at-patreon-9d835c774db5) - by Lucia Guillory. Takeaway: A snapshot of how Patreon was performing in D&I in 2018, including race and gender statistics on different teams. 
+
 - [Diversity and Inclusion: Stop Talking and Do Your Homework](https://opensource.com/article/17/9/diversity-and-inclusion-innovation) - by Emma Irwin. Takeaway: 12 ways to increase diversity and inclusion, based on Mozilla's research.
+
+- [Eight Ways to Make Your D&I Efforts Less Talk and More Walk](https://firstround.com/review/eight-ways-to-make-your-dandi-efforts-less-talk-and-more-walk/) - by FirstRound Capital. Takeaway: Focusing on Aubrey Blanche, the Global Head of Diversity & Belonging at Atlassian. “I think we’ve all seen this. A leadership team says ‘Oh shit, we’re not very diverse,’ so they rush to put a woman on the board. And I get it, it sounds really easy to start there,” she says. “But the fact is that when you start with the notion that diversity equals women what you actually mean is diversity equals straight, White, cisgender and economically privileged women, because that’s what ends up happening. And obviously not all of us are all or any of those things.”
 
 - [5 Strategies for Being an Ally to Women in Tech](https://austinstartups.com/5-strategies-for-being-an-ally-to-women-in-tech-d4b51e5e4fcf) - by Joy Ebertz. Takeaway: 1) Look who does your "housework" tasks; 2) be mindful of the peer feedback you give; 3) help make sure people are credited with their ideas; 4) create space for others in meetings; 5) make sure team-building is inclusive.
 
@@ -58,6 +64,8 @@
 
 - [The Null Process](https://kateheddleston.com/blog/the-null-process) - by Kate Heddleston. Takeaway: The lack of a clear promotion process creates an informal process for promotions that favors men.
 
+- [Our 2020 Diversity and Inclusion Report](https://monzo.com/blog/our-2020-diversity-and-inclusion-report) - by Monzo. Takeaway: Details on how Monzo has made gains on its D&I efforts, which include creating partnerships with external groups, requiring privilege awareness training, making and sharing internally a D&I dashboard, providing regular allyship learnings, and taking many other steps.
+
 - [Recommended Reading for Allies](https://codeascraft.com/2016/08/10/recommended-reading-for-allies/) - by Toria Gibbs and Ian Malpass. Takeaway: A list of helpful resources on feminism, privilege, allyship, research, and more.
 
 - [Right Here, Right Now: 27 Simple Actions to Support Women in Tech](https://shift.newco.co/amp/p/1672110989cd) - by Cassie Divine. Takeaway: Includes 27 things one can do to support women, from speaking out when something amiss occurs, to celebrating women colleagues.
@@ -69,6 +77,8 @@
 - [There's No 'Silver Bullet' to Increasing Diversity, But Here's How We're Making Progress](https://magoosh.com/blog/silver-bullet-diversity-progress/) - by Bhavin Parikh. An honest and personal account of how Magoosh is addressing the topic, and what they're doing to create a fair hiring/growth culture: providing guidance to candidates, creating a salary framework, stay interviews/check-ins, and more. Their efforts produced noticeable results.
 
 - [Tracking Compensation and Promotion Inequity](http://larahogan.me/blog/inclusion-math/) - by Lara Hogan. Takeaway: "Plenty of tech companies are attempting to make their pipeline of candidates more diverse. But an organization won’t find much success recruiting a more diverse group of employees unless its leaders are aware of their existing internal inclusion and equity issues. Unless leadership has already started to tackle these issues, it’s likely that these new hires will enter into an environment that they won’t want to stick around in for long."
+
+- [The Type of Team Diversity You’re Probably Not Paying Attention To](https://firstround.com/review/the-type-of-team-diversity-youre-probably-not-paying-attention-to/) - by FirstRound Capital. Takeaway: a focus feature on  Itamar Goldminz, whose Heart/Will/Head model defines three “types” of people and how they see the world around them.
 
 - [Ways Men in Tech Are Unintentionally Sexist](https://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/) - by Kat Hagan. Takeaway: Little, unintentially malicious things people say reinforce stereotypes.
 

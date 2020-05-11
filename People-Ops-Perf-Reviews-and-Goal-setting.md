@@ -3,16 +3,17 @@
 ### Dev Leveling Guides—aka Engineering Ladders
 It’s hard to get these right. Just b/c they work for one org doesn’t mean they’ll work for yours.
 
-- [Career Structure. It Doesn't Matter. Until It Matters.](http://tech.gilt.com/leadership/2018/01/24/career-structure) - by Ade Trenaman. Takeaway: A comprehensive overview of career structure at Gilt, touching upon other companies' models. Gilt's model is based on Radford and considers these elements: Level of knowledge, job complexity, supervision, experience, sphere of influence and team size (for leads to manage), and accountability.
+- [Building a Growth Framework](https://blog.songkick.com/building-a-growth-framework-2464435e9e46) - by Aaron Randall. Takeaway: About Songkick's career growth framework's nine roles and seven key values, and how the company created it.
+
+- [Career Structure. It Doesn't Matter. Until It Matters.](https://web.archive.org/web/20180817070012/https://tech.hbc.com/2018-01-24-career-structure.html) - by Ade Trenaman. Takeaway: A comprehensive overview of career structure at Gilt, touching upon other companies' models. Gilt's model is based on Radford and considers these elements: Level of knowledge, job complexity, supervision, experience, sphere of influence and team size (for leads to manage), and accountability.
+
+- [Engineering Ladders at Meetup](https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e) - by Lara Hogan. Takeaway: Details on Meetup's makers and managers tracks, plus a graphic showing the ladders for both.
+
+- [Engineering Levels at Patreon](https://levels.patreon.com) - by Patreon. Takeaway: The engineering levels matrix, with details about each role. 
 
 - [Medium Engineering Growth: Tracks](https://gist.github.com/david206/b8dceddd687bb2c60805c9669cc89eaa) - by David Shimon. Takeaway: Different skills/items for different types of developers, listed and detailed.
 
-- [On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) -
-  by John Allspaw. Focusing on attributing "Senior" to "Mature". Covers aspects
-  of being social. Mature engineers are at least aware of their ego, able to
-  take into account the feelings and egos of their fellow engineers, and work 
-  through them all to achieve great things. This tends to make them engineers
-  that other engineers want to work with.
+- [On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - by John Allspaw. Focusing on attributing "Senior" to "Mature". Covers aspects of being social. Mature engineers are at least aware of their ego, able to take into account the feelings and egos of their fellow engineers, and work through them all to achieve great things. This tends to make them engineers that other engineers want to work with.
 
 - [Open Source Culture](http://whilefalse.blogspot.com/2015/10/open-source-culture.html) - by Camille Fournier. A post on Rent the Runway's engineering ladder, by the company's now-former CTO.
 
@@ -47,6 +48,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Uncovering the Secret Powers of MailChimp Employees Through Apprenticeships](https://blog.mailchimp.com/uncovering-the-secret-powers-of-mailchimp-employees-through-apprenticeships/) - by MailChimp. Takeaway: MailChimp created a 90-day apprenticeship program for employees to explore their interests and curiosity about other roles. The program has strengthened diversity efforts and also helped employees launch new careers.
 
+- [We Studied 100 Mentor-Mentee Matches — Here’s What Makes Mentorship Work](https://firstround.com/review/we-studied-100-mentor-mentee-matches-heres-what-makes-mentorship-work/) - by First Round. Takeaway: Don't use the word 'mentor', don't treat it like a transaction, show up prepared with questions, don't discuss everything, ask about your blind spots, look for themes and organizing principles, be honest and transparent, focus on execution, strive for mutual learning, always have several mentors.
+
 - [When Mentoring Turns Toxic](https://qz.com/526226/when-mentoring-turns-toxic/) - by Lorraine Duffy Merkl. Takeaway: "In a best-case scenario, mentors induct young people into the traditions of their professions. But this dynamic can set the stage for destructive behavior, McClelland writes. Sometimes mentors try to stamp out daring ideas that threaten long-held principles in their fields. Others may see themselves as “gatekeepers” whose role is to cut upstarts down to size. And basic narcissism may lead mentors to act out when they feel threatened by promising protégés. Mentoring relationships can also go awry when young professionals feel beholden to their advisers."
 
 - [Why The Right Change Often Feels Wrong](http://scottberkun.com/2017/why-the-right-change-often-feels-wrong/) - by Scott Berkun. Takeaway: "Inexperienced people often confuse the chaos phase as a failure in their choice. And if they quit early, assuming “chaos” means they made a mistake, and revert back to the old ways of doing things, they likely will never have the confidence to try something that bold again. They now confuse the chaos phase with failure. This is a kind of self-inflicted learned helplessness, where the necessary cost to improve and grow is now too psychologically expensive. People and organizations can become paralyzed here, as they’ve become extremely resistant to any threat of a 'foreign element,' even though that’s exactly what’s needed to grow."
@@ -68,6 +71,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Betterment Tested Three Performance Management Systems So You Don't Have To](http://firstround.com/review/betterment-tested-three-performance-management-systems-so-you-dont-have-to/) - by FirstRound. Takeaway: "Create clear lanes for your team to run; and align your structure key and processes to achieve what needs to get done. Empower employees to run as well and as fast as they can in the right direction by providing the right context. Define measurable goals to hit in a way that makes it clear to everyone what they're supposed to be doing every day."
 
+- [Cognitive Bias and Why Performance Management Ss So Hard](https://www.freecodecamp.org/news/cognitive-bias-and-why-performance-management-is-so-hard-8852a1b874cd/) - by Osman (Ozzie) Ahmed Osman. Takeaway: A smart article that delves into the psychological factors that make or break good calls during performance reviews. Gives an overview of common biases, such as the fundamental attribution error, confirmation bias, and self-serving bias.
+
 - [Cognitive Bias Cheat Sheet, Simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f) - by Buster Benson. Takeaway: The four condundrums that lead to biases are too much information, not enough meaning, not enough time and resources, and not enough memory.
 
 - [The Dangers of Measuring Performance](https://medium.com/startup-patterns/the-dangers-of-measuring-performance-d21cd61426df) - by Sam McAfee. Takeaway: offers a useful summary of how we've evolved our common management practices from Taylorism to agile teamwork and collaboration. Measure performance by throughput; pair people/teams to focus on one deliverable at a time; and empower teams to improve processes themselves. 
@@ -84,11 +89,15 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [How to Be a Better Manager by Remembering 5 Simple Phrases](https://getlighthouse.com/blog/how-to-be-a-better-manager/) - by Lighthouse. Takeaway: They are, “...that sounds important to you, let me write that down” (helps you keep your promises, and is a signal that you value what they said); "...what can we each do by next time to make progress on this?”; “Yes and...”; "...tell me about the last time that happened"; "...together...”
 
+- [How to Discuss Poor Performance with an Employee](https://knowyourteam.com/blog/2019/01/31/how-to-discuss-poor-performance-with-an-employee) - by Claire Lew. Takeaway: Provides some conversation structures to handle employees who are either aware or unaware of their poor performance.
+
 - [How to Get to the Core by Asking the Right Questions](https://www.tombartel.me/blog/how-to-get-to-the-core/) - by Tom Bartel. Takeaway: Asking why, listening to someone before making assumptions and stating them, and achieving buy-in are critical to getting someone to adapt their behavior. Mistakes like suggestive questions, "you have to fix it" messaging and inflexible plans will alienate and not solve the issue. 
 
 - [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d) - by Gabriel Weinberg. A comprehensive list of mental models to make you aware of biases and assumptions.
 
 - [A Note on Feedback](http://andrewspittle.com/2016/02/23/a-note-on-feedback/) - by Andrew Spittle. Takeaway: How to use the 3-2-1-Oh performance feedback chat, "a mix of a team member writing a self-assessment and a team lead writing a review. The conversation centers around answers to these bullet points: What are 3 things you’ve done well? What are 2 areas or skills you’d like to develop? What’s one way your team lead or Automattic itself can support you? And, oh, can you write a sentence or two about how you see your career developing?"
+
+- [Performance of Performance Reviews](https://medium.learningbyshipping.com/performance-of-performance-reviews-cd7494eeaef8) - by Steven Sinofsky. Takeaway: "We want quantitative certainty and simplicity, but context is crucial and fluid, and qualitative. We desire fair, which is a relative term, but insist on the truth, which is absolute."
 
 - [Scaling Culture with Feedback](https://wistia.com/blog/scaling-culture-with-feedback) - by Chris Savage. Takeway: Ask specific questions to see if people are living out your values.
 

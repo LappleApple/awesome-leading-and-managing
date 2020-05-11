@@ -4,6 +4,8 @@
 
 - [Etsy’s Guide to Postmortems](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) - by John Allspaw, Morgan Evans and Daniel Schauenberg. A lengthy document that provides a guide on the art of asking questions. [On Failure and Resilience](https://beero.ps/2017/06/17/on-failure-and-resilience/) provides a briefer summary, describing an Etsy incident and how the team managed it.
  
+- [Improving Postmortem Practices with Veteran Google SRE, Steve McGhee](https://www.blameless.com/improve-postmortem-with-sre-steve-mcghee/) - by Blameless. Takeaway: Suggests turning your post-mortems into "textbook-lets," being cautious about finding good authors, and creating action items with structured discipline.
+
 - [The Infinite Hows (or, the Dangers of The Five Whys)](https://www.kitchensoap.com/2014/11/14/the-infinite-hows-or-the-dangers-of-the-five-whys/) - by John Allspaw. Takeaway: A slight tweak to the “5 whys." Allspaw points out that “why” leads to blaming a person, while “how” leads to blaming the system.
 
 - [Making SWOT Analysis Actionable](http://articles.bplans.com/swot-analysis-challenge-day-5-turning-swot-analysis-actionable-strategies/) - by Lisa Furgison. Takeaway: Make connections between each quadrant of your analysis, combining information from two quadrants to create actionable strategies:
@@ -54,6 +56,6 @@
 
 - [Running Effective Retrospectives](http://werve.net/articles/running-effective-retrospectives/) - by Don Werve. Takeaway: "[R]etrospectives plus science equals an effective tool for killing bad process before it metastasizes into truly epic stupidity."
 
-- [Which Questions do you Ask in Retrospectives?](https://www.benlinders.com/2013/which-questions-do-you-ask-in-retrospectives/) - by Ben Linders. With four key retro questions: "What did we do well, that if we don’t discuss we might forget? What did we learn? What should we do differently next time? What still puzzles us?"
+- [Which Questions Do You Ask in Retrospectives?](https://www.benlinders.com/2013/which-questions-do-you-ask-in-retrospectives/) - by Ben Linders. With four key retro questions: "What did we do well, that if we don’t discuss we might forget? What did we learn? What should we do differently next time? What still puzzles us?"
 
 - [The World Cafe – Agile Retrospective Technique](https://luis-goncalves.com/the-world-cafe/?__s=zmnhwriwrwhonuvpmtq8) - by Timothee Bourguignon. Takeaway: an approach to spread knowledge, tips and practices across teams.

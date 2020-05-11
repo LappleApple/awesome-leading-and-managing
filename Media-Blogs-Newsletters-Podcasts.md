@@ -23,11 +23,16 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [Software Lead Weekly](http://softwareleadweekly.com/) - by Oren Ellenbogen. A weekly email for busy people who care about people, culture and leadership.
 
+- [Wherewithall](https://larahogan.me/sign-up/) - by Lara Hogan. The newsletter by the popular and prolific management coach and trainer.
+
+
 ### Podcasts
 
 - [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - a very long list of engineering-related podcasts in several languages.
 
 - [John Maxwell Leadership Podcast](https://johnmaxwellleadershippodcast.com/) - by John Maxwell, who has been called the #1 leader in business and the world's most influential leadership expert.  This podcast offers a plethora of information for leaders of all kinds.
+
+- [Manager Tools Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4) - by Manager Tools. Takeaway: Informative podcasts that focus on key opportunities that a manager can leverage to step up their game. 
 
 - [People Stack](https://medium.com/@JBunky) - by Jen Bunk. Interviews with management and leadership experts and thinkers to help tech managers build thriving high-performing teams.
 

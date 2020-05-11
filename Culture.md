@@ -8,11 +8,7 @@
 
 - [Buffer Sees Clear Benefits to Transparent Employee Salary Policy](https://opensource.com/open-organization/16/3/social-startup-buffer-transparency-reigns?sc_cid=701600000011jJkAAI) - by Bryan Behrenshausen. Takeaway: "At social media startup Buffer, a single leadership decision eliminated salary negotiation for new employees, preempted gender-based salary discrimination, and prompted a flood of job applications. The decision? Make all employee salaries transparent."
 
-- [Building and Scaling a Distributed and Inclusive Team](https://www.youtube.com/watch?list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&v=XAU5q-biY28) (video) - by Matthias Meyer. The founder/CEO of Travis CI talks about how the company has been trying to create a multicultural distributed team, with lots of quotes from team members. Travis pushed for a remote culture to increase diversity.
-
 - [Building the Civilized Workplace](https://www.mckinsey.com/business-functions/organization/our-insights/building-the-civilized-workplace) - by Robert Sutton. Takeaway: "Nasty people don’t just make others feel miserable; they create economic problems for their companies."
-
-- [Building Great Teams: Culture and Core Protocols](http://www.ustream.tv/recorded/102891756) (video) - by Richard Kasperowski. Takeaway: Thoughts on psychological safety and creating authentic trust and connection between people to take the "luck" out of building and working on great teams, and making greatness more intentional.
 
 - [Changing Company Culture Requires a Movement, Not a Mandate](https://hbr.org/2017/06/changing-company-culture-requires-a-movement-not-a-mandate) - by Bryan Walker and Sarah A. Soule. Takeaway: "[C]ulture change can’t be achieved through top-down mandate. It lives in the collective hearts and habits of people and their shared perception of 'how things are done around here.' Someone with authority can demand compliance, but they can’t dictate optimism, trust, conviction, or creativity." This also applies to the best-intentioned culture changes, including agile transformations. You might have the best intentions in the world, but if your team doesn't see the value or direction of the change, don't expect them to adapt.
 
@@ -21,8 +17,6 @@
 - [Company Culture Is Shaped at the Top, and Forms at the Bottom](https://www.coderhood.com/on-company-culture/) - by Lorenzo Pasqualis. Takeaway: "A company culture is an overall personality that results from the interactions between its people, and the environment in which employees work. It includes elements such as mission, values, environment, ethics, expectations, mood, goals, politics, morals, rules and policies."
 
 - [The Company Isn’t a Family](https://m.signalvnoise.com/the-company-isnt-a-family-d24f26c3f3fe) - by David Heinemeier Hansson. Takeaway: "Whenever executives talk about how their company is really like a big ol’ family, beware. They’re usually not referring to how the company is going to protect you no matter what or love you unconditionally. You know, like healthy families would. The motive is rather more likely to be a unidirectional form of sacrifice: Yours."
-
-- [Creating the Dream Team: Transform Your Engineering Organization to Attract New Talent](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/) - by Andrew Hao. Takeaway: Start with evaluating your current culture's strengths and weaknesses. Be in tune with your org. Make sure you demonstrate that you value employees—whether that is talking up their accomplishments, investing in training, or just being there to talk.
 
 - [Creating Psychological Safety: Start with Trust](https://medium.com/@Alyss/creating-psychological-safety-part-1-ac9aa733fa9b) by Alyss Noland. Takeaway: Psychological safety is a combination of trust between coworkers and an environment where that trust can be acted upon. Start with building those bridges between peers, providing managerial support, and creating a strategic narrative that uplifts every team's accomplishments.
 
@@ -40,23 +34,15 @@
 
 - [Engineering Culture at Airbnb](http://nerds.airbnb.com/engineering-culture-airbnb) - by Mike Curtis. Takeaway: Create a culture about helping others and celebrating their successes.
 
-- [Fear of Process or How to Scale the Team Without Getting "Corporate”](https://www.linkedin.com/pulse/fear-process-how-scale-team-without-getting-corporate-avi-revivo/) - by Avi Revivo. Takeaway: "Finding the sweet spot in the organization where you utilize exactly the right amount of processes is practically impossible. Sometimes you’ll use a process that provides less value than what it cost and sometimes the opposite. It means that you need to remember the 3 questions - Can we achieve the same goal without a process? or with an even simpler one? Is the process ROI positive? What is the chance of a successful adoption of the process and why?...and consider them for each new process but you’ll also need to ask the first 2 questions on exciting processes every now and then to make sure it stands the test of time."
-
 - [5 Questions That Reveal If a Company Has a Healthy Workplace Culture](http://www.cnbc.com/2017/07/12/5-questions-that-reveal-if-a-company-has-a-healthy-workplace-culture.html) - by Claire Lew. Takeaway: A healthy workplace offers uninterrupted time, heated debate, access to the top leadership, reasons to value and be proud of it, and a culture of selflessness.
 
 - [Five Years, Building a Culture, and Handing It Off](http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off) - by Kellan Elliott-McCrea. Takeaway: Build a culture of learning, generosity and values.
 
 - [Focus on Culture When Building an Engineering Culture](https://www.infoq.com/articles/focus-engineering-culture) - by Sujith Nair. Takeaway: "Culture cannot be enforced, but only facilitated. Hiring is crucial in building and sustaining great engineering culture. Continuous learning helps create the right engineering team environment. Self-driven teams with minimum directions are ideal teams that we all should aspire for. An environment without red-tape and unnecessary controls will help engineering innovation, productivity & quality."
 
-- [Great Development Teams Have a Culture of Discipline](https://www.linkedin.com/pulse/20141022145416-6200243-great-development-teams-have-a-culture-of-discpline/) - by Erran Berger. Takeaway: Value craftsmanship as highly as you value execution; attack each problem you face with a tremendous sense of urgency; instrument everything - you can’t fix what you don’t measure; fewer things done better - the disciplined pursuit of less; be rigorous in prioritization and planning; establish a high hiring bar – you’re creating an enduring culture.
-
 - [Hard to Communicate with Other Teams? Check out These Tips](https://opensource.com/open-organization/17/7/communicate-teams-tips) - by Jonas Rosland. Takeaway: "[L]earning more about why a team is working on a specific project, not just focusing on how they're involved and what the project is about, can help you foster better relationships across your organization. Focusing on why people act the way they do allows teams to better understand one another's goals and purposes, and helps everyone assume the best intentions from everyone involved in an effort."
 
 - [Hearts and Minds: Shaping Dev Culture Through Technical Training](https://medium.com/@karen_meep/hearts-and-minds-shaping-dev-culture-through-technical-training-3c9c6ed49ce6) - by Karen Cohen. Takeaway: "[W]e have to make sure we don’t lose our culture. Left unattended, it will turn into ‘null culture’. It’s what happens when no formal culture is put into place. It leaves people guessing what is socially acceptable and creates an impossible environment for those who guess wrong. It’s not the type of environment that makes employees want to stick around."
-
-- [How a Microsoft Docs Team Increased Openness and Improved Collaboration](https://opensource.com/open-organization/17/10/microsoft-collaboration-case-study) - by Angela Robertson. Takeaway: An honest account of transforming the technical content team of Microsoft's Cloud and Enterprise group from closed and uncollaborative to open and transparent. Finding purpose in openness was key.
-
-- [How Do We Go Faster?](https://hackernoon.com/how-do-we-go-faster-ed51207952a8) - by John Cutler. Takeaway: Lists of concepts to apply and actions to take to build a culture that fosters a productive, efficient environment.
 
 - [How Netflix Reinvented HR](http://hbr.org/2014/01/how-netflix-reinvented-hr/ar/pr) - by Patty McCord. Takeaway: Hire only people who are able to put your company’s interests first.
 
@@ -64,13 +50,13 @@
 
 - [How to Build an Engineering Culture that Focuses on Impact](http://www.effectiveengineer.com/blog/how-to-encourage-team-to-focus-on-impact) - by Edmond Lau. Takeaway: Shape your culture through conversations and stories, and motivate with autonomy, mastery, and purpose.
 
-- [How to Get Engineering Teams to Eat Their Vegetables](https://medium.com/@duretti/how-to-get-engineering-teams-to-eat-their-vegetables-83e0f83af71a) - by Duretti Hirpa. Takeaway: Good teams are supportive, have a sense of togetherness and don't blame their team members for their mistakes but instead learn from them.
-
 - [How to Build a Company Where the Best Ideas Win](https://www.ted.com/talks/ray_dalio_how_to_build_a_company_where_the_best_ideas_win?rss) (video) - by Ray Dalio. Takeaway: "makes the business case for radical transparency and algorithmic decision-making to create an idea meritocracy where people can speak up and say what they really think -- even calling out the boss is fair game."
 
 - [How Warby Parker Makes Every Point In Its Employee Lifecycle Extraordinary](https://www.youtube.com/watch?v=SrLCXrsEPZE&t=2s) - by FirstRoundCapital. Takeaway: CEO Dave Gilboa describes how Warby created its culture. 
 
 - [Innovation vs. Execution](http://svpg.com/innovation-vs-execution/) - by Marty Cagan. Takeaway: Not many companies are good at both innovation and execution. Assess your company in terms of both, and decide which one comes first.
+
+- [An Interview with Patrick Collison](http://growth.eladgil.com/book/chapter-5-organizational-structure-and-hypergrowth/you-cant-delegate-culture-an-interview-with-patrick-collison/) - by Elad Gil. Takeaway: The Stripe cofounder on how culture must evolve in growing organizations. "Generally speaking, and certainly if a company is working well to some degree— if you’re making progress in building the product you want to build and the service you want to create, and if the organization is growing and customers are adopting—there are empirically some things about your culture that are working well. And I often see companies making a mistake by being too abashed about simply being specific about those."
 
 - [Lessons from 7 Highly Successful Software Engineering Cultures](https://techbeacon.com/lessons-7-highly-successful-software-engineering-cultures) - by Mitch Pronschinske. Takeaway: Common themes across these seven engineering cultures include removing everything that hinders productivity; having as few rules as possible; hiring adults; having smaller teams and shorter projects; being kind and modest; not focusing on blaming, and focusing on learning from mistakes. Dan Pink's autonomy, mastery, and purpose are also common themes. Diversity is also important for some of these companies because, as research shows, diverse teams are more effective than homogeneous ones.
 
@@ -82,6 +68,8 @@
  
 - [On Failure and Resilience](https://beero.ps/2017/06/17/on-failure-and-resilience/) - by Katherine Daniels. Takeaway: "It can be a challenge if you’re starting with or coming from a 'blame and train' or 'blame and shame' culture to a 'blameless' or 'blame-aware' one, but the focus on desired outcome and how people can work together to help resolve a situation in the moment, as well as make the systems involved better equipped to handle situations in the future, can do wonders for system and organizational resilience."
 
+- [On Leadership and Culture](https://hackernoon.com/on-leadership-and-culture-ca4d6f2a9bb0?source=linkShare-d0a0152ff0c0-1520995699) - by Jason Warner. Takeaway: "Leaders are accountable for the culture of their group. Said another way, the cultural brokenness of a group can in almost all cases be traced directly to poor leadership, either past or current."
+
 - [The Power of an Agile Mindset](https://www.infoq.com/presentations/agile-mindset) (video) - by Linda Rising. Takeaway: The agile mindset will enable you to see problems as failures as opportunities for learning.
 
 - [Programming Is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/) - by Allison Parrish. Takeaway: "Every practice, whether technical or artistic, has a history and a culture, and you can’t understand the tools without understanding the culture and vice versa. Computer programming is no different."
@@ -90,17 +78,15 @@
 
 - [Refactoring Organizations - A Netflix Study](https://www.infoq.com/presentations/netflix-refactor-organizations) (video) - by Josh Evans. Takeaway: Conway's law describes dysfunction. It's not a fact of life—you end up with suboptimal solutions by it. Embracing an Architecture First approach and technical analogs will help you drive better organizational solutions by removing emotion from the equation. Selfless leadership—company, team, then self, in that order—is the essential ingredient in all of this for driving the best solutions.
 
-- [Reorgs Happen](http://whilefalse.blogspot.co.il/2015/12/reorgs-happen.html) - by Camille Fournier. Takeaway: "Reorgs are unlikely to solve all of your problems overnight. They are not a magic bullet exercise that fixes cultural issues or a lack of business strategy. If you aren't careful, your reorg will feel like rearranging deck chairs on the Titanic, a pointless waste of time for everyone involved. So don't be afraid to do them as necessary, but be realistic. This is a major disruption that impacts everyone, don't just do it for fun."
-
 - [Respect for People - Lean's Neglected Pillar](https://www.infoq.com/presentations/respect-lean) (video) - by Jon Terry, of LeanKit. Takeaway: What "respect for people" means is open to interpretation. Reading a lot of books and articles isn't a quick-fix to understanding it. Understanding that people are motivated by purpose and staying in touch with continuous improvement helps to reinforce respect for people.
 
 - [The Right Culture: Not Just About Employee Satisfaction](http://news.gallup.com/businessjournal/208487/right-culture-not-employee-happiness.aspx) - by Jim Harter and Annamarie Mann. Takeaway: "Measuring workers' contentment doesn't improve business outcomes. Approaching engagement as a business strategy yields better results. Highly engaged organizations share common philosophies and practices."
 
 - [Sorry, but Your Start-Up’s Team Isn’t Actually Any More Agile Than the Big Guys. Why You Really Still Can Win](https://www.saastr.com/sorry-but-your-start-ups-team-isnt-actually-any-more-agile-than-the-big-guys-why-you-really-still-can-win/) - by Jason Lemkin. Takeaway: "The BigCo problem is a combination of (x) impact/runway and (y) cross-functionality “unagility”.  Here’s where start-ups can execute so much better."
 
-- [Transforming Company Culture] (podcast) (https://directory.libsyn.com/episode/index/id/5762224/tdest_id/402889) - by Happy Melly. Takeaway: A truly inspiring conversation with John Hilliard of Next Jump about the company's "better me + better you = a better us" culture, which includes a no-fire policy and programs to help employees cultivate their leadership skills.
+-[Tea and Tech Culture](https://blog.alicegoldfuss.com/tea-and-tech-culture/) - by Alice Goldfuss. Takeaway: "[D]rinking tea has made my job much easier. People give it to me, offer to drink it with me, use it as an icebreaker. It’s both a gateway to interesting conversations and a reward for doing favors. I now participate in a social experience that is easy to quantify, repeat, and leverage."
 
-- [Transforming from Projects to Products](https://www.infoq.com/articles/transform-projects-products) - by John Yorke. Takeaway: "Agile Transformation means thinking of Products rather than Projects. Agile is a Mindset not a set of rules to be followed. It requires a cultural change not a process change. Agile changes the way we measure project success and how we measure people's behaviour. Change is Hard. Project Management and People Management are those that need to change the most."
+- [Transforming Company Culture] (podcast) (https://directory.libsyn.com/episode/index/id/5762224/tdest_id/402889) - by Happy Melly. Takeaway: A truly inspiring conversation with John Hilliard of Next Jump about the company's "better me + better you = a better us" culture, which includes a no-fire policy and programs to help employees cultivate their leadership skills.
 
 - [Understanding the Limits of Hierarchies](https://opensource.com/open-organization/16/3/fastest-result-isnt-always-best-result?sc_cid=701600000011jJkAAI) - by Jim Whitehurst, CEO of RedHat. Takeaway: "Leading an open organization—where hierarchy cedes much of its control to dynamic, networked structures—feels much more like maintaining a perennial garden. It involves working more on conditions (turning soil, locating those spots in need of watering) than it does on dictating direction. It means creating the context for things (things you might not have considered or even imagined) to occur."
 
@@ -115,10 +101,6 @@
 - [What Company Culture IS and IS NOT](https://moz.com/rand/what-company-culture-is-and-is-not/) - by Rand. Takeaway: "Your company’s culture is three big things: Your values – those you state with words and those you exhibit through your actions[;] your mission & vision – the goal you’re driving toward and the force behind that goal[;] your hiring, firing, and promotion criteria – the reasons you bring people onto the team, the reasons you let them go, and the reasons you promote/reward them[.] If you’re trying to figure out what a company’s values really are, look at the decisions management makes when lots of money, risk, or loss of face for executives is at odds with the stated values."
 
 - [What Does It Mean to Be a Learning Organization?](https://docs.google.com/document/d/15xrkf9fC2cf9g7joK9ZXA16_Qd77PzxjJRjH-RIJpeQ) - by Joe Goldberg. Takeaway: "You're either building a learning organization or you'll be losing to someone who is."
-
-- [What Google Learned About Creating Effective Teams](https://www.infoq.com/presentations/google-effective-teams-2017) - by Matt Sakaguchi. Takeaway: Sakaguchi talks about some of the practical research Google has done around building effective teams. He addresses not only the research, but the insights of a manager who worked with his own team and others, to instill the findings and principles in the real world, along with key insights from Google's pilot program.
-
-- [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - by Charles Duhhig. Takeway: The best teams are supportive and team members are sensitive to each others' feelings and needs.
 
 - [What Is It Like to Work at Quip?](https://www.quora.com/What-is-it-like-to-work-at-Quip/answer/Edmond-Lau?share=eef74f95) - by Edmond Lau. Takeaway: Quip invests in people and in coaching, expects people to work hard but not while burning out, aims for sustainability, respects people's lives outside of work, plans swiftly and thoughtfully to mitigate risk and complexity, and improves on its tooling (among other steps).
 

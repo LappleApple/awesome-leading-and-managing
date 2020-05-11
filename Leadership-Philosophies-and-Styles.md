@@ -13,12 +13,18 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [The Best Management Is Less Management](https://www.strategy-business.com/article/The-Best-Management-Is-Less-Management) - by Michael Useem and Harbir Singh. Takeaway: "[W]hen time is limited and stakes are high, the most effective leaders rely on their ranks to do what they do best. These leaders empower people to use their expertise to solve problems and achieve goals. They also enable managers at every level of the organization to think like CEOs, making decisions with a large degree of autonomy. There’s a clear system in place for monitoring progress, but it doesn’t impede people from getting the work done. This is strategic leadership at its best, and in a moment of crisis it becomes all the more critical."
 
+-[CEO Coaches](https://blog.alexmaccaw.com/ceo-coaches) - by Alex McCaw. Takeaway: Thoughts on why CEOs should consider getting a coach, shaped by the author's own experiences.
+
 - [CEOs Should Stop Thinking that Execution Is Somebody Else’s Job; It Is Theirs](https://hbr.org/2017/11/ceos-should-leave-strategy-to-their-team-and-save-their-focus-for-execution) - by Roger L. Martin. Takeaway: "1. Make only the set of choices you are more capable of making than anyone else. 2. Explain the choice that has been made and the reasoning behind it. 3. Explicitly identify the next downstream choice. 4. Assist in making the downstream choice, as needed. 5. Commit to revisit and modify the choice based on downstream feedback."
 
 - [Developing the Leader Within You 2.0](https://store.johnmaxwell.com/Developing-the-Leader-Within-You-20_p_2792.html) - by John C. Maxwell. Takeaway: "...leaders are not born, they're made"; “Good leaders don’t just resolve the issue to get it off their plates quickly for the sake of their own comfort. They help create solutions that take their people and their organization forward and put them in a better position than they were in before they experienced the problem.” 
 
 - [The Difference Between Amateurs and Professionals](https://www.farnamstreetblog.com/2017/08/amateurs-professionals/) - by Farnam Street. Takeaway: a series of bullet points identifying the differences. Examples: "Amateurs give up at the first sign of trouble and assume they’re failures. Professionals see failure as part of the path to growth and mastery;
 Amateurs don’t have any idea what improves the odds of achieving good outcomes. Professionals do." 
+
+- [Directly Responsible Individuals](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) - by Matthew Mamet. Takeaway: "Fostering a culture of accountability within the team (people do what they say they will do) is key for effective product management over the long haul. Creating and fostering the concept of Directly Responsible Individuals (DRI) within product teams is an effective method of increase PM leverage."
+
+- [Don’t Try to Be the “Fun Boss” — and Other Lessons in Ethical Leadership](https://hbr.org/2018/09/dont-try-to-be-the-fun-boss-and-other-lessons-in-ethical-leadership) - by Kimberly Nei and Darin Nei. Takeaway: Be humble, not charismatic; be steady and dependable; remember that modesty is the best policy, balance analysis with action, be vigilant — vulnerability increases over time.
 
 - [Effective Leaders](https://medium.com/@brendan_ward/effective-leaders-6f36e891706e) - by Brendan Ward. Takeaway: effective leaders set, communicate, and reinforce tangible goals toward broader impact. They set priorities and act strategically, share the opportunity to lead, and listen more than they talk. They are highly introspective, actively seek feedback, grow from their mistakes, and are constantly learning across a broad range of topics.
 
@@ -36,6 +42,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [Good Leaders Are Good Learners](https://hbr.org/2017/08/good-leaders-are-good-learners) - by Lauren A. Keating, Peter A. Heslin and Susan J. Ashford. Takeaway: "[R]esearch on leadership development shows that leaders who are in learning mode develop stronger leadership skills than their peers." Being experienced helps, but isn't enough.
 
+- [Good Technology Leadership Is Rare](https://www.linkedin.com/pulse/good-technology-leadership-rare-sam-mcafee/) - by Sam McAfee. Takeaway: "After 20 years in this field, I'd say without hesitation that usually about 80% of the problem is with the leadership itself. Now I have to look a senior leader square in the eye and tell them that, in fact, they are actually the problem. That their people learned all of their behaviors from the modeling of the leader. That they set the tone in terms of what is acceptable to talk about openly, and what is strictly off limits. And the vast majority of these signals from leadership are extremely subtle, not necessarily intended to be signals at all."
+
 - [Google Employees Weighed in on What Makes a Highly Effective Manager. Technical Expertise Came in Dead Last](https://www-inc-com.cdn.ampproject.org/c/s/www.inc.com/amp/154561.html) - by Michael Schneider. Takeaway: Tech expertise is worth little if a manager is not committed to communicating clearly/effectively, developing people and removing obstacles so they can get things done.
 
 - [Hallmarks of a Good Technical Leader](https://www.oreilly.com/ideas/hallmarks-of-a-good-technical-leader) - by Brian Anderson and Camille Fournier. Takeaway: "Good technical leaders are capable of understanding systems through many different lenses. They understand that their companies are shaped by people and technologies and processes, and they’re capable of investigating each of these areas to understand how it contributes to the current success or challenges of the team. Good technical leaders have a strong sense of technical empathy, which helps them appreciate the challenges their engineers are facing, even if those engineers are working on problems that the leader has never personally written code to solve. Finally, good technical leaders have good technical judgment."
@@ -44,11 +52,15 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [How Do I Manage People?](https://medium.com/@lennymarkus/how-do-i-manage-people-93018dc19fb4) - by Lenny Markus. Takeaway: Based around questions posed in a Twitter thread kicked off by Charity Majors, this article offers a well-rounded view of all aspects of a manager's duties, along with personal insights from the author.
 
-- [How Much to Manage (“Management Energy Units”)](https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140) - by Steven Sinofsky. Takeaway: Discusses the various level-directions of management (down to reports, up to your boss, sideways to your peers), as well as how much time an individual level should generally be spending on them vs "work". Make sure you are spending the right amount of time managing in the right areas.
+- [How to Lead]( https://medium.com/@wgalyean/how-to-lead-f4383da7047c) - by Wilson Galyean. Takeaway: Leadership lessons from a former US Army officer and West Point cadet. "There is a difference between management and leadership. Management is decision making and the handling of resources. Leadership goes beyond management to craft and maintain the interpersonal glue that makes your organization a team."
+
+- [How to Lead by Noticing and Filling in Gaps](https://blog.coleadership.com/how-to-lead-by-noticing-and-filling-in-gaps/) - by Jean Hsu. Takeaway: gaps exist everywhere, and leaders know which ones to fill.
 
 - [How Strong Is Your Leadership Toolkit?](https://blog.bonus.ly/how-strong-is-your-leadership-toolkit) - by Alex Saez. Takeaway: Establish strong relationships, understand employee needs, and possess the appropriate "hard" and "soft" skills.
 
 - [How to Lead a Team](https://drt.fm/simon-sinek) (podcast) - by Simon Sinek. Fun trivia: Joe Goldberg, the originator of this Awesome list, realized through this podcast that "You can’t manage people, you can only lead them. You can only manage processes."
+
+- [Ideas That Changed My Life](https://www.collaborativefund.com/blog/ideas-that-changed-my-life/) - by Morgan Housel. Takeaway: "Everyone belongs to a tribe and underestimates how influential that tribe is on their thinking," "Everything’s been done before. The scenes change but the behaviors and outcomes don’t," and eight other observations from the author.
 
 - [I’ve Interviewed Over 300 Entrepreneurs–Here’s Their Most Counterintuitive Advice](https://www.fastcompany.com/40457790/ive-interviewed-over-300-entrepreneurs-heres-their-most-counterintuitive-advice) - by Jenna Abdou. Takeaway: Specialize in more stuff than you think you have to; share what makes you tick, then have your team do the same; forget the competition, and let things happen instead of always making them happen.
 
@@ -65,6 +77,10 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 - [Leadership Is a Quality That You Can Teach Yourself](https://qz.com/659038/leadership-is-a-quality-that-you-can-teach-yourself/?__s=ns1epkqjs8qj1ggjuafv) - by Christian Bonilla. Takeaway: "To be a successful leader, you have to learn to consider how your work affects others, and how to work with people to get things done. The higher up you go in any organization, the harder it is to get things done on your own. So invest in building relationships every step of the way, and you’ll have more people who want to see you succeed when your time comes."
 
 - [Leadership Nudges](https://www.youtube.com/channel/UCM6PvFiH_weNCMCnFynTNdg) - by David Marquet. Takeaway: short, digestible videos about intent-based leadership, from being a "know all, tell not" leader to thinking long-term.
+
+- [Love Being a Lead](https://margint.blog/2019/02/16/love-being-a-lead-valentines-edition/) - by Mikio L. Braun. Takeaway: Love being a lead boils down to “Everything you do is about helping  those whom you lead do their work.
+
+- [The Making of a Manager: What to do When Everyone Looks to You (book)](https://www.penguinrandomhouse.com/books/558155/the-making-of-a-manager-by-julie-zhuo/) - by Julie Zhuo. Takeaway: A "modern field guide" to managing by the product design exec and author of the *The Year of the Looking Glass* blog. 
 
 - [Management Philosophy](https://3002.ca/posts/management-philosophy/) - by Gordon Radlein. Takeaway: A five-point philosophy: Trust above all else, feedback, give space to succeed or fail, find the right balance of process, and always have a vision.
 
@@ -120,9 +136,13 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [We Need to Talk About Servant Leadership] (https://mfbt.ca/we-need-to-talk-about-servant-leadership-a719c4c05434) - by Johnathan Nightingale. Takeaway: Denying power inequities serves no one, and skims over the real existence of privilege that comes with power. “Own the authority of your role. If that authority is uncomfortable and you’re worried about wielding it poorly, then get educated. You can be a better boss than the ones you’ve had. Figure out when your duty of service is to the individuals on your team, and when it’s to the organization at large. Figure out how you want to act in the rare but real cases where those are in conflict.”
 
+-[What Makes a Good Leader? Leadership Is Your product, Not Your Identity.](https://knowyourteam.com/blog/2019/01/26/how-to-be-a-good-leader-leadership-is-your-product-not-your-identity/) - by Claire Lew. Takeaway: "The minute you stop tying your leadership so closely to your identity, you become a better manager."
+
 - [What Mistakes in Your Experience Does Management Keep Making?](https://news.ycombinator.com/item?id=15033156) - by Hacker News commenters. A list/online discussion about the many ways that tech management goes awry.
 
 - [What “S’Up”? Using Triads to Develop Tribal Leadership](https://medium.com/artsy-blog/what-sup-using-triads-to-develop-tribal-leadership-a01d4f207bf8) - by Daniel Doubrovkine. Takeaway: an exploration of Artsy’s weekly “S’Up” informal gathering of three randomly selected colleagues, which reinforces tribal leadership. “Stages of Tribal Leadership are often categorized by evaluating the number of connections and communication channels between team members, and triads are the most stable and valuable foundations, a building block of a Stage Four culture. S’Up is a tool we built that creates triads. The result can often feel inspiring and lead to durable communication channels at scale.”
+
+- [Why Should You Want to Lead People?](https://hackernoon.com/why-should-you-want-to-lead-people-edf8c10fd92f) - by Amit Goldshmidt. Takeaway: Reasons why you should and should not want to lead others.
 
 - [Why Tim Cook is Steve Ballmer and Why He Still Has His Job at Apple](https://www.linkedin.com/pulse/why-tim-cook-steve-ballmer-he-still-has-his-job-apple-steve-blank) - by Steve Blank. Takeaway: "What happens to a company when a visionary CEO is gone? Most often innovation dies and the company coasts for years on momentum and its brand. Rarely does it regain its former glory." Uses Microsoft and Apple as examples.
 
@@ -154,6 +174,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 - [An Inside Look at a Flat Organization That Serves Millions](http://firstround.com/review/An-Inside-Look-at-a-Flat-Organization-That-Serves-Millions/) - by First Round Capital. Takeaway: When you boil it down, management is really about two things—trust and clarity. "Keeping a company flat is all about finding creative ways to achieve trust and clarity without the bureaucracy."
 
 - ["Build a Team That Doesn’t Need You" and Other Counterintuitive Strategies to Succeed as a Manager](https://blog.gitprime.com/counterintuitive-strategies-succeed-manager/) - by Ben Thompson. Takeaway: a profile of Heptio VP Engineering Kevin Stewart, who identifies and discusses the following leadership qualities: authentically caring about people on your team, preparing yourself as a leader and understanding your organization, rallying your team through empowerment and transparency/openness, providing context around decisions and disagreeing-and-committing if necessary, and getting out of people's way.
+
+- [How to Take Control of Your Own Leadership](https://blog.coleadership.com/how-to-take-control-of-your-own-leadership/) - by Jean Hsu. Takeaway: Observe the kind of leader you want to be, come up with a plan of action, and analyze what worked.
 
 - [Introverts Think They Won’t Like Being Leaders but They Are Capable](https://theconversation.com/introverts-think-they-wont-like-being-leaders-but-they-are-capable-84371) - by Peter O'Connor and Andrew Spark. Takeaway: Introverted characteristics are prevalent in servant leaders. The challenge is to help introverts to be more confident about their leadership potential.
 

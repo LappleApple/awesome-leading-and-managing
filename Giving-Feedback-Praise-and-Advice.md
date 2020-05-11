@@ -12,6 +12,8 @@
 
 - [4 Tips for Leaders Helping Others Evolve Their Careers](https://opensource.com/open-organization/17/9/own-your-open-career) - by Allison Matlack. Takeaway: Set the context, invest in skill building, pull up a seat at the table (advocate for others) and open some doors.
 
+- [Getting Feedback](http://daydreamsinruby.com/getting-feedback/) - by Allison (Sheren) McMillan. Takeaway: Ask your teammates for feedback so you can continue growing and developing. Includes short lists of questions you can ask.
+
 - [Giving Effective Feedback](https://hbr.org/product/giving-effective-feedback-hbr-20-minute-manager-series/13999E-KND-ENG) - by Harvard Business Review. Takeaway: "[T]he basics of delivering feedback that gets results, including: Choosing the right time to talk; Engaging in productive dialogue; Helping both star and struggling performers; Developing a plan for effective follow-up."
 
 - [How and Why You Need to Recognize Your Executives](http://blog.bonus.ly/how-and-why-you-need-to-recognize-your-executives?utm_content=56841793&utm_medium=social&utm_source=twitter) - by Jessica Collins. Takeaway: Leaders are people too, and giving them feedback keeps them in touch with the organization, and motivates them to continue doing the "right" things.
@@ -36,7 +38,7 @@
 
 - [The Problem with Saying 'Don’t Bring Me Problems, Bring Me Solutions'”](https://hbr.org/2017/09/the-problem-with-saying-dont-bring-me-problems-bring-me-solutions) - by Sabina Nawaz. Takeaway: "Not every problem has an easy solution. Tackling the complexity of most significant business issues can take a pool of talented people with diverse points of view. What’s more, according to Wharton professor Adam Grant, solution-only thinking creates 'a culture of advocacy instead of one of inquiry,' where each person comes into the situation locked into their way of solving the problem and lobbies hard for that particular solution rather than considering multiple perspectives."
 
-- [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss) - by Kim Scott. Takeaway: Why you have to offer "Radical Candor" (real friends tell you the ugly truth) and forget about being "nice."
+- [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss) - by Kim Scott. Takeaway: Why you have to offer "Radical Candor" (real friends tell you the ugly truth) and forget about being "nice." See also: [Rolling Out Radical Candor: Part One](https://www.radicalcandor.com/rolling-out-radical-candor-part-one/).
 
 - [Rainbows and Unicorns](http://randsinrepose.com/archives/rainbows-and-unicorns) - by Michael Lopp. Takeaway: advice on giving a compliment—"a selfless, timely, and well-articulated recognition of achievement"—with a breakdown of how compliments work, interwoven with references to video games.
 
@@ -55,5 +57,7 @@
 - [The Ultimate Case Against Using Shame as a Management Tactic](https://qz.com/1039957/the-ultimate-case-against-using-shame-as-a-management-tactic/) - by Lila MacLellan. Takeaway: an explanation of European "just culture," which involves treating errors with training and support instead of punishment for mistakes honestly admitted and made. This relates to psychological safety and giving employees the chance to learn from mistakes.
 
 - [The Value of Failure and Feedback: a Guide](http://www.jonobacon.com/2017/08/21/value-failure-feedback-guide/) - by Jono Bacon. Takeaway: Drawing from personal experiences, Bacon identifies examples of transformative feedback—feedback that reveals new levels or types of self-awareness that one can leverage to improve performance. "Soliciting constructive feedback has two key parts: When you get feedback, you need to always be receptive and never defensive or frustrated. To receive great feedback, you have to build a permissive relationship with others that means they can share it without worrying about you being…well…defensive or frustrated.
+
+- [When It Comes to Feedback, Start with Yourself](https://blog.navapbc.com/when-it-comes-to-feedback-start-with-yourself-801684120cca) - by Alicia Liu. Takeaway: "Before giving any feedback, it’s important to understand that every relationship is two-sided. If you’re having interpersonal issues while working with someone, it’s just as much on you as it is on them to change, in order to get to a better working relationship."
 
 - [Writing Performance Reviews with Positive Constructive Feedback](https://jvns.ca/blog/2018/02/10/positive-constructive-feedback/) - by Julia Evans. Three strategies for giving useful specific feedback.

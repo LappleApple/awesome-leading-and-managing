@@ -1,10 +1,9 @@
 ## When You're Not a "Manager": Leadership for Developers
 
-### Software Craftspersonship
-
+### Software Craftspersonship and Teamwork
 - [Active Learner — How Developers Keep Learning](https://medium.com/dennis-nerush/active-learner-how-developers-keep-learning-1309b91f1ae6) - by Dennis Nerush. Takeaway: "the kind of developers we want to hire and be part of our company and our teams ... are not expert beginners and they are not necessary real experts. But they are aware of what they know and most importantly, what they don’t know. They are on the path to someday become real experts. To go in this path they cannot rely only on what their job teaches them and 'out of the box' just working solutions—they must actively learn."
 
-- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0137081073&pd_rd_r=ZG5XBXBXACNY81TG4FXM&pd_rd_w=0mdSO&pd_rd_wg=so42p&psc=1&refRID=ZG5XBXBXACNY81TG4FXM) - by Uncle Bob Martin. A practical guide for how to become a software craftsperson.
+- [Are You out of Alignment?](https://medium.com/@skamille/are-you-out-of-alignment-a7b193ab7fc4) - by Camille Fournier. Takeaway: "Getting into alignment with the company is often a challenge for senior ICs because it requires a major change in focus. The hardest part is now identifying the right problem to solve, instead of solving the hardest problem. If you want to be able to find interesting work and also work on important things, you generally have to go find the interesting important things yourself. This requires that you to talk to a lot of people and listen to their problems, and then place a bet on a solution to one of these problems that will actually both be feasible but will also be seen as important."
 
 - [Cognitive Biases in Programming](https://medium.com/@evidanary/cognitive-biases-in-programming-5e937707c27b) - by Yash Ranadive. Takeaway: Be mindful of hyperbolic discounting (going for an immediate payoff instead of a delayed larger one), the IKEA Effect (Overvaluing your own solutions to a problem, and thus in contrast undervalue other solutions), premature optimization (optimizing before you know that you need to), planning fallacy (optimistically underestimating the time required to complete a task), and recency bias (placing higher value on recent events than ones that occurred further in the past).
 
@@ -13,8 +12,6 @@
 - [Forget Velocity, Let's Talk Acceleration](https://www.youtube.com/watch?v=Lbcyyu8XB_Y) (video) - by Jessica Kerr. Takeaway: a Goto Copenhagen talk about acceleration: deliberate changes in speed and direction to do the most valuable work.
 
 - [The Future of Programming (video)](https://www.youtube.com/watch?v=ecIWPzGEbFc) - by Uncle Bob Martin. Takeaway: A history of software development, with context on how developers have solved problems in the industry and where the profession's going.
-
-- [Getting Feedback](http://daydreamsinruby.com/getting-feedback/) - by Allison (Sheren) McMillan. Takeaway: Ask your teammates for feedback so you can continue growing and developing. Includes short lists of questions you can ask.
 
 - [Giving and Receiving Great Code Reviews](https://dev.to/samjarman/giving-and-receiving-great-code-reviews) - by Sam Jarman. Takeaway: "[A]s a submitter, plan, tell the story, and use the review as a learning experience. As a reviewer, slow down, check carefully, automate as much as you can and take the opportunity to improve your team."
 
@@ -30,13 +27,15 @@
 
 - [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) - Olivier Lacan. An entire website dedicated to the art of the changelog, with an FAQ and an aim to produce a better changelog convention.  
 
-- [On Writing Tech Specs](https://codeburst.io/on-writing-tech-specs-6404c9791159) - by Chuck Groom. Takeaway: "A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing."
+- [Notes to Myself on Software Engineering](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d) - by François Chollet. Takeaway: Lists of points on the development process, API design, and software careers. "Productivity boils down to high-velocity decision-making and a bias for action. This requires a) good intuition, which comes from experience, so as to make generally correct decisions given partial information, b) a keen awareness of when to move more carefully and wait for more information, because the cost of an incorrect decision would be greater than cost of the delay. The optimal velocity/quality decision-making tradeoff can vary greatly in different environments."
 
-- [One Bite at a Time: Partitioning Complexity](https://www.facebook.com/notes/kent-beck/one-bite-at-a-time-partitioning-complexity/1716882961677894/) - by Kent Beck. Takeaway: tips on refactoring, code structure, and workflow.
+- [On Writing Tech Specs](https://codeburst.io/on-writing-tech-specs-6404c9791159) - by Chuck Groom. Takeaway: "A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing."
 
 - [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.amazon.com/Programming-Beyond-Practices-More-Monkey/dp/1491943823/ref=sr_1_1?ie=UTF8&qid=1496801606&sr=8-1&keywords=programming+beyond+practices) - by Gregory Brown. Covers all aspects of being a leader-developer besides writing code, from prototyping to improving processes.
 
 - [Satisficery Engineering](http://baggerspion.net/2017/08/satisficery-engineering/) - by Paul Adams, Zalando. Takeaway: looks at the topic of "Push." How do we know when to push a team—and in which direction? Sometimes asking a team to deliver more is appropriate but, likewise, it can also be appropriate to give them a break. This article is about being mindful of these opportunities and their consequences.
+
+- [The Senior Engineer’s Guide to Helping Others Make Decisions](http://silverwraith.com/blog/2017/10/the-senior-engineers-guide-to-helping-others-make-decisions/) - by Geeky. Takeaway: Lots of tips for mentoring junior devs on your team.
 
 - [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501) - by Sandro Mancuso. An honest, engaging book that covers all imaginable aspects of being a craftsman, from playing an active role in shaping customer value to avoiding technical debt. Part of the Uncle Bob series.
 
@@ -46,9 +45,7 @@
 
 - [Start from Square Zero: Hidden Habits You Need for a Successful Career in Tech](https://medium.freecodecamp.org/start-from-square-zero-hidden-habits-you-need-for-a-successful-career-in-tech-3e4b86636d6) - by Andrea Goulet. Takeaway: Stop calling yourself "non-technical," pick a guilt language instead of a shame language, get comfortable with discomfort, mind the confidence gap, and acknowledge your biases.
 
-- [Thinking of the Next Developer](https://dev.to/dnimmo/thinking-of-the-next-developer) - by David Nimmo. Takeaway: "[C]onsider how little time it takes to break out the logic of your functions and make them more readable. Literally a couple of extra minutes of your time could save hours of other people's time when they look at your code next - in most cases the time will be saved immediately when your work goes through a code review."
-
-- [We are All Product Owners! An Impact Guide for Engine](https://medium.com/@erand/we-are-all-product-owners-an-impact-guide-for-engineers-76a2b4342c74) - by Eran Davidov. Takeaway: offers keen advice on how to measure impact, and what to measure.
+- [We are All Product Owners! An Impact Guide for Engineers](https://medium.com/@erand/we-are-all-product-owners-an-impact-guide-for-engineers-76a2b4342c74) - by Eran Davidov. Takeaway: offers keen advice on how to measure impact, and what to measure.
 
 - [What Can Developers Learn from Being on Call?](https://jvns.ca/blog/2017/06/18/operate-your-software/?imm_mid=0f4059&cmp=em-webops-na-na-newsltr_20170630) - by Julia Evans. Takeaway: Based on a Twitter thread begun by Charity Majors, this post suggests that being on call helps you to learn what kinds of production problems are common and uncommon; understand what needs urgent attention; design reliable systems; build in monitoring and diagnostics early; understand the parts of the system that aren’t yours; gain confidence in your judgement; make minimum effective change; learn about distributed systems and consistency and race conditions, and become a better developer.
 
@@ -56,47 +53,33 @@
 
 - [Agile Self-Assessment Game](https://www.benlinders.com/game/) - by Ben Linders. Takeaway: playing the game enables teams to reflect on how they work together, discover how agile they are, and agree upon next steps they can take to increase their agility to deliver more value to their customers and stakeholders.
 
-- [Building a Delivery Team](https://engineering.edx.org/building-a-delivery-team-8201d06f1021) - by Bill DeRusha. Takeaway: How the edX internationalization team spun up quickly—team charter, communication, building a relationship with the product manager, being clear and focused about the project scope, and communicating. Includes links to articles about creating team charters.
-
-- [The Five Dysfunctions of a Team: a Leadership Fable](http://www.bip.org.bd/SharingFiles/11-The%20Five%20Dysfunctions%20of%20a%20Team.pdf) - by Patrick Lencioni. Takeaway: lack of trust and commitment, fear of conflict, avoidance of accountability, and inattention to results will prevent your team from gelling and performing. This book uses a narrative/fictional case study to make its point about overcoming the five dysfunctions.
-
 - [Getting Better at Team Communication](https://monades.roperzh.com/getting-better-at-team-communication/) - by Roberto Dip. Takeaway: Tips based on experience for communicating better with individuals, teams and yourself.
+
+- [A Guide to Mindful Communication in Code Reviews](https://kickstarter.engineering/a-guide-to-mindful-communication-in-code-reviews-48aab5282e5e) - by Amy Ciavolino. Takeaway: How to be kind and constructive in code reviews.
 
 - [How Awesome Engineers Ask for Help](https://hackernoon.com/how-awesome-engineers-ask-for-help-93bcb2c7dbb7) - by Greg Sabo. Takeaway: Techniques for collaboration, such as clarifying what's expected of you, taking full responsibility for work so that you don't pass the buck, following up after getting answers, and showing appreciation.
 
 - [How to Build Ownership in Your Team – Case Study](https://luis-goncalves.com/build-ownership-team-case-study/) - by Michael Carr. Takeaway: Let the entire team to be involved in project inception, high-level backlog planning and prioritization; make teams cross-functional; be lean; and provide data so the team can understand the problem.
 
-- [How to Improve Team Closeness with Personal Maps](https://management30.com/practice/personal-maps/) - by Jürgen Appelo at M3.0. Takeaway: Personal maps and group exercises to develop them can enable members of teams to get to know each other as *humans* with interests and hobbies. The article points to tips and case stories for you to get ideas.
+- [High Output Management for (Non-managing) Tech Leads](https://www.g9labs.com/2020/01/04/high-output-management-for-non-managing-tech-leads/) - by Andrew Hao. Takeaway: Framed within a reference to Andy Grove's *High Output Management*, this covers how tech leads can be effective. "Collaborate closely with your management counterpart to develop and contextualize these indicators ... output indicators, quality indicators, in-process inspections."
 
 - [Hyperproductive Development](http://blog.jessitron.com/2017/06/the-most-productive-circumstances-for.html) - by Jessica Kerr. Takeaway: "the most productive development happens when one person knows the system intimately because they wrote it; this is in conflict with growing a system beyond what one person maintains." The post offers suggestions for what teams can do.
 
-- [Incentivize Teams, not People](https://rkoutnik.com/2018/03/17/incentivize-teams-not-people.html) - by Randall Koutnik. Takeaway: "Any programmer worth their salt is willing to help team members out when they’re in a pinch. Software development is a team sport, after all. Unfortunately, management can often completely miss the point and create perverse incentives that wreck a team’s cooperation and communication."
-
 - [Makers and Menders: Putting the Right Developers on the Right Projects (deck)](https://www.slideshare.net/andrea_goulet/makers-and-menders-putting-the-right-developers-on-the-right-projects) - by Andrea Goulet, CEO & Co-Founder of Corgibytes. Takeaway: Makers and menders each have valuable roles to play in development. Focusing too much on making leads to maintenance, "legacy code," and technical debt; mend as well to reduce your overhead.
-
-- [Mindful Communication in Code Reviews](http://amyciavolino.com/assets/MindfulCommunicationInCodeReviews.pdf) (slides) - by Amy Ciavolino. Takeaway: How to be kind and constructive in code reviews.
-
-- [The New Work Order: Team Ingredients and Role Blending ](https://www.slideshare.net/hhfleming/the-new-work-order-team-ingredients-and-role-blending) - by Heather Fleming. Takeaway: Use "team ingredients" to build teams that achieve maximum productivity and happiness.
 
 - [9 Attributes of Successful Development Teams](https://about.gitlab.com/2017/05/23/attributes-of-successful-development-teams/) - by Rebecca Dodd at GitLab. Takeaway: Great teams automate everything, are meticulous about documentation, use collaboration tools and integrated platforms, version control everything, make it easy for everyone to contribute, spend time on side projects, make code review collaborative, and are allowed to be creative.
 
-- [Re-structuring a Growing Team](https://writing.jeanhsu.com/re-structuring-a-growing-team-3ac30d93b637) - by Jean Hsu. Takeaway: Identify why you're reorganizing, understand what it means, and execute. Includes a plan for conducting a team reorg so you can prepare for your own.
-
-- [Scaling Your Software Becomes Increasingly Easier, but What About Scaling Your Team?](https://medium.com/@orenellenbogen/scaling-your-software-becomes-increasingly-easier-but-what-about-scaling-your-team-f8ab8e0da20f) - by Oren Ellenbogen. Takeaway: The five traits of a scalable team are 1. and aligned vision, 2. aligned, core values, 3. core values over individuals, 4. self-balance, and 5. having a sense of accomplishment.
-
-- [The Senior Engineer’s Guide to Helping Others Make Decisions](http://silverwraith.com/blog/2017/10/the-senior-engineers-guide-to-helping-others-make-decisions/) - by Geeky. Takeaway: Lots of tips for mentoring junior devs on your team.
+- [One Bite at a Time: Partitioning Complexity](https://www.facebook.com/notes/kent-beck/one-bite-at-a-time-partitioning-complexity/1716882961677894/) - by Kent Beck. Takeaway: tips on refactoring, code structure, and workflow.
 
 - [That's Not Our Code](http://ourbit.norbertoherz.com/2017/08/22/That-is-not-our-code/) - by Norberto Herz. Takeaway: "Keeping the right mindset and the correct culture is key in order to have an organization that understands their boundaries and when it is right to cross them." Hints at employing InnerSource, and addresses the conflicts and communication issues that can arise when autonomous teams are working in a microservices context.
-
-- [Thinking of the Next Developer](https://dev.to/dnimmo/thinking-of-the-next-developer) - by David Nimmo. Takeaway: before moving on to the next coding problem, take the time to save hassle for the next person joining your team or working with your code.
 
 - [25 Hints You’re Working on a High Performing Team](https://hackernoon.com/25-hints-youre-working-on-a-high-performing-team-c4d02f27dd3) - by John Cutler. Takeaway: Growth mindset, infrequent production issues, multidisciplinary collaboration, and 22 more signs.
 
 - [What Determines How Collaborative You'll Be?](https://opensource.com/open-organization/17/7/collaboration-vs-competition-part-2?sc_cid=7016000000127L3AAI) - by Ron McFarland. Takeaway: Four scenarios that illustrate the factors influencing your level of openness.
 
-[What Is a High-performance Team?](https://medium.com/@rkasper/what-is-a-high-performance-team-79a7a617a071) - by Richard Kasperowski. Takeaway: a brief post listing different metrics to measure the performance of different kinds of teams.
+- [What Is a High-performance Team?](https://medium.com/@rkasper/what-is-a-high-performance-team-79a7a617a071) - by Richard Kasperowski. Takeaway: a brief post listing different metrics to measure the performance of different kinds of teams.
 
-### Technical Debt/Managing It
+### Managing Technical Debt
 
 - [A Crystal Ball to Prioritise Technical Debt in Monoliths or Microservices: Adam Tornhill's Thoughts](https://www.infoq.com/news/2017/04/tornhill-prioritise-tech-debt) - by Daniel Bryant. Takeaway: a summary of Thornhill's QCon London 2017 talk, which covered "methods to identify 'hotspots' of code complexity and churn; the benefit of continually evaluating the suitability of the architecture for the current system, for example, by examining 'temporal coupling' of components or microservices; and that the cost of inter-team coordination can often be learned from examining the social metadata associated with code commits within a version control system."
 
@@ -107,5 +90,7 @@
 - [Paying off the Technical Debt in Your Agile Projects](https://www.agileconnection.com/article/paying-technical-debt-your-agile-projects) - by Nishi Grover Garg. Takeaway: "Just as you should not take out a financial loan without having a plan to pay it back, you should also have a plan when incurring technical debt. The most important thing is to have transparency—adequate tracking and visibility of the debt. Armed with the knowledge of these pending tasks, the team can devise a strategy for when and how to 'pay off' technical debt."
 
 - [Technical Debt: Adding Math to the Metaphor](http://reinertsenassociates.com/technical-debt-adding-math-metaphor/) - by Donald Reinertsen. Takeaway: Explores differences between the usual financial debt metaphor for technical debt and what deferred work really means in product development. The main difference Reinertsen investigates involves the (missing) certainty of how much principal you gain and how much interest you will pay back (if at all).
+
+- [Technical Debt Is Like a Tetris Game](https://www.fluentcpp.com/2020/01/17/technical-debt-is-like-a-tetris-game/) - by Jonathan Boccara. Takeaway: "If you’re asked to make a fix that will compromise the quality of your code, you can explain that it’s like placing a Tetris block at the wrong position. You can do it, and if you’re not too far into the game you won’t lose right now."
 
 - [When Your Tech Debt Comes Due](https://www.linkedin.com/pulse/when-your-tech-debt-comes-due-kevin-scott) - by Kevin Scott. Takeaway: a compelling story about how LinkedIn rebuilt their architecture in two months, and involved their entire engineering team.

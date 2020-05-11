@@ -2,11 +2,17 @@
 
 As a leader of a product development team you might have a PM that you’re working with, but some of your role will involve deciding how/when product is built, who builds what, etc. So you’ll need to level up your product skills.
 
+- [After 15 Years as a Product Leader, CEO and Now VC, Here’s the Advice I Always Share with Future Founders](https://firstround.com/review/after-15-years-as-a-product-leader-ceo-and-now-vc-heres-the-advice-i-always-share-with-future-founders/) - by FirstRound Capital. Takeaway: Todd Jackson (former product manager of Gmail, among other credentials) on how "[b]uilding really high-quality products takes an incredible amount of behind-the-scenes discipline, especially as your team grows." He also advises to protect quality and the user experience, and to take a site reliability engineering approach.
+
 - [Aligning Projects with Business Goals](https://blog.dnsimple.com/2017/02/aligning-business-goals-with-projects/) - by Anthony Eden. Provides a simple project management spreadsheet of six questions: 1) What is the problem we are trying to solve?; 2) What does success look like, and how does it fit in the big picture?; 3) What are the MUST DO and the MUST NOT DO items?; 4) What is the deadline?; 5) Who should I talk to for help and get feedback?; 6) Have we done this before? Something we already have to get started?
+
+- [Am I a Product Manager or a Product Owner? Part 1: Confusion Abounds](https://medium.com/@ellengott/am-i-a-product-manager-or-a-product-owner-part-1-confusion-abounds-963c943beb7f) - by Ellen Gottesdiener. Takeaway: a five-part article series on differentiating the roles, with lots of keen insights and explanations. [Part 2: Part 2: 5 Ways to Untangle the Mess](https://medium.com/@ellengott/am-i-a-product-manager-or-a-product-owner-part-2-5-ways-to-untangle-the-mess-d613452135d9).  
+
+- [From Apathy to Autonomy](https://www.youtube.com/watch?feature=youtu.be&v=3ER5d6uy4EE) (video) - by Darko Zelić. Takeaway: You don't have to go full-corporate as you scale up; in this Lead Dev Amsterdam talk, Zelić tells you how.
 
 - [The Art of Project Management](https://docs.google.com/document/d/1Cr2DRP06GcBNQoOc3K5huQ61Mk_yyX5ZFsS8IlF1M6Y/edit) - notes by Joe Golberg about Scott Berkun's book.
 
-- [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything ](https://docs.google.com/document/d/1EC4eF-uVeD-Arwoxl5SUKSQNmLK1CRF775zpRqVP4q0/edit#heading=h.efeded667ce6) - by Joe Goldberg. Notes about the book by Guy Kawasaki.
+- [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything](https://docs.google.com/document/d/1EC4eF-uVeD-Arwoxl5SUKSQNmLK1CRF775zpRqVP4q0/edit#heading=h.efeded667ce6) - by Joe Goldberg. Notes about the book by Guy Kawasaki.
 
 - [Blue Ocean Strategy](https://docs.google.com/document/d/1eR2K1fLY-_XQUfpJbEkB6xzSatyhQauI3-213jDjTL4/edit) - notes by Joe Goldberg about the book by W. Chan Kim and Renée Mauborgne.
 
@@ -16,19 +22,25 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Do the Simple Thing First: The Engineering Behind Instagram](https://www.fastcompany.com/3047642/do-the-simple-thing-first-the-engineering-behind-instagram) - by Harry McCracken. Takeaway: Instagram founders made technical decisions using a principle which favored practicality over perfection. "If it solves a problem and gets us closer to launch, let’s do it."
 
-- [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - by Charity Majors. Takeaway: "Fuck the whole idea that only managers get career progression. And fuckkkk the idea you have to choose a “lane” and grow old there.  I completely reject this kind of slotting."
-
 - [Everyone Forgets Technical Research](https://producthabits.com/everyone-forgets-technical-research/) - by Product Habits. Takeaway: Offers a step-by-step template for creating a 1-3 page technical research outline that will enable product leads to communicate plans more effectively with developers, who can then better do the research on their side required to build a product successfully. "The outline should be a short summary of what you’re looking to create, including required features and functionality. You should also provide guidance on what matters most to you (and customers). What’s the core problem you’re looking to solve, and how do you plan to solve it? What are the most important parts of what you’re building?"
 
 - [Growing Your Tech Stack: When to Say No](https://blog.codeship.com/growing-tech-stack-say-no/) - by Jessica Kerr. Takeaway: An exploration of what tools are Low-Risk (local developer utilities), Moderate Risk 1 (deployment infrastructure), Moderate Risk 2 (programming language), and serious risk (database). “When you do accept a technology into your stack, make sure it has an owner. Spread knowledge through pairing, documentation, and communication. Make responsibility explicit and set aside time for maintenance, upgrades, and reassessment. The right technology today will be the wrong technology at some point.”
 
 - [Growth Hacking Notebook](https://docs.google.com/document/d/1uN_kMZlwsdaliiUhIEei5PTnLphm0p6Eo57Xg6LnFHc/edit) - notes by Joe Goldberg.
 
+- [Here's How to De-Risk Your Product Strategy](https://www.linkedin.com/pulse/heres-how-de-risk-your-product-strategy-jeff-gothelf/) - by Jeff Gothelf. Takeaway: Strategic planning involves three questions: who’s the target market, what’s the value proposition, and what's your Key Result.
+
 - [How Compare and Contrast Decisions Lead to Better Product Outcomes](https://www.producttalk.org/2017/09/compare-and-contrast-decisions/) (slides) - by Teresa Torres. Takeaway: A detailed look at how to bring focus to product decisions, including suggested tools like the "opportunity solution tree." 
 
-- [How to Sell the Problem Before Selling the Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484) - by David Bailey. Takeaway: Tactical ways to express customer needs and "lead with the need."
+- [How to Kickstart and Scale a Marketplace Business – Phase 1: 🐣 Crack the Chicken-and-Egg Problem (Part 1/4)](https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace) - by Lenny Rachitsky. Takeaway: insights from Airbnb, DoorDash, Thumbtack, Etsy, Uber and other companies on how to scale a marketplace. Crack the chicken-and-egg problem, scale your marketplace, then evolve it.
 
-- [How to Take Your Engineering Team from Good to Great](http://codingsans.com/engineering-team-from-good-to-great) - by Tamas Torok. Takeaway: In this guide, we compressed all the knowledge we collected in recent years through interviewing tech leaders, reading countless case studies and using our own experience in the software development field. Learn more about the most effective hiring methods and figure out how to make your team more attractive to new developers. See onboarding practices and retention tips to decrease your team's fluctuation. See exactly what makes a team great and copy the practices they use. See how to set goals, motivate developers, organize communication and work. Easily identify the problems in your team by taking a data-driven approach. Set individual and team expectations, increase your developer team's productivity and make sure to provide regular feedback. 
+- [How to Make Things High-Quality](https://medium.com/the-year-of-the-looking-glass/how-to-make-things-high-quality-f466f875227d) - by Julie Zhuo. Takeaway: "When you get into a TTBQT ('The Tradeoff Between Quality and Time') state, the real question to ask is: 'If we knew X would take this long to get to high-quality, would we have opted to do it in the first place?'”
+
+- [How New Startups Can Win at PR — Advice from a 20-Year Comms Career](http://firstround.com/review/how-new-startups-can-win-at-pr-advice-from-a-20-year-comms-career) - by FirstRound. Takeaway: Terra Carmichael, VP of Global Communications at Eventbrite, offers tips on attracting media coverage.
+
+- [How to Sell the Problem Before Selling the Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484) - by David Bailey. Takeaway: Tactical ways to express customer needs and "lead with the need." 
+
+- [Hypergrowth and The Law of Startup Physics](https://firstround.com/review/hypergrowth-and-the-law-of-startup-physics/) - by FirstRound Capital. Takeaway: "The law of startup physics: humans grow linearly, companies grow exponentially."
 
 - [In Praise of SWARMing](https://dannorth.net/2018/01/26/in-praise-of-swarming/) - by Dan North. Takeaway: "I am offering a new acronym, SWARMing: Scaling Without A Religious Methodology. My argument isn’t that packaged scaling methods are unhelpful per se, rather that they are neither necessary nor sufficient for successful transformation. They can be anything from a useful starting point to an expensive distraction, but one thing they are not is a solution."
 
@@ -48,7 +60,7 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The MVP is dead. Long live the RAT.](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02) - by Rik Higham. Takeaway: "There is a flaw at the heart of the term Minimum Viable Product: it’s not a product. It’s a way of testing whether you’ve found a problem worth solving. A way to reduce risk and quickly test your biggest assumption. Instead of building an MVP identify your Riskiest Assumption and Test it. Replacing your MVP with a RAT will save you a lot of pain."
 
-- [On Writing Product Roadmaps](https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c) - by Gaurav Oberoi. Takeaway: "Roadmaps are a tool to think about your product beyond the next couple of sprints. They force you to plan, communicate, and get buy in. The win is that your team is aligned, can focus on execution, and reliably achieve long term goals." Includes some useful examples of roadmap docs, and proposed schedules for planning and creating your roadmaps. 
+- [Observations on Product Management](https://medium.com/hackernoon/observations-on-product-management-3abc7e00148e) - by Dan Hill. Takeaway: "Most Product Managers (and everyone probably) spend too little time thinking about how to solve a problem. They jump straight into solving it. Problems come in different shapes, and not all need the same process. The process that shipped the last product is unlikely to be the one that you need for the next...Incremental development and vision are not orthogonal; they both require the other. All product must start with a vision — a point of view — but then be built critically step by step. It’s ok to learn something new as you go."
 
 - [The Only Metric That Matters — Now With Fancy Slides!](https://news.greylock.com/the-only-metric-that-matters-now-with-fancy-slides-232474cf414c) - by Josh Elman at Greylock Partners. Takeaway: "[T]he only thing founders need to think about is: Are people using your product? Are they using it how you expect (i.e performing the core action)? And, are they performing the core action at the frequency you expect?"
 
@@ -62,13 +74,20 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Product Manager Superpower: User Science](https://medium.com/@tworetzky/the-product-manager-superpower-user-science-7296134ae5a4) - by Brent Tworetzky. Takeaway: "While finding the perfect user-product fit is rarely easy, trained product managers can find great fits consistently with User Science–the field of deeply understanding people interacting with products through rigorous toolings and process. User science involves understanding both user needs (identifying which problem to solve) and user behaviors (understanding how and why users react to products). This distinction is important: winning products need both a meaningful problem to solve and strong execution."
 
+- [Product Strategy Means Saying No](http://www.productstrategymeanssayingno.com/) - by Intercom. Takeaways: Review common
+  reasons for making product decisions and ask whether they are actually good for the product.
+  
 - [Reminder: Your “Product” Company is Just an Implementation Detail](https://medium.com/from-the-start/building-a-feature-697344aefda2) - by Jeremy Baker. Takeaway: The progress our customer wants to make is the most important thing. We think about our features and what they can do, and present them that way. When we do this, we’re "forcing our customer to do the hard work. They have to map features to their process and figure out if it helps them make progress ... Instead, talk about the progress our customer wants to make, and build tools that enable that progress."
 
 - [Scaling Airbnb with Brian Chesky — Class 18 Notes of Stanford University’s CS183C](https://medium.com/cs183c-blitzscaling-class-collection/scaling-airbnb-with-brian-chesky-class-18-notes-of-stanford-university-s-cs183c-3fcf75778358) - by Chris McCann. Takeaway: about Airbnb’s “10 star service” thought experiment, in which they transcended the usual five-star review by adding five more measurements for success.
 
 - [The Scrum Product Owner Theses](https://age-of-product.com/scrum-product-owner-theses/) - by Stefan Wolpers. Not necessarily tied to the Scrum agile framework, this list of 56 "theses" addresses the PO's role; examines product discovery and stakeholder management; roadmap planning, and more.
 
+- [The Shortest Path Is the Scariest](https://medium.com/gusto-engineering/the-shortest-path-is-the-scariest-77ff94248334) - by Omri Ben Shitrit. Takeaway: "To be good at execution ... Continuously identify the next most important problem we should be solving for our customers. We’ve written about this in the past. Understand (roughly) the cost and benefit of solving the problem, and our confidence level in both side of the equation. Find the optimal set of tradeoffs between product scope and engineering costs in solving the problem."
+
 - [To Grow Faster, Hit Pause — and Ask These Questions from Stripe’s COO](http://firstround.com/review/to-grow-faster-hit-pause-and-ask-these-questions-from-stripes-coo/) - by First Round. Takeaway: "There’s a list of questions companies should ask themselves as they head into rapid growth — ideally in that relatively brief moment right after clinching product-market fit." The post provides these questions, to help you become less reactive and more proactive in managing your growth.
+
+- [Transforming from Projects to Products](https://www.infoq.com/articles/transform-projects-products) - by John Yorke. Takeaway: "Agile Transformation means thinking of Products rather than Projects. Agile is a Mindset not a set of rules to be followed. It requires a cultural change not a process change. Agile changes the way we measure project success and how we measure people's behaviour. Change is Hard. Project Management and People Management are those that need to change the most."
 
 - [The Ultimate Question](https://docs.google.com/document/d/1nsmy2GqHL-9IjEc0Q88tsSYafHJQXtgK0P8pJWKOTAs/edit) - notes by Joe Goldberg about the book by Fred Reichheld, which focuses on measurements like the net promoter score (NPS).
 

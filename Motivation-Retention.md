@@ -2,6 +2,8 @@
 
 ### Motivation
 
+- [Are You Being Micro-Managed? Manage Your Relationship with Your Manager Instead.](https://www.freecodecamp.org/news/are-you-being-micro-managed-manage-your-relationship-with-your-manager-instead-9ad10b28bcda/) - by Osman (Ozzie) Ahmed Osman. Takeaway: Consider that your manager is unaware of their behavior, afraid of failure, or has some other valid-to-them reason for micromanaging. But they might also have control issues. Try to take control back by starting a conversation with feedback, using the SBI model. If it doesn't go well, consider leaving the manager or team for another.
+
 - [Building and Motivating Engineering Teams](https://medium.com/swlh/building-and-motivating-engineering-teams-24fd56910039) - by Camille Fournier. Takeaway:
 
   1. **Money:** When you don’t pay people well enough, you contribute to undermining their resilience in the face of problems at work. Think of it as the baseline of [Maslow’s hierarchy](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs).
@@ -26,7 +28,7 @@
 
 - [Moving Motivators](https://management30.com/practice/moving-motivators/) - by Jurgen Appelo. A fun exercise you can use with your team to understand which values and aspirations motivate them—status, freedom, power, etc.
 
-- [The Neuroscience of Trust](https://hbr.org/2017/01/the-neuroscience-of-trust) - by Paul J. Zak. Takeaway: "[B]uilding a culture of trust is what makes a meaningful difference. Employees in high-trust organizations are more productive, have more energy at work, collaborate better with their colleagues, and stay with their employers longer than people working at low-trust companies. They also suffer less chronic stress and are happier with their lives, and these factors fuel stronger performance."
+- [The Simple Tool That Revives Employee Motivation](https://firstround.com/review/the-simple-tool-that-revives-employee-motivation/) - by FirstRound. Takeaway: Product leader Jack Chou shares his own "hierarchy of needs" for building and maintaining motivation in teams.
 
 - [The 3 Motivational Forces of Developers](http://www.bennorthrop.com/Essays/2013/developer-motivation.php) - by Ben Northrop. Takeaway: Developers have three main different motivations, and each motivation can be used in different states of a project life-cycle.
 
@@ -72,6 +74,8 @@
 
 - [How We Pay People at Basecamp](https://m.signalvnoise.com/how-we-pay-people-at-basecamp-f1d04f4f194b) - by DHH. Takeaway: "There are no negotiated salaries or raises at Basecamp. Everyone in the same role at the same level is paid the same. Equal work, equal pay." Basecamp offers employees salaries in the top 5% of the market (Chicago) and meaningful benefits, and has instituted a new profit growth sharing scheme.
 
+- [Leadership Hack: The Pizza Model for Happy and Productive Teams](https://medium.com/hackernoon/leadership-hack-the-pizza-model-for-happy-and-productive-teams-5708ca3e3ca7) - by Adi Oz. Takeaway: Oz created the Pizza Model after becoming a manager and watching half of the engineers leave due to company culture. The model includes four needs: social, (work-life) balance, profession and salary. Every person rates these factors on a different scale. 
+
 - [People Leave Managers, Not Companies. Don’t Let That Manager Be You.](https://blog.intercom.com/people-leave-managers-not-companies/) - by Rich Archebold. Takeaway: Avoid manager overconfidence by asking for advice and peer review, owning instead of blaming, give feedback with empathy, savor success, and constantly revisit what it takes to be a good manager.  
 
 - [Quantifying Personal Retention Impact: A Mathematical Thought Exercise](http://royrapoport.blogspot.ie/2015/01/quantifying-personal-retention-impact.html) - by Roy Rapoport. Takeaway: Offers a scale from -3 to +3 for determining how much you'd join a company based on whether a former colleague you liked or disliked is working there.
@@ -89,6 +93,8 @@
 - [Turning Around Employee Turnover](http://www.gallup.com/businessjournal/106912/turning-around-your-turnover-problem.aspx?__s=ns1epkqjs8qj1ggjuafv) - by Jennifer Robison for Gallup. Takeaway: "According to Gallup's research, 9 of the 12 workplace elements consistently predict turnover across business units, regardless of an organization's size. These elements are: having clear expectations, having the materials and equipment to do the job right, having the opportunity to do what you do best every day, the belief that someone at work cares, the belief that someone encourages your development, a sense that your opinions count, the mission or purpose of the company making you feel that your job is important, a belief that your coworkers are committed to quality, and having opportunities to learn and grow at work. If these needs are met, as shown by higher scores on these employee engagement items, turnover is likely to be low."
 
 - [20 Simple Reasons Your Top Performers Quit](https://blog.bonus.ly/6-simple-reasons-your-top-performers-quit) - by George Dickson at Bonusly. Takeaway: "Start by taking a step back and objectively analyzing the causes of voluntary turnover. Understanding why top performers quit is the first step in preventing yours from leaving for greener pastures. Luckily, you don't have to make these mistakes yourself to learn from them. Plenty of others already have."
+
+-[What Not to Do When You’re Trying to Motivate Your Team](https://hbr.org/2018/07/what-not-to-do-when-youre-trying-to-motivate-your-team) - by Ron Carucci. Takeaway: "Motivation is not something you do to people. People ultimately choose to be motivated — when to give their best, go the extra mile, and offer radical ideas. The only thing leaders can do is shape the conditions under which others do, or don’t, choose to be motivated. But the final choice is theirs."
 
 - [Why I Rejected My Manager](https://medium.com/personal-growth/why-i-rejected-my-manager-b2273e354462) - by Mianya Ong. Takeaway: Ong rejects in managers the “their way or the highway” attitude, being busy being too busy, lack of awareness of what reports are working on, infallibiity, inability to explain why, hiring people exactly like them, and inability to compromise.
 

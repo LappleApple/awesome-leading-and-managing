@@ -1,5 +1,5 @@
 ## 1-on-1s    
- 
+  
 - [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) — by Mark Rabkin at Facebook. Takeaway: If your 1:1 isn’t a bit awkward, you’re not talking about the real stuff. Article includes helpful prompting questions.
  
 - [Ask What, Why, and How to gain Purpose and Perspective](https://hackernoon.com/purpose-and-perspective-through-what-why-and-how-e158bf63e764) — by Brent Baisley. Takeaway: Three questions to help with alignment/purpose are: 1) What are you working on? (description of the work to be done); 2) Why are you working on it? (purpose behind the work); 3) How is it going to have an impact?
@@ -8,6 +8,8 @@
 
 - [Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447) - by Douglas Stone, Bruce Patton and Sheila Heen. Takeaway: Learn how to convert a difficult conversation to a learning conversation, thereby having more effective, fruitful discussions.
  
+- [The 4 Questions You Should Stop Asking During Your One-on-One Meetings](https://m.signalvnoise.com/the-4-questions-you-should-stop-asking-during-your-one-on-one-meetings-ed7431da11aa) - by Claire Lew. Takeaway: Don't ask "how's it going?," "What's the latest on (X)?,"How can I help you?," or “How can we improve?” Read the article to find out why.
+
 - [Getting Feedback](http://daydreamsinruby.com/getting-feedback/) - by Allison (Sheren) McMillan. Takeaway: Offers questions you can ask to colleagues with both more and less experience, in 1:1's or other direct communications.
 
 - [Having Bad One to One Meetings? Here’s How to Turn Them Around](https://getlighthouse.com/blog/one-to-one-meeting) — by Lighthouse. Takeaway: genuinely care about your reports, and aim to understand them. Let them talk 90% of the time, take notes, ask good questions, and talk about their career growth.
@@ -34,6 +36,8 @@
 - [1:1 Basics for the Introvert Engineering Manager](https://speakerdeck.com/orenellenbogen/1-1-basics-for-the-introvert-engineering-manager) (deck) - by Oren Ellenbogen, author of *Leading Snowflakes*. Takeaway: a detailed slidedeck with ideas on how to make 1:1's great, and why (to build trust and provide value as a manager).
 
 - [1:1 Meetings With Your Team](http://www.ryancarson.com/) — by Ryan Carson. Takeaway: Get to know more about your team members individually to establish trust and find out where their interests lie.
+
+- [1on.one](http://1on.one/) - by @TenaciousJoe. Takeaway: A question generator for 1:1's.
 
 - [A 101 on 1:1s](https://labs.spotify.com/2015/12/16/a-101-on-11s/) - by Simon Nadav Cohen. Takeaway: To make 1:1's more fulfilling, create goals like "build trusting relationships between team leads and engineers," "[create] a safe place to discuss sensitive and private issues or provide personal feedback, and "discuss and work on career development plans 	So engineers can set goals for themselves and have a partner who helps them achieve these goals." Sticking to these goals will make the meetings more productive.
 

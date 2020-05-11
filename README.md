@@ -7,38 +7,46 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 
 - "An awesome collection of resources!" —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178), Twitter
 - "Thanks again for putting together this tremendous resource!"—[Dave Golden](https://twitter.com/xdg), MongoDB and contributor
-— "I have hunted and used this repeatedly in the last few months and referred many others to the material. So thank you—it's making a real difference in more ways than you could Imagine! :)" —Dave Igoe, via Slack
+- "I have hunted and used this repeatedly in the last few months and referred many others to the material. So thank you—it's making a real difference in more ways than you could Imagine! :)" —Dave Igoe, via Slack
+
+### Quotes That Capture the General Spirit of this List's Contents
+- "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton
+- "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan
+- "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317) 
 
 ## Contents
 - [Abilities, Qualities and Values](Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](Building-Products-and-Startups-OKRs.md)
+- [Building Teams](Building-Teams.md)
 - [Conflict Prevention and Conflict Resolution](Conflict-Prevention-Resolution.md)
+- [The CTO Role](The-CTO-role.md)
 - [Culture](Culture.md)
-- [Diversity and Gender](Diversity-and-Gender.md)
+- [Decision-Making](Decision-Making.md)
+- [Delegation](Delegation.md)
+- [Diversity and Inclusion](Diversity-and-Inclusion.md)
+- [Empathy and Listening](Empathy-and-Listening.md)
 - [Firing](Firing.md)
 - [Giving Feedback, Praise, and Advice](Giving-Feedback-Praise-and-Advice.md)
 - [Hiring and Interviewing Candidates](Hiring-and-Interviewing.md)
 - [For Developers: Software Craftspersonship, Teamwork, Technical Debt](For-Developers-Teamwork-TechDebt.md)
-- [Influence, Delegation, and Decision-Making](Influence-Delegation-and-Decision-Making.md)
+- [Influencing Others](Influencing-Others.md)
 - [Leader List](Leader-List.md)
-- [Leadership Media](Leadership-Media.md)
+- [Leadership Forums](Leadership-Forums.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
 - [Leading Leaders](Leading-Leaders.md)
-- [Meetings and Time Management](Meetings-and-Time-Management.md)
+- [Managing Remotely](Managing-Remotely.md)
+- [Media: Blogs, Newsletters, Podcasts](Media-Blogs-Newsletters-Podcasts.md)
+- [Meetings](Meetings.md)
 - [Motivation and “Retention”](/Motivation-Retention.md)
 - [Onboarding](Onboarding.md)
 - [One-on-Ones](One-on-Ones.md)
 - [People Ops, Performance Reviews, and Goal-setting](People-Ops-Perf-Reviews-and-Goal-setting.md)
+- [Planning, Roadmaps and Processes](Planning-roadmaps.md)
 - [Postmortems and Retrospectives](Postmortems-Retrospectives.md)
+- [Productivity and Time Management](Productivity-and-Time-Management.md)
+- [Tools to Define Your Leadership Style](Tools-to-Define-Your-Leadership-Style.md)
 - [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
-
-* "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
-* "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan<br>
-* "A leader is best when people barely know he exists, when their work‘s done, her aim fulfilled, they will say: we did it ourselves." — Lao Tzu*
-* "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317)
-
-## Contribute Your Favorites
-Please share/promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](CONTRIBUTING.md) and make a pull request (one per item/entry). 
+- [The VP Engineering Role](The-VP-Engineering-Role.md)
 
 ## FAQ
 - [Who is this for?](#who-is-this-for)
@@ -48,20 +56,17 @@ Please share/promote your favorite managing and leading resources/go-to's (books
 - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
 
 ### Who is this for?
-- Individual contributors (ICs) looking to move into a management role but not sure if it’s right for them
+- Individual contributors (ICs) considering a move to management
 - ICs who want to stay ICs but want to have more influence in their orgs
 - ICs who recently moved into a management role
-- Managers looking to level-up a particular skill
+- Managers looking to level-up a particular skill or attribute
 - Managers transitioning to meta-management (managing managers)
 
-### Why should you read this or trust the authors for advice?
-You shouldn’t. Much of this is self-contradictory. Some seemed like good advice at the time. Little of it is original, even less is written by me. Don’t read this cover-to-cover. Scan the Table of Contents and pick a topic you’d like to learn more about. Joe has highlighted the absolutely most essential content (a few dozen articles, six books, and a handful of videos, checklists, and slide decks).
-
 ### How can I submit a link or ask a question?
-First off, we'd love that! For submissions, follow our [contributing guidelines](CONTRIBUTING.md). For questions, go ahead and post an issue in our Issues Tracker. 
+So glad you asked! Share and promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by reviewing the [contributor guidelines](CONTRIBUTING.md), then making a pull request (one per item/entry). For questions, go ahead and post an issue in the Issues Tracker. 
 
 ### How can I get more info on [missing topic]?
-Please let us know via the Issues Tracker if there’s a topic you'd like this list to include.
+Please make a request via the Issues Tracker if there’s a topic you'd like this list to include.
 
 ### Did you write all this yourself? (Credit/Attribution)
 Almost none of the content shared in this list is by the authors. Where there’s a link, the content below it is generally a summary of the linked webpage. When there’s no link, it’s either original content or gives credit/attribution. Some book summaries are from [Personal MBA](https://personalmba.com/), which Joe piloted and consulted on, but not to the extent where he is willing to take credit for its content.
