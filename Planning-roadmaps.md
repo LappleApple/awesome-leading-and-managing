@@ -1,6 +1,8 @@
 ## Planning, Prioritization, Processes and Roadmaps
 
 ### Planning
+- [Almanac.io](https://almanac.io/home) - a resource for open-source documents and templates related to planning, prioritization, and other management topics.
+
 - [Operating Plans for Pre-seed Startups](https://blog.bolt.io/operating-plans/) - by Axel Bichara. Takeaway: "There is no mystery to writing an operating plan. An operating plan is a list of everything you intend to do as a business over the next 6–12 months. Think of it as a month-by-month to-do list for all aspects of your company...A great operating plan helps you identify earlier when your burn rate is higher than you hoped. This buys you enough time to to course-correct."
 
 - [Product Requirements Template](https://docs.google.com/document/d/1TAPT8b2g1JQdoNcc9ssahGgWUp96X8_BWJ59zA7_E40/edit#heading=h.835a8667i59f) - by Unusual Ventures. Takeaway: A template that drives a thoughtful analysis of product requirements via guiding questions structured to tell a coherent story. Includes a "Press Release" field that draws from Amazon's methods.
