@@ -52,6 +52,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [How Do I Manage People?](https://medium.com/@lennymarkus/how-do-i-manage-people-93018dc19fb4) - by Lenny Markus. Takeaway: Based around questions posed in a Twitter thread kicked off by Charity Majors, this article offers a well-rounded view of all aspects of a manager's duties, along with personal insights from the author.
 
+- [How to Be a Good Boss: Start by Understanding Why You Want to Lead](https://insight.kellogg.northwestern.edu/article/understanding-your-leadership-style) -by Kellogg Insight. Takeaway: Research by Jon Maner and Charleen R. Case reveals that dominance and prestige are two frequent motivators to becoming a leader, and gender is not a relevant factor in which motivator a person leans toward. Prestige-motivated leadership is distinctly human.  
+
 - [How to Lead]( https://medium.com/@wgalyean/how-to-lead-f4383da7047c) - by Wilson Galyean. Takeaway: Leadership lessons from a former US Army officer and West Point cadet. "There is a difference between management and leadership. Management is decision making and the handling of resources. Leadership goes beyond management to craft and maintain the interpersonal glue that makes your organization a team."
 
 - [How to Lead by Noticing and Filling in Gaps](https://blog.coleadership.com/how-to-lead-by-noticing-and-filling-in-gaps/) - by Jean Hsu. Takeaway: gaps exist everywhere, and leaders know which ones to fill.
