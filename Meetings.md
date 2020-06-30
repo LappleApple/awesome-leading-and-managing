@@ -3,6 +3,8 @@
 
 - [A Field Guide to Dudes Who Ruin Meetings](https://medium.com/part-and-sum/a-field-guide-to-dudes-who-ruin-meetings-3877de28b661#.di6epdtpw) - by Jim Babb. Takeaway: tips on thow to deal with Cool Tool, Mister Details, Professor This-is-Bullshit and other meeting-ruiners.
 
+- [50+ Free Meeting Agenda Templates](https://www.hugo.team/meeting-templates) - by various authors. Takeaway: Templates for 1:1's, sprint planning, team meetings, employee onboarding and other types of meetings.
+
 - [Gossip, Rumors, and Lies](http://randsinrepose.com/archives/gossip-rumors-and-lies/) - by Michael Lopp. Takeaway: What are the right reasons to have  meetings, how to provide important structure, and the importance of settings an agenda. 
 
 - [How I Share Information with My Team](http://www.mikemcgarr.com/blog/week-in-review.html) - by Mike McGarr.

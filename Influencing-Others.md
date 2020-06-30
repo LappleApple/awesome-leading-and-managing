@@ -54,6 +54,8 @@ Start by assuming it’s not them, it’s you."
 
 - [9 Tips: How IT Leaders Can Build Better Relationships](https://enterprisersproject.com/article/2017/11/9-tips-how-it-leaders-can-build-better-relationships) - by Carla Rudder. Takeaway: Be a partner, be transparent, be truthful, be in constant communication, be OK with being wrong, be in the moment, be engaged, be a team player, be candid.
 
+- [Prattfalls: Better Communication](https://medium.com/@royrapoport/prattfalls-better-communication-54d173d22a90) - by Roy Rapoport. Takeaway: "Communication only exists as a mutation of someone else’s internal state; focus entirely on what mutation you’re trying to accomplish; be thoughtful about how to accomplish that mutation; validate THAT mutation occurred."
+
 - [Public Speaking Resources](https://github.com/vmbrasseur/Public_Speaking) - by VM Brasseur. Takeaway: A collection of resources on speaker training/tips, technical conferences, proposing talks and more.
 
 - [The Science of Speaking is the Art of Being Heard](http://firstround.com/review/the-science-of-speaking-is-the-art-of-being-heard/) - by First Round. Takeaway: "Communication is not just about what you say, it’s about the reaction it causes in the listener. Often we think delivering a message is enough without checking to see if it was actually received. This can be made more efficient with attention to meta models. Lastly, communication is making sure there’s enough shared context for the person to act on what's next."

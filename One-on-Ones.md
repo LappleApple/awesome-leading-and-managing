@@ -39,7 +39,7 @@
 
 - [1on.one](http://1on.one/) - by @TenaciousJoe. Takeaway: A question generator for 1:1's.
 
-- [A 101 on 1:1s](https://labs.spotify.com/2015/12/16/a-101-on-11s/) - by Simon Nadav Cohen. Takeaway: To make 1:1's more fulfilling, create goals like "build trusting relationships between team leads and engineers," "[create] a safe place to discuss sensitive and private issues or provide personal feedback, and "discuss and work on career development plans 	So engineers can set goals for themselves and have a partner who helps them achieve these goals." Sticking to these goals will make the meetings more productive.
+- [A 101 on 1:1s](https://engineering.atspotify.com/a-101-on-11s/) - by Simon Nadav Cohen. Takeaway: To make 1:1's more fulfilling, create goals like "build trusting relationships between team leads and engineers," "[create] a safe place to discuss sensitive and private issues or provide personal feedback, and "discuss and work on career development plans 	So engineers can set goals for themselves and have a partner who helps them achieve these goals." Sticking to these goals will make the meetings more productive.
 
 - [Questions for Our First 1:1](http://larahogan.me/blog/first-one-on-one-questions/) — by Lara Hogan, Kickstarter. Takeaway: Ask reports what make them grumpy; how they like to get feedback and recognition; what their goals are, and more.
 
