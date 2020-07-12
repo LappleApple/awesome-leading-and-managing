@@ -33,7 +33,7 @@
 
 - [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.amazon.com/Programming-Beyond-Practices-More-Monkey/dp/1491943823/ref=sr_1_1?ie=UTF8&qid=1496801606&sr=8-1&keywords=programming+beyond+practices) - by Gregory Brown. Covers all aspects of being a leader-developer besides writing code, from prototyping to improving processes.
 
-- [Satisficery Engineering](http://baggerspion.net/2017/08/satisficery-engineering/) - by Paul Adams, Zalando. Takeaway: looks at the topic of "Push." How do we know when to push a team—and in which direction? Sometimes asking a team to deliver more is appropriate but, likewise, it can also be appropriate to give them a break. This article is about being mindful of these opportunities and their consequences.
+- [Satisficery Engineering](https://baggerspion.net/blog/2017/08/satisficery-engineering) - by Paul Adams, Zalando. Takeaway: looks at the topic of "Push." How do we know when to push a team—and in which direction? Sometimes asking a team to deliver more is appropriate but, likewise, it can also be appropriate to give them a break. This article is about being mindful of these opportunities and their consequences.
 
 - [The Senior Engineer’s Guide to Helping Others Make Decisions](http://silverwraith.com/blog/2017/10/the-senior-engineers-guide-to-helping-others-make-decisions/) - by Geeky. Takeaway: Lots of tips for mentoring junior devs on your team.
 
