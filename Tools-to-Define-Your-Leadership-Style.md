@@ -6,6 +6,8 @@
 
 - [How to Be a Manager](https://getweeklyupdate.com/manager-guide) - by Greg Skloot. Takeaway: a step-by-step guide, covering major facets of the role. 
 
+- [Lazylead](https://github.com/dgroup/lazylead) - by Yurii Dubinka. Takeaway: An example how to avoid annoying/routine tasks related to the bug trackers/ticketing systems.
+
 - [Manager Readme](https://managerreadme.com/) - by Oren Ellenbogen. Takeaway: "One of the hardest parts of becoming a great leader is developing self-awareness. Writing your Readme can be your outlet, then, share it with your team." 
 
 - [Manual of Me](https://manualofme.co/) - by Leapers.co. Takeaway: "Sort of like a user manual for a person, the Manual of Me is a handy guide for others to help them get the best from you at work."
