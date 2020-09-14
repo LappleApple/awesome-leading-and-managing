@@ -13,7 +13,7 @@
 - [Etsy's Charter of Mindful Communication](http://larahogan.me/blog/charter-mindful-communication/) - by Lara Hogan and Etsy's Culture & Engagement team. Takeaway: When engaging with someone, keep it REAL—"Reflect on the dynamics in the room;
 Elevate the conversation; Assume best intentions; Listen to learn."
 
-- [42 Things Non-Front-Liners Misunderstand](https://hackernoon.com/40-things-non-front-liners-misunderstand-fcb2f55088f9) - by John Cutler. Takeaway: "It is unfair to expect people who haven’t worked on the front lines in software development to just get it. Just as, I’m guessing, it is hard for developers and UXers to grok sales and marketing, being a CEO, and working in HR. Assuming malice is a big mistake. We all want great outcomes for our respective businesses, but have a hard time bridging the divide."
+- [42 Things Non-Front-Liners Misunderstand](https://medium.com/hackernoon/40-things-non-front-liners-misunderstand-fcb2f55088f9) - by John Cutler. Takeaway: "It is unfair to expect people who haven’t worked on the front lines in software development to just get it. Just as, I’m guessing, it is hard for developers and UXers to grok sales and marketing, being a CEO, and working in HR. Assuming malice is a big mistake. We all want great outcomes for our respective businesses, but have a hard time bridging the divide."
 
 - [The Heartbeat Interview with Amy Gallo](https://youtu.be/-yZi2WwIXnQ) (video) - by Claire Lew. Takeaway: A chat about how leaders can become friendly and human with their teams, set boundaries and be friendly. Being human at work builds empathy and care.
 
