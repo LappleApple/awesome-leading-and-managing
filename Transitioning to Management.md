@@ -16,8 +16,6 @@
 
 - [Conversations with Your Team, Peers and Boss](http://katemats.com/conversations-with-your-team-peers-and-boss-guide-for-new-leaders/) - by kate{mats}. Takeaway: "Whenever you first join a new team the most important thing you can do is listen and observe.  Get to know the players and the company culture."
 
-- [The Curious Transition to Becoming an Engineering Manager](https://blog.gitprime.com/transition-to-engineering-manager/) - by GitPrime. Takeaway: A conversation with Engineering Leadership coach Jean Hsu about knowing one's impact, handling self-doubt, and growing into the role. “'Actually, we don’t really dock people for those lacks, as an industry,' she says. 'People get rewarded for their technical focus. We put them in management positions, or just keep promoting them, and people can get pretty high up without really thinking too much about people’s intrinsic motivations.'”
-
 - [The Delicate Balance Between Coding and Managing](https://medium.com/bigpanda-engineering/the-delicate-balance-between-coding-and-managing-24fec1ea6b07) - by Erik Zaadi. Takeaway: A candid essay about the steps and missteps from shifting from engineer to manager, with 12 lessons "learned the hard way"—i.e., get/give feedback continuously, "adhere to the standards you set to your team," etc.
 
 - [Don’t Leave Developers in the Dark](https://sprint.ly/blog/dark/) - by Joe Stump. Takeaway: Help developers understand the full scope of their work so they can make sound decisions. Includes questions to ask developers to make this possible.
