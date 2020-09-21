@@ -76,8 +76,6 @@
 
 - [Team Lead — Here Is What Your Boss Isn’t Telling You, Yet Still Expects of You](https://medium.com/@orenellenbogen/team-lead-here-is-what-your-boss-isnt-telling-you-yet-still-expects-of-you-69f0e174e534) - by Oren Ellenbogen. Takeaway: as a team lead, it is your job to enable your company’s scalability. You do this by removing blockers, making your people happy, planning for growth, and delegating.
 
-- [Tech Lead Skills for Developers](http://www.ustream.tv/recorded/102894434) (video) - by Patrick Lua. Takeaway: To lead you need to have respect, and for developers that means spending time in the code and empathizing with the problems they're having.
-
 - [Ten Principles for Growth as an Engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b) - by Dan Heller. Takeaway: Reason about business value; unblock yourself; take initiative; improve your writing; own your project management; own your education; master your tools; communicate proactively; find opportunities to collaborate; and be professional and reliable.
 
 - [10 Hard Truths About Management No One Tells You](https://thinkgrowth.org/10-hard-truths-about-management-no-one-tells-you-667157ebdfec) - by Emma Brudner. Takeaway: Management can be lonely; you stop practicing your craft; GSD turns into GTD; you don’t get as much feedback; you have to do hard things (and you still have the same feelings); management is emotional; self-regulation, all day, every day; you spend less time in the spotlight; you’re the “shit umbrella"; your relationships change.
