@@ -62,11 +62,7 @@
 
 - [Only 10% of CEOs Have This Critical Skill](https://www.linkedin.com/pulse/only-10-ceos-have-critical-skill-ryan-holmes) - by Ryan Holmes. Takeaway: Social media skills are increasingly worthwhile for leaders to develop, for reasons ranging from recruitment outreach to promoting products. 
 
-- [Popforms New Manager Guide](https://gallery.mailchimp.com/44b412d7516b3a88b8be5c8c9/files/new_manager_guide_popforms.pdf) - by the Popforms team. A four-step how-to for new managers to own their new role. Long but actionable.
-
 - [Progressing from Tech to Leadership](https://lcamtuf.blogspot.de/2018/02/on-leadership.html) - by Icamtuf. Takeaway: "[P]eople in leadership roles have their allegiance divided between the company and the people who depend on them. The obligation to the company is more formal, but the impact you have on your team is longer-lasting and more intimate. When the obligations to the employer and to your team collide in some way, make sure you can make the right call; it might be one of the the most consequential decisions you'll ever make."
-
-- [The Secret Ingredient Behind a Successful Tech Lead](http://engineering.medallia.com/blog/the-secret-ingredient-behind-a-successful-tech-lead/) - by Guido de Caso. Takeaway: One thing all great tech leads have is a great second-in-command engineer.
 
 - [Secure Early Wins in the First Three Months](http://katemats.com/secure-early-wins-tech-leader-series/) - by kate{mats}. Takeaway: "In order to the set the right tone and get started on the best path, it is key to secure early wins." Includes helpful strategies.
 
