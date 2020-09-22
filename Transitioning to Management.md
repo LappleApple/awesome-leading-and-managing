@@ -16,8 +16,6 @@
 
 - [Conversations with Your Team, Peers and Boss](http://katemats.com/conversations-with-your-team-peers-and-boss-guide-for-new-leaders/) - by kate{mats}. Takeaway: "Whenever you first join a new team the most important thing you can do is listen and observe.  Get to know the players and the company culture."
 
-- [The Curious Transition to Becoming an Engineering Manager](https://blog.gitprime.com/transition-to-engineering-manager/) - by GitPrime. Takeaway: A conversation with Engineering Leadership coach Jean Hsu about knowing one's impact, handling self-doubt, and growing into the role. “'Actually, we don’t really dock people for those lacks, as an industry,' she says. 'People get rewarded for their technical focus. We put them in management positions, or just keep promoting them, and people can get pretty high up without really thinking too much about people’s intrinsic motivations.'”
-
 - [The Delicate Balance Between Coding and Managing](https://medium.com/bigpanda-engineering/the-delicate-balance-between-coding-and-managing-24fec1ea6b07) - by Erik Zaadi. Takeaway: A candid essay about the steps and missteps from shifting from engineer to manager, with 12 lessons "learned the hard way"—i.e., get/give feedback continuously, "adhere to the standards you set to your team," etc.
 
 - [Don’t Leave Developers in the Dark](https://sprint.ly/blog/dark/) - by Joe Stump. Takeaway: Help developers understand the full scope of their work so they can make sound decisions. Includes questions to ask developers to make this possible.
@@ -62,11 +60,7 @@
 
 - [Only 10% of CEOs Have This Critical Skill](https://www.linkedin.com/pulse/only-10-ceos-have-critical-skill-ryan-holmes) - by Ryan Holmes. Takeaway: Social media skills are increasingly worthwhile for leaders to develop, for reasons ranging from recruitment outreach to promoting products. 
 
-- [Popforms New Manager Guide](https://gallery.mailchimp.com/44b412d7516b3a88b8be5c8c9/files/new_manager_guide_popforms.pdf) - by the Popforms team. A four-step how-to for new managers to own their new role. Long but actionable.
-
 - [Progressing from Tech to Leadership](https://lcamtuf.blogspot.de/2018/02/on-leadership.html) - by Icamtuf. Takeaway: "[P]eople in leadership roles have their allegiance divided between the company and the people who depend on them. The obligation to the company is more formal, but the impact you have on your team is longer-lasting and more intimate. When the obligations to the employer and to your team collide in some way, make sure you can make the right call; it might be one of the the most consequential decisions you'll ever make."
-
-- [The Secret Ingredient Behind a Successful Tech Lead](http://engineering.medallia.com/blog/the-secret-ingredient-behind-a-successful-tech-lead/) - by Guido de Caso. Takeaway: One thing all great tech leads have is a great second-in-command engineer.
 
 - [Secure Early Wins in the First Three Months](http://katemats.com/secure-early-wins-tech-leader-series/) - by kate{mats}. Takeaway: "In order to the set the right tone and get started on the best path, it is key to secure early wins." Includes helpful strategies.
 
@@ -79,8 +73,6 @@
 - [Speeding up Your Engineering Org, Part I: Beyond the Cost Center Mentality](http://blog.hut8labs.com/speeding-up-your-eng-org-part-i.html) - by Edmund Jorgensen. Takeaway: "[I]t isn’t actually a law of nature that engineering orgs have to slow down as they mature and grow. With active, contravening investment, it’s possible to maintain and even gain speed."
 
 - [Team Lead — Here Is What Your Boss Isn’t Telling You, Yet Still Expects of You](https://medium.com/@orenellenbogen/team-lead-here-is-what-your-boss-isnt-telling-you-yet-still-expects-of-you-69f0e174e534) - by Oren Ellenbogen. Takeaway: as a team lead, it is your job to enable your company’s scalability. You do this by removing blockers, making your people happy, planning for growth, and delegating.
-
-- [Tech Lead Skills for Developers](http://www.ustream.tv/recorded/102894434) (video) - by Patrick Lua. Takeaway: To lead you need to have respect, and for developers that means spending time in the code and empathizing with the problems they're having.
 
 - [Ten Principles for Growth as an Engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b) - by Dan Heller. Takeaway: Reason about business value; unblock yourself; take initiative; improve your writing; own your project management; own your education; master your tools; communicate proactively; find opportunities to collaborate; and be professional and reliable.
 
@@ -100,7 +92,7 @@
 
 - [This 90 Day Plan Turns Engineers Into Remarkable Managers](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/) - by David Loftesness. Takeaway: "A newly-minted technical leader typically has no idea how to manage people". This provides a time-bound plan with checkpoints for opting out and leveling up. If you've already transitioned from IC to manager, you might read this and think, "this is the article I wish I'd had before transitioning."
 
--[Transitioning from Programming to Management](https://joaomdmoura.com/articles/2018/06/03/transitioning-from-programming-to-management/) - by Joao Moura. Takeaway: A high-empathy article listing reasons why it's difficult to transition, from a dev who did.
+- [Transitioning from Programming to Management](https://joaomdmoura.com/articles/2018/06/03/transitioning-from-programming-to-management/) - by Joao Moura. Takeaway: A high-empathy article listing reasons why it's difficult to transition, from a dev who did.
 
 - [Understanding Company Strategy: New Tech Leader Series](http://katemats.com/understanding-company-strategy-new-tech-leader-series/) - by kate{mats}. Takeaway: "The very first thing you need to do in a leadership role is understand the goals of the company and the way your organization fits into that strategy." Provides the steps to make that happen.
 
