@@ -48,7 +48,7 @@
 
 - [3 Ways to Ease the Pain of Slow and Frustrating Decision Making](http://corporate-rebels.com/rebellious-practices-distributed-authority/) - by the Corporate Rebels. Takeaway: Change your language to imply empowerment; distribute decision-making authority by practice, and push decision making authority down through proper training.
 
--[Untangling Your Organization’s Decision Making](https://www.mckinsey.com/business-functions/organization/our-insights/untangling-your-organizations-decision-making) - by Aaron De Smet, Gerald Lackey, and Leigh M. Weiss. Takeaway: "The ultimate solution for many organizations looking to untangle their decision making is to become flatter and more agile, with decision authority and accountability going hand in hand."
+- [Untangling Your Organization’s Decision Making](https://www.mckinsey.com/business-functions/organization/our-insights/untangling-your-organizations-decision-making) - by Aaron De Smet, Gerald Lackey, and Leigh M. Weiss. Takeaway: "The ultimate solution for many organizations looking to untangle their decision making is to become flatter and more agile, with decision authority and accountability going hand in hand."
 
 - [Why Humble People Make Better Decisions](https://journal.thriveglobal.com/why-humble-people-make-better-decisions-d18e6ad6180a#.hy27xhl36) - by Drake Baer. Takeaway: A Duke University research study shows that people with high "intellectual humility" are more open to the information coming their way, as a form of "information sensitivity." This means they end up making more informed decisions than those who need to be right and ignore evidence.
 
