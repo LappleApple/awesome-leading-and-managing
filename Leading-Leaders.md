@@ -22,6 +22,8 @@
 
 - [The Sad Truth About Developing Executives](https://a16z.com/2015/03/16/the-sad-truth-about-developing-executives-2/) - by Ben Horowitz. Takeaway: Instead of developing executives (which you can’t, and they should already be at the top of their game), give them information, expectations, and context to do their jobs.
 
+- [Summary of "Great Leaders Have No Rules"](https://www.leadershipnow.com/leadingblog/2019/05/great_leaders_have_no_rules.html) - by Kevin Kruse, summary by LeadershipNow. Takeaway: The article summarizes 10 steps to “teach you how to be both the boss everyone wants to work for and the high achiever every CEO wants to hire—all without drama, stress, or endless hours in the office.”
+
 - [Transitioning to Meta-Management](http://larahogan.me/blog/transition-meta-management/) - by Lara Hogan. Covers measuring success, carving space to help others learn and grow, scratching the coding itch, and training your brain to focus on what's important.
 
 - [Who Do You Promote? 5 Qualities of a Good Leader](https://getlighthouse.com/blog/qualities-of-a-good-leader) - by Lighthouse. Takeaway: The qualities are 1) shows empathy for and consider motivations/needs of others; 2) is a good/active listener who builds rapport; 3) is consistent and accountable—you have to trust this person (sets a good example); 4) is interested in the life of a leader (show them what leadership really entails); 5) is committed to learning and growth mindset.
