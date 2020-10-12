@@ -8,7 +8,7 @@
 
 - [Building and Scaling a Distributed and Inclusive Team](https://www.youtube.com/watch?list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&v=XAU5q-biY28) (video) - by Mathias Meyer. The founder/CEO of Travis CI talks about how the company has been trying to create a multicultural distributed team, with lots of quotes from team members. Travis pushed for a remote culture to increase diversity.
 
-- [Building Great Teams: Culture and Core Protocols](http://www.ustream.tv/recorded/102891756) (video) - by Richard Kasperowski. Takeaway: Thoughts on psychological safety and creating authentic trust and connection between people to take the "luck" out of building and working on great teams, and making greatness more intentional.
+- [Building Great Teams: Culture and Core Protocols](https://www.youtube.com/watch?v=mmXMY8pBjF8) (video) - by Richard Kasperowski. Takeaway: Thoughts on psychological safety and creating authentic trust and connection between people to take the "luck" out of building and working on great teams, and making greatness more intentional.
 
 - [Creating the Dream Team: Transform Your Engineering Organization to Attract New Talent](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/) - by Andrew Hao. Takeaway: Start with evaluating your current culture's strengths and weaknesses. Be in tune with your org. Make sure you demonstrate that you value employees—whether that is talking up their accomplishments, investing in training, or just being there to talk.
 
