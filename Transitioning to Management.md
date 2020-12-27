@@ -36,6 +36,8 @@
 
 - [How to Win Friends and Influence People](https://docs.google.com/document/d/1453UrSTkum5KrbX7SwwaUDVljP2uvDiHk6fIXNCxOCc/edit) - by Dale Carnegie; summary by Joe Goldberg. Notes on the legendary book, whose mention might make you wince but we suggest getting past that. :) 
 
+- [If Management Isn’t a Promotion, Then Engineering Isn’t a Demotion](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/) - by Charity Majors. Takeaway: “Any technical company should work hard to center and celebrate the work being done to build the product and make customers happy. Management is overhead, to be brutally frank about it, and we should not design organizations that would lead any rational, ambitious person to aspire to be overhead, should we?”
+ 
 - [The Leadership Paradox: Why Managers Must Be Consistently Inconsistent](https://getlighthouse.com/blog/leadership-paradox-consistently-inconsistent) - by Lighthouse. Takeaway: "Balancing when to be rigid and when to be flexible is one of the hardest things to learn as a manager." Provides guidance on how to manage this.
 
 - [The Manager's Path [$]](http://shop.oreilly.com/product/0636920056843.do) - by Camille Fournier. A collection of advice for leaders at all levels of the career ladder. Valuable whether you are just starting out in management, a veteran, or just curious about common problems and challenges that managers face on a daily basis. 
@@ -61,6 +63,8 @@
 - [Only 10% of CEOs Have This Critical Skill](https://www.linkedin.com/pulse/only-10-ceos-have-critical-skill-ryan-holmes) - by Ryan Holmes. Takeaway: Social media skills are increasingly worthwhile for leaders to develop, for reasons ranging from recruitment outreach to promoting products. 
 
 - [Progressing from Tech to Leadership](https://lcamtuf.blogspot.de/2018/02/on-leadership.html) - by Icamtuf. Takeaway: "[P]eople in leadership roles have their allegiance divided between the company and the people who depend on them. The obligation to the company is more formal, but the impact you have on your team is longer-lasting and more intimate. When the obligations to the employer and to your team collide in some way, make sure you can make the right call; it might be one of the the most consequential decisions you'll ever make."
+
+- [Reflecting on My IC Path](https://lyncredible.com/2020/04/06/reflecting-on-my-ic-path-part-i/) - by Yuan Liu. Takeaway: a three-part series about levelling up across three companies. 
 
 - [Secure Early Wins in the First Three Months](http://katemats.com/secure-early-wins-tech-leader-series/) - by kate{mats}. Takeaway: "In order to the set the right tone and get started on the best path, it is key to secure early wins." Includes helpful strategies.
 
