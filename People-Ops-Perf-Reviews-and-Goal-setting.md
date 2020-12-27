@@ -11,6 +11,10 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Engineering Levels at Patreon](https://levels.patreon.com) - by Patreon. Takeaway: The engineering levels matrix, with details about each role. 
 
+[How to Break the “Senior Engineer” Career Ceiling](https://theburningmonk.com/2019/11/how-to-break-the-senior-engineer-career-ceiling/) - by Yan Cui. Takeaway: “Writing more code or releasing more features alone doesn’t make you a better senior engineer. It’s about your ability to deliver a meaningful business impact through your execution. This is the change in mindset that will set you on your way to the next level.”
+
+- [Khan Academy Engineering Career Development](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit) - by Khan Academy. Takeaway: describes the skills, scope, and experience of main engineering job categories, with values emphasised.
+
 - [Medium Engineering Growth: Tracks](https://gist.github.com/david206/b8dceddd687bb2c60805c9669cc89eaa) - by David Shimon. Takeaway: Different skills/items for different types of developers, listed and detailed.
 
 - [On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - by John Allspaw. Focusing on attributing "Senior" to "Mature". Covers aspects of being social. Mature engineers are at least aware of their ego, able to take into account the feelings and egos of their fellow engineers, and work through them all to achieve great things. This tends to make them engineers that other engineers want to work with.
@@ -24,6 +28,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 - [The Software Engineering Job Ladder](https://medium.com/@cgroom/the-software-engineering-job-ladder-4bf70b4c24f3) - by Chuck Groom. Takeaway: "why having a job ladder helps everybody; what makes for a good job ladder; the way I think about software engineer job levels; and [...] some related advice." Focuses on individual contributors. The author's levels emphasize ownership and responsibility, not defined skill levels.
 
 - [Technical Assessment Rubric](https://github.com/heddle317/onboarding/blob/master/technical_assessment_rubric.md) - by Kate Heddleston. Takeaway: Different people have different trajectories. Tailor goals to target weaknesses in a category (confidence, communication, code quality, etc.).
+
+- [Things to Know About Engineering Levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/) - by Charity Majors. Takeaway: practical advice on approaching career levels realistically and traveling up the rungs.
 
 - [Thoughts on the Technical Track](http://mcfunley.com/thoughts-on-the-technical-track) - by Dan McKinley. Thoughts on how the different ways developers become technical managers, including randomly and ad hoc. "I don't think that proceeding with the assumption that leaders will just naturally emerge produces the best results."
 
