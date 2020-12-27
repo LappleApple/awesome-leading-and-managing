@@ -16,6 +16,10 @@
 
 - [Onboarding Plan](https://github.com/heddle317/onboarding/blob/master/onboarding_plan.md) - by Kate Heddleston. A four-week plan with exercises and more info. 
 
+- [Onboarding Someone Remotely](https://twitter.com/rothgar/status/1296911972215058432) (Twitter thread) - by Justin Garrison. Takeaway: a checklist for what should be in place and in motion for a new remote hire.
+
+- [Owning Your Onboarding (Specially in Remote Work)](https://dmellonielet.com/2020/11/30/software-engineers-guide-to-owning-the-onboarding.html) - by Nielet D'mello. Takeaway: includes a nine-point template for gaining control over your onboarding and links to additional resources.
+
 - [Technical Onboarding, Training, and Mentoring](https://www.youtube.com/watch?v=Lpg4jRSH7EE) (video) - a full onboarding curriculum by Kate Heddleston, from RailsConf 2014. Takeaway: Onboarding is taking someone from outside the team and making them productive (technical knowledge); independent/autonomous (company/process knowledge); reliably independent; and confident/believe they are valuable (personal development). 
 
 - [Thinking of the Next Developer](https://dev.to/dnimmo/thinking-of-the-next-developer) - by David Nimmo. Takeaway: before moving on to the next coding problem, take the time to save hassle for the next person joining your team or working with your code.
