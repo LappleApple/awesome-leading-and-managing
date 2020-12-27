@@ -24,6 +24,8 @@
  
 - [Master the One-on-One Meeting](http://hbswk.hbs.edu/item/master-the-one-on-one-meeting) - by Julia B. Austin. Takeaway: tips on setting an agenda, creating expectations, handling remotes, and more.
 
+- [My Approach to 1-on-1s](https://marcorogers.com/blog/my-approach-to-1-on-1s) - by Marco Rogers. Takeaway: A concise list of questions grouped under themes, that cover essential basics.
+
 - [The 9 Questions That Uncover the Most Surprising Insights from Employees](https://m.signalvnoise.com/the-9-questions-that-uncover-the-most-surprising-insights-from-employees-b7bc0d20ede8) — by KnowYourCompany CEO Claire Lew. Takeaway: Based on data from 15,000 employees in 15+ countries, the top nine questions.
 
 - [Note Taking During One on
@@ -54,5 +56,7 @@
 - [Three Powerful Conversations Managers Must Have to Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/) — by First Round Capital. Takeaway: get to know your employees by asking them about their life histories; articulate a clear vision for them by asking them about their dreams; and create a four-step career action plan.
  
 - [The Update, the Vent, and the Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) — by Rands. Like he has on many other leadership topics, Rands has written the seminal article on 1:1s. Takeaway: The employee’s answer isn’t the point—“it’s merely a delivery vehicle for the mood and the mood sets your agenda.” 1:1s are for strategy, not tactics.
+
+- [What to Talk About in 1:1’s](https://wizardzines.com/comics/1-1s/) - by Julia Evans. Takeaway: An illustrated list of topics to bring up, written for the direct report.
 
 - [Why 1-1 Meetings Are Crucial to Your Team’s Success](https://blog.asana.com/2015/05/workstyle-what-is-a-1-1/) - by Trish Tormey. Takeaway: "The 1-1 is the best way for managers and those who report to them to connect on pressing issues, develop a strong relationship, and ensure that employees feel like they’re working toward their goals – at work, and otherwise. Without a proper framework, agenda, and mindset, however, the 1-1 meeting can become just another meeting in your day."   
