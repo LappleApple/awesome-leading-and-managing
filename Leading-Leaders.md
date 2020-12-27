@@ -16,6 +16,8 @@
 
 - [How to Run a Tech Leadership Skill Share](https://charity.wtf/2018/08/24/how-to-run-a-tech-leadership-skill-share/) - by Charity Majors [Github Repo of resources](https://github.com/charity/tech-leads-skill-share/). Takeaway: a set of resources related to running a technology leadership peer skill-sharing group, covering logistics/planning, facilitation, homework, conduct/common ground rules, and who's a good invitee. Includes a short set of recommended readings.
 
+- [Leading Senior Engineers: Lessons Learned](https://leadingwithspoons.com/2020/08/27/leading-senior-engineers-lessons-learned/) - by Adrienne Lowe. Takeaway: “By sharing feedback and context, appreciating their contributions, taking their work style and concerns seriously, and looking for ways to authentically support them, you can create an environment where senior engineers grow and thrive.”
+
 - [Managing More Experienced People](https://medium.com/the-year-of-the-looking-glass/managing-more-experienced-people-9893f9903649) - by Julie Zhuo. Takeaway: Don’t pretend to be perfect, welcome the opportunity to learn from senior reports, know that you can always ask questions or give impressions, and remember that you're the sum of the people around you.
 
 - [The PM Mind Meld](https://www.kennorton.com/newsletter/2016-03-02-bringing-the-donuts.html) - by Ken Norton. Takeaway: what to do when your CEO and product manager aren't aligned, and tips on how to get them to align: 1:1's between them, keeping the conversation going both ways, talking about the future, and finding "third rails." 
