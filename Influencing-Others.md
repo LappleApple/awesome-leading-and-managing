@@ -17,6 +17,8 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [The Heartbeat Interview with Amy Gallo](https://youtu.be/-yZi2WwIXnQ) (video) - by Claire Lew. Takeaway: A chat about how leaders can become friendly and human with their teams, set boundaries and be friendly. Being human at work builds empathy and care.
 
+- [High Agency](https://twitter.com/shreyas/status/1276956836856393728) (Twitter thread) - by Shreyas Doshi. Takeaway: a 20-tweet breakdown of High Agency, "a prerequisite for making a profound impact in one's life & work."
+
 - [How to Blast Through Silo Mentality to Create a Culture of Experimentation](https://www.widerfunnel.com/destroying-silo-mentality/) - by Lindsay Kwan. Takeaway: Align your stakeholders on a vision for experimentation; get buy-in from stakeholders and leaders; clarify your experimentation protocol; get strategic with cross-functional teams; communicate.
 
 - [How to Have Impact](https://vishalkapur.com/how-to-have-impact/) - by Vishal Kapur. Takeaway: "Some aspects of the impact generation process are in your control, and some aren’t. The world (i.e. the "environment") isn’t in your control. Neither are the outcomes you get from trying things – remember the intention/impact gap. However, generating ideas, making things, taking risks, and the people you choose to work with are."
