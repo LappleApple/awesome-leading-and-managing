@@ -20,6 +20,8 @@
 
 - [A Framework for Making Smarter Decisions and Fewer Errors](https://fs.blog/smart-decisions/) - by Farnham. Takeaway: Suggests using inversion, second-order thinking, and other concepts, and includes a list of articles for improved decision-making.
 
+- [A Guide to Making Better Decisions](https://medium.com/@villispeaks/a-guide-to-making-better-decisions-b8d06dc4a835) - by Villi Illtchev. Takeaway: Be clear what you are NOT going to do; don’t waste time debating two-way doors; push decision making down into the organization; and depoliticise.
+
 - [How I Think About Solving Problems](https://humanwhocodes.com/blog/2020/02/how-i-think-about-solving-problems/) - by Nicholas C. Zakas. Takeaway: "Each question is designed to reveal something about the problem that allows you to go to the next step, or if you’re lucky, just avoid the problem altogether." Zakas provides his five questions as well as subtle explanations and context for each.
 
 - [How to De-Risk a Startup](https://codingvc.com/how-to-de-risk-a-startup/)— by Leo Polovets. Takeaway: lists common risks and heuristics for risk mitigation and decision-making. States that showing is better than telling; external validation is better than personal opinion, and more data is better. Identifies types of risk, from product quality and recruiting to product/market fit.
