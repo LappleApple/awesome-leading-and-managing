@@ -15,6 +15,8 @@
 
 - [Emotional Intelligence for Engineers](https://www.youtube.com/watch?v=SJnVhkEx8Cs) (video) - by April Wensel. Takeaway: what emotional IQ is, why it's important, and how to develop it, by the head of Compassionate Coding.
 
+- [6 Small Steps for Handling the Emotional Ups and Downs at Work](https://firstround.com/review/6-small-steps-for-handling-the-emotional-ups-and-downs-at-work/) - by FirstRound. Takeaway: tactical steps from startup founders and psychologists for managing your emotions, regardless of your role. Includes a definition of emotional fitness, steps for getting out of an emotional spiral, and other resources.
+
 ### Failure and Resilience
 
 - [Don't Worry About Failure...Embrace It!](https://dev.to/jlhcoder/dont-worry-about-failureembrace-it) - by James Hood. Takeaway: "Treat each failed attempt as a learning experience. What went wrong that time? What can I do differently next time? Being kind to yourself and treating setbacks as learning opportunities is key to getting ... onto a path of positive personal growth."
