@@ -7,6 +7,10 @@
 
 - [The Angel’s in the Details](https://medium.com/@dunn/make-a-big-deal-about-the-little-things-49044db95b3f) - by Andy Dunn. Takeaway: “If you ever meet someone who is obsessed with the little things, and it bothers you, take an introspective look inside. The person with the problem might be you. Only by being obsessed with little things do amazing things emerge. The culture of little things emerges from the top down, not only by what is celebrated, but by what is role modeled.”
 
+### Curiosity
+
+- [Learn Fast and Read Things: Why (and How) We Started a Technical Reading Group](https://build.affinity.co/learn-fast-and-read-things-why-and-how-we-started-a-technical-reading-group-56a61db515bd) - by Adam Perelman. Takeaway: a quick overview of how the author’s engineering team set up and runs a technical reading group.
+
 ### Emotional Intelligence 
 
 - [Emotional Intelligence for Engineers](https://www.youtube.com/watch?v=SJnVhkEx8Cs) (video) - by April Wensel. Takeaway: what emotional IQ is, why it's important, and how to develop it, by the head of Compassionate Coding.
@@ -38,6 +42,8 @@
 
 ### Self-Awareness
 - [The 5 Ways to Improve Your Self-Awareness as a Leader](https://blog.knowyourcompany.com/the-5-ways-to-improve-your-self-awareness-as-a-leader-2f1464e5b00) - by Claire Lew. Takeaway: Assume positive intent, hold up a mirror to yourself and your decisions, remember that it’s not all about you, ask your team the tough questions and find an accountability partner like a coach.
+
+- [Get out of Your Head: How to Quiet your Thoughts](https://medium.com/swlh/get-out-of-your-head-how-to-quiet-your-thoughts-1e239199dff9#---0-86%20\|) - by Aytekin Tank. Takeaway: Simple techniques on how to calm your mind and focus.
 
 - [The Problem of Virtuous Leadership](https://www.strategy-business.com/article/The-Problem-of-Virtuous-Leadership) -by Art Kleiner. Takeaway: a perspective on leadership by Adam Smith scholar Ryan Patrick Hanley. 
 
