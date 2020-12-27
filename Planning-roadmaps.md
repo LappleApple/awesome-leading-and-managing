@@ -7,6 +7,8 @@
 
 - [Company Alignment: The Salesforce Secret to Success](https://www.salesforce.com/blog/how-to-create-alignment-within-your-company/) - by Marc Benioff. Takeaway: a summary of V2MOM, which stands for: Vision, Values, Methods, Obstacles, and Measures. “Always start with a beginner’s mind, which is a concept that comes from Zen Buddhism — a beginner’s mind allows you to constantly see the world with fresh eyes. This mindset will help you declutter your mind, dispose of outdated assumptions, eliminate distractions, and allow yourself to focus on the what, why, and how of whatever you set out to do.”
 
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) - by Malte Ubl. Takeaway: A thorough breakdown of how, why, and when to craft a design doc.
+
 - [North Star Playbook](https://amplitude.com/north-star) - by Amplitude. Takeaway: a downloadable book on the North Star Framework, with guidance for running a North Star workshop and settling on a North Star metric. The North Star is “a model for managing products by identifying a single, crucial metric (the North Star Metric) that, according to Sean Ellis, ‘best captures the core value that your product delivers to [its] customers.’”
 
 - [Operating Plans for Pre-seed Startups](https://blog.bolt.io/operating-plans/) - by Axel Bichara. Takeaway: "There is no mystery to writing an operating plan. An operating plan is a list of everything you intend to do as a business over the next 6–12 months. Think of it as a month-by-month to-do list for all aspects of your company...A great operating plan helps you identify earlier when your burn rate is higher than you hoped. This buys you enough time to to course-correct."
