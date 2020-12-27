@@ -20,6 +20,8 @@
 
 - [So You Want to Start a Tech Leaders Study Group](https://github.com/charity/tech-leads-skill-share) - by Charity Majors. Takeaway: A how-to and checklist for forming a study group to level up in your leadership abilities with a similarly situated group.
 
+- [Week in Review Leadership Comms](https://larahogan.me/blog/week-in-review/) - by Lara Hogan. Takeaway: “This Week in Review doc is aimed at teammates who want to gain more context, are frustrated with something that’s happening at the company, or crave some more predictability (one of humans’ core needs at work!).” Includes a template and example.
+
 - [Why and How to Share Your Manager README (Plus Here’s Mine)](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b) - by Katie Womersley. Takeaway: "Defining what you value as a leader and what the shared expectations between you and your direct reports are achieves two things: 1) folks know who you are and what to expect from you, and 2) they’re much more able to give you feedback and hold you accountable. If they know what you believe and expect as manager, folks will feel more confident that any behaviour of yours that’s not aligned is likely unintended and something you’d be eager to hear about and fix."
 
 - [Your Professional Growth Questionnaire](https://randsinrepose.com/archives/your-professional-growth-questionnaire/) - by Rands. Takeaway: questions to ask yourself a few times a year about your current role and how you want to grow next. 
