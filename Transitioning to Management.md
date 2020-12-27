@@ -40,6 +40,8 @@
  
 - [The Leadership Paradox: Why Managers Must Be Consistently Inconsistent](https://getlighthouse.com/blog/leadership-paradox-consistently-inconsistent) - by Lighthouse. Takeaway: "Balancing when to be rigid and when to be flexible is one of the hardest things to learn as a manager." Provides guidance on how to manage this.
 
+- [Letter to (New) Managers](https://productlessons.substack.com/p/letter-to-new-managers) - by Linda Zhang. Takeaway: “Start out by managing someone who is like you,” avoid the pitfalls of value add disease, and other tips for adapting to the role.  
+
 - [The Manager's Path [$]](http://shop.oreilly.com/product/0636920056843.do) - by Camille Fournier. A collection of advice for leaders at all levels of the career ladder. Valuable whether you are just starting out in management, a veteran, or just curious about common problems and challenges that managers face on a daily basis. 
 
 - [Managing More Experienced People](https://medium.com/the-year-of-the-looking-glass/managing-more-experienced-people-9893f9903649) - by Julie Zhuo. Takeaway: "For me, despite knowing I’m not as strong of a designer as my senior reports, I understood how to approach design at Facebook and could support my team members in setting ambitious goals and working effectively with their partners."
