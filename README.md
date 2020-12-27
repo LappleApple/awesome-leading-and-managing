@@ -21,7 +21,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Conflict Prevention and Conflict Resolution](Conflict-Prevention-Resolution.md)
 - [The CTO Role](The-CTO-role.md)
 - [Culture](Culture.md)
-- [Decision-Making](Decision-Making.md)
+- [Decision-Making and Prioritization](Decision-Making-and-Prioritization.md)
 - [Delegation](Delegation.md)
 - [Diversity and Inclusion](Diversity-and-Inclusion.md)
 - [Empathy and Listening](Empathy-and-Listening.md)
