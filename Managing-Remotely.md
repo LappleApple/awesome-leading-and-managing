@@ -14,6 +14,8 @@ Please add your favorite articles, videos, and other resources — just follow t
 
 - [Five Tips for Managers of Newly Dispersed Teams](https://www.jrothman.com/mpd/2020/03/five-tips-for-managers-of-newly-dispersed-teams/) - by Johanna Rothman. Takeaway: support team-based work, not individual work; make all progress visible; reduce the team's WIP; substitute video for MBWAL (Management by Walking Around and Listening); resist the urge to micromanage.
 
+- [The Future of Work Is Written](https://increment.com/remote/future-of-work-is-written/) - BY Juan Pablo Buriticá. Takeaway: “Rather than reacting to accidental separation, teams and companies can and should proactively learn to work together from a distance. Organizations that do this well become more resilient and adaptable, which may advantage them to survive rapidly changing market circumstances.”
+
 - [A Guide to Managing Remote Teams](https://knowyourteam.com/m/managing_remote_teams) - by Know Your Company/Claire Lew. Takeaway: A downloadable, 60-page, 11-chapter guide on remote working and leading best practices, based on research.
 
 - [A Guide to Managing Your (Newly) Remote Workers](https://hbr.org/2020/03/a-guide-to-managing-your-newly-remote-workers) - by Barbara Z. Larson , Susan R. Vroman and Erin E. Makarius. Takeaway: This Harvard Business Review article delves into some of the challenges of remote work, including loneliness, home distractions, and erosion of trust. It then advises bridging the gaps through such steps as providing several different communication technology options, establishing "rules of engagement," and providing opportunities for remote social interaction.
