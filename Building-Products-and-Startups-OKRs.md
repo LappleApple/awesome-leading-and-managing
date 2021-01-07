@@ -60,11 +60,11 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The MVP is dead. Long live the RAT.](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02) - by Rik Higham. Takeaway: "There is a flaw at the heart of the term Minimum Viable Product: it’s not a product. It’s a way of testing whether you’ve found a problem worth solving. A way to reduce risk and quickly test your biggest assumption. Instead of building an MVP identify your Riskiest Assumption and Test it. Replacing your MVP with a RAT will save you a lot of pain."
 
+- [Notes from “Good Strategy / Bad Strategy”](https://jlzych.com/2018/06/27/notes-from-good-strategy-bad-strategy/) - by Jeff Zych. Takeaway: a focused overview of the book by UCLA Anderson School of Management professor Richard P. Rumelt. “Strategy is designing a way to deal with a challenge. A good strategy, therefore, must identify the challenge to be overcome, and design a way to overcome it. To do that, the kernel of a good strategy contains three elements: a diagnosis, a guiding policy, and coherent action.” Includes some critical thoughts on OKRs.
+
 - [Observations on Product Management](https://medium.com/hackernoon/observations-on-product-management-3abc7e00148e) - by Dan Hill. Takeaway: "Most Product Managers (and everyone probably) spend too little time thinking about how to solve a problem. They jump straight into solving it. Problems come in different shapes, and not all need the same process. The process that shipped the last product is unlikely to be the one that you need for the next...Incremental development and vision are not orthogonal; they both require the other. All product must start with a vision — a point of view — but then be built critically step by step. It’s ok to learn something new as you go."
 
 - [The Only Metric That Matters — Now With Fancy Slides!](https://news.greylock.com/the-only-metric-that-matters-now-with-fancy-slides-232474cf414c) - by Josh Elman at Greylock Partners. Takeaway: "[T]he only thing founders need to think about is: Are people using your product? Are they using it how you expect (i.e performing the core action)? And, are they performing the core action at the frequency you expect?"
-
-- [Paul Graham’s Startup Advice for the Lazy](https://medium.com/swlh/graham-for-the-lazy-51a170dacc86) - by Stelios Constantinides. All of Paul Graham’s startup advice summarized in one article.
 
 - [The Product Dartboard](http://blog.carbonfive.com/2015/07/29/the-product-dartboard/) - by Janet Brunckhorst at Carbon Five. Takeaway: offers a deep dive/description of a tool that assesses a team or individual against attributes associated with project success.
 
@@ -78,6 +78,8 @@ As a leader of a product development team you might have a PM that you’re work
   reasons for making product decisions and ask whether they are actually good for the product.
   
 - [Reminder: Your “Product” Company is Just an Implementation Detail](https://medium.com/from-the-start/building-a-feature-697344aefda2) - by Jeremy Baker. Takeaway: The progress our customer wants to make is the most important thing. We think about our features and what they can do, and present them that way. When we do this, we’re "forcing our customer to do the hard work. They have to map features to their process and figure out if it helps them make progress ... Instead, talk about the progress our customer wants to make, and build tools that enable that progress."
+
+- [Risk Assessment and Prioritization for Startups](https://docs.google.com/presentation/d/1Ox9mwO7aCfwXUw1pllKTKCpiEJi3oIW6KHrXfNtrIXQ/edit#slide=id.p) - by Leo Polovets. Takeaway: a slide deck about the value of addressing risks head-on, and early. Includes self-assessment tips. 
 
 - [Scaling Airbnb with Brian Chesky — Class 18 Notes of Stanford University’s CS183C](https://medium.com/cs183c-blitzscaling-class-collection/scaling-airbnb-with-brian-chesky-class-18-notes-of-stanford-university-s-cs183c-3fcf75778358) - by Chris McCann. Takeaway: about Airbnb’s “10 star service” thought experiment, in which they transcended the usual five-star review by adding five more measurements for success.
 

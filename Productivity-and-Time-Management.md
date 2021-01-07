@@ -4,6 +4,8 @@
 
 - [How Do We Go Faster?](https://hackernoon.com/how-do-we-go-faster-ed51207952a8) - by John Cutler. Takeaway: Lists of concepts to apply and actions to take to build a culture that fosters a productive, efficient environment.
 
+- [How to Say No](https://www.starterstory.com/how-to-say-no) - by various authors. Takeaway: Email/message templates for declining projects, meetings,  written interviews, and other opportunities/situations.
+
 - [Kaleidoscope Thinking: How to Think Faster and More Clearly](https://taylorpearson.me/kaleidoscope/) - by Taylor Pearson. Takeaway: use mental models from different disciplines and use them in a routine way, to build a latticework process. Read a lot, and study different models. 
 
 - [Only You Can Prevent Tech Burnout](https://medium.com/@Aprilw/only-you-can-prevent-tech-burnout-be3f0504c627) - by April Wensel. Takeaway: "The prevailing work culture in Silicon Valley is not sustainable. We all know it, but few are doing anything to change it...As leaders, whether in name or in spirit, you have a responsibility to cultivate a healthier, more sustainable culture. Why? Your team will be more productive. As shared in *The Optimistic Workplace*, 'People in positive work environments outperform those who work in negative climates by 10–30%.' As an employee, you owe it to yourself to improve your own situation, whether that means inspiring change at your current company or moving on to somewhere that actually does value you as a human being."
@@ -13,6 +15,8 @@
 - [The Top 5 Productivity Mistakes](https://www.iwillteachyoutoberich.com/blog/top-5-productivity-mistakes/) - by Ramit Sethi. Takeaways: Talks about the psychology of being unproductive, and how changing the narrative can achive big breakthroughs.
 
 - [Three Things: Reduce Fatigue and Increase Productivity](https://ideas.darden.virginia.edu/three-things-reduce-fatigue-and-increase-productivity) - by Manel Baucells. Takeaway: A video in which Baucells, a University of Virginia/Darden professor and expert in quantitative analysis, describes research showing that managing your fatigue is key to productivity.
+
+- [Unlock Your Productivity By Taking Better Notes](https://pragmaticlead.com/posts/unlock-your-productivity-by-taling-better-notes-zettlekasten) - by Alex Bachuk. Takeaway: Techniques and tools for taking notes, a primary habit for maintaining self-organisation. Associate notes to bigger goals to increase influence and creativity.
 
 - [“Vacations Are for the Weak”](http://sethbannon.com/vacations-are-for-the-weak) - by Seth Bannon. Takeaway: "Preventing burnout is part of your job. Staying well rested is part of your job. Sleep and exercise help, but occasional extended breaks are essential too, and their benefits on creativity, productivity, and happiness are well documented."
 

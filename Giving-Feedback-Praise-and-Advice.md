@@ -50,9 +50,13 @@
 
 - [Stop Feeding Shit Sandwiches](https://m.signalvnoise.com/stop-feeding-shit-sandwiches-9364d7b9640c) - by Claire Lew. Takeaway: Layering the feedback "good-bad-good" is for the feedback giver's benefit only. To get better results the feedback giver should come from a place of care, observation, fallibility, and curiosity.
 
+- [Summary of “Difficult Conversations: How to Discuss What Matters Most](https://www.beyondintractability.org/bksum/stone-difficult) - by Douglas Stone, Bruce Patton, Sheila Heen, Summary by Conflict Research Consortium Staff. Takeaway: This is the summary of a book around Difficult Conversations in general, but extremely useful for all managers while giving feedback - positive or otherwise. "Good communication is important both in formal negotiations and in daily life. This book explores what makes some conversations difficult, why people avoid having difficult conversations, and why people often manage difficult conversations poorly. The authors offer techniques for having more effective, fruitful discussions."
+
 - [7 Tough Lessons I’ve Learned on Giving and Receiving Feedback at Our Startup](https://open.buffer.com/feedback) - by Leo Widrich. Takeaway: Understand why humans need feedback; see it as a kindness; consider giving it to be a skill; encourage employees to give it without permission; give role feedback; aim to grow from feedback. "Feedback is how we scale as a company; it’s how we make sure we keep helping each other."
 
 - [The 3 Types of Bullshit Feedback — and What to Do About Them](https://m.signalvnoise.com/the-3-types-of-bullshit-feedback-and-what-to-do-about-them-5de483530c3f) - by Claire Lew. Takeaway: three types of BS feedback include the kind that is true, "but the delivery is off"; untrue feedback, and "feedback is vague, unclear or supremely subjective."
+
+- [Twitter Thread on Sponsorship](https://twitter.com/nerdneha/status/1295495226102960130) - by Neha Batra. Takeaway: Batra asks the Twitterverse to share stories about managers who demonstrated empowering activities and surfaces these patterns: gave new opportunities, granted autonomy, and offered credit and promotions to reward work already being done.
 
 - [The Ultimate Case Against Using Shame as a Management Tactic](https://qz.com/1039957/the-ultimate-case-against-using-shame-as-a-management-tactic/) - by Lila MacLellan. Takeaway: an explanation of European "just culture," which involves treating errors with training and support instead of punishment for mistakes honestly admitted and made. This relates to psychological safety and giving employees the chance to learn from mistakes.
 

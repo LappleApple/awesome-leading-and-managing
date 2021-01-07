@@ -24,6 +24,8 @@
   
 - [I Do a Yearly Review, Here Are Some of the Questions](https://medium.com/@skamille/i-do-a-yearly-review-here-are-some-of-the-questions-cd23e19795e1) - by Camille Fournier. Takeaway: a list of 12 simple questions meant to provoke reflection.
 
+- [The Management Flywheel](https://skamille.medium.com/the-management-flywheel-c076f398969b) - by Camille Fournier. Takeaway: “When you find yourself in a rut, remember that you don’t have to solve the root cause of everything wrong with the team as a first act. Start with the little problems.”
+
 - [Motivating People to Be on Time](http://innolution.com/blog/motivating-people-to-be-on-time) - by Ken Rubin. Takeaway: Bribes and penalties don't work. Intrinsic motivation gets people to show up on time.
 
 - [Moving Motivators](https://management30.com/practice/moving-motivators/) - by Jurgen Appelo. A fun exercise you can use with your team to understand which values and aspirations motivate them—status, freedom, power, etc.

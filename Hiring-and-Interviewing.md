@@ -6,6 +6,8 @@
 
 - [Creating the Dream Team: Transform Your Engineering Organization to Attract New Talent](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/) - by Andrew Hao. Takeaway: Focus more on building culture than offering perks. Assess your culture, set the example, and coach.
 
+- [Designing a Candidate-Focused Interview Process](https://blog.readme.com/designing-a-candidate-focused-interview-process/) - by Gregory Koberger. Takeaway: A few novel ideas in this interviewing process, including a “Bring Your Own Project” component and a requirement that the hiring manager has done the job for a few months prior to hiring someone else.
+
 - [Develop Your Hiring System Like a Product to Eliminate Bias and Boost Retention](https://firstround.com/review/develop-your-hiring-system-like-a-product-to-eliminate-bias-and-boost-retention/) - by FirstRound. Takeaway: "When creating a hiring system from scratch, you're actually building two products at the same time: 1) the process itself and 2) the resulting team. Viewed through this lens, every interaction with a candidate must have purpose, yield data you can learn from, and fit into a bigger vision for what you want to accomplish."
 
 - [Developer Survey Results](https://insights.stackoverflow.com/survey/2017) - by StackOverflow. Annual survey. Takeaways: When assessing potential jobs, developers prioritize "opportunities for professional development" over any other factor by a large margin; the comp/benefits selected the most often relate to mental and physical health: vacation days, remote options, and health; 89% of devs at least "somewhat agreed" that diversity is important, up from 73% in 2016; developers generally supported "c-sat" and "being on time/budget" as the best ways to evaluate the performance of a fellow dev; there's a moderate correlation between remote work and job satisfaction.
@@ -43,10 +45,7 @@
 
 - [Interviewing for Potential](https://medium.com/@Bar_Code/interviewing-for-potential-58ee886aa41d) - by Brent Baisley. Takeaway: "A person’s ability to perform is based on their potential to succeed. Potential is the ability to be effective long term. Trajectory is the progress one has made on the path to reaching his or her potential. Performance is the act of tapping into our potential — it’s a side effect of potential and trajectory...What sets people apart is their ability to change, adapt, and evolve before it’s required. Those who proactively obtain new skills and knowledge have the highest potential to succeed."
 
-- [Let’s Stop Calling Them "Soft Skills"](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.m0rq6bldu) - by Seth Godin. Takeaways: Don't overemphasize so-called "vocational" skills.
-  Real-world interpersonal skills are just as (if not more) important. Details
-  categories of qualities like Self-Control, Productivity, Wisdom, Perception,
-  and Influence.
+- [Let’s Stop Calling Them "Soft Skills"](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.m0rq6bldu) - by Seth Godin. Takeaways: Don't overemphasize so-called "vocational" skills. Real-world interpersonal skills are just as (if not more) important. Details categories of qualities like Self-Control, Productivity, Wisdom, Perception, and Influence.
 
 - [Make Stronger Offers to Engineering Candidates and Boost Your Closes](http://firstround.com/review/make-stronger-offers-to-engineering-candidates-and-boost-your-closes/) - by First Round. Takeaway: "The secret to closing isn’t offering the most equity or saying just the right thing during an offer call. It’s really closely listening to and noticing what’s motivating each candidate during the entire process, and then explaining precisely how your company will serve those needs."
 
@@ -61,6 +60,8 @@
 - [Product Manager Skills by Seniority Level — a Deep Breakdown](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10) - by Brent Tworetzky. Takeaway: how XO Group has created six skills and management areas to determine product professionals' levels of seniority. Can be useful for interviewing candidates and determining which roles to offer them.
 
 - [Recruiting Diverse Engineering Candidates: What Tech Companies Still Get Wrong](https://techbeacon.com/recruiting-diverse-engineering-candidates-what-tech-companies-still-get-wrong) - by Angie Jones. Takeaway: The author describes her experiences interviewing with heavyweight tech companies like Amazon, Google, and Twitter, and reveals some of the disconcerting behaviors she witnessed during the process while praising the good. "All tech companies need to revisit their interviewing practices. Diversify the panel of people who will decide the candidate’s fate with the company; acknowledge that diverse candidates may be concerned with more than just the specifics of the job itself; and ensure that you allocate time for them to have their questions and concerns addressed. Finally, tailor the interview questions to the job for which the candidate is being considered, and steer clear of unjustified coding challenges that only serve to intimidate and stress candidates."
+
+- [Seek the Challengers](https://shripriya.com/blog/2020/06/09/seek-the-challengers) - by Shripriya Mahesh. Takeaway: “[D]issenters are worth their weight in gold. If every employee is drinking the kool-aid, the company won’t question long-held beliefs, challenge itself, or stretch in new and interesting ways.”
 
 - [7 Practical Ways to Reduce Bias in Your Hiring Process](https://hbr.org/2017/06/7-practical-ways-to-reduce-bias-in-your-hiring-process) - by Rebecca Knight. Takeaways: Identify and actively seek to reduce bias. If you aren't talking about bias, you aren't changing anything. Standardizing your interview process reduces ability for subtle biases to creep in.
   

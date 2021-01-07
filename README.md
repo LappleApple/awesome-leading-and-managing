@@ -21,7 +21,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Conflict Prevention and Conflict Resolution](Conflict-Prevention-Resolution.md)
 - [The CTO Role](The-CTO-role.md)
 - [Culture](Culture.md)
-- [Decision-Making](Decision-Making.md)
+- [Decision-Making and Prioritization](Decision-Making-and-Prioritization.md)
 - [Delegation](Delegation.md)
 - [Diversity and Inclusion](Diversity-and-Inclusion.md)
 - [Empathy and Listening](Empathy-and-Listening.md)
@@ -50,7 +50,6 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 
 ## FAQ
 - [Who is this for?](#who-is-this-for)
-- [Why should you read this or trust the authors for advice?](#why-should-you-read-this-or-trust-the-authors-for-advice)
 - [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
 - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
 - [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)

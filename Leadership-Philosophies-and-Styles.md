@@ -13,9 +13,11 @@ This topic comes first, because the following articles offer great frameworks/de
 
 - [The Best Management Is Less Management](https://www.strategy-business.com/article/The-Best-Management-Is-Less-Management) - by Michael Useem and Harbir Singh. Takeaway: "[W]hen time is limited and stakes are high, the most effective leaders rely on their ranks to do what they do best. These leaders empower people to use their expertise to solve problems and achieve goals. They also enable managers at every level of the organization to think like CEOs, making decisions with a large degree of autonomy. There’s a clear system in place for monitoring progress, but it doesn’t impede people from getting the work done. This is strategic leadership at its best, and in a moment of crisis it becomes all the more critical."
 
--[CEO Coaches](https://blog.alexmaccaw.com/ceo-coaches) - by Alex McCaw. Takeaway: Thoughts on why CEOs should consider getting a coach, shaped by the author's own experiences.
+- [CEO Coaches](https://blog.alexmaccaw.com/ceo-coaches) - by Alex McCaw. Takeaway: Thoughts on why CEOs should consider getting a coach, shaped by the author's own experiences.
 
 - [CEOs Should Stop Thinking that Execution Is Somebody Else’s Job; It Is Theirs](https://hbr.org/2017/11/ceos-should-leave-strategy-to-their-team-and-save-their-focus-for-execution) - by Roger L. Martin. Takeaway: "1. Make only the set of choices you are more capable of making than anyone else. 2. Explain the choice that has been made and the reasoning behind it. 3. Explicitly identify the next downstream choice. 4. Assist in making the downstream choice, as needed. 5. Commit to revisit and modify the choice based on downstream feedback."
+
+- [Close Encounters: Leadership And Handwritten Notes](https://www.forbes.com/sites/rodgerdeanduncan/2018/04/06/close-encounters-leadership-and-handwritten-notes/?sh=3c61d4543e96#4564a7b13e96) - by Rodger Dean Duncan. Takeaway: about the leadership style of CEO Douglas Conant, who daily wrote 20 handwritten messages to employees celebrating their contributions and strove to interact with people face-to-face. 
 
 - [Developing the Leader Within You 2.0](https://store.johnmaxwell.com/Developing-the-Leader-Within-You-20_p_2792.html) - by John C. Maxwell. Takeaway: "...leaders are not born, they're made"; “Good leaders don’t just resolve the issue to get it off their plates quickly for the sake of their own comfort. They help create solutions that take their people and their organization forward and put them in a better position than they were in before they experienced the problem.” 
 
@@ -86,6 +88,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 
 - [Management Philosophy](https://3002.ca/posts/management-philosophy/) - by Gordon Radlein. Takeaway: A five-point philosophy: Trust above all else, feedback, give space to succeed or fail, find the right balance of process, and always have a vision.
 
+- [Manager's Playbook](https://github.com/ksindi/managers-playbook) - by Kamil Sindi. Takeaway: open-source heuristics for effective management, covering a variety of topics—ticketing and PR processes, thinking strategically, and more.
+
 - [A Model for Leadership](http://randsinrepose.com/archives/leadership-comes-from-everywhere/) - A political article, but it provides one the most complete leadership frameworks we’ve seen. Values are the linchpin in the model, but important things precede and flow from values:
   - Experience: the total knowledge extracted from yr life i.e. understanding, wisdom, etc.
   - Judgement: ability to make considered decisions or come to sensible conclusions.
@@ -133,6 +137,8 @@ Amateurs don’t have any idea what improves the odds of achieving good outcomes
 - [This Is the Number One Thing That Holds Most People Back from Success](http://www.bakadesuyo.com/2013/09/bad-attitude/) - by Seth Godin. Takeaway: It’s your attitude.
 
 - [3 Harmful Ideas About Leadership (and Shifts You Can Make)](https://www.linkedin.com/pulse/3-harmful-ideas-leadership-shifts-you-can-make-karen-tay) - by Karen Tay. Takeaway: "[G]ood leadership is less and less defined by subject-area expertise, and more and more defined by the ability to hire well and create the conditions for talented individuals to propel the business forward, such as trust and autonomy."
+
+- [Time Machines & Leadership: 10 Things I Wish I Knew at the Start](https://medium.com/@boyney123/time-machines-leadership-10-things-i-wish-i-knew-at-the-start-b50cdf45cb45) - by David Boyne. Takeaway: common-sense advice for managers, starting with a warning not to burn out. 
 
 - [Unintuitive Things I’ve Learned About Management (Part 1) and [(Part 2)(https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-part-2-7c22fc9d87ed)](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b) - by Julie Zhuo. Takeaway: You must like dealing with people to be great at management; having all the answers is not the goal—motivating the team to find the answers is; evaluate the strength of a manager by looking at the strength of their team; the most significant advantage a senior manager has over a junior manager is an expanded perspective; aligning on why is more important than aligning on how; sometimes a great person will not work out on a great team, and that is okay; you never regret moving a struggling person too soon—you only regret doing it too late; your team should respect you, but you don’t need them to agree with everything you say or do.
 
