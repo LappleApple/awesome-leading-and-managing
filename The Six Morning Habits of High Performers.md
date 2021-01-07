@@ -12,3 +12,7 @@
       * The second thing is why is that deeply meaningful to you?
       * number three is affirm what specifically you're committed to doing that will ensure your success, right
       * And then the fourth part of the affirmation formula is, when specifically are you committed to implementing those activities?
+*  Use visualization to motivate yourself
+    * Two things on it. Number one is the world's best athletes almost all of them use visualization including UFC fighters, right. And there's a reason for that. It's they visualize themself performing optimally and achieving their goals so that they go there mentally and emotionally before they ever step on the court or before they ever open the book or before they ever, right. They've already gone there in their mind so when it's realtime, when it's game time, when it's practice them it's that much easier to go there.
+    * And the other thing I'll say on visualization is don't just visualize the end result. Visualize, in fact more important, visualize the activity. See yourself getting on the phone to make those calls. See yourself opening your computer to write those words that's going to make that into a book. See yourself going to the gym or lacing up your running shoes and heading out your front door. Especially if you don't feel like it or you don't like doing those things. See yourself doing it with a smile on your face in a way that's appealing.
+    
