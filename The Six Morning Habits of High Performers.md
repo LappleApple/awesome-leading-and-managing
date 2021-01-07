@@ -1,1 +1,3 @@
-
+* This quote changed my life faster than I ever thought possible and it really is the catalyst for the Miracle Morning. 
+    * And he said **"Your level of success "will seldom exceed your level of personal development, "because success is something you attract "by the person you become."** And in that moment, I went "I'm not dedicating time every day to my personal development, therefore, I'm not becoming the person that I need to be to create the success that I want in my life." And I had this epiphany that I got to go figure out what the world's most successful people do for their personal development
+* 
