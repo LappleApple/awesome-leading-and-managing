@@ -86,7 +86,7 @@
 
 - [Sorry, but Your Start-Up’s Team Isn’t Actually Any More Agile Than the Big Guys. Why You Really Still Can Win](https://www.saastr.com/sorry-but-your-start-ups-team-isnt-actually-any-more-agile-than-the-big-guys-why-you-really-still-can-win/) - by Jason Lemkin. Takeaway: "The BigCo problem is a combination of (x) impact/runway and (y) cross-functionality “unagility”.  Here’s where start-ups can execute so much better."
 
--[Tea and Tech Culture](https://blog.alicegoldfuss.com/tea-and-tech-culture/) - by Alice Goldfuss. Takeaway: "[D]rinking tea has made my job much easier. People give it to me, offer to drink it with me, use it as an icebreaker. It’s both a gateway to interesting conversations and a reward for doing favors. I now participate in a social experience that is easy to quantify, repeat, and leverage."
+- [Tea and Tech Culture](https://blog.alicegoldfuss.com/tea-and-tech-culture/) - by Alice Goldfuss. Takeaway: "[D]rinking tea has made my job much easier. People give it to me, offer to drink it with me, use it as an icebreaker. It’s both a gateway to interesting conversations and a reward for doing favors. I now participate in a social experience that is easy to quantify, repeat, and leverage."
 
 - [Transforming Company Culture] (podcast) (https://directory.libsyn.com/episode/index/id/5762224/tdest_id/402889) - by Happy Melly. Takeaway: A truly inspiring conversation with John Hilliard of Next Jump about the company's "better me + better you = a better us" culture, which includes a no-fire policy and programs to help employees cultivate their leadership skills.
 
