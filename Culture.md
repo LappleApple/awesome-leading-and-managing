@@ -88,7 +88,7 @@
 
 - [Tea and Tech Culture](https://blog.alicegoldfuss.com/tea-and-tech-culture/) - by Alice Goldfuss. Takeaway: "[D]rinking tea has made my job much easier. People give it to me, offer to drink it with me, use it as an icebreaker. It’s both a gateway to interesting conversations and a reward for doing favors. I now participate in a social experience that is easy to quantify, repeat, and leverage."
 
-- [Transforming Company Culture] (podcast) (https://directory.libsyn.com/episode/index/id/5762224/tdest_id/402889) - by Happy Melly. Takeaway: A truly inspiring conversation with John Hilliard of Next Jump about the company's "better me + better you = a better us" culture, which includes a no-fire policy and programs to help employees cultivate their leadership skills.
+- [Transforming Company Culture (podcast)](https://directory.libsyn.com/episode/index/id/5762224/tdest_id/402889) - by Happy Melly. Takeaway: A truly inspiring conversation with John Hilliard of Next Jump about the company's "better me + better you = a better us" culture, which includes a no-fire policy and programs to help employees cultivate their leadership skills.
 
 - [Understanding the Limits of Hierarchies](https://opensource.com/open-organization/16/3/fastest-result-isnt-always-best-result?sc_cid=701600000011jJkAAI) - by Jim Whitehurst, CEO of RedHat. Takeaway: "Leading an open organization—where hierarchy cedes much of its control to dynamic, networked structures—feels much more like maintaining a perennial garden. It involves working more on conditions (turning soil, locating those spots in need of watering) than it does on dictating direction. It means creating the context for things (things you might not have considered or even imagined) to occur."
 
