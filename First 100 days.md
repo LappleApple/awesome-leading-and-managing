@@ -61,3 +61,19 @@
 ![Profiling3](https://user-images.githubusercontent.com/8856857/106836791-a9f7be80-664e-11eb-8f71-b1a7ca9bd0b1.png)
 
 #### [Your Strategic Aspirations]
+![strategicasp](https://user-images.githubusercontent.com/8856857/106839641-7bc8ad80-6653-11eb-8213-6c1055d64cb1.png)
+
+#### 100 days plan
+- Your plan should be structured using monthly milestones (@30, @60, @90 days)to facilitate monthly reviews
+- a set of key themes / to do list is NOT a first 100 days plan
+
+- On-person: Trasnsition maker, Unique Contributor
+- On-Role: Content Leader, Business Achiever , Team Builder , Comms Provider
+- On-Org: Relationship builder, Value adder, Culture navigator
+- On-Market: Market Player
+
+![BP](https://user-images.githubusercontent.com/8856857/106840107-55efd880-6654-11eb-85fe-7e6bc4e8bd6f.png)
+
+
+
+#### Step 1:Start with the end in mind - 10 desired outcomes
