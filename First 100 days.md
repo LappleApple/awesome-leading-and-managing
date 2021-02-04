@@ -74,6 +74,33 @@
 
 ![BP](https://user-images.githubusercontent.com/8856857/106840107-55efd880-6654-11eb-85fe-7e6bc4e8bd6f.png)
 
-
-
 #### Step 1:Start with the end in mind - 10 desired outcomes
+1. Transition Maker - What is your leadership skill step-up?
+Desired Outcome: By the end of first 100 days , my desired outcome on transition maker is to have achieved the following:
+
+2. Unique Contributor - What unique attributes or strengths can you capitalise on for the benefit of everybody?
+Desired Outcome: By the end of first 100 days , my desired outcome on Unique Contributor is to have achieved the following:
+
+3. Content Learner - What is your learning curve , content knowledge-gap?
+Desired Outcome: By the end of first 100 days , my desired outcome on Content Learner is to have achieved the following:
+
+4. Business Achiever - What are your key role deliverables?
+Desired Outcome: By the end of first 100 days , my desired outcome on Business Achiever is to have achieved the following:
+
+5. Team Builder - What can you do to build a high performing team?
+Desired Outcome: By the end of first 100 days , my desired outcome on Team Builder is to have achieved the following:
+
+6. Comms Provider - What comms architecture will work for you in the team?
+Desired Outcome: By the end of first 100 days , my desired outcome on Comms Provider is to have achieved the following:
+
+7. Value Adder - What is your vision for the role and how can you add extra value for the company?
+Desired Outcome: By the end of first 100 days , my desired outcome on Value Adder is to have achieved the following:
+
+8. Realationship Builder - Who really matters here? Who are your role stakeholders? (trusted advisors)
+Desired Outcome: By the end of first 100 days , my desired outcome on Realationship Builder is to have achieved the following:
+
+9. Culture Navigator - What do you need to navigate the culture?
+Desired Outcome: By the end of first 100 days , my desired outcome on Culture Navigator is to have achieved the following:
+
+10. Market Player - What can you achieve in terms of market? quick win or major impact?
+Desired Outcome: By the end of first 100 days , my desired outcome on Market Player is to have achieved the following:
