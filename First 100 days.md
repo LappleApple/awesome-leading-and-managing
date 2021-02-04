@@ -104,3 +104,14 @@ Desired Outcome: By the end of first 100 days , my desired outcome on Culture Na
 
 10. Market Player - What can you achieve in terms of market? quick win or major impact?
 Desired Outcome: By the end of first 100 days , my desired outcome on Market Player is to have achieved the following:
+
+#### Step 2: Break down the desired outcomes into @30 , @60, @90 milestones
+* @30 - what would you have achieved by end of 30 days , to know you are on track.
+* @60 - what would you have achieved by end of 60 days , to know you are on track.
+* @90 - what would you have achieved by end of 90 days , to know you are on track.
+
+#### Step 3:Sense check and complete your plan
+1. Your list of 10 desired outcomes
+2- 11. Foir every desired outcome , dedicated page with a 30, 60 , 90 day plan.
+
+![plan](https://user-images.githubusercontent.com/8856857/106841117-52f5e780-6656-11eb-8382-511585409961.png)
