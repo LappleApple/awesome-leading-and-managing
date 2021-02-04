@@ -8,6 +8,9 @@
   * Franklin D Roosevelt 
   * First part of the strategy - "Immidiate First" "Stratgic and pragmatic"
 * Regulating your emotions in the first 100 days is the key to your success
+
+![PrepareStart](https://user-images.githubusercontent.com/8856857/106836405-f4c50680-664d-11eb-9c79-a104d640b043.png)
+
 #### Prepare
 1. Let go of your previous role
 2. Setup your energy management system
@@ -52,5 +55,9 @@
 1. Envisage two year role horizon - what do you want to achieve in two years?
 2. Establish first 12 months strategic priorities
 3. Meet your key stakeholders (Assume you are leaving in 2 years, gives you a sense of urgeny to attack core role challenges)
+
+![Profiling1](https://user-images.githubusercontent.com/8856857/106836763-9e0bfc80-664e-11eb-88cd-f07d90bcf1cb.png)
+![Profiling2](https://user-images.githubusercontent.com/8856857/106836777-a401dd80-664e-11eb-9d8b-af732da2d555.png)
+![Profiling3](https://user-images.githubusercontent.com/8856857/106836791-a9f7be80-664e-11eb-8f71-b1a7ca9bd0b1.png)
 
 #### [Your Strategic Aspirations]
