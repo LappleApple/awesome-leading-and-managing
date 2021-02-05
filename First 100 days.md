@@ -115,3 +115,27 @@ Desired Outcome: By the end of first 100 days , my desired outcome on Market Pla
 2- 11. Foir every desired outcome , dedicated page with a 30, 60 , 90 day plan.
 
 ![plan](https://user-images.githubusercontent.com/8856857/106841117-52f5e780-6656-11eb-8382-511585409961.png)
+
+## @Start
+
+### 1. Launch you first 100 days plan 
+#### On Arrival
+* No fanfare of the plan
+* Check reconfirm the priorities with your boss, key stakeholders, and the expectations of you
+* Meet your direct team and , get up to speed with their issues
+* Physically walk the floors
+* Finalise your first 100 days plan.
+
+
+* Use full site of the comms architecture:
+ * in-person, roadhows, slack, blog , townhalls, podcast, emails, position paper and any other effective areas
+ 
+### 2. Show up as a leader not a Manager!
+* most execs are proffesional managers, not leaders
+
+#### A leader should:
+* set a clear direction -> on where you want to be by the end of 100 days
+* bring people with him / her -> Boss , team , stakeholders , cx
+* Deliver results -> the right results
+
+
