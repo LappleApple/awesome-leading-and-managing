@@ -152,3 +152,37 @@ Desired Outcome: By the end of first 100 days , my desired outcome on Market Pla
     * And be able to convey passion to others
     * In how you speak, tone of voice
     * ideas , dress
+* How powerful interactions influence perceptions
+* "You can't be half a leader , you need to be all-in or not at all"
+
+* **"Unsuprisingly what you wont find is anybody below the CEO level ever saying that the reason they get up in the morning is to increase the shareholder revenue"**
+
+### 4. EQ will be as important as IQ
+* positive body language , handle your emotions
+
+### 5. Critical success factors for next 30 days (1-30)
+* Bring forward a clear vision
+  * Even if the mission was set by the predecessor
+* Have no fear ! Be confident
+  * Fear is just imaginary and you can choose to imagine a positive outcome instead.
+  * Imagine a fire everytime a negative thought comes and put that into the fire and see it burn.
+* Exercise patience and resilience
+  * While you are in the gung-ho mode , your team and those around you might be suffering of the change fatigue
+* Be a fast learner
+  * Industry , Org , and market will keep moving!
+* Don't be afraid of your mistakes.
+
+## @30 days 
+1. Review progress against the plan
+2. Decide who and what really matters here
+3. Fast forward team performance
+4. Udate your first 100 days plan.
+5. Critical success factors for next 30 days (30-60)
+
+## @60 days 
+1. Review progress against the plan
+2. Who stays, who goes!
+3. Capitalise on your leadership - 'Multiplier effect'
+4. Udate your first 100 days plan.
+5. Critical success factors for next 30 days (60-90)
+
