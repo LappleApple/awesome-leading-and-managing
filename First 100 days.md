@@ -138,4 +138,17 @@ Desired Outcome: By the end of first 100 days , my desired outcome on Market Pla
 * bring people with him / her -> Boss , team , stakeholders , cx
 * Deliver results -> the right results
 
+### 3. Bring "Sizzle" as well as "Substance"
+* Sizzle = Personality
+* Substance = Plan
 
+* You need to have both sizzle and Personality 
+  * Walk tall, walk purposefully
+  * Have ability to command attention
+  * Bring fresh energy!
+  * You have to have something to say
+  * Something new , different to offer
+  * You need to have passion for what you do!
+    * And be able to convey passion to others
+    * In how you speak, tone of voice
+    * ideas , dress
