@@ -216,3 +216,13 @@ Desired Outcome: By the end of first 100 days , my desired outcome on Market Pla
 8. How aligned are you with your boss and Boss's boss ?
 9. Are you celebrating your success and having fun along the way?
 
+### 2. Decide who and what really matters here?
+* skilled political behaviour involves understanding how the org works and mobilising resources to achieve org's purpose
+* Skilled leaders realise 2 dimensions in every situation - what is happening 'above the surface' and 'below the surface'
+* Do you know how org works its process, procedure systems?
+* Do you feel for the power bases, overt and covert agendas 
+* who are the key decision makers and influencers?
+* Do you understand the formal and informal org chart?
+* "Invest in the network now" - Build goodwill and relationships
+
+### 3. Fast forward team performance
