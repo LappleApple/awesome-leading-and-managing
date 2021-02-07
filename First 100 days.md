@@ -226,3 +226,22 @@ Desired Outcome: By the end of first 100 days , my desired outcome on Market Pla
 * "Invest in the network now" - Build goodwill and relationships
 
 ### 3. Fast forward team performance
+* Health check of the system 
+  * Healthy = High performing team
+  * Clear Head = Team Analytics, Team Intelligence, Team Knowledge
+  * Strong heart = Team Skills , Team Competencies
+* Investing in skills training 
+* Investing in team building
+* Recruiting to fill gaps
+
+### 4. Update your first 100 days plan.
+### 5. Critical success factors for next 30 days (60-90)
+* Be realistic about problems (accept issues)
+* Take advantage of your newness (push forward changes)
+* **Invest in the network now**
+  * reach out to beyond your department 
+  * Ppl will respect you when you find out how things happen and work
+* Get out of office 
+  * discover innovations 
+  * unlock issues
+* Be the best leader you can be
