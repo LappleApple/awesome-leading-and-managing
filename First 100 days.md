@@ -186,3 +186,33 @@ Desired Outcome: By the end of first 100 days , my desired outcome on Market Pla
 4. Udate your first 100 days plan.
 5. Critical success factors for next 30 days (60-90)
 
+# @30 DAYS
+
+### 1. Review progress against the plan
+* Review your desired outcome for the first 100 days plan
+* Are you on track to achieve these outcomes?
+* Are you where you expected to be @ 30 days?
+* Take stock of what is working / not working with your plan @30 days
+  * What more can you do to improve the plan 
+  * brainstorm solutions to any clocks / challenges
+  * Think about 'performance acceleration opportunities'
+  * Who can help you with this exercise and act as a sounding board / Coach?
+  
+#### @30 days checklist
+1. How did you spend your energy and time in the first 30 days?   
+  * talking with cx's?n / stakeholders?
+  * Understanding the field - how "x" works?
+  * Time invested in the team v/s your boss?
+  * Walk the talk
+2. Did you manage the overwhelmingness and rise above the sea of well wishers?
+  * Be pleasant and friendly with everyone
+  * Smile at everyone, shake hands, reply to emails.
+3. How did you deal with your predecssor?
+  * No thank you for a handover
+4. How did you respond to first mistakes / bad news / early pressure?
+5. How well have you coped with unknowns/ and avoided derailment?
+6. Have you assesed wthere the right people are in the right job?
+7. How well are you communicating your first 100 days plan?
+8. How aligned are you with your boss and Boss's boss ?
+9. Are you celebrating your success and having fun along the way?
+
