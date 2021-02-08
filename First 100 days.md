@@ -245,3 +245,58 @@ Desired Outcome: By the end of first 100 days , my desired outcome on Market Pla
   * discover innovations 
   * unlock issues
 * Be the best leader you can be
+
+# @60 DAYS
+
+### 1. Review progress against the plan
+* Review your desired outcome for the first 100 days plan
+* Are you on track to achieve these outcomes?
+* Are you where you expected to be @ 60 days?
+* Take stock of what is working / not working with your plan @60 days
+  * What more can you do to improve the plan 
+  * brainstorm solutions to any clocks / challenges
+  * Think about 'performance acceleration opportunities'
+  * Who can help you with this exercise and act as a sounding board / Coach?
+
+* Take out your fisrt 100 days plan and set aside atleast 2 hours review session
+  * Are you struggling with any of the key priorities?
+  * Have you achieved what you wanted by now?
+  * If you are spending time on activities that are not on your plan , adjust the plan / time
+  * Use the @60days checklist
+  
+#### @60 days checklist
+1. Have you met all your key stakeholders yet?
+2. Are you up to speed on your CEOs priorities?
+  * Do you have a sense of your company's vision?
+  * Read CEO's vision , blog , newsletter, meeting notes 
+  * Linking with it ! and stay abreast of what is discussed
+3. Are you getting the pace right?
+4. Are you on track to deliver real results ?
+  * tangible results 
+  * be your own harshest critic
+5. How well are you dealing with your people issues?
+  * Improve performance of your direct team
+6. Dio you have the necessary budget and resources?
+7. How many mistakes have you made to date?
+8. Are you looking after your health and energy?
+9. Are you and your boss aligned?
+
+### 2. Make final decision on who stays and who goes?
+
+### 3. Capitalise on your leadership 'mutilier effect'
+* Create a ripple effect on postive behaviours
+* You can decide on what flavour is your team?
+* Conciously exploit good factor 
+* Everybody wants to feel that they are part of something important - give them that!
+
+### 4. Update your first 100 days plan
+
+### 5. Critical success factors for the next 30 days (60-90)
+* Reforce and resurge
+  * Extra energy in = Exponential energy out
+  * i.e the more energy you put in this month benefits in the long run 
+* Get the team working for you 
+* Bond with your people
+* Reassure yourself that yes you are doing a good job.
+Start to record your progress abd lessons learned.
+
