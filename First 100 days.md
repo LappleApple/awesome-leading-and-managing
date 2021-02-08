@@ -343,3 +343,18 @@ Start to record your progress abd lessons learned.
   b) On people and teams - brings people with him / her
   c) On results and deliverabl;es - Gets right results 
 3. What tips can you offer the recently appointed leader moving forward
+
+### 4. Take time out for self reflection
+1. what is your personal highlight?
+2. what was your lowest moment?
+3. how did you recover from knock-backs ?
+4. who really helped you since you joined?
+5. what are your biggest lessons learned?
+6. what would you do differently if you did it all over again?
+
+### 5. Critical success factors for the final 10 days
+* Cross the finish line
+* Time out and reflect 
+* shift gears now for 12 month plan 
+* shift from sprint to a marathon
+* Comms , Comms , Comms - success of plan etc
