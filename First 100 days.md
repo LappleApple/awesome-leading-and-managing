@@ -300,3 +300,46 @@ Desired Outcome: By the end of first 100 days , my desired outcome on Market Pla
 * Reassure yourself that yes you are doing a good job.
 Start to record your progress abd lessons learned.
 
+# @90 DAYS
+
+### 1. Review progress against the plan
+* Review your desired outcome for the first 100 days plan
+* Are you on track to achieve these outcomes?
+* Are you where you expected to be @ 90 days?
+* Take stock of what is working / not working with your plan @30 days
+  * What more can you do to improve the plan 
+  * brainstorm solutions to any clocks / challenges
+  * Think about 'performance acceleration opportunities'
+  * Who can help you with this exercise and act as a sounding board / Coach?
+  
+* You now have 10 days to tidy up and bring your first 100 days plan to a successful close
+  
+#### @90 days checklist
+1. Have you achieved everything you set out to achieve?
+2. Have you laid foundations for the rest of your 12 months?
+3. Are your stakeholders satisfied with your performance? 
+  * Perceptions of boss, DRs , stakeholders , cxs , peers
+  * gather formal / informal feedback
+4. Does your team respect you?
+5. Has the market heard from you?
+6. Can you list your quick wins ? - both qualitative and quantitative
+7. How do you rate your own performance ?
+8. How does your boss rate your performance ?
+9. What have you learned from the whole experience?
+10. Are you having fun?
+
+
+### 2. Write your 10 days to-do list
+
+
+### 3. Ask for feedback
+* via 360 degrees appraisal -> 450 degrees by adding self reflection
+* Informal - can you tell me more 
+
+### 90 day Feedback template 
+1. What is your oevrall impression of his/her leadership style and impact to date?
+2. Leadership skill - Please rank recently appointed leader's performance as high . medum , low . Please also provide comments and examples to underpin your ranking.
+  a) On vision and Strategy - sets clear direction
+  b) On people and teams - brings people with him / her
+  c) On results and deliverabl;es - Gets right results 
+3. What tips can you offer the recently appointed leader moving forward
