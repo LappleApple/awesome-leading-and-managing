@@ -40,7 +40,6 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Ihor Dvoretskyi](https://twitter.com/idvoretskyi) - Developer Advocate at Cloud Native Computing Foundation, co-founder and co-lead of the [Product Management Special Interest Group at Kubernetes Community](https://github.com/kubernetes/community/blob/master/sig-product-management/README.md).
 - [Isabel Drost-Fromm](https://twitter.com/MaineC) — Open Source Strategist at Europace.de, Apache Software Foundation, Berlin Buzzwords founder, frequent speaker and creator of things.
 - [James Turnbull](https://twitter.com/kartar) - CTO @EmpaticoOrg. Previously CTO @kickstarter, OG @docker/@puppetize. Likes tattoos & good food. The Terraform Book http://goo.gl/NnSJpe.
-- [Jamie Allen](https://twitter.com/jamie_allen) — Noted Lambda hater. Author of Effective Akka, contributor to Reactive Design Patterns. Engineering Head at Starbucks, formerly of Lightbend.
 - [Jan Lehnardt](https://twitter.com/janl) — Makes @couchdb @hoodiehq @jsconfeu @greenkeeperio & #offlinefirst Dissatisfied with the status-quo.
 - [Jason Fried](https://twitter.com/jasonfried) — Founder & CEO at http://basecamp.com. Co-author of Getting Real, Remote, and NYT Bestseller REWORK.
 - [Jeff Gothelf](https://twitter.com/jboogie) — Author: http://www.leanuxbook.com and http://senseandrespond.co. Digital transformation, product skills-building, org agility. NL: http://eepurl.com/cn14af.
