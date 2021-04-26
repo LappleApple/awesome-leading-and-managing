@@ -58,6 +58,8 @@
 
 - [Battling Perfectionism](https://medium.com/the-year-of-the-looking-glass/battling-perfectionism-713537a8b8b6) - by Julie Zhuo. Takeaway: "The problem is that trying to do things perfectly all the time often leads to worse prioritization decisions when you take a step back...The thing is, perfectionism tends to be rooted in fear rather than opportunity."
 
+- [How to Prioritize Features and Projects: The Ultimate List of Prioritization Frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779) - by Jordan Lamborn. Takeaway: 111 prioritization methods dating back from the 1980s to the present.
+
 - [Prioritize Opportunities, Not Solutions]](https://www.producttalk.org/2019/02/prioritize-opportunities/) -by Teresa Torres. Takeaway:  “Prioritizing solutions is a left-over side effect of being output focused. When we are judged by what we deliver, the key decisions are focused on what to build when. But when we are judged by what outcomes we drive, it’s less about what solutions we deliver and more about what problems we solve for our customers.”
 
 - [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) — by Brandon Chu. Takeaway: “Estimate return on investment for each project; apply three constraints: dependencies, timeline and team composition, and sequence projects based on ROI and constraints.” Includes a template for triaging bugs as a tool for getting teams to think about priorities.
