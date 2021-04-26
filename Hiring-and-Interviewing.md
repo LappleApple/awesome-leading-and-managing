@@ -79,11 +79,8 @@
 - [What Managers Are Getting Wrong About the World’s Greatest Job Ad](http://blog.idonethis.com/greatest-job-ad/) - by Blake Thorne at iDoneThis. Takeaway: A good job posting outlines the mission, the risks and the rewards.
 
 - [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - by anonymous. Takeaway: Be careful with the "brilliant" word. Many brilliant people start a lot and are visionaries or charismatic, but don't finish what they started.
-
-- [Who Y Combinator Companies Want](http://blog.triplebyte.com/who-y-combinator-companies-want) - by
-  Ammon Bartram.  Takeaways: Companies look for very different types of
-  programmers, requiring different types of interviews.  Consider nine
-  profiles and which ones your company actually wants.
+  
+- [Why You Should Invest in Undervalued People](https://acloudguru.com/blog/business/why-you-should-invest-in-undervalued-people) - by Joe Emison. Takeaway: "There are excellent software developers who hate hackathons and would rather spend time raising their children on weekends than on coding side projects. There are people who are neuroatypical who can’t deal well with your unrealistic, on-the-spot brain teasers. There are people who need some additional training and mentorship to be able to ship software effectively for most organizations. These people are all undervalued by the standard hiring practices in tech, which means that, with some effort on your part, they’ll give the highest return on investment of any hires you can make."
 
 ### Interviewing Candidates
 
