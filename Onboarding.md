@@ -26,6 +26,8 @@
 
 - [Toast’s Engineering Team Doubled. Here’s How They Scaled Onboarding.](https://www.donut.com/blog/onboarding-engineers-at-toast/) - by Toast. Takeaway: "Ultimately, Toast’s engineering onboarding playbook is comprised of a mixture of background information transmitted through automated systems, coupled with direct in-person trainings. Team leads and onboarding buddies help fill in the gaps to get each and every person acclimated to life at Toast and ready to do their best work. The entire process is systematized and documented, so that everyone knows what to expect, and labor is divided between automated systems and people on the team, so that no one person is overburdened and nothing slips through the cracks."
 
+- [Treat Your Onboarding Process Like Your Build System](https://medium.com/vpe-coach/treat-your-onboarding-process-like-your-build-system-381474aff0f1) - by Don Neufeld. Takeaway: "Onboarding must be: Repeatable; Self Service; Written Down; In Source Control. Additionally, I believe the key to keep your onboarding documentation alive, accurate, and up to date is this: Every New Hire Must Update The Docs."
+
 ## Onboarding Decks
 
 
