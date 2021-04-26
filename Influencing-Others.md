@@ -56,6 +56,9 @@ Start by assuming it’s not them, it’s you."
 
 - [9 Tips: How IT Leaders Can Build Better Relationships](https://enterprisersproject.com/article/2017/11/9-tips-how-it-leaders-can-build-better-relationships) - by Carla Rudder. Takeaway: Be a partner, be transparent, be truthful, be in constant communication, be OK with being wrong, be in the moment, be engaged, be a team player, be candid.
 
+- [The Patient Change Agent](https://medium.com/hackernoon/the-patient-change-agent-fd8548f04777) - by John Cutler. Takeaway: "At a minimum, ask someone:
+Can you describe [to] an elephant in the room that I will quickly encounter, will think is totally fixable, but will be wrong? Why is the status quo difficult to change?"
+
 - [Prattfalls: Better Communication](https://medium.com/@royrapoport/prattfalls-better-communication-54d173d22a90) - by Roy Rapoport. Takeaway: "Communication only exists as a mutation of someone else’s internal state; focus entirely on what mutation you’re trying to accomplish; be thoughtful about how to accomplish that mutation; validate THAT mutation occurred."
 
 - [Public Speaking Resources](https://github.com/vmbrasseur/Public_Speaking) - by VM Brasseur. Takeaway: A collection of resources on speaker training/tips, technical conferences, proposing talks and more.
