@@ -5,6 +5,8 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Building a Growth Framework](https://blog.songkick.com/building-a-growth-framework-2464435e9e46) - by Aaron Randall. Takeaway: About Songkick's career growth framework's nine roles and seven key values, and how the company created it.
 
+- [Career Ladders](https://career-ladders.dev) - by Sarah Drasner. Takeaway: open source ladders for Engineering, Developer Experience, and Documentation.
+
 - [Career Ladders Aren't Enough – You Need a Thoughtful Promotion Process, Too](https://leaddev.com/career-paths-progression-promotion/career-ladders-arent-enough-you-need-thoughtful-promotion) - by Sarah Milstein. Takeaway: “Having built a process that appears to be reducing negative effects and increasing trustworthy promotions, I’m hopeful that the combination of career ladders and decision-making with a transparent structure can help many organizations grow more smoothly.”
 
 - [Career Structure. It Doesn't Matter. Until It Matters.](https://web.archive.org/web/20180817070012/https://tech.hbc.com/2018-01-24-career-structure.html) - by Ade Trenaman. Takeaway: A comprehensive overview of career structure at Gilt, touching upon other companies' models. Gilt's model is based on Radford and considers these elements: Level of knowledge, job complexity, supervision, experience, sphere of influence and team size (for leads to manage), and accountability.
