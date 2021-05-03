@@ -5,7 +5,6 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Adam Tornhill](https://twitter.com/AdamTornhill) — Programmer, psychologist, Lisp hacker, author and speaker. Founder of Empear and https://codescene.io/.
 - [Adewale Oshineye](https://twitter.com/ade_oshineye) — Developer Advocate at Google. Co-author of Apprenticeship Patterns. 
 - [Adrian Cockcroft](https://twitter.com/adrianco) — VP of Cloud Architecture at AWS, formerly Battery Ventures, Netflix, eBay, and Sun, frequent speaker, microservices thought leader.
-- [Adrian Trenaman](https://twitter.com/adrian_trenaman) — CTO at Gilt/Hudson's Bay, speaker, energetic leader.
 - [Andrea Goulet](https://twitter.com/andreagoulet) — CEO @corgibytes. Founder http://LegacyCode.Rocks. Coder, communicator, mama.
 - [Andrea Tomasini](https://twitter.com/tumma72) — Enterprise Agile Coach (CEC) and Trainer (CST), a linchpin, an opinion maker, a follower, a leader.
 - [Angie Jones](https://twitter.com/techgirl1908) — Automation Engineer @twitter, international speaker, certified Java programmer, master inventor, advocate of women and minorities in tech.
@@ -16,32 +15,31 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Ben Linders](https://twitter.com/BenLinders) - Agile Lean Quality & Continuous Improvement, editor @InfoQ.
 - [Boaz Sender](https://twitter.com/BoazSender) — Director of Research at @Bocoup, with JS Foundation. Curating at @galleryopen, @mobiusartists board.
 - [Brene Brown](https://twitter.com/BreneBrown) — Researcher. Storyteller.
-- [Bridget Kromhout](https://twitter.com/bridgetkromhout) — Principal Technologist for @cloudfoundry at @pivotal. Podcasts @arresteddevops. Organizes @devopsdays. Was ops at @DramaFever.
+- [Bridget Kromhout](https://twitter.com/bridgetkromhout) — Cloud Native OSS PM @Azure. Also: @devopsdays, @arresteddevops.
+- [Bryan Liles](https://twitter.com/bryanl) - Opinions are mine. Joyslayer. Listen to me now; believe me later on. Lonely Black Principal Engineer at a SV company.
 - [Camille Fournier](https://twitter.com/skamille) — Engineer, CTO, member of the Apache ZooKeeper community. Frequent speaker.
 - [Charity Majors](https://twitter.com/mipsytipsy) — Engineer/CEO at @honeycombio, formerly Parse/Facebook, frequent speaker.
 - [Carol Willing](https://twitter.com/WillingCarol) — Director, @ThePSF. @projectjupyter core dev. @calpoly research engineer. @fablabsd Geek in Res. @MITSloan @DukeU alum.
 - [Chris Aniszczyk](https://twitter.com/cra) — Building @CloudNativeFdn @OCI_ORG / Open Source Pragmatist.
 - [Cindy Gallop](https://twitter.com/cindygallop) — the Michael Bay of business.
 - [Dan North](https://twitter.com/tastapod) — Optimizer of organizations, teams and software, programmer, Agile coach, technologist, troublemaker.
-- [Danese Cooper](https://twitter.com/DivaDanese) — Open Source and InnerSource at PayPal. Fequent speaker, writer.
+- [Danese Cooper](https://twitter.com/DivaDanese) — Open Source diva.
 - [Daniel Bryant](https://twitter.com/danielbryantuk) — biz/dev/qa/ops, teacher, student, traveller, runner, CTO @SpectoLabs, @InfoQ editor, @DevoxxUK, @oscon, @ContainerSched, @jaxlondon.
 - [Dave Lester](https://twitter.com/davelester) — Open source at Apple. Interested in where tech and communities intersect.
 - [David Marquet](https://twitter.com/ldavidmarquet) - Author of *Turn the Ship Around*. 
-- [Duane O'Brien](https://twitter.com/DuaneOBrien) — Open Source Programs Evangelist at PayPal, speaker, advocate of diversity/inclusion.
+- [Duane O'Brien](https://twitter.com/DuaneOBrien) — Open Source Programs Head at Indeed, speaker, advocate of diversity/inclusion.
 - [Edmond Lau](https://twitter.com/edmondlau) - Engineer & leadership coach. Early engineer @Quip, @Quora, @Ooyala & also ex-@Google. Author of The Effective Engineer: https://www.effectiveengineer.com/book.
-- [Elisabeth Hendrickson](https://twitter.com/testobsessed) — VP R&D, Data at @pivotal. Into radical collaboration and fast feedback.
+- [Elisabeth Hendrickson](https://twitter.com/testobsessed) — Into radical collaboration and fast feedback.
 - [Erica Joy Baker](https://twitter.com/EricaJoy) — Senior Engineer at Slack Technologies and advocate for diversity and inclusion in tech, and expanding access to tech education.
 - [Francesc Campoy](https://twitter.com/francesc) — Señor Developer Advocate for @GoogleCloud, Gopher, Catalan, Gaygler - perennial learner of things. One half of @GCPPodcast.
 - [Gregory Brown](https://twitter.com/practicingdev) — Author of the O'Reilly book "Programming Beyond Practices."
-- [Gregory Mazurek](https://twitter.com/GregoryMazurek) — Engineering leader at CapitalOne. Speaker, enthusiast.
 - [Heather Fleming](https://twitter.com/hfleming) — Agile Evangelist, Product & PMO Exec, Myers-Briggs Coach and a Voice for Women in Tech.
 - [Helena Edelson](https://twitter.com/helenaedelson) — Distributed Systems, Big Data & Infra Engineer @Apple. Speaker. FP, Scala, Intelligent self healing systems. Streaming. Cassandra MVP.
 - [Henrik Kniberg](https://twitter.com/henrikkniberg) — agile coach, led lots of Spotify's efforts and documented them for the world to learn from, author.
 - [Ihor Dvoretskyi](https://twitter.com/idvoretskyi) - Developer Advocate at Cloud Native Computing Foundation, co-founder and co-lead of the [Product Management Special Interest Group at Kubernetes Community](https://github.com/kubernetes/community/blob/master/sig-product-management/README.md).
 - [Isabel Drost-Fromm](https://twitter.com/MaineC) — Open Source Strategist at Europace.de, Apache Software Foundation, Berlin Buzzwords founder, frequent speaker and creator of things.
-- [James Turnbull](https://twitter.com/kartar) - CTO @EmpaticoOrg. Previously CTO @kickstarter, OG @docker/@puppetize. Likes tattoos & good food. The Terraform Book http://goo.gl/NnSJpe.
+- [James Turnbull](https://twitter.com/kartar) - Eng @sothebys & author. Prev @Glitch, @Microsoft, @kickstarter, @docker, @puppetize. 
 - [Jan Lehnardt](https://twitter.com/janl) — Makes @couchdb @hoodiehq @jsconfeu @greenkeeperio & #offlinefirst Dissatisfied with the status-quo.
-- [Jason Fried](https://twitter.com/jasonfried) — Founder & CEO at http://basecamp.com. Co-author of Getting Real, Remote, and NYT Bestseller REWORK.
 - [Jeff Gothelf](https://twitter.com/jboogie) — Author: http://www.leanuxbook.com and http://senseandrespond.co. Digital transformation, product skills-building, org agility. NL: http://eepurl.com/cn14af.
 - [Jen Bunk](https://twitter.com/JBunky) - People Stack Architect, leadership coach, entrepreneur, iopsych PhD.
 - [Jerome Petazzoni](https://twitter.com/jpetazzo) — Docker, containers, frequent speaker, better writer than he might realize, connector.
@@ -49,9 +47,8 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Jessica McKellar](https://twitter.com/jessicamckellar) — Startup founder, engineering director at Dropbox, Python Software Foundation.
 - [Jez Humble](https://twitter.com/jezhumble) — Co-author of Continuous Delivery, Lean Enterprise, DevOps Handbook. CTO @devops_research, lecturer @UCBerkeley, ex- @18F.
 - [Joe Goldberg](https://twitter.com/tenaciousjoe) — Founding Father of this List.
-- [Joel Spolsky](https://twitter.com/spolsky) — CEO of Stack Overflow, co-founder of Fog Creek Software (Glitch, FogBugz), and creator of Trello. NYC gay techie.
 - [John Allspaw](https://twitter.com/allspaw) — Former CTO, Etsy. Dad. Author. Guitarist. Student of sociotechnical systems, human factors, and cognitive systems engineering.
-- [John Arundel](https://twitter.com/bitfield) — Helps with devops, Puppet, Docker, etc. Ally. Author, The Puppet Beginner's Guide: http://amzn.to/2sJYLvc.
+- [John Arundel](https://twitter.com/bitfield) — Helps with devops, Puppet, Docker, etc. Ally. Author, The Puppet Beginner's Guide.
 - [Johnathan Nightingale](https://twitter.com/johnath) - Tech, Leadership, Dad. Partner @rawsignalgroup, Board @creativecommons, Editor https://mfbt.ca. Former CPO @Hubba, Mr @Firefox.
 - [Josh Simmons](https://twitter.com/joshsimmons) — Google open source, @opensourceorg director/CFO, @librariesio and @utos advisor.
 - [Julie Zhuo](https://twitter.com/joulee) — Product design VP @ Facebook.
@@ -67,7 +64,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Mackenzie Kosut](https://twitter.com/mkosut) — Global Startup Evangelist for @AWSCloud. Formerly helped build @betterment, @oscarhealth, @tumblr, @mtv, and more.
 - [Martin Fowler](https://twitter.com/martinfowler) — Programmer, Loud Mouth, ThoughtWorker.
 - [Mary Poppendieck](https://twitter.com/mpoppendieck) — Author of Lean Software Development, Implementing Lean Software Development, Leading Lean Software Development, and The Lean Mindset.
-- [Mathias Meyer](https://twitter.com/roidrage) — CEO of Travis CI, frequent speaker and writer.
+- [Mathias Meyer](https://twitter.com/roidrage) — Leadership coach, frequent speaker and writer.
 - [Meri Williams](https://twitter.com/Geek_Manager) — CTO @MOO, Speaker, Author. Co-curator & host @TheLeadDev. Advisor @wearethekindred.
 - [Michael Bryzek](https://twitter.com/mbryzek) — Cofounder and CTO Flow.io. Co-founder and ex-CTO Gilt Groupe. Masters in CS from MIT.
 - [Michael Feathers](https://twitter.com/mfeathers) — Director, R7K Research & Conveyance, author, speaker.
@@ -78,16 +75,18 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Patrick Kua](https://twitter.com/patkua) — CTO of @N26, Author of http://thekua.io/evolarch, http://thekua.io/twtl, http://thekua.io/retrobook. Ex-ThoughtWorks.
 - [Phil Calçado](https://twitter.com/pcalcado) — Does things for @DigitalOcean. In the past, did things for @SoundCloud and @ThoughtWorks.
 - [Philip Guo](https://twitter.com/pgbovine) — Assistant Professor of Cognitive Science - UC San Diego - human-computer interaction, online learning, computing education 
-- [Rachel Davies](https://twitter.com/rachelcdavies) — Lead Engineer at Makers Academy. Past practitioner of eXtreme Programming (XP) at Unruly. Co-author of "Agile Coaching" book.
+- [Rachel Davies](https://twitter.com/rachelcdavies) — Past practitioner of eXtreme Programming (XP) at Unruly. Co-author of "Agile Coaching" book.
 - [Rands](https://twitter.com/rands) - VP Engineering at Slack, creator of randsinrepose.com.
 - [Randy Shoup](https://twitter.com/randyshoup) — VP Engineering at Stitch Fix (former eBay, Google).
 - [Raphael Crawford-Marks](https://twitter.com/raphaelcm) — CEO @Bonusly. Alumnus of @Looksharp, @SquareTrade, @PeaceCorps, @HampshireColg.
 - [Richard Kasperowski](https://twitter.com/rkasper) - Great Teams and Results | Agile | Open Space Technology | Core Protocols | CoderDojo. kasperowski.com.
+- [Ruha Benjamin](https://twitter.com/ruha9) - Founding Director, Ida B. Wells Just Data Lab. Author @NewJimCode +  @Peoples_Science. Professor @PrincetonAAS. Organizer @blacktofuture. 
 - [Ryan Burgess](https://twitter.com/burgessdryan) — Software Engineering Manager at @Netflix. Lover of #JavaScript! The Canadian voice on the @FrontEndHH podcast.
+- [Safiya Umoja Noble](https://twitter.com/safiyanoble) - Researcher, professor @UCLA, expert on racism, sexism, & tech.
 - [Sandi Metz](https://twitter.com/sandimetz) — Cyclist, Rubyist, reluctant author (http://poodr.com), obsessive programmer, recalcitrant blogger.
 - [Sandro Mancuso](https://twitter.com/sandromancuso) — Software craftsman @codurance, author of [The Software Craftsman](http://goo.gl/b9EymU), speaker, founder of the London Software Craftsmanship Community.
 - [Sarah Mei](https://twitter.com/sarahmei) — Software dev, founder of @railsbridge, Director of Ruby Central, Chief Consultant of @devmyndsoftware.
-- [Sarah Sharp](https://twitter.com/sarahsharp) — @ottertechllc founder. Diversity & inclusion consultant. Community metrics data miner. @outreachy admin.
+- [Sage Sharp](https://twitter.com/_sagesharp_) — Diversity & inclusion @conservancy. Runs @outreachy internships. CoC training @ottertechllc. Django dev. Non-binary & trans. They/them.
 - [Sasan Goodarzi](https://twitter.com/sasan_goodarzi) — CEO at Intuit and Member, Board of Directors at Atlassian
 - [Simon Wardley](https://twitter.com/swardley) — Corporate cartographer, chaotic evil, destroyer of undeserved value.
 - [Steve Francia](https://twitter.com/spf13) — Golang team at Google, Drupal Board Member, author, speaker, developer, creator of @gohugoio, Cobra and spf13-vim, formerly of Docker and MongoDB.
