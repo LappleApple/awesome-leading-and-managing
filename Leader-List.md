@@ -59,6 +59,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Keith Klain](https://twitter.com/KeithKlain) - Software quality activist, professional skeptic with +20 years of industry experience.
 - [Kellan Elliott-McCrea](https://twitter.com/kellan) — Fixing healthcare @ Blink Health. Previously CTO at Etsy, Flickr Architect. Technical solutions for social problems.
 - [Kelsey Hightower](https://twitter.com/kelseyhightower) — Open Source advocate at Google, frequent speaker, minimalist.
+- [Kim Crayton](https://twitter.com/KimCrayton1) - Forging a path to welcoming & psychological safety, in systems, institutions & policies, at scale: profitwithoutoppression.com.
 - [Lara Hogan](https://twitter.com/lara_hogan) — Author of Demystifying Public Speaking, and Designing for Performance.
 - [Linda Rising](https://twitter.com/RisingLinda) — Agile 75-year-old world traveler, interested in patterns and change and retrospectives and how the brain works.
 - [Mackenzie Kosut](https://twitter.com/mkosut) — Global Startup Evangelist for @AWSCloud. Formerly helped build @betterment, @oscarhealth, @tumblr, @mtv, and more.
