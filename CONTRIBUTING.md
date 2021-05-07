@@ -20,7 +20,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Takeaways should avoid sub-bullets and be complete sentences. 
 - Use **quotation marks** when you're quoting verbatim.
 - Make **one individual pull request per each new entry/suggestion**.
-- Use [title-casing](http://titlecapitalization.com) (AP style), regardless of the style used by the original article.
+- Use [title-casing](https://titlecaseconverter.com) (AP style), regardless of the style used by the original article.
 - Add link additions in **alphabetical order**. 
   - Disregard articles (**the/an/a**) coming at the beginning of titles and use the next word.
 - New categories or improvements to the existing categorization are welcome.
