@@ -28,7 +28,7 @@
 
 - [These 13 Exercises Will Prepare You for Work's Toughest Situations](http://firstround.com/review/these-13-exercises-will-prepare-you-for-works-toughest-situations/) - by First Round. Takeaway: A profile of Maggie Leung, who uses the term “dynamic empathy” to describe "quickly gaining an understanding of how a colleague feels and figuring out how to act on it in a swiftly changing environment."
 
-- [Three Ways to Cool the Conflict](https://www.kornferry.com/institute/work-conflict-management-emotional-intelligence) - by Daniel Goleman. Takeaway: Manage self by noticing feelings and reframing situationss, manage conversations by reflecting and pausing, and manage relationships.
+- [Three Ways to Cool the Conflict](https://www.kornferry.com/insights/this-week-in-leadership/work-conflict-management-emotional-intelligence) - by Daniel Goleman. Takeaway: Manage self by noticing feelings and reframing situationss, manage conversations by reflecting and pausing, and manage relationships.
 
 - [Want to Be a Great Leader? Assume Positive Intent](https://opensource.com/open-organization/17/2/assuming-positive-intent) - by Jim Whitehurst. The Red Hat CEO explains a key lesson he's learned from watching open source communities work together: Assume positive intent. In this article, he explains how that lesson impacts the way he views leadership and organizational culture.
 
