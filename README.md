@@ -34,6 +34,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Leadership Forums](Leadership-Forums.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
 - [Leading Leaders](Leading-Leaders.md)
+- [Leaving a Team](Leaving-a-Team.md)
 - [Managing Remotely](Managing-Remotely.md)
 - [Media: Blogs, Newsletters, Podcasts](Media-Blogs-Newsletters-Podcasts.md)
 - [Meetings](Meetings.md)
