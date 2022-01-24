@@ -25,6 +25,8 @@
 - [When Teams Don’t Finish Work in a Sprint: 3 Tips to Seeing and Finishing Work](https://www.jrothman.com/mpd/2018/01/teams-dont-finish-work-sprint-3-tips-seeing-finishing-work/) - by Johanna Rothman. Takeaway: A clean, simple analysis of cumulative flow, velocity and limiting work in progress. 
 
 - [Why Team-Building Exercises Won’t Make Your Staff More Productive](https://medium.com/swlh/why-team-building-exercises-wont-make-your-staff-more-productive-f5a1d5223a8f) - by Aytekin Tank. Takeaway: Nurture teams, honor their independence, give them time and space, and be warm.
+-
+- [How to Work Smarter, Not Harder: Myth or Efficient Strategy?](https://www.paymoapp.com/blog/work-smarter-not-harder/) - by Alexandra Cote. Takeaway: Delegate work, don’t be afraid of change coming your way, and prioritize the right way.
 
 ### Time Management
 
