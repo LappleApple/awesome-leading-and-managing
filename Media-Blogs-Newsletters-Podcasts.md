@@ -13,6 +13,8 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [ConferenceList](https://conferencelist.io/) - by Cezar Floroiu. A list of conferences around the world. Get out there and make your voice heard.
 
+- [all REMOTE news](https://allremotenews.com/) - The Remote & Future of Work news aggregator platform.
+
 ### Newsletters
 
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/) - by GitPrime. A weekly email covering trends in engineering leadership, productivity, culture, and scaling development teams.
