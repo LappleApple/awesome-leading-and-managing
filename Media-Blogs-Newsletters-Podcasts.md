@@ -32,6 +32,8 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [Develomentor](https://develomentor.com) - a podcast by Wikimedia CTO Grant Ingersoll featuring interviews with technologists about their career development and pathways.
 
+- [Developing Leadership](https://www.developingleadership.co/) - a podcast by Jason Warner (previously CTO @ Github) & Eiso Kant (CEO @ Athenian). The podcast discusses engineering leadership, and the challenges faced as organizations and careers grow.
+
 - [John Maxwell Leadership Podcast](https://johnmaxwellleadershippodcast.com/) - by John Maxwell, who has been called the #1 leader in business and the world's most influential leadership expert.  This podcast offers a plethora of information for leaders of all kinds.
 
 - [Manager Tools Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4) - by Manager Tools. Takeaway: Informative podcasts that focus on key opportunities that a manager can leverage to step up their game. 
