@@ -17,7 +17,7 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/) - by GitPrime. A weekly email covering trends in engineering leadership, productivity, culture, and scaling development teams.
 
-- [The Heartbeat](https://knowyourcompany.com/learn/newsletter) - by Claire Lew, CEO of Know Your Company. A bi-weekly newsletter on leadership, company culture, employee engagement and feedback.
+- [The Heartbeat](https://knowyourcompany.com/learn/newsletter) - by Claire Lew, CEO of Know Your Company. A biweekly newsletter on leadership, company culture, employee engagement and feedback.
 
 - [The Looking Glass](http://www.juliezhuo.com/design/mailinglist.html) - by Julie Zhuo. A newsletter about "product and design, this industry's ups and downs, hopes and dreams, failure and self-doubt, how you actually do X, and the things that matter most to [readers]."
 
@@ -32,7 +32,7 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [Develomentor](https://develomentor.com) - a podcast by Wikimedia CTO Grant Ingersoll featuring interviews with technologists about their career development and pathways.
 
-- [Developing Leadership](https://www.developingleadership.co/) - a podcast by Jason Warner (previously CTO @ Github) & Eiso Kant (CEO @ Athenian). The podcast discusses engineering leadership, and the challenges faced as organizations and careers grow.
+- [Developing Leadership](https://www.developingleadership.co/) - a podcast by Jason Warner (previously CTO @ GitHub) & Eiso Kant (CEO @ Athenian). The podcast discusses engineering leadership and the challenges faced as organizations and careers grow.
 
 - [John Maxwell Leadership Podcast](https://johnmaxwellleadershippodcast.com/) - by John Maxwell, who has been called the #1 leader in business and the world's most influential leadership expert.  This podcast offers a plethora of information for leaders of all kinds.
 
