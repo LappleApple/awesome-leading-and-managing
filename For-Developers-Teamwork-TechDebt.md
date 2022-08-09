@@ -33,7 +33,7 @@
 
 - [On Writing Tech Specs](https://codeburst.io/on-writing-tech-specs-6404c9791159) - by Chuck Groom. Takeaway: "A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing."
 
-[Own Your Tech Career: Soft skills for technologists](https://www.manning.com/books/own-your-tech-career) - by Don Jones. A book that teaches you to approach your career with planning and purpose, always making active decisions towards your goals.
+- [Own Your Tech Career: Soft Skills for Technologists](https://www.manning.com/books/own-your-tech-career) - by Don Jones. Takeaway: A book that teaches you to approach your career with planning and purpose, always making active decisions towards your goals.
 
 - [Post-Commit Reviews](https://copyconstruct.medium.com/post-commit-reviews-b4cc2163ac7a) - by Cindy Sridharan. Takeaway: “An alternative to pre-commit reviews is post-commit reviews, which lets a developer merge changes to trunk, and address reviewer comments in follow-up pull requests. In many ways, post-commit reviews offer the best of both worlds: developer velocity is not sacrificed at the altar of waiting for an approval, and reasonable concerns get addressed in short order by the developer in follow-up commits.” Includes guidance on how to overcome challenges.
 
