@@ -9,11 +9,15 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [Retrospective.co](https://retrospective.co/) - by Anonymous. A strategy guide for tech managers, with articles on culture, leadership, mentoring and more. 
 
+- [CTO Craft Blog](https://ctocraft.com/blog) - engineering leadership, culture, delivery and process deep dives, spotlights and interviews with successful engineering leaders from around the world.
+
 ### Misc.
 
 - [ConferenceList](https://conferencelist.io/) - by Cezar Floroiu. A list of conferences around the world. Get out there and make your voice heard.
 
 ### Newsletters
+
+- [Tech Manager Weekly](https://techmanagerweekly.com) - by [CTO Craft](https://ctocraft.com), two emails per week: on Mondays, a curated list of the best finds from the world of engineering leadership, and on Thursdays a deep dive on a specific topic. 
 
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/) - by GitPrime. A weekly email covering trends in engineering leadership, productivity, culture, and scaling development teams.
 
