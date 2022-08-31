@@ -7,6 +7,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Adrian Cockcroft](https://twitter.com/adrianco) — VP of Cloud Architecture at AWS, formerly Battery Ventures, Netflix, eBay, and Sun, frequent speaker, microservices thought leader.
 - [Andrea Goulet](https://twitter.com/andreagoulet) — CEO @corgibytes. Founder http://LegacyCode.Rocks. Coder, communicator, mama.
 - [Andrea Tomasini](https://twitter.com/tumma72) — Enterprise Agile Coach (CEC) and Trainer (CST), a linchpin, an opinion maker, a follower, a leader.
+- [Andy Skipper](https://twitter.com/andyskipper) - Former CTO of Made and Comic Relief, Founder and Chief Coach at https://CTOCraft.com
 - [Angie Jones](https://twitter.com/techgirl1908) — Automation Engineer @twitter, international speaker, certified Java programmer, master inventor, advocate of women and minorities in tech.
 - [Anil Dash](https://twitter.com/anildash) — CEO of @fogcreek, "doing my best to make tech a little more humane and ethical."
 - [Anjuan Simmons](https://twitter.com/anjuan) — Technical Program Manager, speaker, writer, storyteller.
