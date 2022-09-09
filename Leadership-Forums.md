@@ -3,7 +3,7 @@
 
 ### Slack Workspaces
 
-- [CTO Craft](https://ctocraft.com) - free mentoring community of thousands of CTOs, VPs, Heads of, Directors and other senior engineering leaders, with weekly events, two conferences a year, [a newsletter](https://techmanagerweekly.com), leadership resources and more
+- [CTO Craft](https://ctocraft.com) - free mentoring community of thousands of CTOs, VPs, Heads of, Directors and other senior engineering leaders, with weekly events, two conferences a year, [a newsletter](https://techmanagerweekly.com), leadership resources and more.
 
 - [Engineering Managers](https://engmanagers.github.io) - "a safe, confidential space for engineering managers new to the role to chat and support each other."
 
