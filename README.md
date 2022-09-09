@@ -30,7 +30,6 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 - [Hiring and Interviewing Candidates](Hiring-and-Interviewing.md)
 - [For Developers: Software Craftspersonship, Teamwork, Technical Debt](For-Developers-Teamwork-TechDebt.md)
 - [Influencing Others](Influencing-Others.md)
-- [Leader List](Leader-List.md)
 - [Leadership Forums](Leadership-Forums.md)
 - [Leadership Philosophies and Styles](Leadership-Philosophies-and-Styles.md)
 - [Leading Leaders](Leading-Leaders.md)
