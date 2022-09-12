@@ -5,19 +5,17 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [Bonusly blog](https://blog.bonus.ly/) - by Bonusly. Articles on hiring, firing, workplace culture, diversity and inclusion, feedback and more.
 
+- [CTO Craft Blog](https://ctocraft.com/blog) - engineering leadership, culture, delivery and process deep dives, spotlights and interviews with successful engineering leaders from around the world.
+
 - [Practicing Developer](https://practicingdeveloper.com/) - by Gregory Brown, author of O'Reilly's "Programming Beyond Practices."
 
 - [Retrospective.co](https://retrospective.co/) - by Anonymous. A strategy guide for tech managers, with articles on culture, leadership, mentoring and more. 
-
-- [CTO Craft Blog](https://ctocraft.com/blog) - engineering leadership, culture, delivery and process deep dives, spotlights and interviews with successful engineering leaders from around the world.
 
 ### Misc.
 
 - [ConferenceList](https://conferencelist.io/) - by Cezar Floroiu. A list of conferences around the world. Get out there and make your voice heard.
 
 ### Newsletters
-
-- [Tech Manager Weekly](https://techmanagerweekly.com) - by [CTO Craft](https://ctocraft.com), two emails per week: on Mondays, a curated list of the best finds from the world of engineering leadership, and on Thursdays a deep dive on a specific topic. 
 
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/) - by GitPrime. A weekly email covering trends in engineering leadership, productivity, culture, and scaling development teams.
 
@@ -26,6 +24,8 @@ Some of our favorite resources for new insights about leadership and management.
 - [The Looking Glass](http://www.juliezhuo.com/design/mailinglist.html) - by Julie Zhuo. A newsletter about "product and design, this industry's ups and downs, hopes and dreams, failure and self-doubt, how you actually do X, and the things that matter most to [readers]."
 
 - [Software Lead Weekly](http://softwareleadweekly.com/) - by Oren Ellenbogen. A weekly email for busy people who care about people, culture and leadership.
+
+- [Tech Manager Weekly](https://techmanagerweekly.com) - by [CTO Craft](https://ctocraft.com), two emails per week: on Mondays, a curated list of the best finds from the world of engineering leadership, and on Thursdays a deep dive on a specific topic. 
 
 - [Wherewithall](https://larahogan.me/sign-up/) - by Lara Hogan. The newsletter by the popular and prolific management coach and trainer.
 
