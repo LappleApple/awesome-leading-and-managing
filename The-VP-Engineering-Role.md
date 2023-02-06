@@ -6,7 +6,7 @@
 
 - [Director to VP Engineering: What Is Expected and How to Prepare?](https://wtwangbu.medium.com/director-to-vp-engineering-what-is-expected-and-how-to-prepare-338460f1f77d) - by Tao Wang. Takeaway: Insights into making the transition.
  
-- [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/) - by Martin Casado. Takeaway: A VPE is responsible for product planning, building the engineering team and culture, ensuring execution, maintaining morale, delivering quality releases on time.
+- [Hire a VP of Engineering](https://a16z.com/2017/05/26/hire-a-vp-of-engineering) - by Martin Casado. Takeaway: A VPE is responsible for product planning, building the engineering team and culture, ensuring execution, maintaining morale, delivering quality releases on time.
 
 - [The Role of a VP of Engineering](https://blog.brunomiranda.com/the-role-of-a-vp-of-engineering-648a09a3ad56) - by Bruno Miranda. Takeaway: VPEs are measured by the success of their team; set process in terms of "*why* we do what we do"; keep coding; manage up and down.
 
