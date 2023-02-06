@@ -32,7 +32,7 @@
 
 - [How to Fail as a New Engineering Manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a?gi=d8e3809e74c1) - by Brad Armstrong. Takeaway: You can fail by continuing to code; focusing only on work, not people; measuring your value by your output; expecting without expressing; leaving the team out of commitments; mistaking directing for leading; avoiding hard conversations; not learning your craft anymore.
 
-- [How to Make the Leap from Engineer to Manager](http://blog.newrelic.com/2014/07/23/measuring-manager-success/) - by Kirby Frugia at New Relic. Takeaway: "The key to making processes work is to make incremental changes, measure them, and then improve them." Also, managerial success and developer success differ in that the former is often achieved through others, more about strategic impact, and happen less frequently.
+- [How to Make the Leap from Engineer to Manager](https://newrelic.com/blog/nerd-life/measuring-manager-success) - by Kirby Frugia at New Relic. Takeaway: "The key to making processes work is to make incremental changes, measure them, and then improve them." Also, managerial success and developer success differ in that the former is often achieved through others, more about strategic impact, and happen less frequently.
 
 - [How to Win Friends and Influence People](https://docs.google.com/document/d/1453UrSTkum5KrbX7SwwaUDVljP2uvDiHk6fIXNCxOCc/edit) - by Dale Carnegie; summary by Joe Goldberg. Notes on the legendary book, whose mention might make you wince but we suggest getting past that. :) 
 
