@@ -16,6 +16,8 @@ Please add your favorite articles, videos, and other resources — just follow t
 
 - [The Future of Work Is Written](https://increment.com/remote/future-of-work-is-written/) - BY Juan Pablo Buriticá. Takeaway: “Rather than reacting to accidental separation, teams and companies can and should proactively learn to work together from a distance. Organizations that do this well become more resilient and adaptable, which may advantage them to survive rapidly changing market circumstances.”
 
+- [Getting Your Team Ready for the Hybrid Office](https://www.entrepreneur.com/article/365071) - by Alexandra Cote. Takeaway: "Though it comes with its own challenges, it’s clear that implementing a hybrid workplace will be essential. It also requires a solid plan for getting your team on board before you decide to go back to the office, even if just for a couple of days per week."
+- 
 - [A Guide to Managing Remote Teams](https://knowyourteam.com/m/managing_remote_teams) - by Know Your Company/Claire Lew. Takeaway: A downloadable, 60-page, 11-chapter guide on remote working and leading best practices, based on research.
 
 - [A Guide to Managing Your (Newly) Remote Workers](https://hbr.org/2020/03/a-guide-to-managing-your-newly-remote-workers) - by Barbara Z. Larson , Susan R. Vroman and Erin E. Makarius. Takeaway: This Harvard Business Review article delves into some of the challenges of remote work, including loneliness, home distractions, and erosion of trust. It then advises bridging the gaps through such steps as providing several different communication technology options, establishing "rules of engagement," and providing opportunities for remote social interaction.

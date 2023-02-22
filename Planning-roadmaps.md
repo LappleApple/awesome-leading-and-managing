@@ -27,7 +27,7 @@
 
 ### Prioritization
 
-- [How to Prioritize Using These 9 Mental Models](https://medium.com/evergreen-business-weekly/how-to-prioritize-using-these-9-mental-models-daef8f03dd93) - by Eric Jorgenson. Takeaway: This lengthy and informative article covers three models of opportunity cost (including the Eisenhower Matrix), three models of leverage (an example is the 80/20 rule), and three models of what not to do when prioritizing. 
+- [How to Prioritize Using These 9 Mental Models](https://www.ejorgenson.com/blog/how-to-prioritize-using-these-9-mental-models) - by Eric Jorgenson. Takeaway: This lengthy and informative article covers three models of opportunity cost (including the Eisenhower Matrix), three models of leverage (an example is the 80/20 rule), and three models of what not to do when prioritizing. 
 
 - [On Drafting an Engineering Strategy](https://www.paperplanes.de/2020/1/31/on-drafting-an-engineering-strategy.html) - by Mathias Meyer. Takeaway: How to develop an engineering strategy, even when there is no defined business strategy. Covers prerequisites, drafting objectives, and other key aspects of the process.
 

@@ -3,6 +3,8 @@
 
 ### Slack Workspaces
 
+- [CTO Craft](https://ctocraft.com) - free mentoring community of thousands of CTOs, VPs, Heads of, Directors and other senior engineering leaders, with weekly events, two conferences a year, [a newsletter](https://techmanagerweekly.com), leadership resources and more.
+
 - [Engineering Managers](https://engmanagers.github.io) - "a safe, confidential space for engineering managers new to the role to chat and support each other."
 
 - [Rands Leadership Slack](https://rands-leadership.slack.com/messages) - Started by Michael Lopp (aka Rands).  See the [Welcome post](http://randsinrepose.com/welcome-to-rands-leadership-slack/) for instructions on getting an invite.

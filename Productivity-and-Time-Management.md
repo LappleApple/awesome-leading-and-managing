@@ -6,6 +6,8 @@
 
 - [How to Say No](https://www.starterstory.com/how-to-say-no) - by various authors. Takeaway: Email/message templates for declining projects, meetings,  written interviews, and other opportunities/situations.
 
+- [How to Work Smarter, Not Harder: Myth or Efficient Strategy?](https://www.paymoapp.com/blog/work-smarter-not-harder/) - by Alexandra Cote. Takeaway: Delegate work, don’t be afraid of change coming your way, and prioritize the right way.
+
 - [Kaleidoscope Thinking: How to Think Faster and More Clearly](https://taylorpearson.me/kaleidoscope/) - by Taylor Pearson. Takeaway: use mental models from different disciplines and use them in a routine way, to build a latticework process. Read a lot, and study different models. 
 
 - [Only You Can Prevent Tech Burnout](https://medium.com/@Aprilw/only-you-can-prevent-tech-burnout-be3f0504c627) - by April Wensel. Takeaway: "The prevailing work culture in Silicon Valley is not sustainable. We all know it, but few are doing anything to change it...As leaders, whether in name or in spirit, you have a responsibility to cultivate a healthier, more sustainable culture. Why? Your team will be more productive. As shared in *The Optimistic Workplace*, 'People in positive work environments outperform those who work in negative climates by 10–30%.' As an employee, you owe it to yourself to improve your own situation, whether that means inspiring change at your current company or moving on to somewhere that actually does value you as a human being."

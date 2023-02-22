@@ -63,7 +63,7 @@
 
 - [Agile Self-Assessment Game](https://www.benlinders.com/game/) - by Ben Linders. Takeaway: playing the game enables teams to reflect on how they work together, discover how agile they are, and agree upon next steps they can take to increase their agility to deliver more value to their customers and stakeholders.
 
-- [Getting Better at Team Communication](https://monades.roperzh.com/getting-better-at-team-communication/) - by Roberto Dip. Takeaway: Tips based on experience for communicating better with individuals, teams and yourself.
+- [Getting Better at Team Communication](https://web.archive.org/web/20210205065228/https://www.monades.dev/getting-better-at-team-communication/) - by Roberto Dip. Takeaway: Tips based on experience for communicating better with individuals, teams and yourself.
 
 - [A Guide to Mindful Communication in Code Reviews](https://kickstarter.engineering/a-guide-to-mindful-communication-in-code-reviews-48aab5282e5e) - by Amy Ciavolino. Takeaway: How to be kind and constructive in code reviews.
 
