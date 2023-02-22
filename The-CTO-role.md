@@ -14,4 +14,4 @@
 
 - [Mastering Sales as a CTO](https://jjude.com/cto-sales/) - by Joseph Jude. Takeaway: Most careers turn into sales jobs when you get senior enough. For an IT services company, there is none better suited to build trust in the minds of prospects than a chief technology officer. A CTO can follow a structured approach to handle sales calls. The structure could be: Pre-call preparation, on-call performance, and retro (post-call and post-closure).
 
-- [Think Like a CTO](https://www.manning.com/books/think-like-a-cto)) - by Alan Williamson. Takeaway: An effective Chief Technology Officer shapes almost every aspect of a modern business. This book shares the experience and advice of veteran CTOs and industry experts for handling IT crises, leading tech teams, and creating an inspiring vision for your company.
+- [Think Like a CTO](https://www.manning.com/books/think-like-a-cto) - by Alan Williamson. Takeaway: An effective Chief Technology Officer shapes almost every aspect of a modern business. This book shares the experience and advice of veteran CTOs and industry experts for handling IT crises, leading tech teams, and creating an inspiring vision for your company.

@@ -33,7 +33,7 @@
 
 - [On Writing Tech Specs](https://codeburst.io/on-writing-tech-specs-6404c9791159) - by Chuck Groom. Takeaway: "A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing."
 
-- [Own Your Tech Career: Soft Skills for Technologists](https://www.manning.com/books/own-your-tech-career) - by Don Jones. Takeaway: A book that teaches you to approach your career with planning and purpose, always making active decisions towards your goals.
+- [Own Your Tech Career: Soft skills for technologists](https://www.manning.com/books/own-your-tech-career) - by Don Jones. A book that teaches you to approach your career with planning and purpose, always making active decisions towards your goals.
 
 - [Post-Commit Reviews](https://copyconstruct.medium.com/post-commit-reviews-b4cc2163ac7a) - by Cindy Sridharan. Takeaway: “An alternative to pre-commit reviews is post-commit reviews, which lets a developer merge changes to trunk, and address reviewer comments in follow-up pull requests. In many ways, post-commit reviews offer the best of both worlds: developer velocity is not sacrificed at the altar of waiting for an approval, and reasonable concerns get addressed in short order by the developer in follow-up commits.” Includes guidance on how to overcome challenges.
 
@@ -52,6 +52,8 @@
 - [Start from Square Zero: Hidden Habits You Need for a Successful Career in Tech](https://medium.freecodecamp.org/start-from-square-zero-hidden-habits-you-need-for-a-successful-career-in-tech-3e4b86636d6) - by Andrea Goulet. Takeaway: Stop calling yourself "non-technical," pick a guilt language instead of a shame language, get comfortable with discomfort, mind the confidence gap, and acknowledge your biases.
 
 - [Starting Up Security](https://scrty.io) - by Ryan McGeehan. Takeaway: a collection of infosec resources to help teams manage risks. Includes post-mortems, risk assessment tools, and more.
+
+- [Think Like a Software Engineering Manager]([https://scrty.io](https://www.manning.com/books/think-like-a-software-engineering-manager)) - by Akanksha Gupta. Takeaway: A book about the skills you need to hire, train, and lead a successful software development team.
 
 - [We are All Product Owners! An Impact Guide for Engineers](https://medium.com/@erand/we-are-all-product-owners-an-impact-guide-for-engineers-76a2b4342c74) - by Eran Davidov. Takeaway: offers keen advice on how to measure impact, and what to measure.
 

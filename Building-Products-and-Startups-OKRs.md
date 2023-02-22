@@ -87,7 +87,7 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Shortest Path Is the Scariest](https://medium.com/gusto-engineering/the-shortest-path-is-the-scariest-77ff94248334) - by Omri Ben Shitrit. Takeaway: "To be good at execution ... Continuously identify the next most important problem we should be solving for our customers. We’ve written about this in the past. Understand (roughly) the cost and benefit of solving the problem, and our confidence level in both side of the equation. Find the optimal set of tradeoffs between product scope and engineering costs in solving the problem."
 
-- [Think Like a Founder](https://www.manning.com/books/think-like-a-founder)) - by Jothy Rosenberg. In "Think Like a Founder: Anecdotes of an incorrigible entrepreneur" Jothy tells stories from his decades in business that will give guidance, insight, and inspiration to anyone who’s ever thought of founding or running a company.
+- [Think Like a Founder](https://www.manning.com/books/think-like-a-founder) - by Jothy Rosenberg. In "Think Like a Founder: Anecdotes of an incorrigible entrepreneur" Jothy tells stories from his decades in business that will give guidance, insight, and inspiration to anyone who’s ever thought of founding or running a company.
 
 - [To Grow Faster, Hit Pause — and Ask These Questions from Stripe’s COO](http://firstround.com/review/to-grow-faster-hit-pause-and-ask-these-questions-from-stripes-coo/) - by First Round. Takeaway: "There’s a list of questions companies should ask themselves as they head into rapid growth — ideally in that relatively brief moment right after clinching product-market fit." The post provides these questions, to help you become less reactive and more proactive in managing your growth.
 
