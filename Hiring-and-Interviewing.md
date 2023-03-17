@@ -142,6 +142,8 @@
 
 - [You Suck at Technical Interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews) - by Laurie Voss. Takeaways: don't hire for what candidates already know, or for what they can remember during the interview; don't hire based on elite degrees or past employers; and don't hire friends and family. Instead, interview in order to find out if the candidate can do the job, if they'll get even better at the job, if they're continuous learners who can talk intelligently about technology, and if they're aware of what they don't know. Have a conversation, not an interrogation, and ask if you actually want to work with the person.
 
+- [The best way to prepare for FAANG software engineer interviews](https://medium.com/@james.s_5150/the-best-way-to-prepare-for-faang-software-engineer-interviews-ab139810c6b0) - by James S. Takeaways: To nail the FAANG interviews, we need to be well prepared in all areas including coding, system design, and behavior. Plus mock interview is a shortcut to get ready.
+
 ### Interviewing Interviewers (for Candidates)
 
 - [The Two Questions I Ask Every Interviewer](http://blog.wesleyac.com/posts/two-interview-questions) - by Wesley Aptekar-Cassels. Takeaway: "What is your goal when interviewing a candidate?" and "How do you evaluate how well you're meeting that goal?"
