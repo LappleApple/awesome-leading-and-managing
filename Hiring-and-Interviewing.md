@@ -128,6 +128,8 @@
 
 - [A Technical Hiring Process](https://blog.urth.org/2017/07/14/a-technical-hiring-process/) - by Dave Rolsky. Takeaway: Define criteria upfront; ask for a cover letter to screen for attention to detail and communication skills; use non-trivial homework for screening; do joint interviewing; and do pair programming on the homework code.
 
+- [The Best Way To Prepare for FAANG Software Engineer Interviews](https://medium.com/@james.s_5150/the-best-way-to-prepare-for-faang-software-engineer-interviews-ab139810c6b0) - by James S. Takeaways: To nail the FAANG interviews, we need to be well prepared in all areas, including coding, system design, and behavior. Plus, practicing mock interviews at websites such as [Meetapro](https://meetapro.com/?utm_source=githubalam) is a great way to get well prepared. In mock interviews, you get detailed feedback directly from experienced interviewers.
+
 - [There’s No ‘Silver Bullet’ to Increasing Diversity, but Here’s How We’re Making Progress](https://magoosh.com/blog/silver-bullet-diversity-progress/) - by Bhavin Parikh. Takeaway: use blind questionnaire review and structured interviews with rubrics; guide applicants in writing a cover letter.
 
 - [Thirteen Thousand, Four Hundred, Fifty-Five Minutes of Talking to Get One Job](http://kolesky.com/datums/job-search/) - by Jeff Kolesky. Takeaway: A first-person view of what would have made for better interviewing, with recommendations like "use homework assignments," "simulate the real world," and "help candidates prepare for the interview."
@@ -141,8 +143,6 @@
 - [You Can’t Fix Diversity in Tech Without Fixing the Technical Interview](http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/) - by Aline Lerner. Takeaway: "Technical interviewing is a process whose results are nondeterministic and often arbitrary… [that] hit underrepresented groups the hardest."
 
 - [You Suck at Technical Interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews) - by Laurie Voss. Takeaways: don't hire for what candidates already know, or for what they can remember during the interview; don't hire based on elite degrees or past employers; and don't hire friends and family. Instead, interview in order to find out if the candidate can do the job, if they'll get even better at the job, if they're continuous learners who can talk intelligently about technology, and if they're aware of what they don't know. Have a conversation, not an interrogation, and ask if you actually want to work with the person.
-
-- [The best way to prepare for FAANG software engineer interviews](https://medium.com/@james.s_5150/the-best-way-to-prepare-for-faang-software-engineer-interviews-ab139810c6b0) - by James S. Takeaways: To nail the FAANG interviews, we need to be well prepared in all areas including coding, system design, and behavior. Plus mock interview is a shortcut to get ready.
 
 ### Interviewing Interviewers (for Candidates)
 
