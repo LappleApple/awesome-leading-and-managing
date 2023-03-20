@@ -128,6 +128,8 @@
 
 - [A Technical Hiring Process](https://blog.urth.org/2017/07/14/a-technical-hiring-process/) - by Dave Rolsky. Takeaway: Define criteria upfront; ask for a cover letter to screen for attention to detail and communication skills; use non-trivial homework for screening; do joint interviewing; and do pair programming on the homework code.
 
+- [The Best Way To Prepare for FAANG Software Engineer Interviews](https://medium.com/@james.s_5150/the-best-way-to-prepare-for-faang-software-engineer-interviews-ab139810c6b0) - by James S. Takeaways: To ace the FAANG interviews, it's important to be well-prepared in all areas, including coding, system design, and behavior. Additionally, practicing mock interviews on websites such as [Meetapro](https://meetapro.com/?utm_source=githubalam) is an excellent way to prepare thoroughly. Through mock interviews, you can receive detailed feedback directly from experienced interviewers.
+
 - [There’s No ‘Silver Bullet’ to Increasing Diversity, but Here’s How We’re Making Progress](https://magoosh.com/blog/silver-bullet-diversity-progress/) - by Bhavin Parikh. Takeaway: use blind questionnaire review and structured interviews with rubrics; guide applicants in writing a cover letter.
 
 - [Thirteen Thousand, Four Hundred, Fifty-Five Minutes of Talking to Get One Job](http://kolesky.com/datums/job-search/) - by Jeff Kolesky. Takeaway: A first-person view of what would have made for better interviewing, with recommendations like "use homework assignments," "simulate the real world," and "help candidates prepare for the interview."
