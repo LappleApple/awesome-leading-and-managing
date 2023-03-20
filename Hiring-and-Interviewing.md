@@ -86,6 +86,8 @@
 
 - [The Asana Engineering Interview Guide](https://blog.asana.com/2016/03/asana-engineering-interview-guide/) - by Isaac Wolkerstorfer. Takeaway: Level the playing field by providing a guide to the interview.
 
+- [The Best Way To Prepare for FAANG Software Engineer Interviews](https://medium.com/@james.s_5150/the-best-way-to-prepare-for-faang-software-engineer-interviews-ab139810c6b0) - by James S. Takeaways: To ace the FAANG interviews, it's important to be well-prepared in all areas, including coding, system design, and behavior. Additionally, practicing mock interviews on websites such as [Meetapro](https://meetapro.com/?utm_source=githubalam) is an excellent way to prepare thoroughly. Through mock interviews, you can receive detailed feedback directly from experienced interviewers.
+
 - [A Better Way to Interview Software Engineers](https://fulcrum.lever.co/a-better-way-to-interview-software-engineers-fa9b5d2b5316) - by Zach Millman. Takeaway: "When you spend an hour asking how to improve some code, it shows that you really care about code quality and collaborative engineering."
 
 - [Developer Hiring and the Market for Lemons](https://danluu.com/hiring-lemons/) - by Dan Luu. Takeaway: Companies are overly stringent, missing a lot of good people who aren't good at interviewing; see also [We Only Hire the Best Means We only Hire the Trendiest](https://danluu.com/programmer-moneyball/) by the same author.
@@ -127,8 +129,6 @@
 - [Screen Engineers Better with a Debugging Roleplay](https://hackernoon.com/cut-to-the-chase-with-a-debugging-roleplay-d7d49f518157) - by Pete Karl II. Takeaway: Using a text-based, role-playing debugging game on a phone screen, Localytics doubled their team size within six months.
 
 - [A Technical Hiring Process](https://blog.urth.org/2017/07/14/a-technical-hiring-process/) - by Dave Rolsky. Takeaway: Define criteria upfront; ask for a cover letter to screen for attention to detail and communication skills; use non-trivial homework for screening; do joint interviewing; and do pair programming on the homework code.
-
-- [The Best Way To Prepare for FAANG Software Engineer Interviews](https://medium.com/@james.s_5150/the-best-way-to-prepare-for-faang-software-engineer-interviews-ab139810c6b0) - by James S. Takeaways: To ace the FAANG interviews, it's important to be well-prepared in all areas, including coding, system design, and behavior. Additionally, practicing mock interviews on websites such as [Meetapro](https://meetapro.com/?utm_source=githubalam) is an excellent way to prepare thoroughly. Through mock interviews, you can receive detailed feedback directly from experienced interviewers.
 
 - [There’s No ‘Silver Bullet’ to Increasing Diversity, but Here’s How We’re Making Progress](https://magoosh.com/blog/silver-bullet-diversity-progress/) - by Bhavin Parikh. Takeaway: use blind questionnaire review and structured interviews with rubrics; guide applicants in writing a cover letter.
 
