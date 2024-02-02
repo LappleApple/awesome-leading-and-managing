@@ -43,7 +43,7 @@
 
 - [The Senior Engineer’s Guide to Helping Others Make Decisions](http://silverwraith.com/blog/2017/10/the-senior-engineers-guide-to-helping-others-make-decisions/) - by Geeky. Takeaway: Lots of tips for mentoring junior devs on your team.
 
-- [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501) - by Sandro Mancuso. An honest, engaging book that covers all imaginable aspects of being a craftsman, from playing an active role in shaping customer value to avoiding technical debt. Part of the Uncle Bob series.
+- [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501) - by Sandro Mancuso. Takeaway: An honest, engaging book that covers all imaginable aspects of being a craftsman, from playing an active role in shaping customer value to avoiding technical debt. Part of the Uncle Bob series.
 
 - [Software Entropy Explained: Causes, Effects, and Remedies](https://www.toptal.com/software/software-entropy-explained) - by Adam Wasserman. Takeaway: "The primary goal is to create an awareness of software entropy because it is a factor in all forms of software development. Furthermore, we explore a means by which software entropy can be assigned a concrete value. Only by quantifying software entropy and observing its growth over successive releases can we truly understand the risk it poses to our current objectives and future plans."
 
