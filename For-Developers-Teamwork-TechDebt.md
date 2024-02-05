@@ -27,7 +27,9 @@
     
 - [How to Level up as a Developer w/Scott Hanselman](https://dev.to/niko/how-to-level-up-as-a-developer-w-scott-hanselman) - by Niko. Takeaway: Fear and potential keep us from reaching our full potential. Learn how differentiate between doing the right things and doing things right.
 
-- [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) - Olivier Lacan. An entire website dedicated to the art of the changelog, with an FAQ and an aim to produce a better changelog convention.  
+- [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) - Olivier Lacan. An entire website dedicated to the art of the changelog, with an FAQ and an aim to produce a better changelog convention.
+
+- [Lead Developer Career Guide](https://www.manning.com/books/lead-developer-career-guide) - by Shelley Benhoff. Takeaway: Learn the skills you need to be a lead developer, with expert advice on mentoring teams, handling clients and project managers, and keeping your head in emergencies.
 
 - [Notes to Myself on Software Engineering](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d) - by François Chollet. Takeaway: Lists of points on the development process, API design, and software careers. "Productivity boils down to high-velocity decision-making and a bias for action. This requires a) good intuition, which comes from experience, so as to make generally correct decisions given partial information, b) a keen awareness of when to move more carefully and wait for more information, because the cost of an incorrect decision would be greater than cost of the delay. The optimal velocity/quality decision-making tradeoff can vary greatly in different environments."
 
