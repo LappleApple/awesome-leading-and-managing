@@ -14,6 +14,8 @@
 
 - [The New Grad Rotation Program: Optimizing Team Fit And Enhancing Collaboration](https://engineering.mongodb.com/post/the-new-grad-rotation-program-optimizing-team-fit-and-enhancing-collaboration/) - by Judah Schvimver. Takeaway: why MongoDB starts new hires on a "rotation" through multiple teams, and how this enables them and the org to find the best fit and increase empathy.
 
+- [Nurturing Talent Through Effective Onboarding](https://adevait.com/leadership/mentorship-onboarding-engineers) - by Teuta Reci. Takeaway: Effective mentorship and strategic onboarding to enhance productivity, and job satisfaction.
+
 - [Onboarding Plan](https://github.com/heddle317/onboarding/blob/master/onboarding_plan.md) - by Kate Heddleston. A four-week plan with exercises and more info. 
 
 - [Onboarding Someone Remotely](https://twitter.com/rothgar/status/1296911972215058432) (Twitter thread) - by Justin Garrison. Takeaway: a checklist for what should be in place and in motion for a new remote hire.
